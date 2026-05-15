@@ -1,0 +1,10 @@
+{
+  "qwen_run": "/home/d/coding/reasoning-switch-research/artifacts/universal-controller-qwen-aime60-direct-20260428T144728Z",
+  "pairs_run": "/home/d/coding/reasoning-switch-research/artifacts/universal-controller-pairs-aime60-direct-20260428T162117Z",
+  "router_order": [
+    "olmo3_7b",
+    "qwen35_4b",
+    "liquid_12b",
+    "phi4_mini"
+  ]
+}

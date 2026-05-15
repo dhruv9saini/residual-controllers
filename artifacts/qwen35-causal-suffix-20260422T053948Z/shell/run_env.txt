@@ -1,0 +1,6 @@
+run_id=qwen35-causal-suffix-20260422T053948Z
+started_at_utc=2026-04-22T05:39:48Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+model=mlx-community/Qwen3.5-4B-4bit
+completed_at_utc=2026-04-22T05:47:48Z

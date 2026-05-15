@@ -1,0 +1,24 @@
+{
+  "started_at_utc": "2026-04-25T17:44:10.255185+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "model": "mlx-community/Qwen3.5-4B-4bit",
+  "patch_width": 2,
+  "directions": [
+    {
+      "label": "think_to_no_think",
+      "layer_boundary": 15,
+      "donor_mode": "think",
+      "target_mode": "no"
+    },
+    {
+      "label": "no_think_to_think",
+      "layer_boundary": 19,
+      "donor_mode": "no",
+      "target_mode": "think"
+    }
+  ],
+  "max_generation_tokens": 1024,
+  "method": "residual-patched entry token followed by free greedy continuation"
+}

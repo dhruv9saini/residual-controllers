@@ -1,0 +1,47 @@
+[
+  {
+    "model_label": "phi4_mini",
+    "method": "canonical_target",
+    "n": 100,
+    "is_correct_mean": 0.53,
+    "is_correct_ci_low": 0.43,
+    "is_correct_ci_high": 0.62,
+    "may_be_truncated_mean": 0.12,
+    "may_be_truncated_ci_low": 0.06,
+    "may_be_truncated_ci_high": 0.19,
+    "degenerate_mean": 0.01,
+    "degenerate_ci_low": 0.0,
+    "degenerate_ci_high": 0.03,
+    "reasoning_mode_score_mean": 0.0245
+  },
+  {
+    "model_label": "phi4_mini",
+    "method": "canonical_think",
+    "n": 100,
+    "is_correct_mean": 0.28,
+    "is_correct_ci_low": 0.19,
+    "is_correct_ci_high": 0.37,
+    "may_be_truncated_mean": 1.0,
+    "may_be_truncated_ci_low": 1.0,
+    "may_be_truncated_ci_high": 1.0,
+    "degenerate_mean": 0.0,
+    "degenerate_ci_low": 0.0,
+    "degenerate_ci_high": 0.0,
+    "reasoning_mode_score_mean": 1.0
+  },
+  {
+    "model_label": "phi4_mini",
+    "method": "universal_controller",
+    "n": 100,
+    "is_correct_mean": 0.5,
+    "is_correct_ci_low": 0.4,
+    "is_correct_ci_high": 0.6,
+    "may_be_truncated_mean": 0.23,
+    "may_be_truncated_ci_low": 0.15,
+    "may_be_truncated_ci_high": 0.31,
+    "degenerate_mean": 0.04,
+    "degenerate_ci_low": 0.01,
+    "degenerate_ci_high": 0.08,
+    "reasoning_mode_score_mean": 0.041999999999999996
+  }
+]

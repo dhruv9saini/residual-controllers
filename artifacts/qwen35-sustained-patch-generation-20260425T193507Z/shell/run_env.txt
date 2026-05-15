@@ -1,0 +1,10 @@
+run_id=qwen35-sustained-patch-generation-20260425T193507Z
+started_at_utc=2026-04-25T19:35:07Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+model=mlx-community/Qwen3.5-4B-4bit
+gsm8k_limit=3
+math500_limit=3
+patch_steps=64
+max_generation_tokens=512
+completed_at_utc=2026-04-25T19:59:30Z

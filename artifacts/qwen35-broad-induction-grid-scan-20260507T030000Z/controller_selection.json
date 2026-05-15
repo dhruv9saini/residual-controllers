@@ -1,0 +1,11 @@
+{
+  "layer": 32,
+  "width": 1,
+  "alpha": 2.0,
+  "train_count": 60,
+  "train_donor_win": 0.9833333333333333,
+  "train_effective_control": 0.8666666666666667,
+  "train_mean_margin": 0.3713429977064279,
+  "train_mean_js_to_donor": 0.14387372722903366,
+  "vector_norm": 48.467857360839844
+}

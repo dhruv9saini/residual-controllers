@@ -1,0 +1,182 @@
+[
+  {
+    "id": "general_01",
+    "benchmark": "general_instruction",
+    "category": "general_instruction",
+    "prompt": "Draft a concise checklist for preparing a small community workshop."
+  },
+  {
+    "id": "general_02",
+    "benchmark": "general_instruction",
+    "category": "general_instruction",
+    "prompt": "Compare two practical ways to organize personal research notes."
+  },
+  {
+    "id": "general_03",
+    "benchmark": "general_instruction",
+    "category": "general_instruction",
+    "prompt": "Write a short policy for labeling fragile boxes in a shared storage room."
+  },
+  {
+    "id": "general_04",
+    "benchmark": "general_instruction",
+    "category": "general_instruction",
+    "prompt": "Suggest a simple triage process for incoming bug reports in a small project."
+  },
+  {
+    "id": "general_05",
+    "benchmark": "general_instruction",
+    "category": "general_instruction",
+    "prompt": "Explain how to decide whether to archive, delete, or keep a stale document."
+  },
+  {
+    "id": "general_06",
+    "benchmark": "general_instruction",
+    "category": "general_instruction",
+    "prompt": "Create a brief agenda for a 25-minute team handoff meeting."
+  },
+  {
+    "id": "coding_01",
+    "benchmark": "coding",
+    "category": "coding",
+    "prompt": "In Python, write a function that returns the first duplicate item in a list, or None."
+  },
+  {
+    "id": "coding_02",
+    "benchmark": "coding",
+    "category": "coding",
+    "prompt": "Explain why a database index can make reads faster but writes slower."
+  },
+  {
+    "id": "coding_03",
+    "benchmark": "coding",
+    "category": "coding",
+    "prompt": "Write a JavaScript function that groups strings by their first character."
+  },
+  {
+    "id": "coding_04",
+    "benchmark": "coding",
+    "category": "coding",
+    "prompt": "Describe a minimal test plan for a command-line JSON formatter."
+  },
+  {
+    "id": "coding_05",
+    "benchmark": "coding",
+    "category": "coding",
+    "prompt": "Given a REST API returning paginated results, outline a simple client loop."
+  },
+  {
+    "id": "coding_06",
+    "benchmark": "coding",
+    "category": "coding",
+    "prompt": "What is a race condition, and how can a mutex prevent one?"
+  },
+  {
+    "id": "factual_01",
+    "benchmark": "factual_qa",
+    "category": "factual_qa",
+    "prompt": "What is the role of chlorophyll in photosynthesis?"
+  },
+  {
+    "id": "factual_02",
+    "benchmark": "factual_qa",
+    "category": "factual_qa",
+    "prompt": "Why do eclipses not happen every month?"
+  },
+  {
+    "id": "factual_03",
+    "benchmark": "factual_qa",
+    "category": "factual_qa",
+    "prompt": "What is the difference between weather and climate?"
+  },
+  {
+    "id": "factual_04",
+    "benchmark": "factual_qa",
+    "category": "factual_qa",
+    "prompt": "Explain the basic purpose of the TCP three-way handshake."
+  },
+  {
+    "id": "factual_05",
+    "benchmark": "factual_qa",
+    "category": "factual_qa",
+    "prompt": "What is the difference between a republic and a direct democracy?"
+  },
+  {
+    "id": "factual_06",
+    "benchmark": "factual_qa",
+    "category": "factual_qa",
+    "prompt": "Why does salt lower the freezing point of water?"
+  },
+  {
+    "id": "multiturn_01",
+    "benchmark": "multi_turn_chat",
+    "category": "multi_turn_chat",
+    "prompt": "Conversation so far:\nUser: I need a plan for teaching beginners how to use a spreadsheet.\nAssistant: Start with cells, formulas, formatting, and a small practice task.\nUser: Now revise the plan to fit into one hour."
+  },
+  {
+    "id": "multiturn_02",
+    "benchmark": "multi_turn_chat",
+    "category": "multi_turn_chat",
+    "prompt": "Conversation so far:\nUser: Should I use SQLite or Postgres for a small internal tool?\nAssistant: SQLite is simpler; Postgres is better for concurrency and operations.\nUser: Make the response more direct and include only the tradeoffs."
+  },
+  {
+    "id": "multiturn_03",
+    "benchmark": "multi_turn_chat",
+    "category": "multi_turn_chat",
+    "prompt": "Conversation so far:\nUser: A vendor says their system has automated backups.\nAssistant: You should verify retention, restore testing, encryption, and ownership.\nUser: What should I ask the vendor next?"
+  },
+  {
+    "id": "multiturn_04",
+    "benchmark": "multi_turn_chat",
+    "category": "multi_turn_chat",
+    "prompt": "Conversation so far:\nUser: A customer is upset that a shipment is delayed.\nAssistant: Acknowledge the delay, provide the new estimate, and offer a remedy.\nUser: Turn that into a two-sentence reply to the customer."
+  },
+  {
+    "id": "multiturn_05",
+    "benchmark": "multi_turn_chat",
+    "category": "multi_turn_chat",
+    "prompt": "Conversation so far:\nUser: We plan to migrate a small website on Friday afternoon.\nAssistant: Prepare a rollback path and verify monitoring before the migration.\nUser: Add one concrete risk and one mitigation."
+  },
+  {
+    "id": "multiturn_06",
+    "benchmark": "multi_turn_chat",
+    "category": "multi_turn_chat",
+    "prompt": "Conversation so far:\nUser: Option A is cheaper but manual. Option B costs more but automates reporting.\nAssistant: The choice depends on staff time, reporting frequency, and error tolerance.\nUser: Summarize the decision in a single paragraph."
+  },
+  {
+    "id": "nonenglish_01",
+    "benchmark": "non_english",
+    "category": "non_english",
+    "prompt": "En espanol, explica brevemente por que es importante hacer copias de seguridad."
+  },
+  {
+    "id": "nonenglish_02",
+    "benchmark": "non_english",
+    "category": "non_english",
+    "prompt": "En francais, donne trois conseils simples pour organiser un petit projet."
+  },
+  {
+    "id": "nonenglish_03",
+    "benchmark": "non_english",
+    "category": "non_english",
+    "prompt": "Auf Deutsch, erklaere kurz den Unterschied zwischen Miete und Kauf."
+  },
+  {
+    "id": "nonenglish_04",
+    "benchmark": "non_english",
+    "category": "non_english",
+    "prompt": "In Italian, write a short polite email asking to reschedule a meeting."
+  },
+  {
+    "id": "nonenglish_05",
+    "benchmark": "non_english",
+    "category": "non_english",
+    "prompt": "Em portugues, liste duas vantagens de uma rotina matinal simples."
+  },
+  {
+    "id": "nonenglish_06",
+    "benchmark": "non_english",
+    "category": "non_english",
+    "prompt": "En espanol, resume que es una API en dos frases."
+  }
+]

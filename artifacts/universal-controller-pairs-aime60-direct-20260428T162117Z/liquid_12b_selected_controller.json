@@ -1,0 +1,21 @@
+{
+  "model_label": "liquid_12b",
+  "selection": {
+    "model_label": "liquid_12b",
+    "layer": null,
+    "alpha": null,
+    "active_steps": null,
+    "selection_score": null,
+    "accuracy_rate": null,
+    "truncation_rate": null,
+    "self_correction_rate": null,
+    "degeneration_rate": null,
+    "reasoning_mode_score": null,
+    "mean_generated_tokens": null
+  },
+  "controller": {
+    "mode": "direct_donor",
+    "donor_mode": "instruct"
+  },
+  "logit_candidates": []
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "strawberries_r",
+    "cosine_distance_final_prompt_state": 0.6534702479839325
+  },
+  {
+    "id": "multiply_317_248",
+    "cosine_distance_final_prompt_state": 0.6114518046379089
+  },
+  {
+    "id": "logic_siblings",
+    "cosine_distance_final_prompt_state": 0.6477929055690765
+  },
+  {
+    "id": "river_crossing",
+    "cosine_distance_final_prompt_state": 0.5974822342395782
+  },
+  {
+    "id": "coin_change",
+    "cosine_distance_final_prompt_state": 0.6129352450370789
+  },
+  {
+    "id": "python_bug",
+    "cosine_distance_final_prompt_state": 0.505917102098465
+  },
+  {
+    "id": "truth_liars",
+    "cosine_distance_final_prompt_state": 0.6051611602306366
+  },
+  {
+    "id": "calendar",
+    "cosine_distance_final_prompt_state": 0.6152526140213013
+  },
+  {
+    "id": "probability",
+    "cosine_distance_final_prompt_state": 0.6517375111579895
+  },
+  {
+    "id": "sorting_words",
+    "cosine_distance_final_prompt_state": 0.6215848922729492
+  },
+  {
+    "id": "equation",
+    "cosine_distance_final_prompt_state": 0.6392529904842377
+  },
+  {
+    "id": "travel_plan",
+    "cosine_distance_final_prompt_state": 0.6848576664924622
+  }
+]

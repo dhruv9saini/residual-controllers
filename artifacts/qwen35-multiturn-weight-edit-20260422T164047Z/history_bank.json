@@ -1,0 +1,20 @@
+[
+  {
+    "id": "prior_math",
+    "user": "What is 12 plus 5?",
+    "assistant": "17.",
+    "reasoning": "Add 12 and 5 to get 17."
+  },
+  {
+    "id": "prior_color",
+    "user": "What color is a clear daytime sky?",
+    "assistant": "Blue.",
+    "reasoning": "A clear daytime sky usually appears blue."
+  },
+  {
+    "id": "prior_direction",
+    "user": "What is the opposite of north?",
+    "assistant": "South.",
+    "reasoning": "The opposite cardinal direction of north is south."
+  }
+]

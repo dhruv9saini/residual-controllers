@@ -1,0 +1,7 @@
+run_id=gemma-nemotron-broad-prompt-boundary-20260507T020000Z
+started_at_utc=2026-05-07T02:23:59Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+models=gemma4_e2b,nemotron_nano_4b
+method=broad held-out prompt-boundary fixed residual controller audit
+completed_at_utc=2026-05-07T02:27:25Z

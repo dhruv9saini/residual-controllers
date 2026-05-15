@@ -1,0 +1,28 @@
+2026-05-05T04:02:25Z on Taras-Mac-mini.local
+cwd: /Users/d/Documents/reasoning-switch-research
+
+.venv/bin/python scripts/run_shared_latent_branch_controller_suite.py \
+  --output-dir outputs/shared-latent-nemotron4b-direct-erasure-step-20260505T040225Z \
+  --models nemotron_nano_4b \
+  --directions direct_erasure \
+  --train-gsm8k-limit 20 \
+  --train-math500-limit 20 \
+  --eval-gsm8k-limit 20 \
+  --eval-math500-limit 20 \
+  --prefix-steps 3 \
+  --aime-limit 60 \
+  --step-specific-adapters \
+  --skip-hf-upload
+
+2026-05-05T04:09Z on local Linux workstation
+cwd: /home/d/coding/reasoning-switch-research
+
+rsync -az --delete \
+  d@Taras-Mac-mini.local:/Users/d/Documents/reasoning-switch-research/outputs/shared-latent-nemotron4b-direct-erasure-step-20260505T040225Z/ \
+  artifacts/shared-latent-nemotron4b-direct-erasure-step-20260505T040225Z/
+
+uv run python - <<'PY'
+from huggingface_hub import HfApi
+# Uploaded artifacts/shared-latent-nemotron4b-direct-erasure-step-20260505T040225Z
+# to oof-baroomf/reasoning-switch-research-artifacts.
+PY

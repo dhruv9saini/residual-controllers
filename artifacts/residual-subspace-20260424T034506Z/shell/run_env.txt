@@ -1,0 +1,6 @@
+run_id=residual-subspace-20260424T034506Z
+started_at_utc=2026-04-24T03:45:06Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+models=mlx-community/Qwen3.5-4B-4bit,mlx-community/Olmo-3-7B-Think-4bit,mlx-community/Olmo-3-7B-Instruct-4bit,mlx-community/Phi-4-mini-reasoning-4bit,mlx-community/Phi-4-mini-instruct-4bit
+completed_at_utc=2026-04-24T03:51:06Z

@@ -1,0 +1,58 @@
+{
+  "started_at_utc": "2026-05-05T04:02:27.498114+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "patch_width": 2,
+  "alpha_grid": [
+    0.5,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "random_seeds": [
+    19,
+    37
+  ],
+  "effective_margin_threshold": 0.1,
+  "effective_js_to_donor_threshold": 0.6,
+  "prefix_steps": 3,
+  "model_configs": [
+    {
+      "label": "nemotron_nano_4b",
+      "kind": "nemotron",
+      "model": "mlx-community/Llama-3.1-Nemotron-Nano-4B-v1.1-4bit",
+      "directions": [
+        {
+          "label": "direct_erasure",
+          "donor_mode": "off",
+          "target_mode": "on",
+          "layer": 28
+        },
+        {
+          "label": "thinking_induction",
+          "donor_mode": "on",
+          "target_mode": "off",
+          "layer": 28
+        }
+      ]
+    }
+  ],
+  "args": {
+    "output_dir": "outputs/shared-latent-nemotron4b-direct-erasure-step-20260505T040225Z",
+    "models": "nemotron_nano_4b",
+    "directions": "direct_erasure",
+    "train_gsm8k_limit": 20,
+    "train_math500_limit": 20,
+    "eval_gsm8k_limit": 20,
+    "eval_math500_limit": 20,
+    "prefix_steps": 3,
+    "aime_limit": 60,
+    "step_specific_adapters": true,
+    "adapter_type": "fixed",
+    "kernel_ridge_scale": 0.001,
+    "hf_repo_id": "",
+    "hf_repo_type": "dataset",
+    "skip_hf_upload": true
+  }
+}

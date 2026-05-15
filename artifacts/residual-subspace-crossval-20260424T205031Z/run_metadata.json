@@ -1,0 +1,61 @@
+{
+  "started_at_utc": "2026-04-24T20:50:32.348641+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "patch_width": 2,
+  "subspace_ks": [
+    1,
+    2,
+    4,
+    8
+  ],
+  "random_seeds": [
+    11,
+    17,
+    23,
+    29
+  ],
+  "model_configs": [
+    {
+      "label": "qwen35_4b",
+      "kind": "qwen",
+      "model": "mlx-community/Qwen3.5-4B-4bit",
+      "directions": [
+        {
+          "label": "think_to_no_think",
+          "layer_boundary": 15,
+          "donor_mode": "think",
+          "target_mode": "no"
+        },
+        {
+          "label": "no_think_to_think",
+          "layer_boundary": 19,
+          "donor_mode": "no",
+          "target_mode": "think"
+        }
+      ]
+    },
+    {
+      "label": "olmo3_7b",
+      "kind": "olmo",
+      "think_model": "mlx-community/Olmo-3-7B-Think-4bit",
+      "instruct_model": "mlx-community/Olmo-3-7B-Instruct-4bit",
+      "directions": [
+        {
+          "label": "think_to_instruct",
+          "layer_boundary": 12,
+          "donor_mode": "think",
+          "target_mode": "instruct"
+        },
+        {
+          "label": "instruct_to_think",
+          "layer_boundary": 8,
+          "donor_mode": "instruct",
+          "target_mode": "think"
+        }
+      ]
+    }
+  ],
+  "method": "3-fold category-balanced low-rank residual subspace cross-validation"
+}

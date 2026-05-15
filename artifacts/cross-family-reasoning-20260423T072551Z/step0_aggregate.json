@@ -1,0 +1,18 @@
+[
+  {
+    "family": "liquid_12b",
+    "count": 12,
+    "mean_js_instruct_to_think": 0.6932280759016672,
+    "mean_think_entropy": 0.0006247619773719133,
+    "mean_instruct_entropy": 0.9745701201565203,
+    "mean_top1_match": 0.0
+  },
+  {
+    "family": "olmo3_7b",
+    "count": 12,
+    "mean_js_instruct_to_think": 0.693171093861262,
+    "mean_think_entropy": 0.39426126728731004,
+    "mean_instruct_entropy": 0.5008691402214439,
+    "mean_top1_match": 0.0
+  }
+]

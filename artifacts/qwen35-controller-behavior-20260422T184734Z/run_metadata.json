@@ -1,0 +1,61 @@
+{
+  "started_at_utc": "2026-04-22T18:47:35.497938+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "max_generation_tokens": 768,
+  "patch_blocks": [
+    {
+      "label": "tail_w1",
+      "width": 1,
+      "rel_end": -1
+    },
+    {
+      "label": "tail_w2",
+      "width": 2,
+      "rel_end": -1
+    },
+    {
+      "label": "tail_w4",
+      "width": 4,
+      "rel_end": -1
+    },
+    {
+      "label": "nontail_w2",
+      "width": 2,
+      "rel_end": -5
+    },
+    {
+      "label": "nontail_w4",
+      "width": 4,
+      "rel_end": -5
+    }
+  ],
+  "module_patch_widths": [
+    1,
+    2
+  ],
+  "module_patch_layers": [
+    16,
+    20,
+    24,
+    28,
+    31
+  ],
+  "models": [
+    {
+      "label": "qwen35_4b",
+      "model": "mlx-community/Qwen3.5-4B-4bit",
+      "run_behavior": true,
+      "run_module_patch": true
+    },
+    {
+      "label": "qwen35_2b",
+      "model": "mlx-community/Qwen3.5-2B-4bit",
+      "run_behavior": false,
+      "run_module_patch": false
+    }
+  ],
+  "behavior_prompt_count": 12,
+  "patch_prompt_count": 12
+}

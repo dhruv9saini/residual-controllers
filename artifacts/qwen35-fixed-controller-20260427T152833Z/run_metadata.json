@@ -1,0 +1,42 @@
+{
+  "started_at_utc": "2026-04-27T15:28:34.068790+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "model": "mlx-community/Qwen3.5-4B-4bit",
+  "patch_width": 2,
+  "layer_grid": [
+    15,
+    19
+  ],
+  "alpha_grid": [
+    0.5,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "random_seeds": [
+    13,
+    29,
+    47
+  ],
+  "directions": [
+    {
+      "label": "think_to_no_think",
+      "donor_mode": "think",
+      "target_mode": "no"
+    },
+    {
+      "label": "no_think_to_think",
+      "donor_mode": "no",
+      "target_mode": "think"
+    }
+  ],
+  "extra_per_category": 12,
+  "folds": 3,
+  "gen_train_limit": 40,
+  "gen_train_steps": 16,
+  "patch_steps": 64,
+  "max_generation_tokens": 512,
+  "method": "fixed train-learned residual controller; no held-out exact donor-target difference is used by interventions"
+}

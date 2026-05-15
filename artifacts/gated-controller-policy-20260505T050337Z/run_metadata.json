@@ -1,0 +1,38 @@
+{
+  "created_at_utc": "2026-05-05T05:18:24Z",
+  "cwd": "/home/d/coding/reasoning-switch-research",
+  "platform": "Linux-6.18.9-arch1-2-x86_64-with-glibc2.43",
+  "python_executable": "/home/d/coding/reasoning-switch-research/.venv/bin/python3",
+  "source_runs": [
+    {
+      "model_label": "qwen35_4b",
+      "directory": "universal-controller-qwen-l15-large-20260428T035000Z"
+    },
+    {
+      "model_label": "olmo3_7b",
+      "directory": "universal-controller-olmo-large-20260428T054337Z"
+    },
+    {
+      "model_label": "phi4_mini",
+      "directory": "universal-controller-phi-careful-large-20260428T101045Z"
+    }
+  ],
+  "benchmark_gated_policy": {
+    "gsm8k": "universal_controller",
+    "math500_numeric": "canonical_target"
+  },
+  "model_task_gated_policy": {
+    "qwen35_4b": {
+      "gsm8k": "universal_controller",
+      "math500_numeric": "universal_controller"
+    },
+    "olmo3_7b": {
+      "gsm8k": "universal_controller",
+      "math500_numeric": "canonical_target"
+    },
+    "phi4_mini": {
+      "gsm8k": "universal_controller",
+      "math500_numeric": "canonical_target"
+    }
+  }
+}

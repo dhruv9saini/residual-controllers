@@ -1,0 +1,33 @@
+sw_vers:
+ProductName:		macOS
+ProductVersion:		15.5
+BuildVersion:		24F74
+
+df -h /:
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   228Gi    17Gi   101Gi    15%    426k  1.1G    0%   /
+
+vm_stat:
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                              685420.
+Pages active:                            122955.
+Pages inactive:                          123620.
+Pages speculative:                         1781.
+Pages throttled:                              0.
+Pages wired down:                         78727.
+Pages purgeable:                            212.
+"Translation faults":                 166271509.
+Pages copy-on-write:                    7720048.
+Pages zero filled:                     84886009.
+Pages reactivated:                      1112024.
+Pages purged:                            191841.
+File-backed pages:                       176653.
+Anonymous pages:                          71703.
+Pages stored in compressor:              113872.
+Pages occupied by compressor:              1393.
+Decompressions:                        20760265.
+Compressions:                          26114008.
+Pageins:                               12647339.
+Pageouts:                                  4738.
+Swapins:                                2171237.
+Swapouts:                               3035736.

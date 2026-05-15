@@ -1,0 +1,53 @@
+{
+  "audit": "random_subspace",
+  "donor_win_rate_when_patched_top1_differs_from_donor_top1": 0.0,
+  "donor_win_when_patched_top1_differs_from_donor_top1": 0,
+  "n": 360,
+  "patched_top1_differs_from_donor_top1": 324,
+  "patched_top1_equals_donor_top1": 36,
+  "patched_top1_equals_donor_top1_rate": 0.1,
+  "patched_top1_in_small_canonical_opener_set": 326,
+  "patched_top1_in_small_canonical_opener_set_rate": 0.9055555555555556,
+  "top_patched_tokens": [
+    [
+      "To",
+      107
+    ],
+    [
+      "Thinking",
+      95
+    ],
+    [
+      "Here",
+      77
+    ],
+    [
+      "The",
+      36
+    ],
+    [
+      "Based",
+      22
+    ],
+    [
+      "Let",
+      7
+    ],
+    [
+      "3",
+      6
+    ],
+    [
+      "Okay",
+      4
+    ],
+    [
+      "2",
+      3
+    ],
+    [
+      "5",
+      3
+    ]
+  ]
+}

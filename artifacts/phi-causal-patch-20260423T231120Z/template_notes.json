@@ -1,0 +1,14 @@
+{
+  "think": {
+    "base_text": "<|system|>Your name is Phi, an AI math expert developed by Microsoft.<|end|><|user|>How many r letters are in the word strawberries?<|end|><|endoftext|>",
+    "generation_prompt_text": "<|system|>Your name is Phi, an AI math expert developed by Microsoft.<|end|><|user|>How many r letters are in the word strawberries?<|end|><|assistant|>",
+    "generation_suffix_text": "",
+    "generation_suffix_token_ids": []
+  },
+  "instruct": {
+    "base_text": "<|user|>How many r letters are in the word strawberries?<|end|><|endoftext|>",
+    "generation_prompt_text": "<|user|>How many r letters are in the word strawberries?<|end|><|assistant|>",
+    "generation_suffix_text": "",
+    "generation_suffix_token_ids": []
+  }
+}

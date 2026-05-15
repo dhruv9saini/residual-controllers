@@ -1,0 +1,2 @@
+~/.local/bin/uv sync
+~/.local/bin/uv run python scripts/run_qwen35_control_token_trace.py --output-dir outputs/qwen35-control-token-trace-20260422T093209Z

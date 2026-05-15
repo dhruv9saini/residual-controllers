@@ -1,0 +1,2 @@
+cd /Users/d/Documents/reasoning-switch-research
+.venv/bin/python scripts/run_qwen35_adversarial_branch_audit.py --output-dir artifacts/qwen35-adversarial-branch-audit-20260507T000000Z --skip-hf-upload

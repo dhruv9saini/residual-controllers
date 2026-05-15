@@ -1,0 +1,1 @@
+./.venv/bin/python scripts/run_qwen35_sustained_patch_generation_suite.py --output-dir outputs/qwen35-sustained-patch-generation-20260425T193507Z --gsm8k-limit 3 --math500-limit 3 --patch-steps 64 --max-generation-tokens 512

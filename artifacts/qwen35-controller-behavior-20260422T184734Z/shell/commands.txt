@@ -1,0 +1,2 @@
+~/.local/bin/uv sync
+~/.local/bin/uv run python scripts/run_qwen35_controller_behavior_suite.py --output-dir outputs/qwen35-controller-behavior-20260422T184734Z

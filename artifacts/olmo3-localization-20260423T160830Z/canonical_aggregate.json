@@ -1,0 +1,17 @@
+[
+  {
+    "count": 12,
+    "mean_js_instruct_to_think": 0.6928913902017219,
+    "js_instruct_to_think_ci_low": 0.692300346256031,
+    "js_instruct_to_think_ci_high": 0.6934290322656218,
+    "mean_top1_match": 0.0,
+    "top1_match_ci_low": 0.0,
+    "top1_match_ci_high": 0.0,
+    "mean_think_entropy": 0.39685833573191803,
+    "think_entropy_ci_low": 0.30276540531922475,
+    "think_entropy_ci_high": 0.5057801470850399,
+    "mean_instruct_entropy": 0.5010665415003176,
+    "instruct_entropy_ci_low": 0.30753514732272547,
+    "instruct_entropy_ci_high": 0.6999582220653489
+  }
+]

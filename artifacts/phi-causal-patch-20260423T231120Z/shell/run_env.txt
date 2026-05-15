@@ -1,0 +1,6 @@
+run_id=phi-causal-patch-20260423T231120Z
+started_at_utc=2026-04-23T23:11:20Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+models=mlx-community/Phi-4-mini-instruct-4bit,mlx-community/Phi-4-mini-reasoning-4bit
+completed_at_utc=2026-04-23T23:13:16Z

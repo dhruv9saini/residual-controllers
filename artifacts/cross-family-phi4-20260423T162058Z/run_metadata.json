@@ -1,0 +1,25 @@
+{
+  "started_at_utc": "2026-04-23T16:20:59.841192+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python3",
+  "trace_token_steps": [
+    0,
+    8,
+    32,
+    64
+  ],
+  "trace_generation_tokens": 128,
+  "manual_continuation_tokens": 96,
+  "bootstrap_iters": 4000,
+  "model_families": [
+    {
+      "label": "phi4_mini",
+      "display_name": "Phi-4 Mini",
+      "instruct_model": "mlx-community/Phi-4-mini-instruct-4bit",
+      "think_model": "mlx-community/Phi-4-mini-reasoning-4bit",
+      "run_template_ablation": false
+    }
+  ],
+  "prompt_count": 12
+}

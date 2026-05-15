@@ -1,0 +1,362 @@
+[
+  {
+    "prompt_set": "full",
+    "id": "count_strawberries_r",
+    "js_instruct_to_think": 0.6936823675572665,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "count_committee_m",
+    "js_instruct_to_think": 0.6933983368365051,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "count_balloon_l",
+    "js_instruct_to_think": 0.6936418233883135,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "count_mississippi_s",
+    "js_instruct_to_think": 0.692003642709305,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "count_bookkeeper_e",
+    "js_instruct_to_think": 0.6920026573768016,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "count_programming_g",
+    "js_instruct_to_think": 0.6946436709610762,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "mul_317_248",
+    "js_instruct_to_think": 0.6941936034492151,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "mul_126_94",
+    "js_instruct_to_think": 0.693945790191932,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "mul_438_57",
+    "js_instruct_to_think": 0.6928447403006455,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "mul_999_37",
+    "js_instruct_to_think": 0.6952735161168682,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "mul_124_125",
+    "js_instruct_to_think": 0.6942480179520798,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "mul_808_19",
+    "js_instruct_to_think": 0.6933728461038862,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "eq_3_7_25",
+    "js_instruct_to_think": 0.6921763258062356,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "eq_5_-4_31",
+    "js_instruct_to_think": 0.6935380691767561,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "eq_2_9_21",
+    "js_instruct_to_think": 0.6918064962772879,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "eq_7_5_54",
+    "js_instruct_to_think": 0.6931098367051606,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "eq_4_3_35",
+    "js_instruct_to_think": 0.6924300067696478,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "eq_6_-1_23",
+    "js_instruct_to_think": 0.6925029202593829,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "js_instruct_to_think": 0.6926265717304427,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "js_instruct_to_think": 0.6936493374310855,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "ages_Mina_Nora_Owen_Pia",
+    "js_instruct_to_think": 0.6940816975284102,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "js_instruct_to_think": 0.6936423086327204,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "ages_Uma_Vera_Wade_Xena",
+    "js_instruct_to_think": 0.6935331055552596,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "ages_Yara_Zane_Arlo_Bree",
+    "js_instruct_to_think": 0.6930476791978095,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "coin_6",
+    "js_instruct_to_think": 0.6923616343073707,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "coin_7",
+    "js_instruct_to_think": 0.6941663471604972,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "coin_8",
+    "js_instruct_to_think": 0.6935022183592664,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "coin_9",
+    "js_instruct_to_think": 0.6924565756178029,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "coin_10",
+    "js_instruct_to_think": 0.692282777508769,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "coin_11",
+    "js_instruct_to_think": 0.6935207975161215,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "heads_exact2_3",
+    "js_instruct_to_think": 0.692422693340428,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "heads_exact2_4",
+    "js_instruct_to_think": 0.6925015262866089,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "heads_exact2_5",
+    "js_instruct_to_think": 0.6920989831817006,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "heads_exact2_6",
+    "js_instruct_to_think": 0.6938743722760481,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "heads_exact2_7",
+    "js_instruct_to_think": 0.6942306146220625,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "heads_exact2_8",
+    "js_instruct_to_think": 0.693893851173977,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "calendar_monday_march_1",
+    "js_instruct_to_think": 0.692425811221971,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "calendar_tuesday_april_1",
+    "js_instruct_to_think": 0.6929100107124004,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "calendar_wednesday_may_1",
+    "js_instruct_to_think": 0.6944285022225725,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "calendar_thursday_june_1",
+    "js_instruct_to_think": 0.6936168150490489,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "calendar_friday_july_1",
+    "js_instruct_to_think": 0.6919812645885759,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "calendar_saturday_august_1",
+    "js_instruct_to_think": 0.6937074624188795,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "sort_1",
+    "js_instruct_to_think": 0.69360949717353,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "sort_2",
+    "js_instruct_to_think": 0.6937128543094773,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "sort_3",
+    "js_instruct_to_think": 0.6942844971060799,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "sort_4",
+    "js_instruct_to_think": 0.6924674088722276,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "sort_5",
+    "js_instruct_to_think": 0.6927864601184375,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "sort_6",
+    "js_instruct_to_think": 0.6934633247372579,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "code_bug_1",
+    "js_instruct_to_think": 0.6922164302586584,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "code_bug_2",
+    "js_instruct_to_think": 0.6925982339090198,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "code_bug_3",
+    "js_instruct_to_think": 0.6944307039166842,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "code_bug_4",
+    "js_instruct_to_think": 0.6937559167808401,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "code_bug_5",
+    "js_instruct_to_think": 0.6936225174747869,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "code_bug_6",
+    "js_instruct_to_think": 0.6922387286948277,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "trip_bank",
+    "js_instruct_to_think": 0.6922026576529648,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "trip_pharmacy",
+    "js_instruct_to_think": 0.6936303669293685,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "trip_city_hall",
+    "js_instruct_to_think": 0.6927504502458592,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "trip_dentist",
+    "js_instruct_to_think": 0.6937117067510161,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "trip_doctor",
+    "js_instruct_to_think": 0.6934156303866463,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "full",
+    "id": "trip_tailor",
+    "js_instruct_to_think": 0.6920560626997292,
+    "top1_match": 0
+  }
+]

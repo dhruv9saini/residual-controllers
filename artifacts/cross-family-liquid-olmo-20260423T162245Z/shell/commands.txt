@@ -1,0 +1,1 @@
+~/.local/bin/uv run python scripts/run_cross_family_reasoning_suite.py --output-dir outputs/cross-family-liquid-olmo-20260423T162245Z --families liquid_12b,olmo3_7b

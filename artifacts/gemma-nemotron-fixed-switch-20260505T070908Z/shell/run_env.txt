@@ -1,0 +1,8 @@
+run_id=gemma-nemotron-fixed-switch-20260505T070908Z
+started_at_utc=2026-05-05T07:09:08Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+models=gemma4_e2b,nemotron_nano_4b
+train=30_gsm8k_30_math500
+eval=aime60
+completed_at_utc=2026-05-05T07:16:07Z

@@ -1,0 +1,29 @@
+{
+  "best_positive_token_id": 90700,
+  "best_positive_token_text": "Thinking",
+  "best_negative_token_id": 1206,
+  "best_negative_token_text": "To",
+  "families": {
+    "one_row": {
+      "family": "one_row",
+      "alpha": 0.25,
+      "train_think_closer_rate": 1.0,
+      "train_mean_js_to_think": 0.22584454403735385,
+      "train_mean_js_to_no_think": 0.6931427517900772
+    },
+    "two_row": {
+      "family": "two_row",
+      "alpha": 0.25,
+      "train_think_closer_rate": 1.0,
+      "train_mean_js_to_think": 0.22584456892459506,
+      "train_mean_js_to_no_think": 0.6931428224857882
+    },
+    "rank1": {
+      "family": "rank1",
+      "alpha": 16.0,
+      "train_think_closer_rate": 1.0,
+      "train_mean_js_to_think": 0.3650182149486558,
+      "train_mean_js_to_no_think": 0.6906101415919323
+    }
+  }
+}

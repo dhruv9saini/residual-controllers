@@ -1,0 +1,2 @@
+~/.local/bin/uv sync
+~/.local/bin/uv run python scripts/run_qwen35_causal_suffix_experiments.py --output-dir outputs/qwen35-causal-suffix-20260422T053948Z

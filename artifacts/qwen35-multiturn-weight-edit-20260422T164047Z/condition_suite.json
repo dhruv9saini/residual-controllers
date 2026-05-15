@@ -1,0 +1,38 @@
+[
+  {
+    "label": "single_turn",
+    "description": "No prior turns; current prompt only.",
+    "history_mode": "none",
+    "history_turns": 0
+  },
+  {
+    "label": "multiturn_clean_1",
+    "description": "One prior turn with final-answer-only assistant history, matching official docs.",
+    "history_mode": "clean",
+    "history_turns": 1
+  },
+  {
+    "label": "multiturn_empty_history_1",
+    "description": "One prior turn with an empty historical <think> scaffold before the assistant answer.",
+    "history_mode": "empty",
+    "history_turns": 1
+  },
+  {
+    "label": "multiturn_reasoning_history_1",
+    "description": "One prior turn with explicit historical reasoning content preserved in the serialized prompt.",
+    "history_mode": "reasoning",
+    "history_turns": 1
+  },
+  {
+    "label": "multiturn_empty_history_3",
+    "description": "Three prior turns, each with an empty historical <think> scaffold.",
+    "history_mode": "empty",
+    "history_turns": 3
+  },
+  {
+    "label": "multiturn_reasoning_history_3",
+    "description": "Three prior turns, each with explicit historical reasoning content preserved.",
+    "history_mode": "reasoning",
+    "history_turns": 3
+  }
+]

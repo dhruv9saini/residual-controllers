@@ -1,0 +1,7 @@
+run_id=cross-family-phi4-20260423T162058Z
+started_at_utc=2026-04-23T16:20:58Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+families=phi4_mini
+models=mlx-community/Phi-4-mini-instruct-4bit,mlx-community/Phi-4-mini-reasoning-4bit
+completed_at_utc=2026-04-23T16:22:25Z

@@ -1,0 +1,10 @@
+{
+  "started_at_utc": "2026-04-22T04:59:38.216328+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "model": "mlx-community/Qwen3.5-4B-4bit",
+  "prompt_window": 24,
+  "max_generate_tokens": 1024,
+  "prompt_count": 12
+}

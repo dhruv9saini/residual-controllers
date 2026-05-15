@@ -1,0 +1,46 @@
+[
+  {
+    "family": "olmo3_7b",
+    "variant": "instruct_model_canonical",
+    "count": 12,
+    "mean_js_to_think_canonical": 0.6931710953166421,
+    "js_to_think_canonical_ci_low": 0.6925556957364889,
+    "js_to_think_canonical_ci_high": 0.693713925698569,
+    "mean_js_to_instruct_canonical": 0.0,
+    "js_to_instruct_canonical_ci_low": 0.0,
+    "js_to_instruct_canonical_ci_high": 0.0
+  },
+  {
+    "family": "olmo3_7b",
+    "variant": "instruct_model_think_suffix",
+    "count": 12,
+    "mean_js_to_think_canonical": 0.5004537665835852,
+    "js_to_think_canonical_ci_low": 0.38028721407753163,
+    "js_to_think_canonical_ci_high": 0.6090078022667323,
+    "mean_js_to_instruct_canonical": 0.6007378432803929,
+    "js_to_instruct_canonical_ci_low": 0.5307742468052857,
+    "js_to_instruct_canonical_ci_high": 0.660746897591584
+  },
+  {
+    "family": "olmo3_7b",
+    "variant": "think_model_canonical",
+    "count": 12,
+    "mean_js_to_think_canonical": 0.0,
+    "js_to_think_canonical_ci_low": 0.0,
+    "js_to_think_canonical_ci_high": 0.0,
+    "mean_js_to_instruct_canonical": 0.6931710953166421,
+    "js_to_instruct_canonical_ci_low": 0.6925554919371828,
+    "js_to_instruct_canonical_ci_high": 0.693706238984381
+  },
+  {
+    "family": "olmo3_7b",
+    "variant": "think_model_instruct_suffix",
+    "count": 12,
+    "mean_js_to_think_canonical": 0.6929117900313376,
+    "js_to_think_canonical_ci_low": 0.6921230594478939,
+    "js_to_think_canonical_ci_high": 0.6936710676051815,
+    "mean_js_to_instruct_canonical": 0.603611382432517,
+    "js_to_instruct_canonical_ci_low": 0.509927872140054,
+    "js_to_instruct_canonical_ci_high": 0.667371215708736
+  }
+]

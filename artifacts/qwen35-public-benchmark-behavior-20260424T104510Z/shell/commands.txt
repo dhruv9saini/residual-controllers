@@ -1,0 +1,1 @@
+./.venv/bin/python scripts/run_qwen35_public_benchmark_behavior_suite.py --output-dir outputs/qwen35-public-benchmark-behavior-20260424T104510Z --gsm8k-limit 12 --math500-limit 12 --max-generation-tokens 4096

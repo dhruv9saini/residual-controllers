@@ -1,0 +1,6602 @@
+[
+  {
+    "id": "general_01",
+    "category": "general_instruction",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.523142889757605,
+    "js_to_target": 0.054347751097666694,
+    "donor_margin": -0.4687951386599383,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9702427387237549
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.01844949647784233
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0010939501225948334
+      },
+      {
+        "token_id": 97490,
+        "token_text": "\u8fd9\u91cc",
+        "prob": 0.0005614014226011932
+      },
+      {
+        "token_id": 5514,
+        "token_text": " Here",
+        "prob": 0.0002589752257335931
+      }
+    ]
+  },
+  {
+    "id": "general_01",
+    "category": "general_instruction",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.69373871824045,
+    "js_to_target": 0.520375252475853,
+    "donor_margin": -0.17336346576459694,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.9836015105247498
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.009771959856152534
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.0012028899509459734
+      },
+      {
+        "token_id": 16112,
+        "token_text": " ###",
+        "prob": 0.0005015811766497791
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.00032043320243246853
+      }
+    ]
+  },
+  {
+    "id": "general_01",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6496556293944415,
+    "js_to_target": 0.5735816688326301,
+    "donor_margin": -0.07607396056181148,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.059022098779678345
+      },
+      {
+        "token_id": 32853,
+        "token_text": "Working",
+        "prob": 0.007140826899558306
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.006383274681866169
+      },
+      {
+        "token_id": 54564,
+        "token_text": "attend",
+        "prob": 0.00588518800213933
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.004855481442064047
+      }
+    ]
+  },
+  {
+    "id": "general_01",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.5968118850669646,
+    "js_to_target": 0.21913132889032555,
+    "donor_margin": -0.37768055617663904,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.40010955929756165
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.06131397932767868
+      },
+      {
+        "token_id": 2,
+        "token_text": "#",
+        "prob": 0.06046514958143234
+      },
+      {
+        "token_id": 12,
+        "token_text": "-",
+        "prob": 0.026557907462120056
+      },
+      {
+        "token_id": 59,
+        "token_text": "\\",
+        "prob": 0.010459438897669315
+      }
+    ]
+  },
+  {
+    "id": "general_01",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6836036514423157,
+    "js_to_target": 0.6046130103925762,
+    "donor_margin": -0.07899064104973952,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.08071736246347427
+      },
+      {
+        "token_id": 1073,
+        "token_text": "Con",
+        "prob": 0.011076163500547409
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.0080874590203166
+      },
+      {
+        "token_id": 37657,
+        "token_text": "Expand",
+        "prob": 0.006115817930549383
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.005135209299623966
+      }
+    ]
+  },
+  {
+    "id": "general_02",
+    "category": "general_instruction",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.1647624626870716,
+    "js_to_target": 0.5364718896633054,
+    "donor_margin": 0.37170942697623377,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Here",
+    "target_top1_text": "Organ",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.5415487289428711
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.41015076637268066
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.011059630662202835
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.003041679970920086
+      },
+      {
+        "token_id": 22503,
+        "token_text": "Organ",
+        "prob": 0.002158164046704769
+      }
+    ]
+  },
+  {
+    "id": "general_02",
+    "category": "general_instruction",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6899882491668101,
+    "js_to_target": 0.6787145094072283,
+    "donor_margin": -0.011273739759581791,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Here",
+    "target_top1_text": "Organ",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.9120469093322754
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.04366374760866165
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.017207754775881767
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.0038379442412406206
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.0020566494204103947
+      }
+    ]
+  },
+  {
+    "id": "general_02",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6278860646467415,
+    "js_to_target": 0.520486616965841,
+    "donor_margin": -0.10739944768090048,
+    "patched_top1_text": "Organ",
+    "donor_top1_text": "Here",
+    "target_top1_text": "Organ",
+    "top_tokens": [
+      {
+        "token_id": 22503,
+        "token_text": "Organ",
+        "prob": 0.0642281249165535
+      },
+      {
+        "token_id": 91763,
+        "token_text": "Choosing",
+        "prob": 0.035439033061265945
+      },
+      {
+        "token_id": 25208,
+        "token_text": "Without",
+        "prob": 0.032369934022426605
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.025400863960385323
+      },
+      {
+        "token_id": 27125,
+        "token_text": "Having",
+        "prob": 0.017222624272108078
+      }
+    ]
+  },
+  {
+    "id": "general_02",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.3386986478295118,
+    "js_to_target": 0.4834532120967592,
+    "donor_margin": 0.14475456426724737,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Here",
+    "target_top1_text": "Organ",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.2973068356513977
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.03667426109313965
+      },
+      {
+        "token_id": 4350,
+        "token_text": "When",
+        "prob": 0.02193034626543522
+      },
+      {
+        "token_id": 22503,
+        "token_text": "Organ",
+        "prob": 0.019520921632647514
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.011420294642448425
+      }
+    ]
+  },
+  {
+    "id": "general_02",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6801219097714053,
+    "js_to_target": 0.2166283664123127,
+    "donor_margin": -0.4634935433590926,
+    "patched_top1_text": "Organ",
+    "donor_top1_text": "Here",
+    "target_top1_text": "Organ",
+    "top_tokens": [
+      {
+        "token_id": 22503,
+        "token_text": "Organ",
+        "prob": 0.39367735385894775
+      },
+      {
+        "token_id": 4350,
+        "token_text": "When",
+        "prob": 0.1344362050294876
+      },
+      {
+        "token_id": 40200,
+        "token_text": "Organization",
+        "prob": 0.015695789828896523
+      },
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.012594168074429035
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.011470367200672626
+      }
+    ]
+  },
+  {
+    "id": "general_03",
+    "category": "general_instruction",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.11136953044661445,
+    "js_to_target": 0.6575536015434449,
+    "donor_margin": 0.5461840710968304,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Here",
+    "target_top1_text": "#",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.7386296987533569
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.07598204910755157
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.02439439855515957
+      },
+      {
+        "token_id": 2,
+        "token_text": "#",
+        "prob": 0.013931757770478725
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.01137932576239109
+      }
+    ]
+  },
+  {
+    "id": "general_03",
+    "category": "general_instruction",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6922844045657294,
+    "js_to_target": 0.24138474618674766,
+    "donor_margin": -0.4508996583789817,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Here",
+    "target_top1_text": "#",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.9933051466941833
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.0031946727540344
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.00048321380745619535
+      },
+      {
+        "token_id": 16112,
+        "token_text": " ###",
+        "prob": 0.000336071738274768
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.0002211854443885386
+      }
+    ]
+  },
+  {
+    "id": "general_03",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6815137550465127,
+    "js_to_target": 0.6177826403215354,
+    "donor_margin": -0.06373111472497728,
+    "patched_top1_text": "#",
+    "donor_top1_text": "Here",
+    "target_top1_text": "#",
+    "top_tokens": [
+      {
+        "token_id": 2,
+        "token_text": "#",
+        "prob": 0.028026966378092766
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.006682698614895344
+      },
+      {
+        "token_id": 1329,
+        "token_text": "ember",
+        "prob": 0.006664229091256857
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.006211875472217798
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.0038536586798727512
+      }
+    ]
+  },
+  {
+    "id": "general_03",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6543522054591526,
+    "js_to_target": 0.18034546811913557,
+    "donor_margin": -0.4740067373400171,
+    "patched_top1_text": "#",
+    "donor_top1_text": "Here",
+    "target_top1_text": "#",
+    "top_tokens": [
+      {
+        "token_id": 2,
+        "token_text": "#",
+        "prob": 0.41534608602523804
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.15948337316513062
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.019584259018301964
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.017781641334295273
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.01564793288707733
+      }
+    ]
+  },
+  {
+    "id": "general_03",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6902794844477647,
+    "js_to_target": 0.42738211600229614,
+    "donor_margin": -0.2628973684454685,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Here",
+    "target_top1_text": "#",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.21568803489208221
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.018484659492969513
+      },
+      {
+        "token_id": 2,
+        "token_text": "#",
+        "prob": 0.017626382410526276
+      },
+      {
+        "token_id": 11862,
+        "token_text": "***",
+        "prob": 0.010923009365797043
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.008432166650891304
+      }
+    ]
+  },
+  {
+    "id": "general_04",
+    "category": "general_instruction",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.1713449661270458,
+    "js_to_target": 0.5229952387392511,
+    "donor_margin": 0.35165027261220533,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Here",
+    "target_top1_text": "For",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.5795847177505493
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.21868322789669037
+      },
+      {
+        "token_id": 60856,
+        "token_text": "Implement",
+        "prob": 0.09413991868495941
+      },
+      {
+        "token_id": 37326,
+        "token_text": "Handling",
+        "prob": 0.027444608509540558
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.007354842033237219
+      }
+    ]
+  },
+  {
+    "id": "general_04",
+    "category": "general_instruction",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6910214851218548,
+    "js_to_target": 0.6897003436114069,
+    "donor_margin": -0.0013211415104479318,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Here",
+    "target_top1_text": "For",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.4898332953453064
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.3627746105194092
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.06323176622390747
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.003984702285379171
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.0025675357319414616
+      }
+    ]
+  },
+  {
+    "id": "general_04",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6684252740879482,
+    "js_to_target": 0.4511279396472531,
+    "donor_margin": -0.21729733444069504,
+    "patched_top1_text": "For",
+    "donor_top1_text": "Here",
+    "target_top1_text": "For",
+    "top_tokens": [
+      {
+        "token_id": 2381,
+        "token_text": "For",
+        "prob": 0.14601409435272217
+      },
+      {
+        "token_id": 91210,
+        "token_text": "implement",
+        "prob": 0.12835755944252014
+      },
+      {
+        "token_id": 60856,
+        "token_text": "Implement",
+        "prob": 0.07787834107875824
+      },
+      {
+        "token_id": 95222,
+        "token_text": "Managing",
+        "prob": 0.006175316404551268
+      },
+      {
+        "token_id": 24141,
+        "token_text": " implementing",
+        "prob": 0.0059218453243374825
+      }
+    ]
+  },
+  {
+    "id": "general_04",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.49017292794577394,
+    "js_to_target": 0.5172130489713335,
+    "donor_margin": 0.027040121025559527,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Here",
+    "target_top1_text": "For",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.11965721100568771
+      },
+      {
+        "token_id": 2381,
+        "token_text": "For",
+        "prob": 0.04523123800754547
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.025436239317059517
+      },
+      {
+        "token_id": 95222,
+        "token_text": "Managing",
+        "prob": 0.015960292890667915
+      },
+      {
+        "token_id": 37326,
+        "token_text": "Handling",
+        "prob": 0.013552495278418064
+      }
+    ]
+  },
+  {
+    "id": "general_04",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.681500412158079,
+    "js_to_target": 0.571037299172922,
+    "donor_margin": -0.11046311298515699,
+    "patched_top1_text": "For",
+    "donor_top1_text": "Here",
+    "target_top1_text": "For",
+    "top_tokens": [
+      {
+        "token_id": 2381,
+        "token_text": "For",
+        "prob": 0.05282800644636154
+      },
+      {
+        "token_id": 18417,
+        "token_text": "Running",
+        "prob": 0.023562468588352203
+      },
+      {
+        "token_id": 95222,
+        "token_text": "Managing",
+        "prob": 0.014770982787013054
+      },
+      {
+        "token_id": 37326,
+        "token_text": "Handling",
+        "prob": 0.009284518659114838
+      },
+      {
+        "token_id": 14951,
+        "token_text": "Setting",
+        "prob": 0.007861653342843056
+      }
+    ]
+  },
+  {
+    "id": "general_05",
+    "category": "general_instruction",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6732790599908001,
+    "js_to_target": 0.08127884922099608,
+    "donor_margin": -0.592000210769804,
+    "patched_top1_text": "Dec",
+    "donor_top1_text": "Here",
+    "target_top1_text": "Dec",
+    "top_tokens": [
+      {
+        "token_id": 4741,
+        "token_text": "Dec",
+        "prob": 0.7828251719474792
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.15490666031837463
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.017701387405395508
+      },
+      {
+        "token_id": 72298,
+        "token_text": "Decision",
+        "prob": 0.005428329110145569
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.004823329858481884
+      }
+    ]
+  },
+  {
+    "id": "general_05",
+    "category": "general_instruction",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6933947073280646,
+    "js_to_target": 0.6701282845396129,
+    "donor_margin": -0.0232664227884517,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Here",
+    "target_top1_text": "Dec",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.9007993340492249
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.03810593858361244
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.009571589529514313
+      },
+      {
+        "token_id": 4741,
+        "token_text": "Dec",
+        "prob": 0.007710069417953491
+      },
+      {
+        "token_id": 35,
+        "token_text": "D",
+        "prob": 0.005604125093668699
+      }
+    ]
+  },
+  {
+    "id": "general_05",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6913149280553271,
+    "js_to_target": 0.1214031781920663,
+    "donor_margin": -0.5699117498632609,
+    "patched_top1_text": "Dec",
+    "donor_top1_text": "Here",
+    "target_top1_text": "Dec",
+    "top_tokens": [
+      {
+        "token_id": 4741,
+        "token_text": "Dec",
+        "prob": 0.6889941692352295
+      },
+      {
+        "token_id": 72298,
+        "token_text": "Decision",
+        "prob": 0.02222461998462677
+      },
+      {
+        "token_id": 22744,
+        "token_text": "Disc",
+        "prob": 0.015196078456938267
+      },
+      {
+        "token_id": 32042,
+        "token_text": "Being",
+        "prob": 0.008302055299282074
+      },
+      {
+        "token_id": 20966,
+        "token_text": "Decl",
+        "prob": 0.00786270946264267
+      }
+    ]
+  },
+  {
+    "id": "general_05",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.674113881477782,
+    "js_to_target": 0.21996421973065725,
+    "donor_margin": -0.4541496617471247,
+    "patched_top1_text": "Dec",
+    "donor_top1_text": "Here",
+    "target_top1_text": "Dec",
+    "top_tokens": [
+      {
+        "token_id": 4741,
+        "token_text": "Dec",
+        "prob": 0.4895380139350891
+      },
+      {
+        "token_id": 89454,
+        "token_text": "Determin",
+        "prob": 0.08575145900249481
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.017248505726456642
+      },
+      {
+        "token_id": 20966,
+        "token_text": "Decl",
+        "prob": 0.01694781519472599
+      },
+      {
+        "token_id": 18164,
+        "token_text": "Arch",
+        "prob": 0.012913374230265617
+      }
+    ]
+  },
+  {
+    "id": "general_05",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6901633850954572,
+    "js_to_target": 0.26896912162419184,
+    "donor_margin": -0.4211942634712653,
+    "patched_top1_text": "Dec",
+    "donor_top1_text": "Here",
+    "target_top1_text": "Dec",
+    "top_tokens": [
+      {
+        "token_id": 4741,
+        "token_text": "Dec",
+        "prob": 0.40583673119544983
+      },
+      {
+        "token_id": 89454,
+        "token_text": "Determin",
+        "prob": 0.18485349416732788
+      },
+      {
+        "token_id": 35,
+        "token_text": "D",
+        "prob": 0.01908915676176548
+      },
+      {
+        "token_id": 1847,
+        "token_text": "De",
+        "prob": 0.012452151626348495
+      },
+      {
+        "token_id": 72298,
+        "token_text": "Decision",
+        "prob": 0.00813949853181839
+      }
+    ]
+  },
+  {
+    "id": "general_06",
+    "category": "general_instruction",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.4943704027788499,
+    "js_to_target": 0.03768533725321625,
+    "donor_margin": -0.45668506552563365,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.977013885974884
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.014376852661371231
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0009854247327893972
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.000736608577426523
+      },
+      {
+        "token_id": 97490,
+        "token_text": "\u8fd9\u91cc",
+        "prob": 0.00044877800974063575
+      }
+    ]
+  },
+  {
+    "id": "general_06",
+    "category": "general_instruction",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6925629927680019,
+    "js_to_target": 0.5984073393935734,
+    "donor_margin": -0.09415565337442855,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.979852557182312
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.013112739659845829
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.000950117246247828
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.0005020967801101506
+      },
+      {
+        "token_id": 16112,
+        "token_text": " ###",
+        "prob": 0.0003943517804145813
+      }
+    ]
+  },
+  {
+    "id": "general_06",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.625699016627574,
+    "js_to_target": 0.525575962001255,
+    "donor_margin": -0.10012305462631899,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.09601282328367233
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.01150723546743393
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.01102107111364603
+      },
+      {
+        "token_id": 14177,
+        "token_text": "Team",
+        "prob": 0.009205956012010574
+      },
+      {
+        "token_id": 32853,
+        "token_text": "Working",
+        "prob": 0.005937450099736452
+      }
+    ]
+  },
+  {
+    "id": "general_06",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.5597254069827032,
+    "js_to_target": 0.16618916457166652,
+    "donor_margin": -0.3935362424110367,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.516254186630249
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.05205526575446129
+      },
+      {
+        "token_id": 2,
+        "token_text": "#",
+        "prob": 0.04302830249071121
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.01910952478647232
+      },
+      {
+        "token_id": 62394,
+        "token_text": "Meeting",
+        "prob": 0.01080207247287035
+      }
+    ]
+  },
+  {
+    "id": "general_06",
+    "category": "general_instruction",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6767568457445474,
+    "js_to_target": 0.6031789568857797,
+    "donor_margin": -0.0735778888587677,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.08568412810564041
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.024707995355129242
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.008626755326986313
+      },
+      {
+        "token_id": 38663,
+        "token_text": "Goal",
+        "prob": 0.005398778710514307
+      },
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.004916342440992594
+      }
+    ]
+  },
+  {
+    "id": "coding_01",
+    "category": "coding",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6533163039593688,
+    "js_to_target": 0.1208651910817467,
+    "donor_margin": -0.5324511128776221,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "The",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9049555063247681
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.06257259845733643
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.011512908153235912
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0026211028452962637
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.0018853847868740559
+      }
+    ]
+  },
+  {
+    "id": "coding_01",
+    "category": "coding",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6900974637369865,
+    "js_to_target": 0.672904799428668,
+    "donor_margin": -0.01719266430831856,
+    "patched_top1_text": "To",
+    "donor_top1_text": "The",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.8395274877548218
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.0635131299495697
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.05109725147485733
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.014913566410541534
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.013581068255007267
+      }
+    ]
+  },
+  {
+    "id": "coding_01",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6846632438998026,
+    "js_to_target": 0.5022890915900765,
+    "donor_margin": -0.1823741523097261,
+    "patched_top1_text": "```",
+    "donor_top1_text": "The",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.1449514478445053
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.024822071194648743
+      },
+      {
+        "token_id": 32853,
+        "token_text": "Working",
+        "prob": 0.009327337145805359
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 0.007550757844001055
+      },
+      {
+        "token_id": 84429,
+        "token_text": "Higher",
+        "prob": 0.007407390512526035
+      }
+    ]
+  },
+  {
+    "id": "coding_01",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6784926638365001,
+    "js_to_target": 0.27218563718509314,
+    "donor_margin": -0.40630702665140694,
+    "patched_top1_text": "```",
+    "donor_top1_text": "The",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.6127076745033264
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.10832243412733078
+      },
+      {
+        "token_id": 12,
+        "token_text": "-",
+        "prob": 0.014491474255919456
+      },
+      {
+        "token_id": 63,
+        "token_text": "`",
+        "prob": 0.003722307737916708
+      },
+      {
+        "token_id": 10,
+        "token_text": "+",
+        "prob": 0.002812828402966261
+      }
+    ]
+  },
+  {
+    "id": "coding_01",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6818699288001826,
+    "js_to_target": 0.4844927665021189,
+    "donor_margin": -0.19737716229806368,
+    "patched_top1_text": "```",
+    "donor_top1_text": "The",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.315214067697525
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.009272337891161442
+      },
+      {
+        "token_id": 2523,
+        "token_text": "You",
+        "prob": 0.006413101218640804
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0063732159323990345
+      },
+      {
+        "token_id": 163277,
+        "token_text": "\u016fsob",
+        "prob": 0.0030286330729722977
+      }
+    ]
+  },
+  {
+    "id": "coding_02",
+    "category": "coding",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.652012517513842,
+    "js_to_target": 0.4803014699736323,
+    "donor_margin": -0.17171104754020972,
+    "patched_top1_text": "Thinking",
+    "donor_top1_text": "This",
+    "target_top1_text": "To",
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.6442859768867493
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.2915802001953125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.016758158802986145
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.007837105542421341
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.005073284264653921
+      }
+    ]
+  },
+  {
+    "id": "coding_02",
+    "category": "coding",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6935561262250511,
+    "js_to_target": 0.34358865659884597,
+    "donor_margin": -0.3499674696262052,
+    "patched_top1_text": "To",
+    "donor_top1_text": "This",
+    "target_top1_text": "To",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.7998314499855042
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.13408350944519043
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.04377341270446777
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.00697983568534255
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.0057592070661485195
+      }
+    ]
+  },
+  {
+    "id": "coding_02",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6823676989128481,
+    "js_to_target": 0.6468292963057432,
+    "donor_margin": -0.035538402607104946,
+    "patched_top1_text": "Actually",
+    "donor_top1_text": "This",
+    "target_top1_text": "To",
+    "top_tokens": [
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.029839275404810905
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.016597069799900055
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.011238239705562592
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 0.007815937511622906
+      },
+      {
+        "token_id": 32042,
+        "token_text": "Being",
+        "prob": 0.006702236365526915
+      }
+    ]
+  },
+  {
+    "id": "coding_02",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6126420861087931,
+    "js_to_target": 0.5340274238623481,
+    "donor_margin": -0.07861466224644498,
+    "patched_top1_text": "The",
+    "donor_top1_text": "This",
+    "target_top1_text": "To",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.05012916028499603
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.02900959923863411
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.025779854506254196
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.019616153091192245
+      },
+      {
+        "token_id": 5800,
+        "token_text": "Database",
+        "prob": 0.014220311306416988
+      }
+    ]
+  },
+  {
+    "id": "coding_02",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6861062903845485,
+    "js_to_target": 0.5523162810281743,
+    "donor_margin": -0.1337900093563742,
+    "patched_top1_text": "To",
+    "donor_top1_text": "This",
+    "target_top1_text": "To",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.029913248494267464
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.025949973613023758
+      },
+      {
+        "token_id": 1841,
+        "token_text": "Image",
+        "prob": 0.015673428773880005
+      },
+      {
+        "token_id": 5800,
+        "token_text": "Database",
+        "prob": 0.014890750870108604
+      },
+      {
+        "token_id": 67776,
+        "token_text": "Understanding",
+        "prob": 0.006367307156324387
+      }
+    ]
+  },
+  {
+    "id": "coding_03",
+    "category": "coding",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6839462083815862,
+    "js_to_target": 0.05524432005588474,
+    "donor_margin": -0.6287018883257014,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "The",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9379386305809021
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.04068329557776451
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0021867200266569853
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.002028136281296611
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.0013431973056867719
+      }
+    ]
+  },
+  {
+    "id": "coding_03",
+    "category": "coding",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6926122017020115,
+    "js_to_target": 0.6928576289630264,
+    "donor_margin": 0.00024542726101484114,
+    "patched_top1_text": "To",
+    "donor_top1_text": "The",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.6661896705627441
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.17590494453907013
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.07531368732452393
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.017165379598736763
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.011760243214666843
+      }
+    ]
+  },
+  {
+    "id": "coding_03",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6914634047844477,
+    "js_to_target": 0.560003265563924,
+    "donor_margin": -0.1314601392205237,
+    "patched_top1_text": "```",
+    "donor_top1_text": "The",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.10856810957193375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.025639930739998817
+      },
+      {
+        "token_id": 84429,
+        "token_text": "Higher",
+        "prob": 0.005518278572708368
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 0.00468791788443923
+      },
+      {
+        "token_id": 32853,
+        "token_text": "Working",
+        "prob": 0.0046639712527394295
+      }
+    ]
+  },
+  {
+    "id": "coding_03",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6891375840360485,
+    "js_to_target": 0.3460401305880948,
+    "donor_margin": -0.3430974534479537,
+    "patched_top1_text": "```",
+    "donor_top1_text": "The",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.5618709921836853
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.135312020778656
+      },
+      {
+        "token_id": 12,
+        "token_text": "-",
+        "prob": 0.007164213340729475
+      },
+      {
+        "token_id": 38493,
+        "token_text": "Sure",
+        "prob": 0.0054208748042583466
+      },
+      {
+        "token_id": 63,
+        "token_text": "`",
+        "prob": 0.003071145387366414
+      }
+    ]
+  },
+  {
+    "id": "coding_03",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6904540558241119,
+    "js_to_target": 0.5783595902716323,
+    "donor_margin": -0.1120944655524796,
+    "patched_top1_text": "```",
+    "donor_top1_text": "The",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.24807973206043243
+      },
+      {
+        "token_id": 178847,
+        "token_text": "\u0113j",
+        "prob": 0.004285059869289398
+      },
+      {
+        "token_id": 163277,
+        "token_text": "\u016fsob",
+        "prob": 0.003963086288422346
+      },
+      {
+        "token_id": 811,
+        "token_text": "cre",
+        "prob": 0.0024964497424662113
+      },
+      {
+        "token_id": 28438,
+        "token_text": " ambit",
+        "prob": 0.0023343705106526613
+      }
+    ]
+  },
+  {
+    "id": "coding_04",
+    "category": "coding",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.42600294661174504,
+    "js_to_target": 0.041104073916707624,
+    "donor_margin": -0.3848988726950374,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "This",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9229190945625305
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.056261397898197174
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.006874426733702421
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.002168147126212716
+      },
+      {
+        "token_id": 60856,
+        "token_text": "Implement",
+        "prob": 0.0005673478008247912
+      }
+    ]
+  },
+  {
+    "id": "coding_04",
+    "category": "coding",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6909981304149322,
+    "js_to_target": 0.6790533012294826,
+    "donor_margin": -0.01194482918544959,
+    "patched_top1_text": "To",
+    "donor_top1_text": "This",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.544968843460083
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.3999408483505249
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.03389845788478851
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.004340277053415775
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.003592127002775669
+      }
+    ]
+  },
+  {
+    "id": "coding_04",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6027562087717635,
+    "js_to_target": 0.5829824788818021,
+    "donor_margin": -0.0197737298899614,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "This",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.053056225180625916
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.018146803602576256
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 0.015032840892672539
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.014979403465986252
+      },
+      {
+        "token_id": 2381,
+        "token_text": "For",
+        "prob": 0.010273606516420841
+      }
+    ]
+  },
+  {
+    "id": "coding_04",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.4520881818805894,
+    "js_to_target": 0.26884843054647845,
+    "donor_margin": -0.18323975133411097,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "This",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.4000949263572693
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.021842705085873604
+      },
+      {
+        "token_id": 2,
+        "token_text": "#",
+        "prob": 0.020079880952835083
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.01858699880540371
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.01240523811429739
+      }
+    ]
+  },
+  {
+    "id": "coding_04",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.654287347239159,
+    "js_to_target": 0.6617021002387413,
+    "donor_margin": 0.007414752999582275,
+    "patched_top1_text": "To",
+    "donor_top1_text": "This",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.011923519894480705
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.010853641666471958
+      },
+      {
+        "token_id": 19846,
+        "token_text": "Design",
+        "prob": 0.0073298984207212925
+      },
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.007308629807084799
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.006957170087844133
+      }
+    ]
+  },
+  {
+    "id": "coding_05",
+    "category": "coding",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6282067276999523,
+    "js_to_target": 0.10872410237689074,
+    "donor_margin": -0.5194826253230616,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "This",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.7677707672119141
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.16874440014362335
+      },
+      {
+        "token_id": 60856,
+        "token_text": "Implement",
+        "prob": 0.01293924730271101
+      },
+      {
+        "token_id": 37326,
+        "token_text": "Handling",
+        "prob": 0.010363742709159851
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.008480466902256012
+      }
+    ]
+  },
+  {
+    "id": "coding_05",
+    "category": "coding",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6933665185532575,
+    "js_to_target": 0.6386594625262692,
+    "donor_margin": -0.05470705602698833,
+    "patched_top1_text": "To",
+    "donor_top1_text": "This",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.7354117035865784
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.15068578720092773
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.07054046541452408
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.01282761711627245
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.00966776441782713
+      }
+    ]
+  },
+  {
+    "id": "coding_05",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6787334320162127,
+    "js_to_target": 0.6300962721959398,
+    "donor_margin": -0.048637159820272946,
+    "patched_top1_text": "implement",
+    "donor_top1_text": "This",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 91210,
+        "token_text": "implement",
+        "prob": 0.07749765366315842
+      },
+      {
+        "token_id": 60856,
+        "token_text": "Implement",
+        "prob": 0.029943814501166344
+      },
+      {
+        "token_id": 32853,
+        "token_text": "Working",
+        "prob": 0.022704361006617546
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.015432259067893028
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.014429347589612007
+      }
+    ]
+  },
+  {
+    "id": "coding_05",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6406039033421764,
+    "js_to_target": 0.40193233321939736,
+    "donor_margin": -0.23867157012277906,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "This",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.19470803439617157
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.053886864334344864
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.012183653190732002
+      },
+      {
+        "token_id": 38493,
+        "token_text": "Sure",
+        "prob": 0.00908527709543705
+      },
+      {
+        "token_id": 12,
+        "token_text": "-",
+        "prob": 0.007985632866621017
+      }
+    ]
+  },
+  {
+    "id": "coding_05",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6851857821486955,
+    "js_to_target": 0.6369562881188428,
+    "donor_margin": -0.04822949402985277,
+    "patched_top1_text": "When",
+    "donor_top1_text": "This",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 4350,
+        "token_text": "When",
+        "prob": 0.030332181602716446
+      },
+      {
+        "token_id": 19846,
+        "token_text": "Design",
+        "prob": 0.012608813121914864
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.012352748773992062
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.010367988608777523
+      },
+      {
+        "token_id": 4935,
+        "token_text": "Output",
+        "prob": 0.008300064131617546
+      }
+    ]
+  },
+  {
+    "id": "coding_06",
+    "category": "coding",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6483258955292932,
+    "js_to_target": 0.6883694734586522,
+    "donor_margin": 0.040043577929358976,
+    "patched_top1_text": "Thinking",
+    "donor_top1_text": "This",
+    "target_top1_text": "###",
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.7455430626869202
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.043547626584768295
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0371212437748909
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.024845672771334648
+      },
+      {
+        "token_id": 3710,
+        "token_text": "What",
+        "prob": 0.006126900669187307
+      }
+    ]
+  },
+  {
+    "id": "coding_06",
+    "category": "coding",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6920993355658187,
+    "js_to_target": 0.11858057551592177,
+    "donor_margin": -0.573518760049897,
+    "patched_top1_text": "###",
+    "donor_top1_text": "This",
+    "target_top1_text": "###",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.9885417222976685
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.007143261842429638
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.0007978339563123882
+      },
+      {
+        "token_id": 16112,
+        "token_text": " ###",
+        "prob": 0.0007776167476549745
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.0002855168713722378
+      }
+    ]
+  },
+  {
+    "id": "coding_06",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6897050558658391,
+    "js_to_target": 0.6767834643285271,
+    "donor_margin": -0.012921591537311983,
+    "patched_top1_text": "Thread",
+    "donor_top1_text": "This",
+    "target_top1_text": "###",
+    "top_tokens": [
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.044479381293058395
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.04327120631933212
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 0.006913476623594761
+      },
+      {
+        "token_id": 25208,
+        "token_text": "Without",
+        "prob": 0.006425860803574324
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.004376317840069532
+      }
+    ]
+  },
+  {
+    "id": "coding_06",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6788565495042779,
+    "js_to_target": 0.40788606714957,
+    "donor_margin": -0.2709704823547079,
+    "patched_top1_text": "###",
+    "donor_top1_text": "This",
+    "target_top1_text": "###",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.23887421190738678
+      },
+      {
+        "token_id": 550,
+        "token_text": "##",
+        "prob": 0.02138090878725052
+      },
+      {
+        "token_id": 2,
+        "token_text": "#",
+        "prob": 0.020968126133084297
+      },
+      {
+        "token_id": 12,
+        "token_text": "-",
+        "prob": 0.018078824505209923
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.014545626007020473
+      }
+    ]
+  },
+  {
+    "id": "coding_06",
+    "category": "coding",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6895473287260048,
+    "js_to_target": 0.450338546887341,
+    "donor_margin": -0.2392087818386638,
+    "patched_top1_text": "###",
+    "donor_top1_text": "This",
+    "target_top1_text": "###",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.15559989213943481
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.017775412648916245
+      },
+      {
+        "token_id": 3710,
+        "token_text": "What",
+        "prob": 0.01008340623229742
+      },
+      {
+        "token_id": 550,
+        "token_text": "##",
+        "prob": 0.008813830092549324
+      },
+      {
+        "token_id": 108829,
+        "token_text": "\u4ec0\u4e48\u662f",
+        "prob": 0.005233137868344784
+      }
+    ]
+  },
+  {
+    "id": "factual_01",
+    "category": "factual_qa",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.5959963136758417,
+    "js_to_target": 0.3310504711674865,
+    "donor_margin": -0.26494584250835523,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.7443163394927979
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.2160196453332901
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.006818755529820919
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0024386446457356215
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0012413572985678911
+      }
+    ]
+  },
+  {
+    "id": "factual_01",
+    "category": "factual_qa",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6943066828626852,
+    "js_to_target": 0.6661582451553385,
+    "donor_margin": -0.028148437707346652,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Here",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.751913845539093
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.20312084257602692
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.013658516108989716
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.0032351042609661818
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.002728424035012722
+      }
+    ]
+  },
+  {
+    "id": "factual_01",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6910231804774774,
+    "js_to_target": 0.5996392954349865,
+    "donor_margin": -0.09138388504249084,
+    "patched_top1_text": "Actually",
+    "donor_top1_text": "Here",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.07644188404083252
+      },
+      {
+        "token_id": 1106,
+        "token_text": "Ch",
+        "prob": 0.04921809211373329
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.008859691210091114
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 0.006390294060111046
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.006254317704588175
+      }
+    ]
+  },
+  {
+    "id": "factual_01",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6824510619697457,
+    "js_to_target": 0.4260595434640855,
+    "donor_margin": -0.2563915185056602,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.11934764683246613
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.0611325167119503
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.05616140738129616
+      },
+      {
+        "token_id": 1106,
+        "token_text": "Ch",
+        "prob": 0.017900176346302032
+      },
+      {
+        "token_id": 121484,
+        "token_text": "\u5c3d\u4e86",
+        "prob": 0.015961457043886185
+      }
+    ]
+  },
+  {
+    "id": "factual_01",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6897361627535435,
+    "js_to_target": 0.5009245873660484,
+    "donor_margin": -0.18881157538749516,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.08086936920881271
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.029876960441470146
+      },
+      {
+        "token_id": 623,
+        "token_text": "In",
+        "prob": 0.01576051488518715
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.010295211337506771
+      },
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.008677858859300613
+      }
+    ]
+  },
+  {
+    "id": "factual_02",
+    "category": "factual_qa",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6000941961736034,
+    "js_to_target": 0.4421264047087647,
+    "donor_margin": -0.1579677914648387,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "E",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.7274762392044067
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.20228585600852966
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.009796642698347569
+      },
+      {
+        "token_id": 36,
+        "token_text": "E",
+        "prob": 0.008827337063848972
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.004749270621687174
+      }
+    ]
+  },
+  {
+    "id": "factual_02",
+    "category": "factual_qa",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6941752116969411,
+    "js_to_target": 0.6691502234910744,
+    "donor_margin": -0.025024988205866627,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Here",
+    "target_top1_text": "E",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.900852620601654
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.035003479570150375
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.032088179141283035
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.011149650439620018
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.006534869316965342
+      }
+    ]
+  },
+  {
+    "id": "factual_02",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6922388491383126,
+    "js_to_target": 0.6443601150730007,
+    "donor_margin": -0.047878734065311845,
+    "patched_top1_text": "Actually",
+    "donor_top1_text": "Here",
+    "target_top1_text": "E",
+    "top_tokens": [
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.18154111504554749
+      },
+      {
+        "token_id": 3446,
+        "token_text": "New",
+        "prob": 0.014806848019361496
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.007834640331566334
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 0.006371364928781986
+      },
+      {
+        "token_id": 15337,
+        "token_text": "Although",
+        "prob": 0.006257129833102226
+      }
+    ]
+  },
+  {
+    "id": "factual_02",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6883301550943587,
+    "js_to_target": 0.5594141107421271,
+    "donor_margin": -0.12891604435223158,
+    "patched_top1_text": "Despite",
+    "donor_top1_text": "Here",
+    "target_top1_text": "E",
+    "top_tokens": [
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.5287980437278748
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.051569126546382904
+      },
+      {
+        "token_id": 36,
+        "token_text": "E",
+        "prob": 0.01929308846592903
+      },
+      {
+        "token_id": 17187,
+        "token_text": " Despite",
+        "prob": 0.012158812023699284
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.010840415954589844
+      }
+    ]
+  },
+  {
+    "id": "factual_02",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6924938127370913,
+    "js_to_target": 0.48001146754861673,
+    "donor_margin": -0.2124823451884746,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "E",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.08039925247430801
+      },
+      {
+        "token_id": 36,
+        "token_text": "E",
+        "prob": 0.055830683559179306
+      },
+      {
+        "token_id": 12115,
+        "token_text": "Short",
+        "prob": 0.03552214056253433
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.01819356344640255
+      },
+      {
+        "token_id": 2523,
+        "token_text": "You",
+        "prob": 0.01464761607348919
+      }
+    ]
+  },
+  {
+    "id": "factual_03",
+    "category": "factual_qa",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.4229228058600843,
+    "js_to_target": 0.1493169400598253,
+    "donor_margin": -0.27360586580025903,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.6387832760810852
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.34486207365989685
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0022414405830204487
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.0014778666663914919
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0007336369599215686
+      }
+    ]
+  },
+  {
+    "id": "factual_03",
+    "category": "factual_qa",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6925228486861903,
+    "js_to_target": 0.6893809702685905,
+    "donor_margin": -0.0031418784175998304,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.6531965136528015
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.15841947495937347
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.11862003058195114
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.00984166283160448
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.0035006171092391014
+      }
+    ]
+  },
+  {
+    "id": "factual_03",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6886219240215224,
+    "js_to_target": 0.6329871981336004,
+    "donor_margin": -0.055634725887922065,
+    "patched_top1_text": "Actually",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.06405460834503174
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.021989688277244568
+      },
+      {
+        "token_id": 20003,
+        "token_text": "Both",
+        "prob": 0.0076958355493843555
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 0.0073224026709795
+      },
+      {
+        "token_id": 13326,
+        "token_text": " atmos",
+        "prob": 0.0071020787581801414
+      }
+    ]
+  },
+  {
+    "id": "factual_03",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6839281220546058,
+    "js_to_target": 0.4054928484273296,
+    "donor_margin": -0.27843527362727627,
+    "patched_top1_text": "Despite",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.21606072783470154
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.20596201717853546
+      },
+      {
+        "token_id": 17187,
+        "token_text": " Despite",
+        "prob": 0.015928562730550766
+      },
+      {
+        "token_id": 121484,
+        "token_text": "\u5c3d\u4e86",
+        "prob": 0.014334183186292648
+      },
+      {
+        "token_id": 7732,
+        "token_text": "While",
+        "prob": 0.010460802353918552
+      }
+    ]
+  },
+  {
+    "id": "factual_03",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6867941517675427,
+    "js_to_target": 0.433293069890562,
+    "donor_margin": -0.25350108187698067,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.17987652122974396
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.006243420299142599
+      },
+      {
+        "token_id": 1597,
+        "token_text": "At",
+        "prob": 0.005484079942107201
+      },
+      {
+        "token_id": 24667,
+        "token_text": "Between",
+        "prob": 0.005222256761044264
+      },
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.005120629444718361
+      }
+    ]
+  },
+  {
+    "id": "factual_04",
+    "category": "factual_qa",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6240234527061329,
+    "js_to_target": 0.00690466239597351,
+    "donor_margin": -0.6171187903101594,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.9801753163337708
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.015446892008185387
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0004543290415313095
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.00044450495624914765
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.000163513352163136
+      }
+    ]
+  },
+  {
+    "id": "factual_04",
+    "category": "factual_qa",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6934435334781528,
+    "js_to_target": 0.6928590104753052,
+    "donor_margin": -0.0005845230028476145,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.6501034498214722
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.3041103780269623
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.017336789518594742
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.0019041119376197457
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.0014515911461785436
+      }
+    ]
+  },
+  {
+    "id": "factual_04",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6710462741724355,
+    "js_to_target": 0.48802146051384887,
+    "donor_margin": -0.18302481365858658,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.1330285370349884
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.0744127482175827
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.012848549522459507
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 0.011998630128800869
+      },
+      {
+        "token_id": 68404,
+        "token_text": "Basically",
+        "prob": 0.008130286820232868
+      }
+    ]
+  },
+  {
+    "id": "factual_04",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6597509791605431,
+    "js_to_target": 0.1334123998017148,
+    "donor_margin": -0.5263385793588283,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.6638259291648865
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.04110925272107124
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.004634061362594366
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.003072811057791114
+      },
+      {
+        "token_id": 121484,
+        "token_text": "\u5c3d\u4e86",
+        "prob": 0.002647882793098688
+      }
+    ]
+  },
+  {
+    "id": "factual_04",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6638687741835019,
+    "js_to_target": 0.18366364560448503,
+    "donor_margin": -0.48020512857901687,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.5600961446762085
+      },
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.007564864587038755
+      },
+      {
+        "token_id": 1597,
+        "token_text": "At",
+        "prob": 0.0038113256450742483
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.003708136733621359
+      },
+      {
+        "token_id": 226752,
+        "token_text": "Netz",
+        "prob": 0.0036487889010459185
+      }
+    ]
+  },
+  {
+    "id": "factual_05",
+    "category": "factual_qa",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6627799211097916,
+    "js_to_target": 0.15169562261480413,
+    "donor_margin": -0.5110842984949875,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.6968548893928528
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.27925506234169006
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.004060069564729929
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0012465153122320771
+      },
+      {
+        "token_id": 67776,
+        "token_text": "Understanding",
+        "prob": 0.0008272163104265928
+      }
+    ]
+  },
+  {
+    "id": "factual_05",
+    "category": "factual_qa",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6930390217094353,
+    "js_to_target": 0.6868920245754242,
+    "donor_margin": -0.006146997134011123,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.7405755519866943
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.16422829031944275
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.04931826516985893
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.009828029200434685
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.004167557694017887
+      }
+    ]
+  },
+  {
+    "id": "factual_05",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6910504719773303,
+    "js_to_target": 0.6237512682765853,
+    "donor_margin": -0.06729920370074494,
+    "patched_top1_text": "Both",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 20003,
+        "token_text": "Both",
+        "prob": 0.06230800226330757
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.05368950217962265
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.011536048725247383
+      },
+      {
+        "token_id": 32042,
+        "token_text": "Being",
+        "prob": 0.011226778849959373
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.010495971888303757
+      }
+    ]
+  },
+  {
+    "id": "factual_05",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6854939531280566,
+    "js_to_target": 0.46249788001218406,
+    "donor_margin": -0.22299607311587255,
+    "patched_top1_text": "Despite",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.16505038738250732
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.13140705227851868
+      },
+      {
+        "token_id": 7732,
+        "token_text": "While",
+        "prob": 0.01875326782464981
+      },
+      {
+        "token_id": 121484,
+        "token_text": "\u5c3d\u4e86",
+        "prob": 0.01344049908220768
+      },
+      {
+        "token_id": 17187,
+        "token_text": " Despite",
+        "prob": 0.011340648867189884
+      }
+    ]
+  },
+  {
+    "id": "factual_05",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.691183628641499,
+    "js_to_target": 0.5016404501984086,
+    "donor_margin": -0.18954317844309032,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.1081782802939415
+      },
+      {
+        "token_id": 1597,
+        "token_text": "At",
+        "prob": 0.007618783973157406
+      },
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.006718912161886692
+      },
+      {
+        "token_id": 24667,
+        "token_text": "Between",
+        "prob": 0.006266352720558643
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.005959658417850733
+      }
+    ]
+  },
+  {
+    "id": "factual_06",
+    "category": "factual_qa",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6738991716993572,
+    "js_to_target": 0.1636208865328321,
+    "donor_margin": -0.5102782851665251,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.8115423321723938
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.16752459108829498
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.005124048329889774
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0006306392606347799
+      },
+      {
+        "token_id": 67776,
+        "token_text": "Understanding",
+        "prob": 0.00048289194819517434
+      }
+    ]
+  },
+  {
+    "id": "factual_06",
+    "category": "factual_qa",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6935379745581174,
+    "js_to_target": 0.6440713726686469,
+    "donor_margin": -0.049466601889470496,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.8172194361686707
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.10869450867176056
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.04917183145880699
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.005121559835970402
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.0038087209686636925
+      }
+    ]
+  },
+  {
+    "id": "factual_06",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6923950442940725,
+    "js_to_target": 0.4173759901488463,
+    "donor_margin": -0.2750190541452262,
+    "patched_top1_text": "Salt",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 45742,
+        "token_text": "Salt",
+        "prob": 0.4957808554172516
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.04915229231119156
+      },
+      {
+        "token_id": 26173,
+        "token_text": " Salt",
+        "prob": 0.028707049787044525
+      },
+      {
+        "token_id": 8780,
+        "token_text": "Lower",
+        "prob": 0.025110235437750816
+      },
+      {
+        "token_id": 98206,
+        "token_text": "\u76d0",
+        "prob": 0.016544761136174202
+      }
+    ]
+  },
+  {
+    "id": "factual_06",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6832182613354015,
+    "js_to_target": 0.31818604996233163,
+    "donor_margin": -0.3650322113730699,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.2019023448228836
+      },
+      {
+        "token_id": 45742,
+        "token_text": "Salt",
+        "prob": 0.10993342101573944
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.03631521016359329
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.015736719593405724
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.013667318969964981
+      }
+    ]
+  },
+  {
+    "id": "factual_06",
+    "category": "factual_qa",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6923586827309793,
+    "js_to_target": 0.34517791009023635,
+    "donor_margin": -0.347180772640743,
+    "patched_top1_text": "Salt",
+    "donor_top1_text": "Here",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 45742,
+        "token_text": "Salt",
+        "prob": 0.2865614593029022
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.08825783431529999
+      },
+      {
+        "token_id": 40825,
+        "token_text": "salt",
+        "prob": 0.0326969139277935
+      },
+      {
+        "token_id": 98206,
+        "token_text": "\u76d0",
+        "prob": 0.02248021401464939
+      },
+      {
+        "token_id": 11679,
+        "token_text": " salt",
+        "prob": 0.017020946368575096
+      }
+    ]
+  },
+  {
+    "id": "multiturn_01",
+    "category": "multi_turn_chat",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.4568933750844534,
+    "js_to_target": 0.0528535095704919,
+    "donor_margin": -0.4040398655139615,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.8642008304595947
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.11704570800065994
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0018768712179735303
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0011217861901968718
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.000912048970349133
+      }
+    ]
+  },
+  {
+    "id": "multiturn_01",
+    "category": "multi_turn_chat",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6924371119538375,
+    "js_to_target": 0.6700735591968426,
+    "donor_margin": -0.022363552756994864,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.5292972922325134
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.3417068123817444
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.1023724228143692
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.006634705234318972
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.005556872580200434
+      }
+    ]
+  },
+  {
+    "id": "multiturn_01",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6722621891178121,
+    "js_to_target": 0.59801861667601,
+    "donor_margin": -0.07424357244180213,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.04093706235289574
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.025898238644003868
+      },
+      {
+        "token_id": 27125,
+        "token_text": "Having",
+        "prob": 0.01663530059158802
+      },
+      {
+        "token_id": 32042,
+        "token_text": "Being",
+        "prob": 0.01517903245985508
+      },
+      {
+        "token_id": 32853,
+        "token_text": "Working",
+        "prob": 0.014129106886684895
+      }
+    ]
+  },
+  {
+    "id": "multiturn_01",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6522319418943722,
+    "js_to_target": 0.2901844738641249,
+    "donor_margin": -0.3620474680302473,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.3504350483417511
+      },
+      {
+        "token_id": 2,
+        "token_text": "#",
+        "prob": 0.024205811321735382
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.022493507713079453
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.010710925795137882
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.008920203894376755
+      }
+    ]
+  },
+  {
+    "id": "multiturn_01",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6861010977967317,
+    "js_to_target": 0.6672354854746052,
+    "donor_margin": -0.018865612322126468,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.012857590802013874
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.010206736624240875
+      },
+      {
+        "token_id": 59986,
+        "token_text": "Challenge",
+        "prob": 0.009337215684354305
+      },
+      {
+        "token_id": 12189,
+        "token_text": "Since",
+        "prob": 0.00858119037002325
+      },
+      {
+        "token_id": 52091,
+        "token_text": "Stretch",
+        "prob": 0.007744685281068087
+      }
+    ]
+  },
+  {
+    "id": "multiturn_02",
+    "category": "multi_turn_chat",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.5560645324200922,
+    "js_to_target": 0.6410934535168961,
+    "donor_margin": 0.08502892109680382,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.30413177609443665
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.15529131889343262
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.14441858232021332
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.07425585389137268
+      },
+      {
+        "token_id": 7734,
+        "token_text": "Write",
+        "prob": 0.018951650708913803
+      }
+    ]
+  },
+  {
+    "id": "multiturn_02",
+    "category": "multi_turn_chat",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6933548168066017,
+    "js_to_target": 0.6273925655229562,
+    "donor_margin": -0.06596225128364552,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.7958040833473206
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.1361338198184967
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.013727475889027119
+      },
+      {
+        "token_id": 9,
+        "token_text": "*",
+        "prob": 0.012899450026452541
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.0029357613530009985
+      }
+    ]
+  },
+  {
+    "id": "multiturn_02",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6925289362644779,
+    "js_to_target": 0.6415745900481682,
+    "donor_margin": -0.050954346216309676,
+    "patched_top1_text": "For",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 2381,
+        "token_text": "For",
+        "prob": 0.02551262453198433
+      },
+      {
+        "token_id": 53396,
+        "token_text": "Better",
+        "prob": 0.015920434147119522
+      },
+      {
+        "token_id": 23298,
+        "token_text": "Choose",
+        "prob": 0.01587449572980404
+      },
+      {
+        "token_id": 78952,
+        "token_text": "SQLite",
+        "prob": 0.014649648219347
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.014443819411098957
+      }
+    ]
+  },
+  {
+    "id": "multiturn_02",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6924171034528553,
+    "js_to_target": 0.5163003697617996,
+    "donor_margin": -0.17611673369105574,
+    "patched_top1_text": "-",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 12,
+        "token_text": "-",
+        "prob": 0.7497299313545227
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.030864592641592026
+      },
+      {
+        "token_id": 9,
+        "token_text": "*",
+        "prob": 0.025246985256671906
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.011216549202799797
+      },
+      {
+        "token_id": 9947,
+        "token_text": "Use",
+        "prob": 0.00997256115078926
+      }
+    ]
+  },
+  {
+    "id": "multiturn_02",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6924938144454151,
+    "js_to_target": 0.4775146388051054,
+    "donor_margin": -0.21497917564030972,
+    "patched_top1_text": "**",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.059949226677417755
+      },
+      {
+        "token_id": 12,
+        "token_text": "-",
+        "prob": 0.05669500678777695
+      },
+      {
+        "token_id": 9,
+        "token_text": "*",
+        "prob": 0.03634721413254738
+      },
+      {
+        "token_id": 16345,
+        "token_text": "Switch",
+        "prob": 0.031982071697711945
+      },
+      {
+        "token_id": 9947,
+        "token_text": "Use",
+        "prob": 0.020228186622262
+      }
+    ]
+  },
+  {
+    "id": "multiturn_03",
+    "category": "multi_turn_chat",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.08469004034848455,
+    "js_to_target": 0.6423739891934319,
+    "donor_margin": 0.5576839488449473,
+    "patched_top1_text": "Thinking",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Since",
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.42371171712875366
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.3217335343360901
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.04901723563671112
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.02882564440369606
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.009982645511627197
+      }
+    ]
+  },
+  {
+    "id": "multiturn_03",
+    "category": "multi_turn_chat",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6929208122059181,
+    "js_to_target": 0.4949103268467324,
+    "donor_margin": -0.19801048535918564,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Since",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.8520591855049133
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.10188419371843338
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.013598387129604816
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.011377675458788872
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.008405476808547974
+      }
+    ]
+  },
+  {
+    "id": "multiturn_03",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.684739921713198,
+    "js_to_target": 0.6100215749379605,
+    "donor_margin": -0.07471834677523748,
+    "patched_top1_text": "Having",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Since",
+    "top_tokens": [
+      {
+        "token_id": 27125,
+        "token_text": "Having",
+        "prob": 0.09399528056383133
+      },
+      {
+        "token_id": 20740,
+        "token_text": "Great",
+        "prob": 0.03618653863668442
+      },
+      {
+        "token_id": 32042,
+        "token_text": "Being",
+        "prob": 0.012513536028563976
+      },
+      {
+        "token_id": 6820,
+        "token_text": "Now",
+        "prob": 0.011970896273851395
+      },
+      {
+        "token_id": 2592,
+        "token_text": "If",
+        "prob": 0.011410417035222054
+      }
+    ]
+  },
+  {
+    "id": "multiturn_03",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.629029710821942,
+    "js_to_target": 0.555299675829954,
+    "donor_margin": -0.07373003499198805,
+    "patched_top1_text": "Follow",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Since",
+    "top_tokens": [
+      {
+        "token_id": 12123,
+        "token_text": "Follow",
+        "prob": 0.045524172484874725
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.04455909505486488
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.031830526888370514
+      },
+      {
+        "token_id": 12189,
+        "token_text": "Since",
+        "prob": 0.023284735158085823
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.017316821962594986
+      }
+    ]
+  },
+  {
+    "id": "multiturn_03",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6883067026090319,
+    "js_to_target": 0.527684681149589,
+    "donor_margin": -0.16062202145944293,
+    "patched_top1_text": "Since",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Since",
+    "top_tokens": [
+      {
+        "token_id": 12189,
+        "token_text": "Since",
+        "prob": 0.04998117312788963
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.018600452691316605
+      },
+      {
+        "token_id": 37657,
+        "token_text": "Expand",
+        "prob": 0.012003536336123943
+      },
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.008488097228109837
+      },
+      {
+        "token_id": 4350,
+        "token_text": "When",
+        "prob": 0.008363531902432442
+      }
+    ]
+  },
+  {
+    "id": "multiturn_04",
+    "category": "multi_turn_chat",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.4529088505739109,
+    "js_to_target": 0.21540879762826665,
+    "donor_margin": -0.23750005294564425,
+    "patched_top1_text": "I",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "We",
+    "top_tokens": [
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.36893144249916077
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.16724787652492523
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.15992864966392517
+      },
+      {
+        "token_id": 29396,
+        "token_text": "Again",
+        "prob": 0.03000754490494728
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.02753368951380253
+      }
+    ]
+  },
+  {
+    "id": "multiturn_04",
+    "category": "multi_turn_chat",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6930734293769099,
+    "js_to_target": 0.648196883287983,
+    "donor_margin": -0.04487654608892688,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "We",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.5374242663383484
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.04115855693817139
+      },
+      {
+        "token_id": 10397,
+        "token_text": "\"We",
+        "prob": 0.030527697876095772
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.028013812378048897
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.010171719826757908
+      }
+    ]
+  },
+  {
+    "id": "multiturn_04",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6928378718409082,
+    "js_to_target": 0.5961165385655509,
+    "donor_margin": -0.09672133327535726,
+    "patched_top1_text": "We",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "We",
+    "top_tokens": [
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.04185004532337189
+      },
+      {
+        "token_id": 7525,
+        "token_text": "Your",
+        "prob": 0.010805463418364525
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.009818268939852715
+      },
+      {
+        "token_id": 5328,
+        "token_text": "Please",
+        "prob": 0.009794962592422962
+      },
+      {
+        "token_id": 32042,
+        "token_text": "Being",
+        "prob": 0.005022501107305288
+      }
+    ]
+  },
+  {
+    "id": "multiturn_04",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6928240709100377,
+    "js_to_target": 0.22757918893084356,
+    "donor_margin": -0.46524488197919417,
+    "patched_top1_text": "We",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "We",
+    "top_tokens": [
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.4140138626098633
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.10180310904979706
+      },
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.01751692034304142
+      },
+      {
+        "token_id": 6825,
+        "token_text": "\"I",
+        "prob": 0.01440895814448595
+      },
+      {
+        "token_id": 18572,
+        "token_text": "Sorry",
+        "prob": 0.007708647754043341
+      }
+    ]
+  },
+  {
+    "id": "multiturn_04",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6929240414528435,
+    "js_to_target": 0.2375079507583145,
+    "donor_margin": -0.455416090694529,
+    "patched_top1_text": "We",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "We",
+    "top_tokens": [
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.8006182312965393
+      },
+      {
+        "token_id": 1165,
+        "token_text": " We",
+        "prob": 0.0023736455477774143
+      },
+      {
+        "token_id": 10397,
+        "token_text": "\"We",
+        "prob": 0.0019255356164649129
+      },
+      {
+        "token_id": 567,
+        "token_text": " we",
+        "prob": 0.0017232992686331272
+      },
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.0016901512863114476
+      }
+    ]
+  },
+  {
+    "id": "multiturn_05",
+    "category": "multi_turn_chat",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.4352505341797278,
+    "js_to_target": 0.6675418049612356,
+    "donor_margin": 0.2322912707815078,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.6841644048690796
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.17718133330345154
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0531817302107811
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.010240821167826653
+      },
+      {
+        "token_id": 60856,
+        "token_text": "Implement",
+        "prob": 0.0023581311106681824
+      }
+    ]
+  },
+  {
+    "id": "multiturn_05",
+    "category": "multi_turn_chat",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6942125118684676,
+    "js_to_target": 0.5854549137085555,
+    "donor_margin": -0.10875759815991204,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.9305676817893982
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.05397948995232582
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.0030789016745984554
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.002808770863339305
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.0011823737295344472
+      }
+    ]
+  },
+  {
+    "id": "multiturn_05",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6904239571800224,
+    "js_to_target": 0.6536915459299288,
+    "donor_margin": -0.03673241125009352,
+    "patched_top1_text": "Being",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 32042,
+        "token_text": "Being",
+        "prob": 0.025453288108110428
+      },
+      {
+        "token_id": 80711,
+        "token_text": "Concrete",
+        "prob": 0.02400343120098114
+      },
+      {
+        "token_id": 50821,
+        "token_text": "Actually",
+        "prob": 0.010597676038742065
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.009962528944015503
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 0.008680642582476139
+      }
+    ]
+  },
+  {
+    "id": "multiturn_05",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.688405067500576,
+    "js_to_target": 0.41258873082764314,
+    "donor_margin": -0.2758163366729328,
+    "patched_top1_text": "-",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 12,
+        "token_text": "-",
+        "prob": 0.1959802508354187
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.13776996731758118
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.0683239996433258
+      },
+      {
+        "token_id": 3833,
+        "token_text": "One",
+        "prob": 0.06275008618831635
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.051277343183755875
+      }
+    ]
+  },
+  {
+    "id": "multiturn_05",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6922514999167688,
+    "js_to_target": 0.4423532914425964,
+    "donor_margin": -0.24989820847417243,
+    "patched_top1_text": "**",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.12350141257047653
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.07552903145551682
+      },
+      {
+        "token_id": 9,
+        "token_text": "*",
+        "prob": 0.02851119637489319
+      },
+      {
+        "token_id": 1073,
+        "token_text": "Con",
+        "prob": 0.011739848181605339
+      },
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.009561063721776009
+      }
+    ]
+  },
+  {
+    "id": "multiturn_06",
+    "category": "multi_turn_chat",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.5789805523279299,
+    "js_to_target": 0.24525190301034094,
+    "donor_margin": -0.33372864931758894,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.8301537036895752
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.05861935764551163
+      },
+      {
+        "token_id": 64007,
+        "token_text": "Ultimately",
+        "prob": 0.014364346861839294
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.008253108710050583
+      },
+      {
+        "token_id": 91763,
+        "token_text": "Choosing",
+        "prob": 0.007237561047077179
+      }
+    ]
+  },
+  {
+    "id": "multiturn_06",
+    "category": "multi_turn_chat",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6933454556700117,
+    "js_to_target": 0.5822327473456926,
+    "donor_margin": -0.11111270832431908,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.9310270547866821
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.052936308085918427
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.005388325545936823
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.0029605894815176725
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.0016867304220795631
+      }
+    ]
+  },
+  {
+    "id": "multiturn_06",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6931027322036565,
+    "js_to_target": 0.3846106374535154,
+    "donor_margin": -0.30849209475014105,
+    "patched_top1_text": "Select",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 3270,
+        "token_text": "Select",
+        "prob": 0.16655094921588898
+      },
+      {
+        "token_id": 91763,
+        "token_text": "Choosing",
+        "prob": 0.12490732222795486
+      },
+      {
+        "token_id": 64007,
+        "token_text": "Ultimately",
+        "prob": 0.03964841738343239
+      },
+      {
+        "token_id": 1681,
+        "token_text": "select",
+        "prob": 0.020623639225959778
+      },
+      {
+        "token_id": 2592,
+        "token_text": "If",
+        "prob": 0.012419457547366619
+      }
+    ]
+  },
+  {
+    "id": "multiturn_06",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6927106487460478,
+    "js_to_target": 0.4354772166562942,
+    "donor_margin": -0.25723343208975363,
+    "patched_top1_text": "Despite",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 19205,
+        "token_text": "Despite",
+        "prob": 0.3146122694015503
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.10244861245155334
+      },
+      {
+        "token_id": 91763,
+        "token_text": "Choosing",
+        "prob": 0.030451752245426178
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.019338030368089676
+      },
+      {
+        "token_id": 17187,
+        "token_text": " Despite",
+        "prob": 0.008319021202623844
+      }
+    ]
+  },
+  {
+    "id": "multiturn_06",
+    "category": "multi_turn_chat",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6930009655670031,
+    "js_to_target": 0.4792410106912891,
+    "donor_margin": -0.21375995487571398,
+    "patched_top1_text": "The",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.07128039747476578
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.030397484079003334
+      },
+      {
+        "token_id": 4350,
+        "token_text": "When",
+        "prob": 0.025829249992966652
+      },
+      {
+        "token_id": 24667,
+        "token_text": "Between",
+        "prob": 0.023545514792203903
+      },
+      {
+        "token_id": 64007,
+        "token_text": "Ultimately",
+        "prob": 0.018308645114302635
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_01",
+    "category": "non_english",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.44700137635359793,
+    "js_to_target": 0.6287783978601562,
+    "donor_margin": 0.18177702150655828,
+    "patched_top1_text": "Thinking",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "H",
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.18628859519958496
+      },
+      {
+        "token_id": 42353,
+        "token_text": "Las",
+        "prob": 0.03373625874519348
+      },
+      {
+        "token_id": 32850,
+        "token_text": "Human",
+        "prob": 0.025359435006976128
+      },
+      {
+        "token_id": 83701,
+        "token_text": "Crear",
+        "prob": 0.019034354016184807
+      },
+      {
+        "token_id": 60856,
+        "token_text": "Implement",
+        "prob": 0.017172835767269135
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_01",
+    "category": "non_english",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6936342221589312,
+    "js_to_target": 0.2531496826289761,
+    "donor_margin": -0.44048453952995514,
+    "patched_top1_text": "H",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "H",
+    "top_tokens": [
+      {
+        "token_id": 39,
+        "token_text": "H",
+        "prob": 0.4138157367706299
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.21475398540496826
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.09831554442644119
+      },
+      {
+        "token_id": 7700,
+        "token_text": "real",
+        "prob": 0.017420630902051926
+      },
+      {
+        "token_id": 48204,
+        "token_text": "Som",
+        "prob": 0.014744834043085575
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_01",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6930884529771373,
+    "js_to_target": 0.6318753469562248,
+    "donor_margin": -0.061213106020912456,
+    "patched_top1_text": "Las",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "H",
+    "top_tokens": [
+      {
+        "token_id": 42353,
+        "token_text": "Las",
+        "prob": 0.03400908783078194
+      },
+      {
+        "token_id": 12402,
+        "token_text": "Real",
+        "prob": 0.013754365034401417
+      },
+      {
+        "token_id": 16849,
+        "token_text": "Es",
+        "prob": 0.007457941770553589
+      },
+      {
+        "token_id": 92523,
+        "token_text": "Actualizar",
+        "prob": 0.006622662302106619
+      },
+      {
+        "token_id": 16400,
+        "token_text": "Export",
+        "prob": 0.006076954770833254
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_01",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6924764994161197,
+    "js_to_target": 0.2882805441683378,
+    "donor_margin": -0.40419595524778185,
+    "patched_top1_text": "H",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "H",
+    "top_tokens": [
+      {
+        "token_id": 39,
+        "token_text": "H",
+        "prob": 0.283749520778656
+      },
+      {
+        "token_id": 95617,
+        "token_text": "Haz",
+        "prob": 0.18621689081192017
+      },
+      {
+        "token_id": 8482,
+        "token_text": "La",
+        "prob": 0.06437049806118011
+      },
+      {
+        "token_id": 42353,
+        "token_text": "Las",
+        "prob": 0.04455897584557533
+      },
+      {
+        "token_id": 12402,
+        "token_text": "Real",
+        "prob": 0.015791404992341995
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_01",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6928763487588151,
+    "js_to_target": 0.30919413065910134,
+    "donor_margin": -0.38368221809971376,
+    "patched_top1_text": "H",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "H",
+    "top_tokens": [
+      {
+        "token_id": 39,
+        "token_text": "H",
+        "prob": 0.3094566762447357
+      },
+      {
+        "token_id": 239892,
+        "token_text": " HAC",
+        "prob": 0.05347628518939018
+      },
+      {
+        "token_id": 12925,
+        "token_text": "Med",
+        "prob": 0.021376246586441994
+      },
+      {
+        "token_id": 90210,
+        "token_text": "Sac",
+        "prob": 0.01343284361064434
+      },
+      {
+        "token_id": 37657,
+        "token_text": "Expand",
+        "prob": 0.011289356276392937
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_02",
+    "category": "non_english",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.45243230231966336,
+    "js_to_target": 0.6204486805307375,
+    "donor_margin": 0.16801637821107418,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Vo",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.4301524758338928
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.1523936241865158
+      },
+      {
+        "token_id": 26623,
+        "token_text": "Vo",
+        "prob": 0.03179214894771576
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.011271676979959011
+      },
+      {
+        "token_id": 97490,
+        "token_text": "\u8fd9\u91cc",
+        "prob": 0.007680416572839022
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_02",
+    "category": "non_english",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.693442224496164,
+    "js_to_target": 0.4875673549485482,
+    "donor_margin": -0.2058748695476158,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Vo",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.25468751788139343
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.19701005518436432
+      },
+      {
+        "token_id": 26623,
+        "token_text": "Vo",
+        "prob": 0.13237281143665314
+      },
+      {
+        "token_id": 200504,
+        "token_text": "nTo",
+        "prob": 0.0159772839397192
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.012680411338806152
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_02",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6919205296001574,
+    "js_to_target": 0.6006793763809178,
+    "donor_margin": -0.09124115321923953,
+    "patched_top1_text": "Pour",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Vo",
+    "top_tokens": [
+      {
+        "token_id": 40781,
+        "token_text": "Pour",
+        "prob": 0.04461456462740898
+      },
+      {
+        "token_id": 26623,
+        "token_text": "Vo",
+        "prob": 0.04303330183029175
+      },
+      {
+        "token_id": 10143,
+        "token_text": "Att",
+        "prob": 0.011377359740436077
+      },
+      {
+        "token_id": 84067,
+        "token_text": " organising",
+        "prob": 0.004379048477858305
+      },
+      {
+        "token_id": 10361,
+        "token_text": "Comment",
+        "prob": 0.004019475542008877
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_02",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6903655955971792,
+    "js_to_target": 0.07948813236951847,
+    "donor_margin": -0.6108774632276608,
+    "patched_top1_text": "Vo",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Vo",
+    "top_tokens": [
+      {
+        "token_id": 26623,
+        "token_text": "Vo",
+        "prob": 0.7856352925300598
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0036150163505226374
+      },
+      {
+        "token_id": 71556,
+        "token_text": "ICI",
+        "prob": 0.0025640770327299833
+      },
+      {
+        "token_id": 38493,
+        "token_text": "Sure",
+        "prob": 0.00256152730435133
+      },
+      {
+        "token_id": 188091,
+        "token_text": " voici",
+        "prob": 0.0024726008996367455
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_02",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6930423401865617,
+    "js_to_target": 0.360223443801714,
+    "donor_margin": -0.33281889638484774,
+    "patched_top1_text": "Vo",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Vo",
+    "top_tokens": [
+      {
+        "token_id": 26623,
+        "token_text": "Vo",
+        "prob": 0.2735271453857422
+      },
+      {
+        "token_id": 22503,
+        "token_text": "Organ",
+        "prob": 0.005928590428084135
+      },
+      {
+        "token_id": 79550,
+        "token_text": "Mais",
+        "prob": 0.004619683139026165
+      },
+      {
+        "token_id": 109375,
+        "token_text": "\u7ec4\u7ec7\u7684",
+        "prob": 0.003917684778571129
+      },
+      {
+        "token_id": 7173,
+        "token_text": "Enc",
+        "prob": 0.0035610829945653677
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_03",
+    "category": "non_english",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.589756303942321,
+    "js_to_target": 0.08311065122796549,
+    "donor_margin": -0.5066456527143556,
+    "patched_top1_text": "Der",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Der",
+    "top_tokens": [
+      {
+        "token_id": 21483,
+        "token_text": "Der",
+        "prob": 0.7635819315910339
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.042511068284511566
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.015315384604036808
+      },
+      {
+        "token_id": 72357,
+        "token_text": "Hier",
+        "prob": 0.012592941522598267
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0062517886981368065
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_03",
+    "category": "non_english",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6928515756529796,
+    "js_to_target": 0.6848924353217453,
+    "donor_margin": -0.007959140331234349,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Der",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.42986753582954407
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.07888537645339966
+      },
+      {
+        "token_id": 6262,
+        "token_text": "Gr",
+        "prob": 0.014741628430783749
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.010339105501770973
+      },
+      {
+        "token_id": 39,
+        "token_text": "H",
+        "prob": 0.0070435344241559505
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_03",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6923715405487163,
+    "js_to_target": 0.3709374849532733,
+    "donor_margin": -0.321434055595443,
+    "patched_top1_text": "Der",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Der",
+    "top_tokens": [
+      {
+        "token_id": 21483,
+        "token_text": "Der",
+        "prob": 0.2533490061759949
+      },
+      {
+        "token_id": 1071,
+        "token_text": "der",
+        "prob": 0.0069115920923650265
+      },
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.006660746410489082
+      },
+      {
+        "token_id": 31538,
+        "token_text": "Das",
+        "prob": 0.0045064701698720455
+      },
+      {
+        "token_id": 17634,
+        "token_text": "Die",
+        "prob": 0.0043859900906682014
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_03",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6892754483941448,
+    "js_to_target": 0.47563686624260226,
+    "donor_margin": -0.21363858215154252,
+    "patched_top1_text": "Der",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Der",
+    "top_tokens": [
+      {
+        "token_id": 21483,
+        "token_text": "Der",
+        "prob": 0.1329227089881897
+      },
+      {
+        "token_id": 31538,
+        "token_text": "Das",
+        "prob": 0.013855434022843838
+      },
+      {
+        "token_id": 63190,
+        "token_text": "Ger",
+        "prob": 0.013710676692426205
+      },
+      {
+        "token_id": 12,
+        "token_text": "-",
+        "prob": 0.010155914351344109
+      },
+      {
+        "token_id": 17634,
+        "token_text": "Die",
+        "prob": 0.010085361078381538
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_03",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6923975401243204,
+    "js_to_target": 0.20402970748647942,
+    "donor_margin": -0.488367832637841,
+    "patched_top1_text": "Der",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Der",
+    "top_tokens": [
+      {
+        "token_id": 21483,
+        "token_text": "Der",
+        "prob": 0.5080868601799011
+      },
+      {
+        "token_id": 12376,
+        "token_text": " Der",
+        "prob": 0.03424189239740372
+      },
+      {
+        "token_id": 78942,
+        "token_text": "Auf",
+        "prob": 0.010672350414097309
+      },
+      {
+        "token_id": 17634,
+        "token_text": "Die",
+        "prob": 0.007911581546068192
+      },
+      {
+        "token_id": 25202,
+        "token_text": "Was",
+        "prob": 0.005170703865587711
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_04",
+    "category": "non_english",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.5350979028259144,
+    "js_to_target": 0.6251883731455978,
+    "donor_margin": 0.09009047031968342,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "O",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.33703938126564026
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.08611475676298141
+      },
+      {
+        "token_id": 12646,
+        "token_text": "Subject",
+        "prob": 0.07999937981367111
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.05724980682134628
+      },
+      {
+        "token_id": 36,
+        "token_text": "E",
+        "prob": 0.036704082041978836
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_04",
+    "category": "non_english",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.692165222115779,
+    "js_to_target": 0.24632431887463346,
+    "donor_margin": -0.44584090324114556,
+    "patched_top1_text": "O",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "O",
+    "top_tokens": [
+      {
+        "token_id": 46,
+        "token_text": "O",
+        "prob": 0.4628024995326996
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.25238779187202454
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.04257809370756149
+      },
+      {
+        "token_id": 38,
+        "token_text": "G",
+        "prob": 0.012778556905686855
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 0.011093737557530403
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_04",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6907345410420296,
+    "js_to_target": 0.6668933569021542,
+    "donor_margin": -0.02384118413987535,
+    "patched_top1_text": "Thread",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "O",
+    "top_tokens": [
+      {
+        "token_id": 6641,
+        "token_text": "Thread",
+        "prob": 0.017196964472532272
+      },
+      {
+        "token_id": 10143,
+        "token_text": "Att",
+        "prob": 0.011931134387850761
+      },
+      {
+        "token_id": 46,
+        "token_text": "O",
+        "prob": 0.005625955760478973
+      },
+      {
+        "token_id": 20192,
+        "token_text": "utt",
+        "prob": 0.004780350718647242
+      },
+      {
+        "token_id": 78732,
+        "token_text": "assi",
+        "prob": 0.004763544071465731
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_04",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6879915289013435,
+    "js_to_target": 0.5772188341334178,
+    "donor_margin": -0.11077269476792573,
+    "patched_top1_text": " oog",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "O",
+    "top_tokens": [
+      {
+        "token_id": 211200,
+        "token_text": " oog",
+        "prob": 0.05967792496085167
+      },
+      {
+        "token_id": 38,
+        "token_text": "G",
+        "prob": 0.03559798747301102
+      },
+      {
+        "token_id": 36,
+        "token_text": "E",
+        "prob": 0.024259310215711594
+      },
+      {
+        "token_id": 46,
+        "token_text": "O",
+        "prob": 0.02152738906443119
+      },
+      {
+        "token_id": 63190,
+        "token_text": "Ger",
+        "prob": 0.021314363926649094
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_04",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6909424641258253,
+    "js_to_target": 0.35076972446926014,
+    "donor_margin": -0.34017273965656514,
+    "patched_top1_text": "O",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "O",
+    "top_tokens": [
+      {
+        "token_id": 46,
+        "token_text": "O",
+        "prob": 0.26177671551704407
+      },
+      {
+        "token_id": 36,
+        "token_text": "E",
+        "prob": 0.02122824639081955
+      },
+      {
+        "token_id": 1073,
+        "token_text": "Con",
+        "prob": 0.006527281366288662
+      },
+      {
+        "token_id": 76150,
+        "token_text": ">O",
+        "prob": 0.0056198579259216785
+      },
+      {
+        "token_id": 168975,
+        "token_text": "\u00c8",
+        "prob": 0.005481697153300047
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_05",
+    "category": "non_english",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.5595160903745072,
+    "js_to_target": 0.6494417845950426,
+    "donor_margin": 0.08992569422053542,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "A",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.4097677171230316
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0705280750989914
+      },
+      {
+        "token_id": 88073,
+        "token_text": "Aqu",
+        "prob": 0.019715309143066406
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.019508475437760353
+      },
+      {
+        "token_id": 190749,
+        "token_text": " Aqui",
+        "prob": 0.012853441759943962
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_05",
+    "category": "non_english",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6940850788661409,
+    "js_to_target": 0.45899816261313414,
+    "donor_margin": -0.23508691625300676,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "A",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.3510453701019287
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.15151643753051758
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.08499398827552795
+      },
+      {
+        "token_id": 35,
+        "token_text": "D",
+        "prob": 0.013656886294484138
+      },
+      {
+        "token_id": 2270,
+        "token_text": "_to",
+        "prob": 0.006078531965613365
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_05",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6933187165435805,
+    "js_to_target": 0.6712491222322041,
+    "donor_margin": -0.02206959431137634,
+    "patched_top1_text": "Seg",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "A",
+    "top_tokens": [
+      {
+        "token_id": 10676,
+        "token_text": "Seg",
+        "prob": 0.017642701044678688
+      },
+      {
+        "token_id": 71841,
+        "token_text": "Atual",
+        "prob": 0.01600717194378376
+      },
+      {
+        "token_id": 216604,
+        "token_text": "S\u00e3o",
+        "prob": 0.010565605945885181
+      },
+      {
+        "token_id": 62705,
+        "token_text": "Como",
+        "prob": 0.007253481075167656
+      },
+      {
+        "token_id": 91210,
+        "token_text": "implement",
+        "prob": 0.0044321585446596146
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_05",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6923497336895962,
+    "js_to_target": 0.63142700270456,
+    "donor_margin": -0.0609227309850362,
+    "patched_top1_text": "1",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "A",
+    "top_tokens": [
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.12560825049877167
+      },
+      {
+        "token_id": 826,
+        "token_text": "List",
+        "prob": 0.021185804158449173
+      },
+      {
+        "token_id": 233511,
+        "token_text": "Uma",
+        "prob": 0.020038088783621788
+      },
+      {
+        "token_id": 64,
+        "token_text": "a",
+        "prob": 0.01870913989841938
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.014254150912165642
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_05",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6936839755755915,
+    "js_to_target": 0.598019160107806,
+    "donor_margin": -0.09566481546778549,
+    "patched_top1_text": "As",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "A",
+    "top_tokens": [
+      {
+        "token_id": 2053,
+        "token_text": "As",
+        "prob": 0.0627119243144989
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.03516964986920357
+      },
+      {
+        "token_id": 37657,
+        "token_text": "Expand",
+        "prob": 0.013500207103788853
+      },
+      {
+        "token_id": 35,
+        "token_text": "D",
+        "prob": 0.009279024787247181
+      },
+      {
+        "token_id": 95473,
+        "token_text": "Cri",
+        "prob": 0.007405203767120838
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_06",
+    "category": "non_english",
+    "method": "train_selected_fixed_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": -1,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.39004963657023295,
+    "js_to_target": 0.4822294643792729,
+    "donor_margin": 0.09217982780903994,
+    "patched_top1_text": "Thinking",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Una",
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.24142351746559143
+      },
+      {
+        "token_id": 61930,
+        "token_text": "Una",
+        "prob": 0.13587522506713867
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.041386526077985764
+      },
+      {
+        "token_id": 60856,
+        "token_text": "Implement",
+        "prob": 0.016656791791319847
+      },
+      {
+        "token_id": 62184,
+        "token_text": "Persona",
+        "prob": 0.012867503799498081
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_06",
+    "category": "non_english",
+    "method": "opposite_mean",
+    "layer": 32,
+    "width": 1,
+    "alpha": -2.0,
+    "seed": -1,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6931404064583142,
+    "js_to_target": 0.5277711244405956,
+    "donor_margin": -0.1653692820177186,
+    "patched_top1_text": "###",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Una",
+    "top_tokens": [
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.32346823811531067
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.1086481511592865
+      },
+      {
+        "token_id": 61930,
+        "token_text": "Una",
+        "prob": 0.0952380821108818
+      },
+      {
+        "token_id": 48204,
+        "token_text": "Som",
+        "prob": 0.00979234091937542
+      },
+      {
+        "token_id": 332,
+        "token_text": "**",
+        "prob": 0.009505021385848522
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_06",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 13,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6930380624797843,
+    "js_to_target": 0.18045929934427443,
+    "donor_margin": -0.5125787631355099,
+    "patched_top1_text": "Una",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Una",
+    "top_tokens": [
+      {
+        "token_id": 61930,
+        "token_text": "Una",
+        "prob": 0.562482476234436
+      },
+      {
+        "token_id": 4931,
+        "token_text": " una",
+        "prob": 0.004364304710179567
+      },
+      {
+        "token_id": 233511,
+        "token_text": "Uma",
+        "prob": 0.004144433885812759
+      },
+      {
+        "token_id": 110100,
+        "token_text": "\u4e00\u652f",
+        "prob": 0.0026443495880812407
+      },
+      {
+        "token_id": 22744,
+        "token_text": "Disc",
+        "prob": 0.002436381997540593
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_06",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 29,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6926664313827967,
+    "js_to_target": 0.14357689672042911,
+    "donor_margin": -0.5490895346623677,
+    "patched_top1_text": "Una",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Una",
+    "top_tokens": [
+      {
+        "token_id": 61930,
+        "token_text": "Una",
+        "prob": 0.6340440511703491
+      },
+      {
+        "token_id": 8482,
+        "token_text": "La",
+        "prob": 0.018075210973620415
+      },
+      {
+        "token_id": 233511,
+        "token_text": "Uma",
+        "prob": 0.01806943491101265
+      },
+      {
+        "token_id": 8303,
+        "token_text": "una",
+        "prob": 0.012842865660786629
+      },
+      {
+        "token_id": 41552,
+        "token_text": " Una",
+        "prob": 0.010349947959184647
+      }
+    ]
+  },
+  {
+    "id": "nonenglish_06",
+    "category": "non_english",
+    "method": "random_norm_matched",
+    "layer": 32,
+    "width": 1,
+    "alpha": 2.0,
+    "seed": 47,
+    "donor_win": 0,
+    "effective_control": 0,
+    "js_to_donor": 0.6922129529006193,
+    "js_to_target": 0.5505213696999756,
+    "donor_margin": -0.1416915832006438,
+    "patched_top1_text": "Una",
+    "donor_top1_text": "Thinking",
+    "target_top1_text": "Una",
+    "top_tokens": [
+      {
+        "token_id": 61930,
+        "token_text": "Una",
+        "prob": 0.07664378732442856
+      },
+      {
+        "token_id": 14635,
+        "token_text": "Bus",
+        "prob": 0.04093192145228386
+      },
+      {
+        "token_id": 1743,
+        "token_text": "Un",
+        "prob": 0.027479030191898346
+      },
+      {
+        "token_id": 6862,
+        "token_text": "API",
+        "prob": 0.02589286118745804
+      },
+      {
+        "token_id": 37657,
+        "token_text": "Expand",
+        "prob": 0.014780966565012932
+      }
+    ]
+  }
+]

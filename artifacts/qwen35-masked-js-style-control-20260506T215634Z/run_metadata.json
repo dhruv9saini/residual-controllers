@@ -1,0 +1,31 @@
+{
+  "created_utc": "2026-05-06T22:00:45.340044+00:00",
+  "model_id": "mlx-community/Qwen3.5-4B-4bit",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python": "3.12.13 (main, Mar 10 2026, 18:18:07) [Clang 21.1.4 ]",
+  "patch_width": 2,
+  "alpha_grid": [
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "directions": [
+    {
+      "label": "think_to_no_think",
+      "donor_mode": "no",
+      "target_mode": "think",
+      "style": "concise_minus_verbose"
+    },
+    {
+      "label": "no_think_to_think",
+      "donor_mode": "think",
+      "target_mode": "no",
+      "style": "verbose_minus_concise"
+    }
+  ],
+  "verbose_suffix": "\n\nGive a detailed step-by-step explanation before the final answer.",
+  "concise_suffix": "\n\nAnswer concisely in one short sentence.",
+  "prompts_per_category": 4
+}

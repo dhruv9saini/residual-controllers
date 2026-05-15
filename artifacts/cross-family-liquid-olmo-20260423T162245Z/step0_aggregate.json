@@ -1,0 +1,34 @@
+[
+  {
+    "family": "liquid_12b",
+    "count": 12,
+    "mean_js_instruct_to_think": 0.6932280759016672,
+    "js_instruct_to_think_ci_low": 0.6928104349722465,
+    "js_instruct_to_think_ci_high": 0.6936407537509998,
+    "mean_think_entropy": 0.0006247619773719132,
+    "think_entropy_ci_low": 0.00020453047255955789,
+    "think_entropy_ci_high": 0.0013284625764001668,
+    "mean_instruct_entropy": 0.9745701201565206,
+    "instruct_entropy_ci_low": 0.838772905330639,
+    "instruct_entropy_ci_high": 1.0890850989124927,
+    "mean_top1_match": 0.0,
+    "top1_match_ci_low": 0.0,
+    "top1_match_ci_high": 0.0
+  },
+  {
+    "family": "olmo3_7b",
+    "count": 12,
+    "mean_js_instruct_to_think": 0.693171093861262,
+    "js_instruct_to_think_ci_low": 0.6925557028502226,
+    "js_instruct_to_think_ci_high": 0.6937139182041089,
+    "mean_think_entropy": 0.39426126728731004,
+    "think_entropy_ci_low": 0.30164694981553114,
+    "think_entropy_ci_high": 0.5137472231376361,
+    "mean_instruct_entropy": 0.5008691402214439,
+    "instruct_entropy_ci_low": 0.30055843131128235,
+    "instruct_entropy_ci_high": 0.7053387205236653,
+    "mean_top1_match": 0.0,
+    "top1_match_ci_low": 0.0,
+    "top1_match_ci_high": 0.0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "family": "olmo3_7b",
+    "variant": "instruct_model_canonical",
+    "count": 12,
+    "mean_js_to_think_canonical": 0.693171095316642,
+    "mean_js_to_instruct_canonical": 0.0
+  },
+  {
+    "family": "olmo3_7b",
+    "variant": "instruct_model_think_suffix",
+    "count": 12,
+    "mean_js_to_think_canonical": 0.5004537665835853,
+    "mean_js_to_instruct_canonical": 0.6007378432803929
+  },
+  {
+    "family": "olmo3_7b",
+    "variant": "think_model_canonical",
+    "count": 12,
+    "mean_js_to_think_canonical": 0.0,
+    "mean_js_to_instruct_canonical": 0.693171095316642
+  },
+  {
+    "family": "olmo3_7b",
+    "variant": "think_model_instruct_suffix",
+    "count": 12,
+    "mean_js_to_think_canonical": 0.6929117900313376,
+    "mean_js_to_instruct_canonical": 0.603611382432517
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "layer": "final_norm_last_token",
+    "accuracy": 1.0
+  }
+]

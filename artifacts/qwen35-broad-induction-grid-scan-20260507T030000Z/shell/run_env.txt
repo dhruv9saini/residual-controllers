@@ -1,0 +1,7 @@
+run_id=qwen35-broad-induction-grid-scan-20260507T030000Z
+started_at_utc=2026-05-07T03:18:30Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+model=mlx-community/Qwen3.5-4B-4bit
+method=broad thinking-induction layer/width/alpha grid scan
+completed_at_utc=2026-05-07T03:20:43Z

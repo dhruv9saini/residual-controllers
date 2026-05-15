@@ -1,0 +1,58 @@
+[
+  {
+    "trace_step_tokens": 0,
+    "variant": "no_think_plus_own_think_trace",
+    "count": 12,
+    "mean_js_to_think_same_trace": 0.6821977093521093,
+    "mean_hidden_cosine_distance_to_think_same_trace": 0.6321386820879126,
+    "top1_match_rate_to_think_same_trace": 0.0
+  },
+  {
+    "trace_step_tokens": 8,
+    "variant": "no_think_plus_other_prompt_trace",
+    "count": 12,
+    "mean_js_to_think_same_trace": 0.2503403739241639,
+    "mean_hidden_cosine_distance_to_think_same_trace": 0.4459941593532976,
+    "top1_match_rate_to_think_same_trace": 0.6666666666666666
+  },
+  {
+    "trace_step_tokens": 8,
+    "variant": "no_think_plus_own_think_trace",
+    "count": 12,
+    "mean_js_to_think_same_trace": 0.022384096235420727,
+    "mean_hidden_cosine_distance_to_think_same_trace": 0.18428312869620292,
+    "top1_match_rate_to_think_same_trace": 1.0
+  },
+  {
+    "trace_step_tokens": 32,
+    "variant": "no_think_plus_other_prompt_trace",
+    "count": 12,
+    "mean_js_to_think_same_trace": 0.5278477206453411,
+    "mean_hidden_cosine_distance_to_think_same_trace": 0.6056776139009615,
+    "top1_match_rate_to_think_same_trace": 0.25
+  },
+  {
+    "trace_step_tokens": 32,
+    "variant": "no_think_plus_own_think_trace",
+    "count": 12,
+    "mean_js_to_think_same_trace": 0.004627206639734473,
+    "mean_hidden_cosine_distance_to_think_same_trace": 0.01571740807082105,
+    "top1_match_rate_to_think_same_trace": 0.9166666666666666
+  },
+  {
+    "trace_step_tokens": 64,
+    "variant": "no_think_plus_other_prompt_trace",
+    "count": 12,
+    "mean_js_to_think_same_trace": 0.6361698388270877,
+    "mean_hidden_cosine_distance_to_think_same_trace": 0.8047304734481484,
+    "top1_match_rate_to_think_same_trace": 0.08333333333333333
+  },
+  {
+    "trace_step_tokens": 64,
+    "variant": "no_think_plus_own_think_trace",
+    "count": 12,
+    "mean_js_to_think_same_trace": 0.007561281370105858,
+    "mean_hidden_cosine_distance_to_think_same_trace": 0.029997490877738574,
+    "top1_match_rate_to_think_same_trace": 0.9166666666666666
+  }
+]

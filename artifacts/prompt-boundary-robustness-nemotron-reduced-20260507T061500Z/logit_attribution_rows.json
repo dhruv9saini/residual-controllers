@@ -1,0 +1,1002 @@
+[
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 1,
+    "token_id": 14023,
+    "token_text": "<th",
+    "logit_delta": 17.900575637817383
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 2,
+    "token_id": 366,
+    "token_text": " <",
+    "logit_delta": 7.596797943115234
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 3,
+    "token_id": 27,
+    "token_text": "<",
+    "logit_delta": 5.961589813232422
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 4,
+    "token_id": 11,
+    "token_text": ",",
+    "logit_delta": 5.10807991027832
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 5,
+    "token_id": 13,
+    "token_text": ".",
+    "logit_delta": 4.452475070953369
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 6,
+    "token_id": 96939,
+    "token_text": " constructions",
+    "logit_delta": 4.062043190002441
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 7,
+    "token_id": 548,
+    "token_text": "are",
+    "logit_delta": 3.9877684116363525
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 8,
+    "token_id": 62792,
+    "token_text": " readiness",
+    "logit_delta": 3.9466440677642822
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 9,
+    "token_id": 304,
+    "token_text": " in",
+    "logit_delta": 3.911376953125
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 10,
+    "token_id": 71900,
+    "token_text": "langle",
+    "logit_delta": 3.8378536701202393
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 11,
+    "token_id": 939,
+    "token_text": "sh",
+    "logit_delta": 3.7850778102874756
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 12,
+    "token_id": 15884,
+    "token_text": " carefully",
+    "logit_delta": 3.754875659942627
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 13,
+    "token_id": 36001,
+    "token_text": " appropriately",
+    "logit_delta": 3.6915760040283203
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 14,
+    "token_id": 0,
+    "token_text": "!",
+    "logit_delta": 3.6852526664733887
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 15,
+    "token_id": 5370,
+    "token_text": " various",
+    "logit_delta": 3.5744223594665527
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 16,
+    "token_id": 2017,
+    "token_text": "over",
+    "logit_delta": 3.519763708114624
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 17,
+    "token_id": 1105,
+    "token_text": "ors",
+    "logit_delta": 3.5033607482910156
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 18,
+    "token_id": 17339,
+    "token_text": " okay",
+    "logit_delta": 3.4812915325164795
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 19,
+    "token_id": 47177,
+    "token_text": " swear",
+    "logit_delta": 3.476975917816162
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 20,
+    "token_id": 9522,
+    "token_text": "...\n",
+    "logit_delta": 3.440493106842041
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 21,
+    "token_id": 320,
+    "token_text": " (",
+    "logit_delta": 3.4261586666107178
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 22,
+    "token_id": 1056,
+    "token_text": "iss",
+    "logit_delta": 3.3772120475769043
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 23,
+    "token_id": 5099,
+    "token_text": " etc",
+    "logit_delta": 3.373427391052246
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 24,
+    "token_id": 272,
+    "token_text": " c",
+    "logit_delta": 3.3632991313934326
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 25,
+    "token_id": 35047,
+    "token_text": "..\n",
+    "logit_delta": 3.3395533561706543
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 1,
+    "token_id": 89352,
+    "token_text": "_________________\n\n",
+    "logit_delta": -10.076056480407715
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 2,
+    "token_id": 92494,
+    "token_text": ",eg",
+    "logit_delta": -9.922204971313477
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 3,
+    "token_id": 78286,
+    "token_text": ".Currency",
+    "logit_delta": -9.642486572265625
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 4,
+    "token_id": 18469,
+    "token_text": ".getElements",
+    "logit_delta": -9.468500137329102
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 5,
+    "token_id": 62890,
+    "token_text": "---</",
+    "logit_delta": -9.407793045043945
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 6,
+    "token_id": 111995,
+    "token_text": " t\u00f4",
+    "logit_delta": -9.30172061920166
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 7,
+    "token_id": 28527,
+    "token_text": ".\n\n\n\n\n\n\n\n",
+    "logit_delta": -9.211692810058594
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 8,
+    "token_id": 116848,
+    "token_text": " servis",
+    "logit_delta": -9.026376724243164
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 9,
+    "token_id": 83218,
+    "token_text": " hete",
+    "logit_delta": -8.992609024047852
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 10,
+    "token_id": 111222,
+    "token_text": "\u0404",
+    "logit_delta": -8.984156608581543
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 11,
+    "token_id": 45187,
+    "token_text": "#__",
+    "logit_delta": -8.967056274414062
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 12,
+    "token_id": 43604,
+    "token_text": "\u1ee7",
+    "logit_delta": -8.952067375183105
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 13,
+    "token_id": 94470,
+    "token_text": ".instrument",
+    "logit_delta": -8.914807319641113
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 14,
+    "token_id": 116092,
+    "token_text": "\u00f2i",
+    "logit_delta": -8.909625053405762
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 15,
+    "token_id": 76490,
+    "token_text": " puta",
+    "logit_delta": -8.861089706420898
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 16,
+    "token_id": 80348,
+    "token_text": ".Clock",
+    "logit_delta": -8.841285705566406
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 17,
+    "token_id": 40465,
+    "token_text": ".\n\n\n\n\n\n\n\n\n\n",
+    "logit_delta": -8.805971145629883
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 18,
+    "token_id": 46093,
+    "token_text": "\u2026.\n\n",
+    "logit_delta": -8.80419921875
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 19,
+    "token_id": 14670,
+    "token_text": "!\n\n\n\n",
+    "logit_delta": -8.790386199951172
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 20,
+    "token_id": 85740,
+    "token_text": "IPH",
+    "logit_delta": -8.789539337158203
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 21,
+    "token_id": 125402,
+    "token_text": "\u043e\u043b\u043e\u043c",
+    "logit_delta": -8.771652221679688
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 22,
+    "token_id": 102246,
+    "token_text": "\ufffd\ufffd",
+    "logit_delta": -8.745599746704102
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 23,
+    "token_id": 57812,
+    "token_text": ".Shape",
+    "logit_delta": -8.69523811340332
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 24,
+    "token_id": 78246,
+    "token_text": "//{{",
+    "logit_delta": -8.693556785583496
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 25,
+    "token_id": 125225,
+    "token_text": "\u043a\u0430\u043f",
+    "logit_delta": -8.693144798278809
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 1,
+    "token_id": 89352,
+    "token_text": "_________________\n\n",
+    "logit_delta": 5.038028240203857
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 2,
+    "token_id": 92494,
+    "token_text": ",eg",
+    "logit_delta": 4.961102485656738
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 3,
+    "token_id": 78286,
+    "token_text": ".Currency",
+    "logit_delta": 4.8212432861328125
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 4,
+    "token_id": 18469,
+    "token_text": ".getElements",
+    "logit_delta": 4.734250068664551
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 5,
+    "token_id": 62890,
+    "token_text": "---</",
+    "logit_delta": 4.703896522521973
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 6,
+    "token_id": 111995,
+    "token_text": " t\u00f4",
+    "logit_delta": 4.65086030960083
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 7,
+    "token_id": 28527,
+    "token_text": ".\n\n\n\n\n\n\n\n",
+    "logit_delta": 4.605846405029297
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 8,
+    "token_id": 116848,
+    "token_text": " servis",
+    "logit_delta": 4.513188362121582
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 9,
+    "token_id": 83218,
+    "token_text": " hete",
+    "logit_delta": 4.496304512023926
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 10,
+    "token_id": 111222,
+    "token_text": "\u0404",
+    "logit_delta": 4.4920783042907715
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 11,
+    "token_id": 45187,
+    "token_text": "#__",
+    "logit_delta": 4.483528137207031
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 12,
+    "token_id": 43604,
+    "token_text": "\u1ee7",
+    "logit_delta": 4.476033687591553
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 13,
+    "token_id": 94470,
+    "token_text": ".instrument",
+    "logit_delta": 4.457403659820557
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 14,
+    "token_id": 116092,
+    "token_text": "\u00f2i",
+    "logit_delta": 4.454812526702881
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 15,
+    "token_id": 76490,
+    "token_text": " puta",
+    "logit_delta": 4.430544853210449
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 16,
+    "token_id": 80348,
+    "token_text": ".Clock",
+    "logit_delta": 4.420642852783203
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 17,
+    "token_id": 40465,
+    "token_text": ".\n\n\n\n\n\n\n\n\n\n",
+    "logit_delta": 4.402985572814941
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 18,
+    "token_id": 46093,
+    "token_text": "\u2026.\n\n",
+    "logit_delta": 4.402099609375
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 19,
+    "token_id": 14670,
+    "token_text": "!\n\n\n\n",
+    "logit_delta": 4.395193099975586
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 20,
+    "token_id": 85740,
+    "token_text": "IPH",
+    "logit_delta": 4.394769668579102
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 21,
+    "token_id": 125402,
+    "token_text": "\u043e\u043b\u043e\u043c",
+    "logit_delta": 4.385826110839844
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 22,
+    "token_id": 102246,
+    "token_text": "\ufffd\ufffd",
+    "logit_delta": 4.372799873352051
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 23,
+    "token_id": 57812,
+    "token_text": ".Shape",
+    "logit_delta": 4.34761905670166
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 24,
+    "token_id": 78246,
+    "token_text": "//{{",
+    "logit_delta": 4.346778392791748
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "promoted",
+    "rank": 25,
+    "token_id": 125225,
+    "token_text": "\u043a\u0430\u043f",
+    "logit_delta": 4.346572399139404
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 1,
+    "token_id": 14023,
+    "token_text": "<th",
+    "logit_delta": -8.950287818908691
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 2,
+    "token_id": 366,
+    "token_text": " <",
+    "logit_delta": -3.798398971557617
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 3,
+    "token_id": 27,
+    "token_text": "<",
+    "logit_delta": -2.980794906616211
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 4,
+    "token_id": 11,
+    "token_text": ",",
+    "logit_delta": -2.55403995513916
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 5,
+    "token_id": 13,
+    "token_text": ".",
+    "logit_delta": -2.2262375354766846
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 6,
+    "token_id": 96939,
+    "token_text": " constructions",
+    "logit_delta": -2.0310215950012207
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 7,
+    "token_id": 548,
+    "token_text": "are",
+    "logit_delta": -1.9938842058181763
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 8,
+    "token_id": 62792,
+    "token_text": " readiness",
+    "logit_delta": -1.9733220338821411
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 9,
+    "token_id": 304,
+    "token_text": " in",
+    "logit_delta": -1.9556884765625
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 10,
+    "token_id": 71900,
+    "token_text": "langle",
+    "logit_delta": -1.9189268350601196
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 11,
+    "token_id": 939,
+    "token_text": "sh",
+    "logit_delta": -1.8925389051437378
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 12,
+    "token_id": 15884,
+    "token_text": " carefully",
+    "logit_delta": -1.8774378299713135
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 13,
+    "token_id": 36001,
+    "token_text": " appropriately",
+    "logit_delta": -1.8457880020141602
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 14,
+    "token_id": 0,
+    "token_text": "!",
+    "logit_delta": -1.8426263332366943
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 15,
+    "token_id": 5370,
+    "token_text": " various",
+    "logit_delta": -1.7872111797332764
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 16,
+    "token_id": 2017,
+    "token_text": "over",
+    "logit_delta": -1.759881854057312
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 17,
+    "token_id": 1105,
+    "token_text": "ors",
+    "logit_delta": -1.7516803741455078
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 18,
+    "token_id": 17339,
+    "token_text": " okay",
+    "logit_delta": -1.7406457662582397
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 19,
+    "token_id": 47177,
+    "token_text": " swear",
+    "logit_delta": -1.738487958908081
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 20,
+    "token_id": 9522,
+    "token_text": "...\n",
+    "logit_delta": -1.7202465534210205
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 21,
+    "token_id": 320,
+    "token_text": " (",
+    "logit_delta": -1.7130793333053589
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 22,
+    "token_id": 1056,
+    "token_text": "iss",
+    "logit_delta": -1.6886060237884521
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 23,
+    "token_id": 5099,
+    "token_text": " etc",
+    "logit_delta": -1.686713695526123
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 24,
+    "token_id": 272,
+    "token_text": " c",
+    "logit_delta": -1.6816495656967163
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "layer": 28,
+    "side": "suppressed",
+    "rank": 25,
+    "token_id": 35047,
+    "token_text": "..\n",
+    "logit_delta": -1.6697766780853271
+  }
+]

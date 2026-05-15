@@ -1,0 +1,38 @@
+[
+  {
+    "benchmark": "aime2025",
+    "method": "universal_controller",
+    "count": 30,
+    "correct": 10,
+    "reasoning_preface": 0,
+    "direct_answer": 13,
+    "self_correction": 26,
+    "may_be_truncated": 0,
+    "mean_generated_tokens": 2298.233333333333,
+    "gold_mention_count": 12,
+    "mean_words_before_first_gold_mention": 1105.0833333333333,
+    "accuracy_rate": 0.3333333333333333,
+    "reasoning_preface_rate": 0.0,
+    "direct_answer_rate": 0.43333333333333335,
+    "self_correction_rate": 0.8666666666666667,
+    "truncation_rate": 0.0
+  },
+  {
+    "benchmark": "aime2026",
+    "method": "universal_controller",
+    "count": 30,
+    "correct": 10,
+    "reasoning_preface": 0,
+    "direct_answer": 11,
+    "self_correction": 27,
+    "may_be_truncated": 0,
+    "mean_generated_tokens": 2235.1,
+    "gold_mention_count": 11,
+    "mean_words_before_first_gold_mention": 1135.0,
+    "accuracy_rate": 0.3333333333333333,
+    "reasoning_preface_rate": 0.0,
+    "direct_answer_rate": 0.36666666666666664,
+    "self_correction_rate": 0.9,
+    "truncation_rate": 0.0
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "model_label": "adaptive_router",
+    "method": "universal_controller",
+    "n": 60,
+    "is_correct_mean": 0.3333333333333333,
+    "is_correct_ci_low": 0.21666666666666667,
+    "is_correct_ci_high": 0.45,
+    "may_be_truncated_mean": 0.0,
+    "may_be_truncated_ci_low": 0.0,
+    "may_be_truncated_ci_high": 0.0,
+    "degenerate_mean": 0.0,
+    "degenerate_ci_low": 0.0,
+    "degenerate_ci_high": 0.0
+  }
+]

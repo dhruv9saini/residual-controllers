@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "count_strawberries_r",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6727958339876148,
+    "js_to_no_think": 0.6918423052474727,
+    "entropy": 0.7239730798064222,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_strawberries_r",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6916775744495258,
+    "entropy": 0.01760521543534501,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_strawberries_r",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6940029898036506,
+    "js_to_no_think": 0.6920926281610242,
+    "entropy": 0.0004513682826094329,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_strawberries_r",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6940029164300225,
+    "js_to_no_think": 0.6920797049766658,
+    "entropy": 3.3905679219868664e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_strawberries_r",
+    "variant": "no_think_full",
+    "js_to_think": 0.6916775744495258,
+    "js_to_no_think": 0.0,
+    "entropy": 0.18654689077389006,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_committee_m",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6686984405004877,
+    "js_to_no_think": 0.6935139071836229,
+    "entropy": 0.728471148186947,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_committee_m",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6878794142740665,
+    "entropy": 0.036473445113089004,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_committee_m",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6919241695972624,
+    "js_to_no_think": 0.6934167282497159,
+    "entropy": 0.000982819111916377,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_committee_m",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6919359564512598,
+    "js_to_no_think": 0.6934033091151923,
+    "entropy": 5.693756690679061e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_committee_m",
+    "variant": "no_think_full",
+    "js_to_think": 0.6878794142740665,
+    "js_to_no_think": 0.0,
+    "entropy": 0.716762373237945,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_balloon_l",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6831262392042905,
+    "js_to_no_think": 0.6947314072552631,
+    "entropy": 0.7118862729978626,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_balloon_l",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6845952068944927,
+    "entropy": 0.04055670955236923,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_balloon_l",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6922201773432277,
+    "js_to_no_think": 0.69368239022759,
+    "entropy": 0.0006342471627093489,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_balloon_l",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6922399278126005,
+    "js_to_no_think": 0.6936940370512032,
+    "entropy": 2.0788317401862742e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_balloon_l",
+    "variant": "no_think_full",
+    "js_to_think": 0.6845952068944927,
+    "js_to_no_think": 0.0,
+    "entropy": 0.984521021003433,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_mississippi_s",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.667187086876426,
+    "js_to_no_think": 0.6917205578145416,
+    "entropy": 0.7337402092394342,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_mississippi_s",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6898032462258444,
+    "entropy": 0.0230256551950625,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_mississippi_s",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6943636472632942,
+    "js_to_no_think": 0.6933700758142822,
+    "entropy": 0.000559343055565866,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_mississippi_s",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.694363150079848,
+    "js_to_no_think": 0.6933555924502302,
+    "entropy": 8.997795303959227e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_mississippi_s",
+    "variant": "no_think_full",
+    "js_to_think": 0.6898032462258444,
+    "js_to_no_think": 0.0,
+    "entropy": 0.6801920158089735,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_bookkeeper_e",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6543186796358158,
+    "js_to_no_think": 0.6943726328949598,
+    "entropy": 0.7638689183522066,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_bookkeeper_e",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6917534459332648,
+    "entropy": 0.021823471229891332,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_bookkeeper_e",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6942141080294091,
+    "js_to_no_think": 0.6935946174132991,
+    "entropy": 0.0005609154366478372,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_bookkeeper_e",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6942245355403307,
+    "js_to_no_think": 0.6935857477340377,
+    "entropy": 7.663182951017319e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_bookkeeper_e",
+    "variant": "no_think_full",
+    "js_to_think": 0.6917534459332648,
+    "js_to_no_think": 0.0,
+    "entropy": 0.4842708273083001,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_programming_g",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6552906627390336,
+    "js_to_no_think": 0.6936407230785018,
+    "entropy": 0.7539252592504933,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_programming_g",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6915566847158995,
+    "entropy": 0.007708028477428175,
+    "closer_to": "think"
+  },
+  {
+    "id": "count_programming_g",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6934765763608981,
+    "js_to_no_think": 0.6932280492646078,
+    "entropy": 0.00039743920802278723,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_programming_g",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6934762668657166,
+    "js_to_no_think": 0.6932301554190441,
+    "entropy": 2.8153678911356735e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "count_programming_g",
+    "variant": "no_think_full",
+    "js_to_think": 0.6915566847158995,
+    "js_to_no_think": 0.0,
+    "entropy": 1.090881909135649,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_317_248",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6953975207239989,
+    "js_to_no_think": 0.6941354505730374,
+    "entropy": 0.6100710824170243,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_317_248",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6933015617731109,
+    "entropy": 0.35845293839307046,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_317_248",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.694647549834811,
+    "js_to_no_think": 0.6933516930884387,
+    "entropy": 0.0010656385920167924,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_317_248",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6946550426066657,
+    "js_to_no_think": 0.6933090472124604,
+    "entropy": 6.449962076096612e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_317_248",
+    "variant": "no_think_full",
+    "js_to_think": 0.6933015617731109,
+    "js_to_no_think": 0.0,
+    "entropy": 0.004387060758304211,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_126_94",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6931020432393498,
+    "js_to_no_think": 0.6940416079806926,
+    "entropy": 0.6098848444630882,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_126_94",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6916945780006174,
+    "entropy": 0.3260688059614217,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_126_94",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6923907233675248,
+    "js_to_no_think": 0.6932630000815418,
+    "entropy": 0.0011171937538919149,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_126_94",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6923958360713367,
+    "js_to_no_think": 0.6932068607471815,
+    "entropy": 9.870383622323391e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_126_94",
+    "variant": "no_think_full",
+    "js_to_think": 0.6916945780006174,
+    "js_to_no_think": 0.0,
+    "entropy": 0.002731884396194876,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_438_57",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6930320451771227,
+    "js_to_no_think": 0.6940940113958515,
+    "entropy": 0.6107145143253151,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_438_57",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6912216982802112,
+    "entropy": 0.4238254290233357,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_438_57",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6922754085209393,
+    "js_to_no_think": 0.6932845400281213,
+    "entropy": 0.0009291778469397737,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_438_57",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6922950535079103,
+    "js_to_no_think": 0.6932431433118258,
+    "entropy": 6.699944539267916e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_438_57",
+    "variant": "no_think_full",
+    "js_to_think": 0.6912216982802112,
+    "js_to_no_think": 0.0,
+    "entropy": 0.0030995183037734733,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_999_37",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6952208612099113,
+    "js_to_no_think": 0.6940928341982673,
+    "entropy": 0.609598314224909,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_999_37",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6934819470647295,
+    "entropy": 0.38435617138588213,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_999_37",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6945232745672953,
+    "js_to_no_think": 0.6933227537406448,
+    "entropy": 0.0008282468103736488,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_999_37",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6945286338690846,
+    "js_to_no_think": 0.693272166528932,
+    "entropy": 9.098933078528076e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_999_37",
+    "variant": "no_think_full",
+    "js_to_think": 0.6934819470647295,
+    "js_to_no_think": 0.0,
+    "entropy": 0.004286883963976341,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_124_125",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6931893138435594,
+    "js_to_no_think": 0.6922467872988907,
+    "entropy": 0.6337005119616498,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_124_125",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6928212643567995,
+    "entropy": 0.308683611118509,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_124_125",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6945519027787839,
+    "js_to_no_think": 0.6935111168973476,
+    "entropy": 0.001062118837390049,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_124_125",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6945487243734436,
+    "js_to_no_think": 0.6934473146422564,
+    "entropy": 0.00014067944906648517,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_124_125",
+    "variant": "no_think_full",
+    "js_to_think": 0.6928212643567995,
+    "js_to_no_think": 0.0,
+    "entropy": 0.008793464470094778,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "mul_808_19",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6912563531222791,
+    "js_to_no_think": 0.6920735259718086,
+    "entropy": 0.6348472471824307,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_808_19",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6915108081201413,
+    "entropy": 0.34585761736751924,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_808_19",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6925620967812381,
+    "js_to_no_think": 0.6933045709301375,
+    "entropy": 0.0010986549765036881,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_808_19",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6925670666795084,
+    "js_to_no_think": 0.6932632632082747,
+    "entropy": 6.026187243452158e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "mul_808_19",
+    "variant": "no_think_full",
+    "js_to_think": 0.6915108081201413,
+    "js_to_no_think": 0.0,
+    "entropy": 0.003553067118518444,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_3_7_25",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6929995486268259,
+    "js_to_no_think": 0.694269710896068,
+    "entropy": 0.6998478600323979,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_3_7_25",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6890321502443624,
+    "entropy": 0.3678016535215217,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_3_7_25",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6926813943900467,
+    "js_to_no_think": 0.6939530566498371,
+    "entropy": 0.0012374367953010188,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_3_7_25",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6927100250930252,
+    "js_to_no_think": 0.693923444843461,
+    "entropy": 1.801031257925944e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_3_7_25",
+    "variant": "no_think_full",
+    "js_to_think": 0.6890321502443624,
+    "js_to_no_think": 0.0,
+    "entropy": 0.014200169151910552,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_5_-4_31",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6940942724310373,
+    "js_to_no_think": 0.693208264305295,
+    "entropy": 0.7375623121450285,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_5_-4_31",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6232770892756896,
+    "entropy": 0.998572391460367,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_5_-4_31",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6938254709040901,
+    "js_to_no_think": 0.6930219132987221,
+    "entropy": 0.0016953312747037394,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_5_-4_31",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6939243329576791,
+    "js_to_no_think": 0.6929827285841164,
+    "entropy": 2.9923646498721996e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_5_-4_31",
+    "variant": "no_think_full",
+    "js_to_think": 0.6232770892756896,
+    "js_to_no_think": 0.0,
+    "entropy": 0.18043385246028046,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_2_9_21",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6934842453764898,
+    "js_to_no_think": 0.6943995010844513,
+    "entropy": 0.6981286664280723,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_2_9_21",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6885440003371734,
+    "entropy": 0.4690998240768676,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_2_9_21",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6932319353479617,
+    "js_to_no_think": 0.694171066155395,
+    "entropy": 0.0013052525964758767,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_2_9_21",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6932881359638574,
+    "js_to_no_think": 0.69413914828636,
+    "entropy": 1.649821636915838e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_2_9_21",
+    "variant": "no_think_full",
+    "js_to_think": 0.6885440003371734,
+    "js_to_no_think": 0.0,
+    "entropy": 0.01727333120456625,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_7_5_54",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6933293017997031,
+    "js_to_no_think": 0.6949016813274544,
+    "entropy": 0.7027902221486925,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_7_5_54",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6878153100793891,
+    "entropy": 0.4614995964631018,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_7_5_54",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6924806842608744,
+    "js_to_no_think": 0.694083053023226,
+    "entropy": 0.0021117299064451703,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_7_5_54",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6925132348994313,
+    "js_to_no_think": 0.6940211676376035,
+    "entropy": 1.6380465709899263e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_7_5_54",
+    "variant": "no_think_full",
+    "js_to_think": 0.6878153100793891,
+    "js_to_no_think": 0.0,
+    "entropy": 0.015549460130236165,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_4_3_35",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6926166313629698,
+    "js_to_no_think": 0.6944173890285447,
+    "entropy": 0.6984598290025467,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_4_3_35",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6880319753746195,
+    "entropy": 0.43717827838148055,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_4_3_35",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6923455903189444,
+    "js_to_no_think": 0.694171492660143,
+    "entropy": 0.0013013546719575384,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_4_3_35",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6923965593271391,
+    "js_to_no_think": 0.6941394363219908,
+    "entropy": 1.2461703524565205e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_4_3_35",
+    "variant": "no_think_full",
+    "js_to_think": 0.6880319753746195,
+    "js_to_no_think": 0.0,
+    "entropy": 0.017271959675717936,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_6_-1_23",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6923341452345888,
+    "js_to_no_think": 0.6917308367401139,
+    "entropy": 0.7545829313056114,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_6_-1_23",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6292319907200683,
+    "entropy": 0.8920473660599391,
+    "closer_to": "think"
+  },
+  {
+    "id": "eq_6_-1_23",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6936559603421303,
+    "js_to_no_think": 0.6930762542215427,
+    "entropy": 0.001733338256502964,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_6_-1_23",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6937029595607409,
+    "js_to_no_think": 0.6930362156391254,
+    "entropy": 2.901282225407472e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "eq_6_-1_23",
+    "variant": "no_think_full",
+    "js_to_think": 0.6292319907200683,
+    "js_to_no_think": 0.0,
+    "entropy": 0.18173032069364697,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.664515387881538,
+    "js_to_no_think": 0.6888346903381273,
+    "entropy": 0.7643675074683753,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6711784812102196,
+    "entropy": 0.8054715563322918,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6935135704631151,
+    "js_to_no_think": 0.6917928681696769,
+    "entropy": 0.0006340400096547721,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6936218787849484,
+    "js_to_no_think": 0.691776181451438,
+    "entropy": 3.857605082781929e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "variant": "no_think_full",
+    "js_to_think": 0.6711784812102196,
+    "js_to_no_think": 0.0,
+    "entropy": 0.8488624146950814,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6181282487561375,
+    "js_to_no_think": 0.6887953040497145,
+    "entropy": 1.1175307286687066,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6719966077322532,
+    "entropy": 0.8399254275771166,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6925798722082606,
+    "js_to_no_think": 0.6945618284548636,
+    "entropy": 0.0004774326687172299,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6926972665420297,
+    "js_to_no_think": 0.6945347233602976,
+    "entropy": 8.506538955950774e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "variant": "no_think_full",
+    "js_to_think": 0.6719966077322532,
+    "js_to_no_think": 0.0,
+    "entropy": 0.8646683198781546,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Mina_Nora_Owen_Pia",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6442989461783389,
+    "js_to_no_think": 0.688405201417935,
+    "entropy": 0.8605321176703125,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Mina_Nora_Owen_Pia",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6712838347209493,
+    "entropy": 0.8015081534026216,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Mina_Nora_Owen_Pia",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6929029511332068,
+    "js_to_no_think": 0.6929189011710152,
+    "entropy": 0.0006261397777021045,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Mina_Nora_Owen_Pia",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6930015381814392,
+    "js_to_no_think": 0.6928951628659169,
+    "entropy": 8.724080110677735e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Mina_Nora_Owen_Pia",
+    "variant": "no_think_full",
+    "js_to_think": 0.6712838347209493,
+    "js_to_no_think": 0.0,
+    "entropy": 0.8160387737997318,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.674853865256731,
+    "js_to_no_think": 0.6890406031458437,
+    "entropy": 0.6237510319535291,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6730167593075727,
+    "entropy": 0.86975475585172,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6946503557125063,
+    "js_to_no_think": 0.6924674140264406,
+    "entropy": 0.0007680423407541026,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6947274335495912,
+    "js_to_no_think": 0.6924513713228873,
+    "entropy": 5.1827859398632916e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "variant": "no_think_full",
+    "js_to_think": 0.6730167593075727,
+    "js_to_no_think": 0.0,
+    "entropy": 0.8305215205478804,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Uma_Vera_Wade_Xena",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6769672674249384,
+    "js_to_no_think": 0.692340365780731,
+    "entropy": 0.6721954990069249,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Uma_Vera_Wade_Xena",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.670233059696675,
+    "entropy": 0.7878447632623417,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Uma_Vera_Wade_Xena",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.693168533788767,
+    "js_to_no_think": 0.6931366208600209,
+    "entropy": 0.0005144897002513807,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Uma_Vera_Wade_Xena",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6933059790681134,
+    "js_to_no_think": 0.6931239296459273,
+    "entropy": 5.129290792312362e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Uma_Vera_Wade_Xena",
+    "variant": "no_think_full",
+    "js_to_think": 0.670233059696675,
+    "js_to_no_think": 0.0,
+    "entropy": 0.8129578442615896,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "ages_Yara_Zane_Arlo_Bree",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.5775080600729023,
+    "js_to_no_think": 0.684669675570812,
+    "entropy": 1.0567505274938096,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Yara_Zane_Arlo_Bree",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6758547069096528,
+    "entropy": 0.8570688989727486,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Yara_Zane_Arlo_Bree",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6930848532720613,
+    "js_to_no_think": 0.693624649921027,
+    "entropy": 0.0006436004301436098,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Yara_Zane_Arlo_Bree",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6931847525612229,
+    "js_to_no_think": 0.6936038061326877,
+    "entropy": 5.947751501968597e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "ages_Yara_Zane_Arlo_Bree",
+    "variant": "no_think_full",
+    "js_to_think": 0.6758547069096528,
+    "js_to_no_think": 0.0,
+    "entropy": 0.9098750328359247,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_6",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6939500441866168,
+    "js_to_no_think": 0.6934719075887708,
+    "entropy": 0.2968294394535527,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_6",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6940747526865619,
+    "entropy": 0.9061322898639449,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_6",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6944443586767512,
+    "js_to_no_think": 0.6936812289033369,
+    "entropy": 0.0005725595819771939,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_6",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6944591354567511,
+    "js_to_no_think": 0.6936744983967382,
+    "entropy": 5.2486981448360576e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_6",
+    "variant": "no_think_full",
+    "js_to_think": 0.6940747526865619,
+    "js_to_no_think": 0.0,
+    "entropy": 0.01174899270527196,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_7",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6954786622612259,
+    "js_to_no_think": 0.694136591154924,
+    "entropy": 0.34325932326274133,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_7",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6946116947296797,
+    "entropy": 0.9159160468379578,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_7",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.695041865333228,
+    "js_to_no_think": 0.6935147504730392,
+    "entropy": 0.0005396063020911776,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_7",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6950602957562129,
+    "js_to_no_think": 0.6935091894987172,
+    "entropy": 3.452740239947945e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_7",
+    "variant": "no_think_full",
+    "js_to_think": 0.6946116947296797,
+    "js_to_no_think": 0.0,
+    "entropy": 0.008426477127221188,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_8",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6916965213904266,
+    "js_to_no_think": 0.6923358888574378,
+    "entropy": 0.39879010574313306,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_8",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6926389646637415,
+    "entropy": 0.8982390810986148,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_8",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6930977496193819,
+    "js_to_no_think": 0.6935975349998191,
+    "entropy": 0.0006045519865225516,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_8",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6931141440263466,
+    "js_to_no_think": 0.6935917251147949,
+    "entropy": 3.518391954243722e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_8",
+    "variant": "no_think_full",
+    "js_to_think": 0.6926389646637415,
+    "js_to_no_think": 0.0,
+    "entropy": 0.009904833247640995,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_9",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6951515150415937,
+    "js_to_no_think": 0.6945511461013913,
+    "entropy": 0.36819120607069633,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_9",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6939448834312751,
+    "entropy": 0.8393982128378289,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_9",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6943451831855256,
+    "js_to_no_think": 0.6936020535879488,
+    "entropy": 0.0006115108626173746,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_9",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6943604857467154,
+    "js_to_no_think": 0.6935970072892295,
+    "entropy": 3.988857114832732e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_9",
+    "variant": "no_think_full",
+    "js_to_think": 0.6939448834312751,
+    "js_to_no_think": 0.0,
+    "entropy": 0.010040782779514272,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_10",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6944066588816837,
+    "js_to_no_think": 0.6936534079096175,
+    "entropy": 0.42332327009929366,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_10",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6939249979033832,
+    "entropy": 0.8407984016587939,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_10",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6944257927745616,
+    "js_to_no_think": 0.6935720987930597,
+    "entropy": 0.0005664232343985884,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_10",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.694440186789429,
+    "js_to_no_think": 0.6935667872160296,
+    "entropy": 3.700059578946161e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_10",
+    "variant": "no_think_full",
+    "js_to_think": 0.6939249979033832,
+    "js_to_no_think": 0.0,
+    "entropy": 0.009577430222036165,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_11",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6925408402455745,
+    "js_to_no_think": 0.6937675658053045,
+    "entropy": 0.4226899150440756,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_11",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6919616846300094,
+    "entropy": 0.8080730035960071,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_11",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6925313539483373,
+    "js_to_no_think": 0.6937013535287091,
+    "entropy": 0.0005733622132321145,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_11",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6925464165923187,
+    "js_to_no_think": 0.6936967591151108,
+    "entropy": 3.489097153990858e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_11",
+    "variant": "no_think_full",
+    "js_to_think": 0.6919616846300094,
+    "js_to_no_think": 0.0,
+    "entropy": 0.011638014815696448,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "heads_exact2_3",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6896713139256756,
+    "js_to_no_think": 0.6939611575194151,
+    "entropy": 0.6891669293808584,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_3",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6866905105762933,
+    "entropy": 0.4858414119081734,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_3",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6936169209831227,
+    "js_to_no_think": 0.6938764687061291,
+    "entropy": 0.0005327873414417011,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_3",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6936202938078215,
+    "js_to_no_think": 0.6938765374088451,
+    "entropy": 5.993749169907525e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_3",
+    "variant": "no_think_full",
+    "js_to_think": 0.6866905105762933,
+    "js_to_no_think": 0.0,
+    "entropy": 0.3131836318873457,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "heads_exact2_4",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6826928088013544,
+    "js_to_no_think": 0.6912817965406584,
+    "entropy": 0.714119655169691,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_4",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6909580972729332,
+    "entropy": 0.2956327854668283,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_4",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6932812856508215,
+    "js_to_no_think": 0.6937803271302523,
+    "entropy": 0.0005742305407627976,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_4",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.693283605181459,
+    "js_to_no_think": 0.6937799976545846,
+    "entropy": 5.884389561904046e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_4",
+    "variant": "no_think_full",
+    "js_to_think": 0.6909580972729332,
+    "js_to_no_think": 0.0,
+    "entropy": 0.18448214633031795,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "heads_exact2_5",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6818300997570629,
+    "js_to_no_think": 0.6925711381861557,
+    "entropy": 0.715154705777755,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_5",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6932476711437641,
+    "entropy": 0.20904076737288368,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_5",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6931917788365154,
+    "js_to_no_think": 0.6945170725314609,
+    "entropy": 0.0005957722334290717,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_5",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6931905679838481,
+    "js_to_no_think": 0.6945157811381717,
+    "entropy": 5.327795841080871e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_5",
+    "variant": "no_think_full",
+    "js_to_think": 0.6932476711437641,
+    "js_to_no_think": 0.0,
+    "entropy": 0.21246677560467772,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "heads_exact2_6",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6793369171747595,
+    "js_to_no_think": 0.6922385267180988,
+    "entropy": 0.7185835116188417,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_6",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6925478506461689,
+    "entropy": 0.12648341860857526,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_6",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6927604870388673,
+    "js_to_no_think": 0.6938775184260124,
+    "entropy": 0.0006547496167548261,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_6",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6927575894893873,
+    "js_to_no_think": 0.6938759158686727,
+    "entropy": 4.3048236250443604e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_6",
+    "variant": "no_think_full",
+    "js_to_think": 0.6925478506461689,
+    "js_to_no_think": 0.0,
+    "entropy": 0.210699095203952,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "heads_exact2_7",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6751288713779495,
+    "js_to_no_think": 0.6927577890153738,
+    "entropy": 0.7216209415564467,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_7",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6928669578323436,
+    "entropy": 0.0944131172375663,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_7",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6931691551037524,
+    "js_to_no_think": 0.6937594118820678,
+    "entropy": 0.0006685968574411947,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_7",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.693165952065198,
+    "js_to_no_think": 0.6937583923561315,
+    "entropy": 4.3851686645138315e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_7",
+    "variant": "no_think_full",
+    "js_to_think": 0.6928669578323436,
+    "js_to_no_think": 0.0,
+    "entropy": 0.23906880154346202,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "heads_exact2_8",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.678510334599329,
+    "js_to_no_think": 0.69186517069526,
+    "entropy": 0.7204412040909652,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_8",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6923849845740933,
+    "entropy": 0.09281409184836974,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_8",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6930659737349134,
+    "js_to_no_think": 0.6933529540476091,
+    "entropy": 0.0006607738518900188,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_8",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6930623651745171,
+    "js_to_no_think": 0.6933516547446189,
+    "entropy": 4.3719871885071024e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "heads_exact2_8",
+    "variant": "no_think_full",
+    "js_to_think": 0.6923849845740933,
+    "js_to_no_think": 0.0,
+    "entropy": 0.2662751309657976,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_monday_march_1",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6913386169792732,
+    "js_to_no_think": 0.6914301160181398,
+    "entropy": 0.590923734703965,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_monday_march_1",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6808022122551076,
+    "entropy": 0.40195258819581875,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_monday_march_1",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6926615533734768,
+    "js_to_no_think": 0.692109170740363,
+    "entropy": 0.0008846853257866911,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_monday_march_1",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6926670818090246,
+    "js_to_no_think": 0.6920352063265274,
+    "entropy": 0.00024000473434935415,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_monday_march_1",
+    "variant": "no_think_full",
+    "js_to_think": 0.6808022122551076,
+    "js_to_no_think": 0.0,
+    "entropy": 0.040890948212748315,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_tuesday_april_1",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6917631908216112,
+    "js_to_no_think": 0.6929866193031171,
+    "entropy": 0.637408818461436,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_tuesday_april_1",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6876773826335789,
+    "entropy": 0.3450505877202816,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_tuesday_april_1",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.693720274608382,
+    "js_to_no_think": 0.6943211679554957,
+    "entropy": 0.0007237292507093004,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_tuesday_april_1",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6937256088331047,
+    "js_to_no_think": 0.6942894521919283,
+    "entropy": 0.0001378399737057632,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_tuesday_april_1",
+    "variant": "no_think_full",
+    "js_to_think": 0.6876773826335789,
+    "js_to_no_think": 0.0,
+    "entropy": 0.025066692830361052,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_wednesday_may_1",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6907799195332723,
+    "js_to_no_think": 0.6911782980168129,
+    "entropy": 0.5886668705579289,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_wednesday_may_1",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6836794234637905,
+    "entropy": 0.2810723921239594,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_wednesday_may_1",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6921345196739392,
+    "js_to_no_think": 0.691908681537675,
+    "entropy": 0.0008410302859963065,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_wednesday_may_1",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6921365186341499,
+    "js_to_no_think": 0.6918612454947402,
+    "entropy": 0.00020574262191742828,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_wednesday_may_1",
+    "variant": "no_think_full",
+    "js_to_think": 0.6836794234637905,
+    "js_to_no_think": 0.0,
+    "entropy": 0.038298513340163,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6899186680232691,
+    "js_to_no_think": 0.6906828033142542,
+    "entropy": 0.6354261106385878,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6810546660197571,
+    "entropy": 0.27880797942299046,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6919491551124002,
+    "js_to_no_think": 0.6921418447823149,
+    "entropy": 0.0010841172681364147,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6919483111240856,
+    "js_to_no_think": 0.692102494724625,
+    "entropy": 0.00017436709649236386,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "variant": "no_think_full",
+    "js_to_think": 0.6810546660197571,
+    "js_to_no_think": 0.0,
+    "entropy": 0.0418434898549726,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_friday_july_1",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6920919248921303,
+    "js_to_no_think": 0.6950373933769287,
+    "entropy": 0.6109693143884566,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_friday_july_1",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6875407923026597,
+    "entropy": 0.2576062788546781,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_friday_july_1",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6921353664431715,
+    "js_to_no_think": 0.6944314111409081,
+    "entropy": 0.000960049524874182,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_friday_july_1",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6921320960309845,
+    "js_to_no_think": 0.6943921812037686,
+    "entropy": 0.00018038980171928423,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_friday_july_1",
+    "variant": "no_think_full",
+    "js_to_think": 0.6875407923026597,
+    "js_to_no_think": 0.0,
+    "entropy": 0.02716477431690055,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_saturday_august_1",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6909706261672017,
+    "js_to_no_think": 0.6911519791737506,
+    "entropy": 0.6692847928562674,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_saturday_august_1",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6831954858346851,
+    "entropy": 0.1488694607970791,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar_saturday_august_1",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6924423888918514,
+    "js_to_no_think": 0.6919593372076579,
+    "entropy": 0.0010448429103700782,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_saturday_august_1",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6924396869563083,
+    "js_to_no_think": 0.691927255100425,
+    "entropy": 0.00016947107622102854,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar_saturday_august_1",
+    "variant": "no_think_full",
+    "js_to_think": 0.6831954858346851,
+    "js_to_no_think": 0.0,
+    "entropy": 0.03924669175808482,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_1",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6902639163580244,
+    "js_to_no_think": 0.6930934757934692,
+    "entropy": 0.7050933255413591,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_1",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6876341502818457,
+    "entropy": 0.016828770733435375,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_1",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6939257989792833,
+    "js_to_no_think": 0.6926516280612918,
+    "entropy": 0.002133177997495188,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_1",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6938692433487894,
+    "js_to_no_think": 0.6924950453336762,
+    "entropy": 0.0006748587036154858,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_1",
+    "variant": "no_think_full",
+    "js_to_think": 0.6876341502818457,
+    "js_to_no_think": 0.0,
+    "entropy": 0.32615715576210796,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_2",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6905078359308622,
+    "js_to_no_think": 0.6933463903711818,
+    "entropy": 0.7030314977543275,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_2",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.690102039772863,
+    "entropy": 0.011982500280343193,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_2",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.693667472612213,
+    "js_to_no_think": 0.6929829734897155,
+    "entropy": 0.0017733185863442096,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_2",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6936465562037879,
+    "js_to_no_think": 0.6929643854874414,
+    "entropy": 0.00027363998282489493,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_2",
+    "variant": "no_think_full",
+    "js_to_think": 0.690102039772863,
+    "js_to_no_think": 0.0,
+    "entropy": 0.5702800935020482,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_3",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6906009195359584,
+    "js_to_no_think": 0.6932364614125235,
+    "entropy": 0.7039113710147155,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_3",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6888836821003114,
+    "entropy": 0.012109926925787957,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_3",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6937214421535308,
+    "js_to_no_think": 0.6928770060364269,
+    "entropy": 0.0022147000500990174,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_3",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6936865003716182,
+    "js_to_no_think": 0.6928506690413501,
+    "entropy": 0.0002452387996654359,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_3",
+    "variant": "no_think_full",
+    "js_to_think": 0.6888836821003114,
+    "js_to_no_think": 0.0,
+    "entropy": 0.653046717145214,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_4",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6933015107775928,
+    "js_to_no_think": 0.6943168223686049,
+    "entropy": 0.696285723657988,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_4",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.689411295798269,
+    "entropy": 0.02329686494810063,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_4",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6942890335725572,
+    "js_to_no_think": 0.6941812175827211,
+    "entropy": 0.00189250804281077,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_4",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6942766147309394,
+    "js_to_no_think": 0.6941836971660875,
+    "entropy": 0.00047750662475320494,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_4",
+    "variant": "no_think_full",
+    "js_to_think": 0.689411295798269,
+    "js_to_no_think": 0.0,
+    "entropy": 0.5383557391850055,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_5",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.684242950483771,
+    "js_to_no_think": 0.6935874875537171,
+    "entropy": 0.7127705632521238,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_5",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6886516873188991,
+    "entropy": 0.014274851773692037,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_5",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6937634550269862,
+    "js_to_no_think": 0.6923615361540458,
+    "entropy": 0.001720261463769578,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_5",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6937373467191081,
+    "js_to_no_think": 0.6922809007285007,
+    "entropy": 0.00043048511395033304,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_5",
+    "variant": "no_think_full",
+    "js_to_think": 0.6886516873188991,
+    "js_to_no_think": 0.0,
+    "entropy": 0.4444907733851826,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sort_6",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6842766080348669,
+    "js_to_no_think": 0.6962587683797268,
+    "entropy": 0.7122480814036929,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_6",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6909575408974774,
+    "entropy": 0.013895357957851271,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_6",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6938129501549024,
+    "js_to_no_think": 0.6950581433631915,
+    "entropy": 0.003465600408157607,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_6",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6937480803915828,
+    "js_to_no_think": 0.6950295594457595,
+    "entropy": 0.00029293807705337883,
+    "closer_to": "think"
+  },
+  {
+    "id": "sort_6",
+    "variant": "no_think_full",
+    "js_to_think": 0.6909575408974774,
+    "js_to_no_think": 0.0,
+    "entropy": 0.5653473787544003,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_1",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6941754456440177,
+    "js_to_no_think": 0.6925378025609111,
+    "entropy": 0.697769066659234,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_1",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.15336266220431194,
+    "entropy": 1.130434801673146,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_1",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6938142621609027,
+    "js_to_no_think": 0.6923001469966754,
+    "entropy": 0.0002670698327917327,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_1",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6940438174288285,
+    "js_to_no_think": 0.6922432942042037,
+    "entropy": 0.0002928278366136504,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_1",
+    "variant": "no_think_full",
+    "js_to_think": 0.15336266220431194,
+    "js_to_no_think": 0.0,
+    "entropy": 0.732867251892365,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_2",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6942976036922659,
+    "js_to_no_think": 0.6930920736750981,
+    "entropy": 0.6983526276051862,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_2",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.07966950664233649,
+    "entropy": 1.1432048696178316,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_2",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.693847334361839,
+    "js_to_no_think": 0.6928465253676966,
+    "entropy": 0.00039059045021298897,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_2",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6942140011611169,
+    "js_to_no_think": 0.6927935746022067,
+    "entropy": 0.00024603010389868626,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_2",
+    "variant": "no_think_full",
+    "js_to_think": 0.07966950664233649,
+    "js_to_no_think": 0.0,
+    "entropy": 0.3186654392197428,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_3",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6936620814306698,
+    "js_to_no_think": 0.6922485686663806,
+    "entropy": 0.6967896367400469,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_3",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.04366417404189854,
+    "entropy": 0.5731661581769033,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_3",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.693205716437315,
+    "js_to_no_think": 0.6920210714695151,
+    "entropy": 0.00062675101464554,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_3",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6935190899165437,
+    "js_to_no_think": 0.6919637553389963,
+    "entropy": 0.0002879529681740923,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_3",
+    "variant": "no_think_full",
+    "js_to_think": 0.04366417404189854,
+    "js_to_no_think": 0.0,
+    "entropy": 0.16783852124364537,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_4",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6917243754339981,
+    "js_to_no_think": 0.6935806563443491,
+    "entropy": 0.7032021806012672,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_4",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.06492264380322248,
+    "entropy": 0.7461185980387388,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_4",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6914952590632338,
+    "js_to_no_think": 0.6934073867773808,
+    "entropy": 0.0003372027745061661,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_4",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6913448356920444,
+    "js_to_no_think": 0.6930301291217351,
+    "entropy": 0.001056727040486308,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_4",
+    "variant": "no_think_full",
+    "js_to_think": 0.06492264380322248,
+    "js_to_no_think": 0.0,
+    "entropy": 0.27228480206199696,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_5",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6932187649640132,
+    "js_to_no_think": 0.6935430404672487,
+    "entropy": 0.6967529784025467,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_5",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.07883923324196698,
+    "entropy": 0.8054094800185473,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_5",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6926526805595561,
+    "js_to_no_think": 0.6933568128214251,
+    "entropy": 0.00023271848515304174,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_5",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6930058336520948,
+    "js_to_no_think": 0.693195857830122,
+    "entropy": 0.0005121449862218518,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_5",
+    "variant": "no_think_full",
+    "js_to_think": 0.07883923324196698,
+    "js_to_no_think": 0.0,
+    "entropy": 0.22430399898301812,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "code_bug_6",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6925535844816493,
+    "js_to_no_think": 0.6947139142478754,
+    "entropy": 0.7019748399398135,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_6",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.06585723894340495,
+    "entropy": 0.8469756506813358,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_6",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6920142974918002,
+    "js_to_no_think": 0.6943395899186566,
+    "entropy": 0.0002379747879505179,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_6",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6923416874125756,
+    "js_to_no_think": 0.6943067161138701,
+    "entropy": 0.00022179516704979305,
+    "closer_to": "think"
+  },
+  {
+    "id": "code_bug_6",
+    "variant": "no_think_full",
+    "js_to_think": 0.06585723894340495,
+    "js_to_no_think": 0.0,
+    "entropy": 0.24646894845574496,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "trip_bank",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6802938990927201,
+    "js_to_no_think": 0.6923891078127568,
+    "entropy": 0.8720282790015084,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_bank",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6887563786097611,
+    "entropy": 0.5795959412097123,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_bank",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6921991444797263,
+    "js_to_no_think": 0.693478443017449,
+    "entropy": 0.0021911114423553567,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_bank",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6921382232390897,
+    "js_to_no_think": 0.6934025388739347,
+    "entropy": 9.809068073610562e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_bank",
+    "variant": "no_think_full",
+    "js_to_think": 0.6887563786097611,
+    "js_to_no_think": 0.0,
+    "entropy": 0.3713233384150914,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "trip_pharmacy",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6851474699586102,
+    "js_to_no_think": 0.6937318510802888,
+    "entropy": 0.8108271933566281,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_pharmacy",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6916902478996618,
+    "entropy": 0.6383796004915859,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_pharmacy",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.693359513813804,
+    "js_to_no_think": 0.693849315672179,
+    "entropy": 0.0025881493929063334,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_pharmacy",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6932907443350089,
+    "js_to_no_think": 0.6937580870886602,
+    "entropy": 9.62691676793035e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_pharmacy",
+    "variant": "no_think_full",
+    "js_to_think": 0.6916902478996618,
+    "js_to_no_think": 0.0,
+    "entropy": 0.23377086178977347,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "trip_city_hall",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6882317597225492,
+    "js_to_no_think": 0.6936498108681047,
+    "entropy": 0.8542639027869533,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_city_hall",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6919041136906962,
+    "entropy": 0.6894955174762712,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_city_hall",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6936258397266509,
+    "js_to_no_think": 0.6934793147946212,
+    "entropy": 0.001155941225906555,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "trip_city_hall",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6936187587539471,
+    "js_to_no_think": 0.6934490456327664,
+    "entropy": 6.768296513899099e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "trip_city_hall",
+    "variant": "no_think_full",
+    "js_to_think": 0.6919041136906962,
+    "js_to_no_think": 0.0,
+    "entropy": 0.28706536701719826,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "trip_dentist",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6839216823171506,
+    "js_to_no_think": 0.6938098040007302,
+    "entropy": 0.8491335285699463,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_dentist",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6895146849407203,
+    "entropy": 0.6123901801035464,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_dentist",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6924257807077145,
+    "js_to_no_think": 0.6934657059321783,
+    "entropy": 0.0021775852905351676,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_dentist",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6923755217580541,
+    "js_to_no_think": 0.6933659752551757,
+    "entropy": 0.00018721965335031187,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_dentist",
+    "variant": "no_think_full",
+    "js_to_think": 0.6895146849407203,
+    "js_to_no_think": 0.0,
+    "entropy": 0.18015043218117052,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "trip_doctor",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6799582619576081,
+    "js_to_no_think": 0.6931023183753589,
+    "entropy": 0.8423079732454225,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_doctor",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6919324791989888,
+    "entropy": 0.46314830938601276,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_doctor",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6936317634929308,
+    "js_to_no_think": 0.6936511994050878,
+    "entropy": 0.001132816988657721,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_doctor",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6936088302560002,
+    "js_to_no_think": 0.6936170212308785,
+    "entropy": 0.00010436210278513586,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_doctor",
+    "variant": "no_think_full",
+    "js_to_think": 0.6919324791989888,
+    "js_to_no_think": 0.0,
+    "entropy": 0.23167145891611218,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "trip_tailor",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.684100250108023,
+    "js_to_no_think": 0.6906412094385918,
+    "entropy": 0.7033667002674515,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_tailor",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6902978886464051,
+    "entropy": 0.45183826156139767,
+    "closer_to": "think"
+  },
+  {
+    "id": "trip_tailor",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6929540742799534,
+    "js_to_no_think": 0.6926164636886429,
+    "entropy": 0.002734320509424181,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "trip_tailor",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.692874917232555,
+    "js_to_no_think": 0.6925273601521328,
+    "entropy": 8.199128282827742e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "trip_tailor",
+    "variant": "no_think_full",
+    "js_to_think": 0.6902978886464051,
+    "js_to_no_think": 0.0,
+    "entropy": 0.15568353035113378,
+    "closer_to": "no_think"
+  }
+]

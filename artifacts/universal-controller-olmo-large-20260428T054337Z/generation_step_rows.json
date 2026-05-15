@@ -1,0 +1,3502 @@
+[
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_12",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9114187359809875
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.07692527770996094
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.007945282384753227
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0018717485945671797
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.0008332427823916078
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_13",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8737615346908569
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.09527012705802917
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.02900884300470352
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0010471934219822288
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00025549024576321244
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_14",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.926211416721344
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.06842268258333206
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.002411367604508996
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0014637518906965852
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0009618080221116543
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_15",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.6396523118019104
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.09028854221105576
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.08829192817211151
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.05582210049033165
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.047676827758550644
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_16",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9840027689933777
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.009897391311824322
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0020545311272144318
+      },
+      {
+        "token_id": 578,
+        "token_text": " The",
+        "prob": 0.000932377006392926
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0005920038092881441
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_17",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9112310409545898
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.07082851231098175
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.011304225772619247
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.00519051868468523
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0004391517140902579
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_18",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8742328882217407
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.04505762830376625
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.0355181023478508
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.02933371253311634
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0056741731241345406
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_19",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9602066278457642
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.036842230707407
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0013208274031057954
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0010617964435368776
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0003275556373409927
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_20",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8572394251823425
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.13677597045898438
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.004894069395959377
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0005087616737000644
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00022222509142011404
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_21",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.757880449295044
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.19434267282485962
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.04609056934714317
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0005326888640411198
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0003937934525310993
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_22",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9137104153633118
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.037100899964571
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.02204096131026745
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.021823348477482796
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0020765475928783417
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_23",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 100265,
+    "token_text": "<|im_end|>",
+    "top_tokens": [
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.5268496870994568
+      },
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.3308468759059906
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.05081837251782417
+      },
+      {
+        "token_id": 763,
+        "token_text": " In",
+        "prob": 0.017362887039780617
+      },
+      {
+        "token_id": 2684,
+        "token_text": " There",
+        "prob": 0.011973612010478973
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_24",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.874631941318512
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.06525435298681259
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.04704049229621887
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.007689335383474827
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0008863547700457275
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_25",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8977833986282349
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.08986344188451767
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.009859778918325901
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0010516035836189985
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0007265486055985093
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_26",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.958101749420166
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.03147813677787781
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.003718932159245014
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.002546037780120969
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0018357031513005495
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_27",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9665871858596802
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.020314272493124008
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.00970376655459404
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0015500328736379743
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 0.0011634191032499075
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_28",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9221949577331543
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.04251650720834732
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.01715870387852192
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.015010373666882515
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0007909711566753685
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_29",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8845012187957764
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.09764386713504791
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.016797130927443504
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00035278935683891177
+      },
+      {
+        "token_id": 7777,
+        "token_text": " Ok",
+        "prob": 0.00025172499590553343
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_30",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.6490533351898193
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.23195651173591614
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.08116623014211655
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.025194095447659492
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.004345450084656477
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_31",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8805598020553589
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.0747881531715393
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.019654681906104088
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.01159609667956829
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.010538951493799686
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_32",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9422540664672852
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.027439819648861885
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.01796502247452736
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.00617752643302083
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.004046747926622629
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_33",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9457019567489624
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.03531841188669205
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.01725558564066887
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0006830414058640599
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0003134003491140902
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_34",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8880868554115295
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.09253910183906555
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.015543880872428417
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.001970285316929221
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0006005626055411994
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_35",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8850492238998413
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.06646116822957993
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.027494514361023903
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0074361152946949005
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.006202520802617073
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_36",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9281591773033142
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.05017135664820671
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.011976239271461964
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0073006940074265
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 0.0010731106158345938
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_37",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8669741749763489
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.08367747068405151
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.04404585063457489
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.002255350584164262
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0019396774005144835
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_38",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9288316369056702
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.061238326132297516
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0055138785392045975
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0020943409763276577
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.0013023620704188943
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_39",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9176743626594543
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.07872866839170456
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0016804899787530303
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0009498310973867774
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0005624365876428783
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_40",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9439322352409363
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.04623200744390488
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.006588811054825783
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 0.0007985147531144321
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0007605382706969976
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_41",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.6040408611297607
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.21483993530273438
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.11334080249071121
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.025278324261307716
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.013876526616513729
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_42",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9498944282531738
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.023516548797488213
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.013302459381520748
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.009084059856832027
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0013268854236230254
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_43",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9078043699264526
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.07580213993787766
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.006929058115929365
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.00646508764475584
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.0012344034621492028
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_44",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.875254213809967
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.06752493232488632
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.029286038130521774
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.021558815613389015
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0035436160396784544
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_45",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9047672152519226
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.07457642257213593
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.009845510125160217
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.005692277103662491
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.0016719521954655647
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_46",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9071938991546631
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.0685001090168953
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.022216428071260452
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0005899310344830155
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0004831693950109184
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_47",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8799513578414917
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.10996313393115997
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.008612371049821377
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0006169098196551204
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0003472662065178156
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_48",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9672372937202454
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.02269757352769375
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.004388810601085424
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0017281734617426991
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 0.001318317954428494
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_49",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9059212803840637
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.0801117867231369
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.010167096741497517
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0019081775099039078
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.0004923806409351528
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_50",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9058343768119812
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.06400272250175476
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.01877734810113907
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.005208505317568779
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.00257942546159029
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_51",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9668543338775635
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.01971447840332985
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0058565507642924786
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.003786404151469469
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.0013993204338476062
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_52",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9042118191719055
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.07574042677879333
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.018137596547603607
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0006813215441070497
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0004287235497031361
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_53",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.905127227306366
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.05896224081516266
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.012411435134708881
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00990269985049963
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.008642198517918587
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_54",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.6422027945518494
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.21807509660720825
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.12118320167064667
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.006236213259398937
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0059145973064005375
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_55",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.7696536779403687
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.18358241021633148
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.016987398266792297
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.008012945763766766
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.007413647603243589
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_56",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9126198291778564
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.03041045367717743
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.019779404625296593
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.01907605677843094
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 0.0072648413479328156
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_57",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9043301343917847
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.07623473554849625
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0158290583640337
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.002043744781985879
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0004295137769076973
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_58",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8893021941184998
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.07039197534322739
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.035289134830236435
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0013553518801927567
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0012452364899218082
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_59",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9543848037719727
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.03389721363782883
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.004222051240503788
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0024738111533224583
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.0019955208990722895
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_60",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8896411657333374
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.09193965792655945
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.017141660675406456
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0004922608495689929
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0002690912806428969
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "gsm8k_61",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9263282418251038
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.048125769942998886
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.013169783167541027
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.005706981755793095
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.0029287731740623713
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_21",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8938701748847961
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.1058904230594635
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 9.044914622791111e-05
+      },
+      {
+        "token_id": 7777,
+        "token_text": " Ok",
+        "prob": 4.111299858777784e-05
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 1.677588988968637e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_22",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9168993830680847
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.06103741005063057
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.018835261464118958
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0009201656212098897
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.00046841634321026504
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_24",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9769899845123291
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.022601667791604996
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.000187605619430542
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 5.9459202020661905e-05
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 3.921536335838027e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_26",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.931381106376648
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.06847322732210159
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 7.612305489601567e-05
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.9354554751771502e-05
+      },
+      {
+        "token_id": 7777,
+        "token_text": " Ok",
+        "prob": 1.9173563487129286e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_27",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9641422033309937
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.032515425235033035
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0014042218681424856
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0010910052806138992
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00019832709222100675
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_29",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8586380481719971
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.13588295876979828
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.004254528321325779
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0004052504082210362
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.00027269712882116437
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_32",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9519217610359192
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.047068092972040176
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0003180813218932599
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0002930621849372983
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 5.6098455388564616e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_33",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9750838279724121
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.024487551301717758
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00019713702204171568
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 8.560265996493399e-05
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 5.5708627769490704e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_34",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8212320804595947
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.17796672880649567
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00046374023077078164
+      },
+      {
+        "token_id": 72586,
+        "token_text": "Alright",
+        "prob": 0.00012524564226623625
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 0.00012490045628510416
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_35",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.954938530921936
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.04486670717597008
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 7.964167161844671e-05
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 4.306127084419131e-05
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 1.4768554137845058e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_37",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9565114378929138
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.02846943959593773
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.009873421862721443
+      },
+      {
+        "token_id": 22559,
+        "token_text": " Answer",
+        "prob": 0.0010762461461126804
+      },
+      {
+        "token_id": 578,
+        "token_text": " The",
+        "prob": 0.0005441781249828637
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_38",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9636092782020569
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.03309305012226105
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.001392612000927329
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0008827417041175067
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0003209963324479759
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_39",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9320715665817261
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.06552963703870773
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0008936796220950782
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0005471932236105204
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00044163799611851573
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_40",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9765681624412537
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.02082693949341774
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0013855266151949763
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0003952646511606872
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00020764916553162038
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_41",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9575926065444946
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.04111723229289055
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0009410494822077453
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00010807882790686563
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 4.569898374029435e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_42",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.967019259929657
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.030609628185629845
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0016261328710243106
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.00028240380925126374
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00015693042951170355
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_44",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9813228845596313
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.018537521362304688
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 3.877912604366429e-05
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 2.640171987877693e-05
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 2.2669635654892772e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_45",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9614708423614502
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.038148920983076096
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00013512829900719225
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 6.215172470547259e-05
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 4.551108941086568e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_46",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.918969988822937
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.08096864074468613
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 2.8293887226027437e-05
+      },
+      {
+        "token_id": 7777,
+        "token_text": " Ok",
+        "prob": 8.304527000291273e-06
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 5.79422885493841e-06
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_47",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9764492511749268
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.018832165747880936
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0026887725107371807
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0010466290405020118
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00022786977933719754
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_48",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9378632307052612
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.0410318598151207
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.014898672699928284
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.003991442266851664
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0007573090842925012
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_49",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9590903520584106
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.03769758716225624
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0012384643778204918
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0009749973542056978
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.000416004826547578
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_50",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8030093312263489
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.19516849517822266
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0011779338819906116
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00017649811343289912
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0001067794582922943
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_52",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8835318088531494
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.11537476629018784
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00042271061101928353
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00018098075815942138
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.00013395077257882804
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_54",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9712967276573181
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.02654014341533184
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0011606827611103654
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 0.00033794547198340297
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.00025077781174331903
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_55",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9785311222076416
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.02051464095711708
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00028451374964788556
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00028239397215656936
+      },
+      {
+        "token_id": 22559,
+        "token_text": " Answer",
+        "prob": 6.0746428061975166e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_56",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9590712785720825
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.03373958170413971
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.003228182438760996
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.001116573461331427
+      },
+      {
+        "token_id": 578,
+        "token_text": " The",
+        "prob": 0.0009881219593808055
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_57",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.959036648273468
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.037796128541231155
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0015149276005104184
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.00024407279852312058
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00023001832596492022
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_58",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.6994403004646301
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.15135547518730164
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.13705161213874817
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0019258911488577724
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.001900123548693955
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_59",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.949094295501709
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.05028768256306648
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0003626658290158957
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 7.79034526203759e-05
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 7.711227954132482e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_61",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8947585821151733
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.1041288673877716
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0004183560376986861
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00041714185499586165
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 4.708574488176964e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_62",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9439502358436584
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.05546294525265694
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00014089980686549097
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 8.811279985820875e-05
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 5.225321001489647e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_63",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8858650922775269
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.11377114802598953
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00016361157759092748
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 2.9779532269458286e-05
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 2.801944901875686e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_64",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9445076584815979
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.05338171496987343
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0010152339236810803
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.000293035147478804
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0001250141067430377
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_65",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8890002369880676
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.11000151932239532
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0002289094409206882
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0002167382772313431
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00010922634828602895
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_67",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9688153862953186
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.030019529163837433
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0005620630690827966
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00017784337978810072
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.00011625406477833167
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_68",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9427671432495117
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.05698647350072861
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 7.09744417690672e-05
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 5.0865950470324606e-05
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 1.9940720449085347e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_69",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9520437717437744
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.04775647073984146
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.00011851946328533813
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 2.253341517644003e-05
+      },
+      {
+        "token_id": 7777,
+        "token_text": " Ok",
+        "prob": 1.3809035408485215e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_72",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9339683055877686
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.06401161849498749
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0011568887857720256
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00026585932937450707
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0002370070287724957
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_75",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9620532393455505
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.03275211527943611
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.004316570237278938
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.00045281375059857965
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 6.019491411279887e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_76",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9071385860443115
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.0917624682188034
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.000360376201570034
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.00015620859630871564
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.00014488320448435843
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_77",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9798715710639954
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.019168991595506668
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0005752039141952991
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 9.938796574715525e-05
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 6.757210940122604e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_79",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9546990394592285
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.04095126688480377
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0024904320016503334
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.0007853281567804515
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.00021171032858546823
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_80",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8266723155975342
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.17296425998210907
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 9.01442690519616e-05
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 5.180906373425387e-05
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 4.813722989638336e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_81",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8404821157455444
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.15225255489349365
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.0047429949045181274
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0012100432068109512
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 0.0002971747890114784
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_82",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9581728577613831
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.04140595346689224
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00025516608729958534
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 6.279679655563086e-05
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 2.6233647076878697e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_83",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.8678846955299377
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.13197609782218933
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 5.846575368195772e-05
+      },
+      {
+        "token_id": 7777,
+        "token_text": " Ok",
+        "prob": 2.1843636204721406e-05
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.4000524060975295e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_84",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9218891859054565
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.0776691809296608
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.00021762974211014807
+      },
+      {
+        "token_id": 10619,
+        "token_text": " OK",
+        "prob": 9.344832506030798e-05
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 2.849541670002509e-05
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_86",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9322339296340942
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.02369839698076248
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.021769778802990913
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.009773017838597298
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.003110705642029643
+      }
+    ]
+  },
+  {
+    "model_label": "olmo3_7b",
+    "id": "math500_numeric_87",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 36539,
+    "token_text": " Okay",
+    "top_tokens": [
+      {
+        "token_id": 36539,
+        "token_text": " Okay",
+        "prob": 0.9007036685943604
+      },
+      {
+        "token_id": 98693,
+        "token_text": " Alright",
+        "prob": 0.0892835333943367
+      },
+      {
+        "token_id": 100265,
+        "token_text": "<|im_end|>",
+        "prob": 0.0037169591523706913
+      },
+      {
+        "token_id": 5629,
+        "token_text": " First",
+        "prob": 0.002389877801761031
+      },
+      {
+        "token_id": 5256,
+        "token_text": " Start",
+        "prob": 0.001267408486455679
+      }
+    ]
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "family": "olmo3_7b",
+    "id": "count_strawberries_r",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6934650533616393,
+    "top1_token": "Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "count_strawberries_r",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.689743749550952,
+    "js_to_instruct_canonical": 0.5207390520211749,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "count_strawberries_r",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6934650533616393,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "count_strawberries_r",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.21615109328048196,
+    "js_to_instruct_canonical": 0.6250456440422394,
+    "top1_token": "Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "count_committee_m",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6929045698920577,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "count_committee_m",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.6929487418051213,
+    "js_to_instruct_canonical": 0.16824352962726147,
+    "top1_token": "The"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "count_committee_m",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6929045698920577,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "The"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "count_committee_m",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.5764519181418681,
+    "js_to_instruct_canonical": 0.6733392611727302,
+    "top1_token": "Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "mul_317_248",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6930215986100212,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "mul_317_248",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.6937965420210548,
+    "js_to_instruct_canonical": 0.6770055248958786,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "mul_317_248",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6930215986100212,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "mul_317_248",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.670661787193328,
+    "js_to_instruct_canonical": 0.656825903308013,
+    "top1_token": "  \n"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "mul_126_94",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6928540081192633,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "mul_126_94",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.6917757018908228,
+    "js_to_instruct_canonical": 0.6673558670638964,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "mul_126_94",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6928540081192633,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "mul_126_94",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.6695183264387541,
+    "js_to_instruct_canonical": 0.6587402037006367,
+    "top1_token": "  \n"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "eq_3_7_25",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6936188479084511,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "eq_3_7_25",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.6947992949379346,
+    "js_to_instruct_canonical": 0.6504178043235495,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "eq_3_7_25",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6936188479084511,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "eq_3_7_25",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.6743510865424847,
+    "js_to_instruct_canonical": 0.6913213778677861,
+    "top1_token": "  \n"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "eq_5_-4_31",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6922141507655394,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "eq_5_-4_31",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.6930741834805707,
+    "js_to_instruct_canonical": 0.6596711230099743,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "eq_5_-4_31",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6922141507655394,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "eq_5_-4_31",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.6672023492433747,
+    "js_to_instruct_canonical": 0.6879275265279148,
+    "top1_token": "  \n"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6945055891970882,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.6947012258351228,
+    "js_to_instruct_canonical": 0.6430740276166931,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6945055891970882,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.6563219671985173,
+    "js_to_instruct_canonical": 0.36745043271175787,
+    "top1_token": "  \n"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6943916891367166,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.694387297934423,
+    "js_to_instruct_canonical": 0.5125282474423782,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6943916891367166,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.6396201185441528,
+    "js_to_instruct_canonical": 0.34184920188595597,
+    "top1_token": "Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "coin_6",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6904118384447454,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "coin_6",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.6919782920113093,
+    "js_to_instruct_canonical": 0.6909558928582227,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "coin_6",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6904118384447454,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "coin_6",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.494037921519952,
+    "js_to_instruct_canonical": 0.5467105432973283,
+    "top1_token": "Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "coin_7",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6939694687576297,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "coin_7",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.6933146412919744,
+    "js_to_instruct_canonical": 0.6931890029465919,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "coin_7",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6939694687576297,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "coin_7",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.4479091233060464,
+    "js_to_instruct_canonical": 0.58877639215644,
+    "top1_token": "Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "heads_exact2_3",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6935948040342201,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "heads_exact2_3",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.6921106382735062,
+    "js_to_instruct_canonical": 0.6796901288864221,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "heads_exact2_3",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6935948040342201,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "heads_exact2_3",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.16487297982384724,
+    "js_to_instruct_canonical": 0.6830288757853404,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "heads_exact2_4",
+    "variant": "think_model_canonical",
+    "js_to_think_canonical": 0.0,
+    "js_to_instruct_canonical": 0.6931015255723332,
+    "top1_token": " Okay"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "heads_exact2_4",
+    "variant": "think_model_instruct_suffix",
+    "js_to_think_canonical": 0.6923111713432595,
+    "js_to_instruct_canonical": 0.6804663884981608,
+    "top1_token": "<th"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "heads_exact2_4",
+    "variant": "instruct_model_canonical",
+    "js_to_think_canonical": 0.6931015255723332,
+    "js_to_instruct_canonical": 0.0,
+    "top1_token": "Let"
+  },
+  {
+    "family": "olmo3_7b",
+    "id": "heads_exact2_4",
+    "variant": "instruct_model_think_suffix",
+    "js_to_think_canonical": 0.12834652777021557,
+    "js_to_instruct_canonical": 0.6878387569085724,
+    "top1_token": " Okay"
+  }
+]

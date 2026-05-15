@@ -1,0 +1,7 @@
+{
+  "think_open_newline": "<|im_start|>assistant\n<think>\n",
+  "shared_prefix_only": "<|im_start|>assistant\n<think>",
+  "no_think_preclose": "<|im_start|>assistant\n<think>\n\n",
+  "no_think_closed_no_gap": "<|im_start|>assistant\n<think>\n\n</think>",
+  "no_think_full": "<|im_start|>assistant\n<think>\n\n</think>\n\n"
+}

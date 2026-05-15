@@ -1,0 +1,92 @@
+[
+  {
+    "direction": "think_to_no_think",
+    "method": "branch_fixed_mean",
+    "layer": 15,
+    "alpha": 1.0,
+    "vector_norm": 11.4205322265625,
+    "train_prompt_count": 30,
+    "test_prompt_count": 10
+  },
+  {
+    "direction": "think_to_no_think",
+    "method": "style_verbosity_vector",
+    "layer": 15,
+    "alpha": 2.0,
+    "vector_norm": 8.992941856384277,
+    "train_prompt_count": 30,
+    "test_prompt_count": 10
+  },
+  {
+    "direction": "think_to_no_think",
+    "method": "random_norm_matched_17",
+    "layer": 15,
+    "alpha": 4.0,
+    "vector_norm": 11.4205322265625,
+    "train_prompt_count": 30,
+    "test_prompt_count": 10
+  },
+  {
+    "direction": "think_to_no_think",
+    "method": "random_norm_matched_31",
+    "layer": 15,
+    "alpha": 2.0,
+    "vector_norm": 11.4205322265625,
+    "train_prompt_count": 30,
+    "test_prompt_count": 10
+  },
+  {
+    "direction": "think_to_no_think",
+    "method": "random_norm_matched_43",
+    "layer": 15,
+    "alpha": 8.0,
+    "vector_norm": 11.4205322265625,
+    "train_prompt_count": 30,
+    "test_prompt_count": 10
+  },
+  {
+    "direction": "no_think_to_think",
+    "method": "branch_fixed_mean",
+    "layer": 19,
+    "alpha": 2.0,
+    "vector_norm": 15.091221809387207,
+    "train_prompt_count": 30,
+    "test_prompt_count": 10
+  },
+  {
+    "direction": "no_think_to_think",
+    "method": "style_verbosity_vector",
+    "layer": 19,
+    "alpha": 8.0,
+    "vector_norm": 14.774985313415527,
+    "train_prompt_count": 30,
+    "test_prompt_count": 10
+  },
+  {
+    "direction": "no_think_to_think",
+    "method": "random_norm_matched_17",
+    "layer": 19,
+    "alpha": 8.0,
+    "vector_norm": 15.091221809387207,
+    "train_prompt_count": 30,
+    "test_prompt_count": 10
+  },
+  {
+    "direction": "no_think_to_think",
+    "method": "random_norm_matched_31",
+    "layer": 19,
+    "alpha": 8.0,
+    "vector_norm": 15.091221809387207,
+    "train_prompt_count": 30,
+    "test_prompt_count": 10
+  },
+  {
+    "direction": "no_think_to_think",
+    "method": "random_norm_matched_43",
+    "layer": 19,
+    "alpha": 4.0,
+    "vector_norm": 15.091221809387207,
+    "train_prompt_count": 30,
+    "test_prompt_count": 10
+  }
+]

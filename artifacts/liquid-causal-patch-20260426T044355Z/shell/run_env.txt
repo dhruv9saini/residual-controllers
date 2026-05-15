@@ -1,0 +1,6 @@
+run_id=liquid-causal-patch-20260426T044355Z
+started_at_utc=2026-04-26T04:43:55Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+models=LiquidAI/LFM2.5-1.2B-Instruct-MLX-4bit,LiquidAI/LFM2.5-1.2B-Thinking-MLX-4bit
+completed_at_utc=2026-04-26T04:45:09Z

@@ -1,0 +1,22 @@
+{
+  "think": {
+    "base_text": "<|startoftext|><|im_start|>user\nHow many r letters are in the word strawberries?<|im_end|>\n",
+    "generation_prompt_text": "<|startoftext|><|im_start|>user\nHow many r letters are in the word strawberries?<|im_end|>\n<|im_start|>assistant\n",
+    "generation_suffix_text": "<|im_start|>assistant\n",
+    "generation_suffix_token_ids": [
+      6,
+      64015,
+      708
+    ]
+  },
+  "instruct": {
+    "base_text": "<|startoftext|><|im_start|>user\nHow many r letters are in the word strawberries?<|im_end|>\n",
+    "generation_prompt_text": "<|startoftext|><|im_start|>user\nHow many r letters are in the word strawberries?<|im_end|>\n<|im_start|>assistant\n",
+    "generation_suffix_text": "<|im_start|>assistant\n",
+    "generation_suffix_token_ids": [
+      6,
+      64015,
+      708
+    ]
+  }
+}

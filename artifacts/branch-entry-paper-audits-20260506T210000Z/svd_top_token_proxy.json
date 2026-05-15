@@ -1,0 +1,53 @@
+{
+  "audit": "svd",
+  "donor_win_rate_when_patched_top1_differs_from_donor_top1": 1.0,
+  "donor_win_when_patched_top1_differs_from_donor_top1": 213,
+  "n": 1080,
+  "patched_top1_differs_from_donor_top1": 213,
+  "patched_top1_equals_donor_top1": 867,
+  "patched_top1_equals_donor_top1_rate": 0.8027777777777778,
+  "patched_top1_in_small_canonical_opener_set": 995,
+  "patched_top1_in_small_canonical_opener_set_rate": 0.9212962962962963,
+  "top_patched_tokens": [
+    [
+      "To",
+      395
+    ],
+    [
+      "Thinking",
+      242
+    ],
+    [
+      "Here",
+      233
+    ],
+    [
+      "The",
+      125
+    ],
+    [
+      "Based",
+      46
+    ],
+    [
+      "This",
+      24
+    ],
+    [
+      "3",
+      6
+    ],
+    [
+      "There",
+      3
+    ],
+    [
+      "2",
+      3
+    ],
+    [
+      "5",
+      3
+    ]
+  ]
+}

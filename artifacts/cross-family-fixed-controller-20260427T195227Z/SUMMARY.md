@@ -1,0 +1,142 @@
+# cross-family-fixed-controller-20260427T195227Z
+
+- Main intervention: fixed train-learned width-2 tail vector at the decisive prompt-boundary layer.
+- Held-out interventions do not use held-out donor activations or held-out donor-target differences.
+
+## Held-Out Fixed Controllers
+
+- `olmo3_7b` `think_to_instruct` `full_tail_patch`: donor win `1.000` [`1.000`, `1.000`], effective `0.983` [`0.950`, `1.000`], JS donor `0.0789`, JS target `0.6928`, margin `0.6139` [`0.5756`, `0.6453`]
+- `olmo3_7b` `think_to_instruct` `fixed_mean`: donor win `1.000` [`1.000`, `1.000`], effective `0.950` [`0.883`, `1.000`], JS donor `0.1404`, JS target `0.6930`, margin `0.5526` [`0.5014`, `0.5986`]
+- `olmo3_7b` `think_to_instruct` `opposite_mean`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6932`, JS target `0.0765`, margin `-0.6167` [`-0.6382`, `-0.5937`]
+- `olmo3_7b` `think_to_instruct` `random_norm_matched`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6930`, JS target `0.2258`, margin `-0.4672` [`-0.5036`, `-0.4303`]
+- `olmo3_7b` `instruct_to_think` `full_tail_patch`: donor win `1.000` [`1.000`, `1.000`], effective `0.833` [`0.733`, `0.917`], JS donor `0.4087`, JS target `0.6844`, margin `0.2756` [`0.2386`, `0.3157`]
+- `olmo3_7b` `instruct_to_think` `fixed_mean`: donor win `1.000` [`1.000`, `1.000`], effective `0.850` [`0.750`, `0.933`], JS donor `0.4125`, JS target `0.6793`, margin `0.2668` [`0.2304`, `0.3058`]
+- `olmo3_7b` `instruct_to_think` `opposite_mean`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6931`, JS target `0.0380`, margin `-0.6550` [`-0.6838`, `-0.6191`]
+- `olmo3_7b` `instruct_to_think` `random_norm_matched`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6930`, JS target `0.0507`, margin `-0.6423` [`-0.6647`, `-0.6155`]
+- `phi4_mini` `think_to_instruct` `full_tail_patch`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], JS donor `0.0770`, JS target `0.6914`, margin `0.6144` [`0.5738`, `0.6498`]
+- `phi4_mini` `think_to_instruct` `fixed_mean`: donor win `0.917` [`0.850`, `0.983`], effective `0.483` [`0.350`, `0.617`], JS donor `0.5500`, JS target `0.6822`, margin `0.1323` [`0.0957`, `0.1700`]
+- `phi4_mini` `think_to_instruct` `opposite_mean`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6932`, JS target `0.6607`, margin `-0.0325` [`-0.0367`, `-0.0284`]
+- `phi4_mini` `think_to_instruct` `random_norm_matched`: donor win `0.183` [`0.144`, `0.222`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6932`, JS target `0.6337`, margin `-0.0595` [`-0.0655`, `-0.0536`]
+- `phi4_mini` `instruct_to_think` `full_tail_patch`: donor win `1.000` [`1.000`, `1.000`], effective `0.867` [`0.783`, `0.950`], JS donor `0.2581`, JS target `0.6923`, margin `0.4342` [`0.3765`, `0.4906`]
+- `phi4_mini` `instruct_to_think` `fixed_mean`: donor win `1.000` [`1.000`, `1.000`], effective `0.783` [`0.667`, `0.883`], JS donor `0.2669`, JS target `0.6932`, margin `0.4263` [`0.3661`, `0.4825`]
+- `phi4_mini` `instruct_to_think` `opposite_mean`: donor win `0.083` [`0.017`, `0.167`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6929`, JS target `0.6334`, margin `-0.0595` [`-0.0900`, `-0.0337`]
+- `phi4_mini` `instruct_to_think` `random_norm_matched`: donor win `0.206` [`0.128`, `0.289`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6930`, JS target `0.6780`, margin `-0.0150` [`-0.0222`, `-0.0090`]
+- `liquid_12b` `think_to_instruct` `full_tail_patch`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6924`, JS target `0.6037`, margin `-0.0887` [`-0.1203`, `-0.0603`]
+- `liquid_12b` `think_to_instruct` `fixed_mean`: donor win `0.950` [`0.900`, `1.000`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6916`, JS target `0.6929`, margin `0.0013` [`0.0011`, `0.0015`]
+- `liquid_12b` `think_to_instruct` `opposite_mean`: donor win `0.167` [`0.083`, `0.267`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6932`, JS target `0.6920`, margin `-0.0011` [`-0.0013`, `-0.0009`]
+- `liquid_12b` `think_to_instruct` `random_norm_matched`: donor win `0.006` [`0.000`, `0.017`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6931`, JS target `0.6839`, margin `-0.0092` [`-0.0106`, `-0.0079`]
+- `liquid_12b` `instruct_to_think` `full_tail_patch`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], JS donor `0.1246`, JS target `0.6931`, margin `0.5684` [`0.5464`, `0.5884`]
+- `liquid_12b` `instruct_to_think` `fixed_mean`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], JS donor `0.2600`, JS target `0.6930`, margin `0.4330` [`0.3970`, `0.4687`]
+- `liquid_12b` `instruct_to_think` `opposite_mean`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6931`, JS target `0.0012`, margin `-0.6919` [`-0.6927`, `-0.6909`]
+- `liquid_12b` `instruct_to_think` `random_norm_matched`: donor win `1.000` [`1.000`, `1.000`], effective `0.000` [`0.000`, `0.000`], JS donor `0.6859`, JS target `0.6928`, margin `0.0069` [`0.0061`, `0.0078`]
+
+## Selected Controllers
+
+- fold `0` `olmo3_7b` `think_to_instruct` layer `12` alpha `0.25` train donor win `0.000` margin `-0.6868`
+- fold `0` `olmo3_7b` `think_to_instruct` layer `12` alpha `0.5` train donor win `0.000` margin `-0.6507`
+- fold `0` `olmo3_7b` `think_to_instruct` layer `12` alpha `1.0` train donor win `0.975` margin `0.4861`
+- fold `0` `olmo3_7b` `think_to_instruct` layer `12` alpha `2.0` train donor win `1.000` margin `0.5788`
+- fold `0` `olmo3_7b` `think_to_instruct` layer `12` alpha `4.0` train donor win `1.000` margin `0.2162`
+- fold `0` `olmo3_7b` `think_to_instruct` layer `12` alpha `8.0` train donor win `0.875` margin `0.0023`
+- fold `0` `olmo3_7b` `instruct_to_think` layer `8` alpha `0.25` train donor win `0.000` margin `-0.6622`
+- fold `0` `olmo3_7b` `instruct_to_think` layer `8` alpha `0.5` train donor win `0.575` margin `-0.0940`
+- fold `0` `olmo3_7b` `instruct_to_think` layer `8` alpha `1.0` train donor win `1.000` margin `0.2690`
+- fold `0` `olmo3_7b` `instruct_to_think` layer `8` alpha `2.0` train donor win `1.000` margin `0.2670`
+- fold `0` `olmo3_7b` `instruct_to_think` layer `8` alpha `4.0` train donor win `0.900` margin `0.2364`
+- fold `0` `olmo3_7b` `instruct_to_think` layer `8` alpha `8.0` train donor win `1.000` margin `0.2155`
+- fold `1` `olmo3_7b` `think_to_instruct` layer `12` alpha `0.25` train donor win `0.000` margin `-0.6871`
+- fold `1` `olmo3_7b` `think_to_instruct` layer `12` alpha `0.5` train donor win `0.000` margin `-0.6535`
+- fold `1` `olmo3_7b` `think_to_instruct` layer `12` alpha `1.0` train donor win `0.975` margin `0.4578`
+- fold `1` `olmo3_7b` `think_to_instruct` layer `12` alpha `2.0` train donor win `1.000` margin `0.5395`
+- fold `1` `olmo3_7b` `think_to_instruct` layer `12` alpha `4.0` train donor win `1.000` margin `0.1928`
+- fold `1` `olmo3_7b` `think_to_instruct` layer `12` alpha `8.0` train donor win `0.850` margin `0.0020`
+- fold `1` `olmo3_7b` `instruct_to_think` layer `8` alpha `0.25` train donor win `0.000` margin `-0.6716`
+- fold `1` `olmo3_7b` `instruct_to_think` layer `8` alpha `0.5` train donor win `0.600` margin `-0.1144`
+- fold `1` `olmo3_7b` `instruct_to_think` layer `8` alpha `1.0` train donor win `1.000` margin `0.2739`
+- fold `1` `olmo3_7b` `instruct_to_think` layer `8` alpha `2.0` train donor win `1.000` margin `0.2638`
+- fold `1` `olmo3_7b` `instruct_to_think` layer `8` alpha `4.0` train donor win `0.900` margin `0.2366`
+- fold `1` `olmo3_7b` `instruct_to_think` layer `8` alpha `8.0` train donor win `1.000` margin `0.2102`
+- fold `2` `olmo3_7b` `think_to_instruct` layer `12` alpha `0.25` train donor win `0.000` margin `-0.6881`
+- fold `2` `olmo3_7b` `think_to_instruct` layer `12` alpha `0.5` train donor win `0.000` margin `-0.6588`
+- fold `2` `olmo3_7b` `think_to_instruct` layer `12` alpha `1.0` train donor win `0.950` margin `0.4712`
+- fold `2` `olmo3_7b` `think_to_instruct` layer `12` alpha `2.0` train donor win `1.000` margin `0.5396`
+- fold `2` `olmo3_7b` `think_to_instruct` layer `12` alpha `4.0` train donor win `1.000` margin `0.1985`
+- fold `2` `olmo3_7b` `think_to_instruct` layer `12` alpha `8.0` train donor win `0.900` margin `0.0023`
+- fold `2` `olmo3_7b` `instruct_to_think` layer `8` alpha `0.25` train donor win `0.000` margin `-0.6793`
+- fold `2` `olmo3_7b` `instruct_to_think` layer `8` alpha `0.5` train donor win `0.550` margin `-0.1065`
+- fold `2` `olmo3_7b` `instruct_to_think` layer `8` alpha `1.0` train donor win `1.000` margin `0.2577`
+- fold `2` `olmo3_7b` `instruct_to_think` layer `8` alpha `2.0` train donor win `1.000` margin `0.2540`
+- fold `2` `olmo3_7b` `instruct_to_think` layer `8` alpha `4.0` train donor win `0.900` margin `0.2326`
+- fold `2` `olmo3_7b` `instruct_to_think` layer `8` alpha `8.0` train donor win `1.000` margin `0.2159`
+- fold `0` `phi4_mini` `think_to_instruct` layer `28` alpha `0.25` train donor win `0.000` margin `-0.6713`
+- fold `0` `phi4_mini` `think_to_instruct` layer `28` alpha `0.5` train donor win `0.000` margin `-0.5874`
+- fold `0` `phi4_mini` `think_to_instruct` layer `28` alpha `1.0` train donor win `0.875` margin `0.4787`
+- fold `0` `phi4_mini` `think_to_instruct` layer `28` alpha `2.0` train donor win `0.950` margin `0.1643`
+- fold `0` `phi4_mini` `think_to_instruct` layer `28` alpha `4.0` train donor win `0.500` margin `0.0000`
+- fold `0` `phi4_mini` `think_to_instruct` layer `28` alpha `8.0` train donor win `0.475` margin `-0.0000`
+- fold `0` `phi4_mini` `instruct_to_think` layer `16` alpha `0.25` train donor win `0.000` margin `-0.6931`
+- fold `0` `phi4_mini` `instruct_to_think` layer `16` alpha `0.5` train donor win `0.025` margin `-0.6055`
+- fold `0` `phi4_mini` `instruct_to_think` layer `16` alpha `1.0` train donor win `1.000` margin `0.3866`
+- fold `0` `phi4_mini` `instruct_to_think` layer `16` alpha `2.0` train donor win `1.000` margin `0.4280`
+- fold `0` `phi4_mini` `instruct_to_think` layer `16` alpha `4.0` train donor win `1.000` margin `0.3016`
+- fold `0` `phi4_mini` `instruct_to_think` layer `16` alpha `8.0` train donor win `1.000` margin `0.3225`
+- fold `1` `phi4_mini` `think_to_instruct` layer `28` alpha `0.25` train donor win `0.000` margin `-0.6695`
+- fold `1` `phi4_mini` `think_to_instruct` layer `28` alpha `0.5` train donor win `0.000` margin `-0.5900`
+- fold `1` `phi4_mini` `think_to_instruct` layer `28` alpha `1.0` train donor win `0.850` margin `0.4514`
+- fold `1` `phi4_mini` `think_to_instruct` layer `28` alpha `2.0` train donor win `0.900` margin `0.1190`
+- fold `1` `phi4_mini` `think_to_instruct` layer `28` alpha `4.0` train donor win `0.500` margin `-0.0003`
+- fold `1` `phi4_mini` `think_to_instruct` layer `28` alpha `8.0` train donor win `0.450` margin `-0.0001`
+- fold `1` `phi4_mini` `instruct_to_think` layer `16` alpha `0.25` train donor win `0.000` margin `-0.6931`
+- fold `1` `phi4_mini` `instruct_to_think` layer `16` alpha `0.5` train donor win `0.025` margin `-0.6055`
+- fold `1` `phi4_mini` `instruct_to_think` layer `16` alpha `1.0` train donor win `1.000` margin `0.3888`
+- fold `1` `phi4_mini` `instruct_to_think` layer `16` alpha `2.0` train donor win `1.000` margin `0.4167`
+- fold `1` `phi4_mini` `instruct_to_think` layer `16` alpha `4.0` train donor win `1.000` margin `0.2920`
+- fold `1` `phi4_mini` `instruct_to_think` layer `16` alpha `8.0` train donor win `1.000` margin `0.3022`
+- fold `2` `phi4_mini` `think_to_instruct` layer `28` alpha `0.25` train donor win `0.000` margin `-0.6671`
+- fold `2` `phi4_mini` `think_to_instruct` layer `28` alpha `0.5` train donor win `0.000` margin `-0.5874`
+- fold `2` `phi4_mini` `think_to_instruct` layer `28` alpha `1.0` train donor win `0.825` margin `0.4459`
+- fold `2` `phi4_mini` `think_to_instruct` layer `28` alpha `2.0` train donor win `0.900` margin `0.1240`
+- fold `2` `phi4_mini` `think_to_instruct` layer `28` alpha `4.0` train donor win `0.425` margin `-0.0003`
+- fold `2` `phi4_mini` `think_to_instruct` layer `28` alpha `8.0` train donor win `0.400` margin `-0.0001`
+- fold `2` `phi4_mini` `instruct_to_think` layer `16` alpha `0.25` train donor win `0.000` margin `-0.6931`
+- fold `2` `phi4_mini` `instruct_to_think` layer `16` alpha `0.5` train donor win `0.025` margin `-0.6119`
+- fold `2` `phi4_mini` `instruct_to_think` layer `16` alpha `1.0` train donor win `1.000` margin `0.3946`
+- fold `2` `phi4_mini` `instruct_to_think` layer `16` alpha `2.0` train donor win `1.000` margin `0.4252`
+- fold `2` `phi4_mini` `instruct_to_think` layer `16` alpha `4.0` train donor win `1.000` margin `0.3060`
+- fold `2` `phi4_mini` `instruct_to_think` layer `16` alpha `8.0` train donor win `1.000` margin `0.3120`
+- fold `0` `liquid_12b` `think_to_instruct` layer `16` alpha `0.25` train donor win `0.000` margin `-0.6718`
+- fold `0` `liquid_12b` `think_to_instruct` layer `16` alpha `0.5` train donor win `0.000` margin `-0.5745`
+- fold `0` `liquid_12b` `think_to_instruct` layer `16` alpha `1.0` train donor win `0.000` margin `-0.1112`
+- fold `0` `liquid_12b` `think_to_instruct` layer `16` alpha `2.0` train donor win `0.625` margin `-0.0003`
+- fold `0` `liquid_12b` `think_to_instruct` layer `16` alpha `4.0` train donor win `0.900` margin `0.0012`
+- fold `0` `liquid_12b` `think_to_instruct` layer `16` alpha `8.0` train donor win `0.950` margin `0.0014`
+- fold `0` `liquid_12b` `instruct_to_think` layer `12` alpha `0.25` train donor win `0.000` margin `-0.6911`
+- fold `0` `liquid_12b` `instruct_to_think` layer `12` alpha `0.5` train donor win `0.150` margin `-0.3861`
+- fold `0` `liquid_12b` `instruct_to_think` layer `12` alpha `1.0` train donor win `1.000` margin `0.4324`
+- fold `0` `liquid_12b` `instruct_to_think` layer `12` alpha `2.0` train donor win `1.000` margin `0.3611`
+- fold `0` `liquid_12b` `instruct_to_think` layer `12` alpha `4.0` train donor win `1.000` margin `0.1652`
+- fold `0` `liquid_12b` `instruct_to_think` layer `12` alpha `8.0` train donor win `1.000` margin `0.0099`
+- fold `1` `liquid_12b` `think_to_instruct` layer `16` alpha `0.25` train donor win `0.000` margin `-0.6735`
+- fold `1` `liquid_12b` `think_to_instruct` layer `16` alpha `0.5` train donor win `0.000` margin `-0.5768`
+- fold `1` `liquid_12b` `think_to_instruct` layer `16` alpha `1.0` train donor win `0.000` margin `-0.1147`
+- fold `1` `liquid_12b` `think_to_instruct` layer `16` alpha `2.0` train donor win `0.550` margin `-0.0006`
+- fold `1` `liquid_12b` `think_to_instruct` layer `16` alpha `4.0` train donor win `0.875` margin `0.0011`
+- fold `1` `liquid_12b` `think_to_instruct` layer `16` alpha `8.0` train donor win `0.950` margin `0.0013`
+- fold `1` `liquid_12b` `instruct_to_think` layer `12` alpha `0.25` train donor win `0.000` margin `-0.6901`
+- fold `1` `liquid_12b` `instruct_to_think` layer `12` alpha `0.5` train donor win `0.225` margin `-0.3505`
+- fold `1` `liquid_12b` `instruct_to_think` layer `12` alpha `1.0` train donor win `1.000` margin `0.4374`
+- fold `1` `liquid_12b` `instruct_to_think` layer `12` alpha `2.0` train donor win `1.000` margin `0.3506`
+- fold `1` `liquid_12b` `instruct_to_think` layer `12` alpha `4.0` train donor win `1.000` margin `0.1537`
+- fold `1` `liquid_12b` `instruct_to_think` layer `12` alpha `8.0` train donor win `1.000` margin `0.0087`
+- fold `2` `liquid_12b` `think_to_instruct` layer `16` alpha `0.25` train donor win `0.000` margin `-0.6726`
+- fold `2` `liquid_12b` `think_to_instruct` layer `16` alpha `0.5` train donor win `0.000` margin `-0.5763`
+- fold `2` `liquid_12b` `think_to_instruct` layer `16` alpha `1.0` train donor win `0.000` margin `-0.1151`
+- fold `2` `liquid_12b` `think_to_instruct` layer `16` alpha `2.0` train donor win `0.525` margin `-0.0007`
+- fold `2` `liquid_12b` `think_to_instruct` layer `16` alpha `4.0` train donor win `0.875` margin `0.0010`
+- fold `2` `liquid_12b` `think_to_instruct` layer `16` alpha `8.0` train donor win `0.950` margin `0.0012`
+- fold `2` `liquid_12b` `instruct_to_think` layer `12` alpha `0.25` train donor win `0.000` margin `-0.6897`
+- fold `2` `liquid_12b` `instruct_to_think` layer `12` alpha `0.5` train donor win `0.225` margin `-0.3538`
+- fold `2` `liquid_12b` `instruct_to_think` layer `12` alpha `1.0` train donor win `1.000` margin `0.4299`
+- fold `2` `liquid_12b` `instruct_to_think` layer `12` alpha `2.0` train donor win `1.000` margin `0.3607`
+- fold `2` `liquid_12b` `instruct_to_think` layer `12` alpha `4.0` train donor win `1.000` margin `0.1731`
+- fold `2` `liquid_12b` `instruct_to_think` layer `12` alpha `8.0` train donor win `1.000` margin `0.0096`

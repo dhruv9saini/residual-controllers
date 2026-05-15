@@ -1,0 +1,36 @@
+{
+  "started_at_utc": "2026-04-23T23:13:26.403654+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "patch_width": 2,
+  "top_ks": [
+    1,
+    2,
+    4,
+    8,
+    16
+  ],
+  "model_configs": [
+    {
+      "label": "qwen35_4b",
+      "kind": "qwen",
+      "model": "mlx-community/Qwen3.5-4B-4bit",
+      "head_layers": [
+        15,
+        19
+      ]
+    },
+    {
+      "label": "olmo3_7b",
+      "kind": "olmo",
+      "think_model": "mlx-community/Olmo-3-7B-Think-4bit",
+      "instruct_model": "mlx-community/Olmo-3-7B-Instruct-4bit",
+      "head_layers": [
+        8,
+        12
+      ]
+    }
+  ],
+  "method": "tail donor-h head necessity via single-head knockout and top-k donor-head retention"
+}

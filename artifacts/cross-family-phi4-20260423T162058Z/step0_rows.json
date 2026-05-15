@@ -1,0 +1,134 @@
+[
+  {
+    "family": "phi4_mini",
+    "id": "count_strawberries_r",
+    "category": "counting",
+    "js_instruct_to_think": 0.6927697658538818,
+    "think_top1": "<th",
+    "instruct_top1": "The",
+    "think_entropy": 0.00017585102046155406,
+    "instruct_entropy": 0.25923235645244747,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "count_committee_m",
+    "category": "counting",
+    "js_instruct_to_think": 0.6932038068771362,
+    "think_top1": "<th",
+    "instruct_top1": "The",
+    "think_entropy": 5.891397416190949e-05,
+    "instruct_entropy": 0.13147794869950907,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "mul_317_248",
+    "category": "arithmetic",
+    "js_instruct_to_think": 0.693488597869873,
+    "think_top1": "<th",
+    "instruct_top1": "The",
+    "think_entropy": 4.798475973222755e-05,
+    "instruct_entropy": 0.8509134813840753,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "mul_126_94",
+    "category": "arithmetic",
+    "js_instruct_to_think": 0.6932742595672607,
+    "think_top1": "<th",
+    "instruct_top1": "The",
+    "think_entropy": 4.293422406206821e-05,
+    "instruct_entropy": 0.7557317632858268,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "eq_3_7_25",
+    "category": "algebra",
+    "js_instruct_to_think": 0.6927597522735596,
+    "think_top1": "<th",
+    "instruct_top1": "To",
+    "think_entropy": 0.00026382962759588486,
+    "instruct_entropy": 1.2445516735304656,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "js_instruct_to_think": 0.6931374073028564,
+    "think_top1": "<th",
+    "instruct_top1": "To",
+    "think_entropy": 0.00011186726844285307,
+    "instruct_entropy": 0.5165578478388684,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "category": "logic_ordering",
+    "js_instruct_to_think": 0.6933982372283936,
+    "think_top1": "<th",
+    "instruct_top1": "To",
+    "think_entropy": 0.00026207224617217864,
+    "instruct_entropy": 0.32696197987870756,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "category": "logic_ordering",
+    "js_instruct_to_think": 0.6933926343917847,
+    "think_top1": "<th",
+    "instruct_top1": "To",
+    "think_entropy": 0.0005354800804449446,
+    "instruct_entropy": 0.6432023905151089,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "coin_6",
+    "category": "dynamic_programming",
+    "js_instruct_to_think": 0.6932710409164429,
+    "think_top1": "<th",
+    "instruct_top1": "To",
+    "think_entropy": 3.632287566350977e-06,
+    "instruct_entropy": 0.3495096318723771,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "js_instruct_to_think": 0.6930716037750244,
+    "think_top1": "<th",
+    "instruct_top1": "To",
+    "think_entropy": 2.08936007418332e-06,
+    "instruct_entropy": 0.2996780872274313,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "heads_exact2_3",
+    "category": "probability",
+    "js_instruct_to_think": 0.6934682130813599,
+    "think_top1": "<th",
+    "instruct_top1": "To",
+    "think_entropy": 5.273664243420898e-05,
+    "instruct_entropy": 1.087204798739046,
+    "top1_match": 0
+  },
+  {
+    "family": "phi4_mini",
+    "id": "heads_exact2_4",
+    "category": "probability",
+    "js_instruct_to_think": 0.6931077241897583,
+    "think_top1": "<th",
+    "instruct_top1": "To",
+    "think_entropy": 0.00017000525354869382,
+    "instruct_entropy": 1.0071827030042586,
+    "top1_match": 0
+  }
+]

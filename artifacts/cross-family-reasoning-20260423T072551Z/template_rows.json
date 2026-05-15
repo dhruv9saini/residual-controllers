@@ -1,0 +1,14 @@
+[
+  {
+    "family": "liquid_12b",
+    "display_name": "LiquidAI LFM2.5 1.2B",
+    "think_generation_suffix_text": "<|im_start|>assistant\n",
+    "instruct_generation_suffix_text": "<|im_start|>assistant\n"
+  },
+  {
+    "family": "olmo3_7b",
+    "display_name": "OLMo 3 7B",
+    "think_generation_suffix_text": "<|im_start|>assistant\n<think>",
+    "instruct_generation_suffix_text": "<|im_start|>assistant\n"
+  }
+]

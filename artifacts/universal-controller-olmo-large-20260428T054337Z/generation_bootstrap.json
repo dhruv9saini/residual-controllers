@@ -1,0 +1,47 @@
+[
+  {
+    "model_label": "olmo3_7b",
+    "method": "canonical_target",
+    "n": 100,
+    "is_correct_mean": 0.73,
+    "is_correct_ci_low": 0.64,
+    "is_correct_ci_high": 0.82,
+    "may_be_truncated_mean": 0.14,
+    "may_be_truncated_ci_low": 0.07,
+    "may_be_truncated_ci_high": 0.21,
+    "degenerate_mean": 0.0,
+    "degenerate_ci_low": 0.0,
+    "degenerate_ci_high": 0.0,
+    "reasoning_mode_score_mean": 0.5280000000000001
+  },
+  {
+    "model_label": "olmo3_7b",
+    "method": "canonical_think",
+    "n": 100,
+    "is_correct_mean": 0.28,
+    "is_correct_ci_low": 0.19,
+    "is_correct_ci_high": 0.37,
+    "may_be_truncated_mean": 0.99,
+    "may_be_truncated_ci_low": 0.97,
+    "may_be_truncated_ci_high": 1.0,
+    "degenerate_mean": 0.0,
+    "degenerate_ci_low": 0.0,
+    "degenerate_ci_high": 0.0,
+    "reasoning_mode_score_mean": 0.9000000000000005
+  },
+  {
+    "model_label": "olmo3_7b",
+    "method": "universal_controller",
+    "n": 100,
+    "is_correct_mean": 0.65,
+    "is_correct_ci_low": 0.56,
+    "is_correct_ci_high": 0.74,
+    "may_be_truncated_mean": 0.32,
+    "may_be_truncated_ci_low": 0.23,
+    "may_be_truncated_ci_high": 0.41,
+    "degenerate_mean": 0.0,
+    "degenerate_ci_low": 0.0,
+    "degenerate_ci_high": 0.0,
+    "reasoning_mode_score_mean": 0.8980000000000004
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "started_at_utc": "2026-05-05T07:09:10.261469+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python3",
+  "patch_width": 2,
+  "alpha_grid": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "random_seeds": [
+    13,
+    29,
+    47
+  ],
+  "effective_margin_threshold": 0.1,
+  "effective_js_to_donor_threshold": 0.6,
+  "model_configs": [
+    {
+      "label": "gemma4_e2b",
+      "kind": "gemma",
+      "model": "mlx-community/gemma-4-e2b-it-4bit",
+      "directions": [
+        {
+          "label": "off_to_think",
+          "donor_mode": "think",
+          "target_mode": "off",
+          "layer": 35
+        },
+        {
+          "label": "think_to_off",
+          "donor_mode": "off",
+          "target_mode": "think",
+          "layer": 35
+        }
+      ]
+    },
+    {
+      "label": "nemotron_nano_4b",
+      "kind": "nemotron",
+      "model": "mlx-community/Llama-3.1-Nemotron-Nano-4B-v1.1-4bit",
+      "directions": [
+        {
+          "label": "off_to_think",
+          "donor_mode": "think",
+          "target_mode": "off",
+          "layer": 28
+        },
+        {
+          "label": "think_to_off",
+          "donor_mode": "off",
+          "target_mode": "think",
+          "layer": 28
+        }
+      ]
+    }
+  ],
+  "train_prompt_count": 60,
+  "eval_prompt_count": 60
+}

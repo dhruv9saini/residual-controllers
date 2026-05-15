@@ -1,0 +1,98 @@
+[
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "js_instruct_to_think": 0.6933176053241454,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "js_instruct_to_think": 0.6934881817387474,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "js_instruct_to_think": 0.6929399544685583,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "js_instruct_to_think": 0.6933371595197919,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "main",
+    "id": "coin_6",
+    "js_instruct_to_think": 0.6931025820158511,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "main",
+    "id": "heads_exact2_3",
+    "js_instruct_to_think": 0.6933131605184615,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "main",
+    "id": "calendar_monday_march_1",
+    "js_instruct_to_think": 0.6931315784997094,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "main",
+    "id": "code_bug_1",
+    "js_instruct_to_think": 0.6934030551548837,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "js_instruct_to_think": 0.6931315784997094,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "js_instruct_to_think": 0.692875114583499,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "js_instruct_to_think": 0.6935225597991983,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "js_instruct_to_think": 0.6935066918869068,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "code_bug_1",
+    "js_instruct_to_think": 0.6934030551548837,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "code_bug_2",
+    "js_instruct_to_think": 0.6933702823939305,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "trip_bank",
+    "js_instruct_to_think": 0.6937703589857962,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "trip_pharmacy",
+    "js_instruct_to_think": 0.6934180002872725,
+    "top1_match": 0
+  }
+]

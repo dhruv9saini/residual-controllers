@@ -1,0 +1,140 @@
+[
+  {
+    "family": "one_row",
+    "condition": "multiturn_clean_1",
+    "count": 12,
+    "mean_js_to_think": 0.024197228991370237,
+    "mean_js_to_no_think": 0.6931405901125333,
+    "think_closer_rate": 1.0,
+    "top1_tokens": [
+      {
+        "token_text": "Thinking",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "family": "one_row",
+    "condition": "multiturn_empty_history_3",
+    "count": 12,
+    "mean_js_to_think": 0.20498314250697036,
+    "mean_js_to_no_think": 0.69311528575436,
+    "think_closer_rate": 1.0,
+    "top1_tokens": [
+      {
+        "token_text": "Thinking",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "family": "one_row",
+    "condition": "single_turn",
+    "count": 12,
+    "mean_js_to_think": 0.25074974183433846,
+    "mean_js_to_no_think": 0.69314574906937,
+    "think_closer_rate": 1.0,
+    "top1_tokens": [
+      {
+        "token_text": "Thinking",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "family": "rank1",
+    "condition": "multiturn_clean_1",
+    "count": 12,
+    "mean_js_to_think": 0.1022688452216131,
+    "mean_js_to_no_think": 0.6677787621446233,
+    "think_closer_rate": 1.0,
+    "top1_tokens": [
+      {
+        "token_text": "Thinking",
+        "count": 11
+      },
+      {
+        "token_text": "User",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "family": "rank1",
+    "condition": "multiturn_empty_history_3",
+    "count": 12,
+    "mean_js_to_think": 0.27436038087204806,
+    "mean_js_to_no_think": 0.6561208743544104,
+    "think_closer_rate": 1.0,
+    "top1_tokens": [
+      {
+        "token_text": "Thinking",
+        "count": 11
+      },
+      {
+        "token_text": "User",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "family": "rank1",
+    "condition": "single_turn",
+    "count": 12,
+    "mean_js_to_think": 0.3612109449482923,
+    "mean_js_to_no_think": 0.6866879522728847,
+    "think_closer_rate": 1.0,
+    "top1_tokens": [
+      {
+        "token_text": "Thinking",
+        "count": 7
+      },
+      {
+        "token_text": "User",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "family": "two_row",
+    "condition": "multiturn_clean_1",
+    "count": 12,
+    "mean_js_to_think": 0.02419731015117604,
+    "mean_js_to_no_think": 0.6931408454437151,
+    "think_closer_rate": 1.0,
+    "top1_tokens": [
+      {
+        "token_text": "Thinking",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "family": "two_row",
+    "condition": "multiturn_empty_history_3",
+    "count": 12,
+    "mean_js_to_think": 0.2049835863404478,
+    "mean_js_to_no_think": 0.6931165553166277,
+    "think_closer_rate": 1.0,
+    "top1_tokens": [
+      {
+        "token_text": "Thinking",
+        "count": 12
+      }
+    ]
+  },
+  {
+    "family": "two_row",
+    "condition": "single_turn",
+    "count": 12,
+    "mean_js_to_think": 0.2507497899623953,
+    "mean_js_to_no_think": 0.6931458916615156,
+    "think_closer_rate": 1.0,
+    "top1_tokens": [
+      {
+        "token_text": "Thinking",
+        "count": 12
+      }
+    ]
+  }
+]

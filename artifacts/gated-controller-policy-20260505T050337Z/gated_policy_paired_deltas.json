@@ -1,0 +1,46 @@
+[
+  {
+    "method": "benchmark_gated_policy",
+    "baseline_method": "canonical_target",
+    "n": 300,
+    "accuracy_delta": 0.02,
+    "accuracy_delta_ci_low": -0.01,
+    "accuracy_delta_ci_high": 0.05333333333333334,
+    "wins": 15,
+    "losses": 9,
+    "ties": 276
+  },
+  {
+    "method": "crossvalidated_gated_policy",
+    "baseline_method": "canonical_target",
+    "n": 300,
+    "accuracy_delta": 0.016666666666666666,
+    "accuracy_delta_ci_low": -0.016666666666666666,
+    "accuracy_delta_ci_high": 0.05,
+    "wins": 17,
+    "losses": 12,
+    "ties": 271
+  },
+  {
+    "method": "model_task_gated_policy",
+    "baseline_method": "canonical_target",
+    "n": 300,
+    "accuracy_delta": 0.02666666666666667,
+    "accuracy_delta_ci_low": -0.01,
+    "accuracy_delta_ci_high": 0.06333333333333334,
+    "wins": 20,
+    "losses": 12,
+    "ties": 268
+  },
+  {
+    "method": "universal_controller",
+    "baseline_method": "canonical_target",
+    "n": 300,
+    "accuracy_delta": -0.02666666666666667,
+    "accuracy_delta_ci_low": -0.08,
+    "accuracy_delta_ci_high": 0.02666666666666667,
+    "wins": 27,
+    "losses": 35,
+    "ties": 238
+  }
+]

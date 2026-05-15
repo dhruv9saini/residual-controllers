@@ -1,0 +1,7 @@
+run_id=qwen35-multilayer-controller-benchmark-20260427T233149Z
+started_at_utc=2026-04-27T23:31:49Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+model=mlx-community/Qwen3.5-4B-4bit
+method=multi-layer generated-prefix residual controller benchmark
+completed_at_utc=2026-04-28T00:44:06Z

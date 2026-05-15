@@ -1,0 +1,482 @@
+[
+  {
+    "id": "strawberries_r",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6727958339876148,
+    "js_to_no_think": 0.6918423052474727,
+    "entropy": 0.7239730798064222,
+    "closer_to": "think"
+  },
+  {
+    "id": "strawberries_r",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6916775744495258,
+    "entropy": 0.01760521543534501,
+    "closer_to": "think"
+  },
+  {
+    "id": "strawberries_r",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6940029898036506,
+    "js_to_no_think": 0.6920926281610242,
+    "entropy": 0.0004513682826094329,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "strawberries_r",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6940029164300225,
+    "js_to_no_think": 0.6920797049766658,
+    "entropy": 3.3905679219868664e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "strawberries_r",
+    "variant": "no_think_full",
+    "js_to_think": 0.6916775744495258,
+    "js_to_no_think": 0.0,
+    "entropy": 0.18654689077389006,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "multiply_317_248",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6953975207239989,
+    "js_to_no_think": 0.6941354505730374,
+    "entropy": 0.6100710824170243,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "multiply_317_248",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6933015617731109,
+    "entropy": 0.35845293839307046,
+    "closer_to": "think"
+  },
+  {
+    "id": "multiply_317_248",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.694647549834811,
+    "js_to_no_think": 0.6933516930884387,
+    "entropy": 0.0010656385920167924,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "multiply_317_248",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6946550426066657,
+    "js_to_no_think": 0.6933090472124604,
+    "entropy": 6.449962076096612e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "multiply_317_248",
+    "variant": "no_think_full",
+    "js_to_think": 0.6933015617731109,
+    "js_to_no_think": 0.0,
+    "entropy": 0.004387060758304211,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "logic_siblings",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.664515387881538,
+    "js_to_no_think": 0.6888346903381273,
+    "entropy": 0.7643675074683753,
+    "closer_to": "think"
+  },
+  {
+    "id": "logic_siblings",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6711784812102196,
+    "entropy": 0.8054715563322918,
+    "closer_to": "think"
+  },
+  {
+    "id": "logic_siblings",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6935135704631151,
+    "js_to_no_think": 0.6917928681696769,
+    "entropy": 0.0006340400096547721,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "logic_siblings",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6936218787849484,
+    "js_to_no_think": 0.691776181451438,
+    "entropy": 3.857605082781929e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "logic_siblings",
+    "variant": "no_think_full",
+    "js_to_think": 0.6711784812102196,
+    "js_to_no_think": 0.0,
+    "entropy": 0.8488624146950814,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "river_crossing",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6917029195441842,
+    "js_to_no_think": 0.6912582544586281,
+    "entropy": 0.6365614125763174,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "river_crossing",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.364289902647842,
+    "entropy": 0.9911036293538064,
+    "closer_to": "think"
+  },
+  {
+    "id": "river_crossing",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6929068594806278,
+    "js_to_no_think": 0.6924200164381948,
+    "entropy": 0.0014636633359592268,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "river_crossing",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6929300128026316,
+    "js_to_no_think": 0.6924162128645646,
+    "entropy": 0.00016006367793282384,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "river_crossing",
+    "variant": "no_think_full",
+    "js_to_think": 0.364289902647842,
+    "js_to_no_think": 0.0,
+    "entropy": 0.9628290697082884,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_change",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6939500441866168,
+    "js_to_no_think": 0.6934719075887708,
+    "entropy": 0.2968294394535527,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_change",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6940747526865619,
+    "entropy": 0.9061322898639449,
+    "closer_to": "think"
+  },
+  {
+    "id": "coin_change",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6944443586767512,
+    "js_to_no_think": 0.6936812289033369,
+    "entropy": 0.0005725595819771939,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_change",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6944591354567511,
+    "js_to_no_think": 0.6936744983967382,
+    "entropy": 5.2486981448360576e-05,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "coin_change",
+    "variant": "no_think_full",
+    "js_to_think": 0.6940747526865619,
+    "js_to_no_think": 0.0,
+    "entropy": 0.01174899270527196,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "python_bug",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.692202767913122,
+    "js_to_no_think": 0.6917878152776675,
+    "entropy": 0.6967592084426766,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "python_bug",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.287188318193789,
+    "entropy": 1.2670810997255824,
+    "closer_to": "think"
+  },
+  {
+    "id": "python_bug",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6919927383375433,
+    "js_to_no_think": 0.6915625461735391,
+    "entropy": 0.00021177036069936893,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "python_bug",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6920242023096664,
+    "js_to_no_think": 0.6914547569679055,
+    "entropy": 0.0004209710907361031,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "python_bug",
+    "variant": "no_think_full",
+    "js_to_think": 0.287188318193789,
+    "js_to_no_think": 0.0,
+    "entropy": 0.782406218277779,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "truth_liars",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.693658546923132,
+    "js_to_no_think": 0.6937402679072491,
+    "entropy": 0.6901685663744525,
+    "closer_to": "think"
+  },
+  {
+    "id": "truth_liars",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.5096886946850877,
+    "entropy": 0.14490286876131336,
+    "closer_to": "think"
+  },
+  {
+    "id": "truth_liars",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6935310994428159,
+    "js_to_no_think": 0.6933785882589942,
+    "entropy": 0.001065088157697619,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "truth_liars",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6935220136802367,
+    "js_to_no_think": 0.6934013564143364,
+    "entropy": 0.00011790043200763213,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "truth_liars",
+    "variant": "no_think_full",
+    "js_to_think": 0.5096886946850877,
+    "js_to_no_think": 0.0,
+    "entropy": 1.0330935017848837,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6913386169792732,
+    "js_to_no_think": 0.6914301160181398,
+    "entropy": 0.590923734703965,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6808022122551076,
+    "entropy": 0.40195258819581875,
+    "closer_to": "think"
+  },
+  {
+    "id": "calendar",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6926615533734768,
+    "js_to_no_think": 0.692109170740363,
+    "entropy": 0.0008846853257866911,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6926670818090246,
+    "js_to_no_think": 0.6920352063265274,
+    "entropy": 0.00024000473434935415,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "calendar",
+    "variant": "no_think_full",
+    "js_to_think": 0.6808022122551076,
+    "js_to_no_think": 0.0,
+    "entropy": 0.040890948212748315,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "probability",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.688326045304416,
+    "js_to_no_think": 0.6917327193496976,
+    "entropy": 0.6728926474899728,
+    "closer_to": "think"
+  },
+  {
+    "id": "probability",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.683086315984992,
+    "entropy": 0.5135445037987347,
+    "closer_to": "think"
+  },
+  {
+    "id": "probability",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6921435765524657,
+    "js_to_no_think": 0.693010709098786,
+    "entropy": 0.0005583623322045166,
+    "closer_to": "think"
+  },
+  {
+    "id": "probability",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.69214601521208,
+    "js_to_no_think": 0.6930102603251815,
+    "entropy": 8.016727896405895e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "probability",
+    "variant": "no_think_full",
+    "js_to_think": 0.683086315984992,
+    "js_to_no_think": 0.0,
+    "entropy": 0.4191873665848909,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sorting_words",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6902639163580244,
+    "js_to_no_think": 0.6930934757934692,
+    "entropy": 0.7050933255413591,
+    "closer_to": "think"
+  },
+  {
+    "id": "sorting_words",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6876341502818457,
+    "entropy": 0.016828770733435375,
+    "closer_to": "think"
+  },
+  {
+    "id": "sorting_words",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6939257989792833,
+    "js_to_no_think": 0.6926516280612918,
+    "entropy": 0.002133177997495188,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sorting_words",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6938692433487894,
+    "js_to_no_think": 0.6924950453336762,
+    "entropy": 0.0006748587036154858,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "sorting_words",
+    "variant": "no_think_full",
+    "js_to_think": 0.6876341502818457,
+    "js_to_no_think": 0.0,
+    "entropy": 0.32615715576210796,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "equation",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6929995486268259,
+    "js_to_no_think": 0.694269710896068,
+    "entropy": 0.6998478600323979,
+    "closer_to": "think"
+  },
+  {
+    "id": "equation",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6890321502443624,
+    "entropy": 0.3678016535215217,
+    "closer_to": "think"
+  },
+  {
+    "id": "equation",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.6926813943900467,
+    "js_to_no_think": 0.6939530566498371,
+    "entropy": 0.0012374367953010188,
+    "closer_to": "think"
+  },
+  {
+    "id": "equation",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6927100250930252,
+    "js_to_no_think": 0.693923444843461,
+    "entropy": 1.801031257925944e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "equation",
+    "variant": "no_think_full",
+    "js_to_think": 0.6890321502443624,
+    "js_to_no_think": 0.0,
+    "entropy": 0.014200169151910552,
+    "closer_to": "no_think"
+  },
+  {
+    "id": "travel_plan",
+    "variant": "shared_prefix_only",
+    "js_to_think": 0.6831277362546198,
+    "js_to_no_think": 0.6937296371449608,
+    "entropy": 0.7729334599910451,
+    "closer_to": "think"
+  },
+  {
+    "id": "travel_plan",
+    "variant": "think_open_newline",
+    "js_to_think": 0.0,
+    "js_to_no_think": 0.6905715752091297,
+    "entropy": 0.6267467311252067,
+    "closer_to": "think"
+  },
+  {
+    "id": "travel_plan",
+    "variant": "no_think_preclose",
+    "js_to_think": 0.693388720161817,
+    "js_to_no_think": 0.6937003205347227,
+    "entropy": 0.0020782718935271932,
+    "closer_to": "think"
+  },
+  {
+    "id": "travel_plan",
+    "variant": "no_think_closed_no_gap",
+    "js_to_think": 0.6933293574297508,
+    "js_to_no_think": 0.6936299525651972,
+    "entropy": 8.509356981044702e-05,
+    "closer_to": "think"
+  },
+  {
+    "id": "travel_plan",
+    "variant": "no_think_full",
+    "js_to_think": 0.6905715752091297,
+    "js_to_no_think": 0.0,
+    "entropy": 0.3149015980920638,
+    "closer_to": "no_think"
+  }
+]

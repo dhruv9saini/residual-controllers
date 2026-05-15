@@ -1,0 +1,12 @@
+[
+  {
+    "family": "phi4_mini",
+    "display_name": "Phi-4 Mini",
+    "think_model": "mlx-community/Phi-4-mini-reasoning-4bit",
+    "instruct_model": "mlx-community/Phi-4-mini-instruct-4bit",
+    "think_generation_suffix_text": "",
+    "instruct_generation_suffix_text": "",
+    "think_generation_suffix_token_ids": [],
+    "instruct_generation_suffix_token_ids": []
+  }
+]

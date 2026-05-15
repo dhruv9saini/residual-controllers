@@ -1,0 +1,52 @@
+[
+  {
+    "variant": "shared_prefix_only",
+    "count": 12,
+    "mean_js_to_think": 0.6875232403902803,
+    "mean_js_to_no_think": 0.6924438625494407,
+    "mean_entropy": 0.6550351103581301,
+    "closer_to_think": 8,
+    "closer_to_no_think": 4,
+    "ties": 0
+  },
+  {
+    "variant": "think_open_newline",
+    "count": 12,
+    "mean_js_to_think": 0.0,
+    "mean_js_to_no_think": 0.6118771408017979,
+    "mean_entropy": 0.5348019871033393,
+    "closer_to_think": 12,
+    "closer_to_no_think": 0,
+    "ties": 0
+  },
+  {
+    "variant": "no_think_preclose",
+    "count": 12,
+    "mean_js_to_think": 0.6933200174580337,
+    "mean_js_to_no_think": 0.6928087045231837,
+    "mean_entropy": 0.0010296718887440844,
+    "closer_to_think": 3,
+    "closer_to_no_think": 9,
+    "ties": 0
+  },
+  {
+    "variant": "no_think_closed_no_gap",
+    "count": 12,
+    "mean_js_to_think": 0.6933280770802993,
+    "mean_js_to_no_think": 0.6927671389731794,
+    "mean_entropy": 0.0001655448443543483,
+    "closer_to_think": 3,
+    "closer_to_no_think": 9,
+    "ties": 0
+  },
+  {
+    "variant": "no_think_full",
+    "count": 12,
+    "mean_js_to_think": 0.6118771408017979,
+    "mean_js_to_no_think": 0.0,
+    "mean_entropy": 0.4121009488756018,
+    "closer_to_think": 0,
+    "closer_to_no_think": 12,
+    "ties": 0
+  }
+]

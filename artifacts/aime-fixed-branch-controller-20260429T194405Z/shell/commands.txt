@@ -1,0 +1,3 @@
+cd /Users/d/Documents/reasoning-switch-research
+OUT=outputs/aime-fixed-branch-controller-20260429T194405Z
+.venv/bin/python scripts/run_aime_fixed_branch_controller_suite.py --output-dir "$OUT" --models qwen35_4b,olmo3_7b,phi4_mini,liquid_12b --train-gsm8k-limit 30 --train-math500-limit 30 --aime-limit 60

@@ -1,0 +1,50 @@
+{
+  "started_at_utc": "2026-04-23T16:08:31.132358+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python3",
+  "think_model": "mlx-community/Olmo-3-7B-Think-4bit",
+  "instruct_model": "mlx-community/Olmo-3-7B-Instruct-4bit",
+  "patch_blocks": [
+    {
+      "label": "tail_w1",
+      "width": 1,
+      "rel_end": -1
+    },
+    {
+      "label": "tail_w2",
+      "width": 2,
+      "rel_end": -1
+    },
+    {
+      "label": "tail_w4",
+      "width": 4,
+      "rel_end": -1
+    },
+    {
+      "label": "nontail_w2",
+      "width": 2,
+      "rel_end": -5
+    },
+    {
+      "label": "nontail_w4",
+      "width": 4,
+      "rel_end": -5
+    }
+  ],
+  "module_patch_widths": [
+    1,
+    2
+  ],
+  "module_patch_layers": [
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    31
+  ],
+  "bootstrap_iters": 4000,
+  "prompt_count": 12
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "prompt_set": "alt",
+    "count": 8,
+    "mean_js_instruct_to_think": 0.6933747051988995,
+    "js_instruct_to_think_ci_low": 0.6931879461971184,
+    "js_instruct_to_think_ci_high": 0.6935464973053025,
+    "mean_top1_match": 0.0,
+    "top1_match_ci_low": 0.0,
+    "top1_match_ci_high": 0.0
+  },
+  {
+    "prompt_set": "main",
+    "count": 8,
+    "mean_js_instruct_to_think": 0.6932541596550186,
+    "js_instruct_to_think_ci_low": 0.693129986745426,
+    "js_instruct_to_think_ci_high": 0.6933678601922104,
+    "mean_top1_match": 0.0,
+    "top1_match_ci_low": 0.0,
+    "top1_match_ci_high": 0.0
+  }
+]

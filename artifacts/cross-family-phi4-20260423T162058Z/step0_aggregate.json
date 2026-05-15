@@ -1,0 +1,18 @@
+[
+  {
+    "family": "phi4_mini",
+    "count": 12,
+    "mean_js_instruct_to_think": 0.693195253610611,
+    "js_instruct_to_think_ci_low": 0.6930587063233057,
+    "js_instruct_to_think_ci_high": 0.6933210330704848,
+    "mean_think_entropy": 0.0001439497287247548,
+    "think_entropy_ci_low": 7.101525008975988e-05,
+    "think_entropy_ci_high": 0.00023336229277503304,
+    "mean_instruct_entropy": 0.6226837218690101,
+    "instruct_entropy_ci_low": 0.4205614521490458,
+    "instruct_entropy_ci_high": 0.8307415080661169,
+    "mean_top1_match": 0.0,
+    "top1_match_ci_low": 0.0,
+    "top1_match_ci_high": 0.0
+  }
+]

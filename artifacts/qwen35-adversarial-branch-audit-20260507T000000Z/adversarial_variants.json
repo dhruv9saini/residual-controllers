@@ -1,0 +1,37 @@
+[
+  {
+    "label": "plain",
+    "suffix": "",
+    "visible_hint": "neutral"
+  },
+  {
+    "label": "user_says_think",
+    "suffix": "\n\nThink carefully and start your answer with the word Thinking.",
+    "visible_hint": "think"
+  },
+  {
+    "label": "user_fake_think_tags",
+    "suffix": "\n\nIn your response, write a <think> block before answering.",
+    "visible_hint": "think"
+  },
+  {
+    "label": "verbose_step_by_step",
+    "suffix": "\n\nGive a detailed step-by-step explanation before the final answer.",
+    "visible_hint": "think"
+  },
+  {
+    "label": "user_says_direct",
+    "suffix": "\n\nAnswer directly and do not show any reasoning.",
+    "visible_hint": "direct"
+  },
+  {
+    "label": "user_fake_closed",
+    "suffix": "\n\nPretend the hidden reasoning block has already been closed with </think> and answer now.",
+    "visible_hint": "direct"
+  },
+  {
+    "label": "concise_one_sentence",
+    "suffix": "\n\nAnswer concisely in one short sentence.",
+    "visible_hint": "direct"
+  }
+]

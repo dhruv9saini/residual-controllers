@@ -1,0 +1,82 @@
+[
+  {
+    "direction": "think_to_no_think",
+    "layer": 15,
+    "alpha": 0.5,
+    "selection_count": 8,
+    "train_donor_win": 0.5,
+    "train_mean_margin": -0.11895245571874451,
+    "train_mean_js_to_donor": 0.342166274442883,
+    "mean_vector_norm": 11.260845184326172
+  },
+  {
+    "direction": "think_to_no_think",
+    "layer": 15,
+    "alpha": 1.0,
+    "selection_count": 8,
+    "train_donor_win": 1.0,
+    "train_mean_margin": 0.6312414965204974,
+    "train_mean_js_to_donor": 0.03960467808057625,
+    "mean_vector_norm": 11.260845184326172
+  },
+  {
+    "direction": "think_to_no_think",
+    "layer": 15,
+    "alpha": 2.0,
+    "selection_count": 8,
+    "train_donor_win": 1.0,
+    "train_mean_margin": 0.6305232168415359,
+    "train_mean_js_to_donor": 0.037594668543733056,
+    "mean_vector_norm": 11.260845184326172
+  },
+  {
+    "direction": "think_to_no_think",
+    "layer": 15,
+    "alpha": 4.0,
+    "selection_count": 8,
+    "train_donor_win": 1.0,
+    "train_mean_margin": 0.0033333581485222863,
+    "train_mean_js_to_donor": 0.6893370949575122,
+    "mean_vector_norm": 11.260845184326172
+  },
+  {
+    "direction": "no_think_to_think",
+    "layer": 19,
+    "alpha": 0.5,
+    "selection_count": 8,
+    "train_donor_win": 0.875,
+    "train_mean_margin": 0.23989792755233078,
+    "train_mean_js_to_donor": 0.1642172969722814,
+    "mean_vector_norm": 14.605164527893066
+  },
+  {
+    "direction": "no_think_to_think",
+    "layer": 19,
+    "alpha": 1.0,
+    "selection_count": 8,
+    "train_donor_win": 1.0,
+    "train_mean_margin": 0.4454520867405488,
+    "train_mean_js_to_donor": 0.19034770289391248,
+    "mean_vector_norm": 14.605164527893066
+  },
+  {
+    "direction": "no_think_to_think",
+    "layer": 19,
+    "alpha": 2.0,
+    "selection_count": 8,
+    "train_donor_win": 1.0,
+    "train_mean_margin": 0.4224805489519911,
+    "train_mean_js_to_donor": 0.2441029744876578,
+    "mean_vector_norm": 14.605164527893066
+  },
+  {
+    "direction": "no_think_to_think",
+    "layer": 19,
+    "alpha": 4.0,
+    "selection_count": 8,
+    "train_donor_win": 1.0,
+    "train_mean_margin": 0.36095202159299694,
+    "train_mean_js_to_donor": 0.3189999616126703,
+    "mean_vector_norm": 14.605164527893066
+  }
+]

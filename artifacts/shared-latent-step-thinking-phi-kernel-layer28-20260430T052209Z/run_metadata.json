@@ -1,0 +1,59 @@
+{
+  "started_at_utc": "2026-04-30T05:22:11.107440+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "patch_width": 2,
+  "alpha_grid": [
+    0.5,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "random_seeds": [
+    19,
+    37
+  ],
+  "effective_margin_threshold": 0.1,
+  "effective_js_to_donor_threshold": 0.6,
+  "prefix_steps": 3,
+  "model_configs": [
+    {
+      "label": "phi4_mini",
+      "kind": "phi",
+      "think_model": "mlx-community/Phi-4-mini-reasoning-4bit",
+      "instruct_model": "mlx-community/Phi-4-mini-instruct-4bit",
+      "directions": [
+        {
+          "label": "direct_erasure",
+          "donor_mode": "instruct",
+          "target_mode": "think",
+          "layer": 28
+        },
+        {
+          "label": "thinking_induction",
+          "donor_mode": "think",
+          "target_mode": "instruct",
+          "layer": 28
+        }
+      ]
+    }
+  ],
+  "args": {
+    "output_dir": "outputs/shared-latent-step-thinking-phi-kernel-layer28-20260430T052209Z",
+    "models": "phi4_mini",
+    "directions": "thinking_induction",
+    "train_gsm8k_limit": 20,
+    "train_math500_limit": 20,
+    "eval_gsm8k_limit": 10,
+    "eval_math500_limit": 10,
+    "prefix_steps": 3,
+    "aime_limit": 60,
+    "step_specific_adapters": true,
+    "adapter_type": "kernel",
+    "kernel_ridge_scale": 0.001,
+    "hf_repo_id": "",
+    "hf_repo_type": "dataset",
+    "skip_hf_upload": true
+  }
+}

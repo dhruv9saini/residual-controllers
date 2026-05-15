@@ -1,0 +1,7 @@
+{
+  "alpha": 1.0,
+  "train_count": 30,
+  "train_donor_win": 0.9666666666666667,
+  "train_mean_margin": 0.573673465333219,
+  "train_mean_js_to_donor": 0.03590151589367304
+}

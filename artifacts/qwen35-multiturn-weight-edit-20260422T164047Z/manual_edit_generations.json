@@ -1,0 +1,30 @@
+[
+  {
+    "id": "count_strawberries_r",
+    "prompt": "How many r letters are in the word strawberries?",
+    "family": "one_row",
+    "alpha": 0.25,
+    "generated_text": "Thinking Process:\n\nThinking Process:Thinking ProcessThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinking"
+  },
+  {
+    "id": "count_committee_m",
+    "prompt": "How many m letters are in the word committee?",
+    "family": "one_row",
+    "alpha": 0.25,
+    "generated_text": "Thinking Process:\nThinking process:Thinking processThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinkingThinking"
+  },
+  {
+    "id": "count_balloon_l",
+    "prompt": "How many l letters are in the word balloon?",
+    "family": "one_row",
+    "alpha": 0.25,
+    "generated_text": "Thinking Process:\nThinking Process:Thinking Process:Thinking Process:Thinking Process:Thinking Process:Thinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking ProcessThinking"
+  },
+  {
+    "id": "mul_317_248",
+    "prompt": "Compute 317 multiplied by 248 and give the exact result.",
+    "family": "one_row",
+    "alpha": 0.25,
+    "generated_text": "Thinking Process:\n\n1.  **Identify the operation:** The user wants to compute the product of two integers: $317$ and $248$.\n    Equation: $317 \\times 248$\n\n2.  **Set up the multiplication:**\n      ```\n          317\n        x 248\n      -------\n      ```\n\n3.  **Perform the multiplication step-by-step:**\n\n   "
+  }
+]

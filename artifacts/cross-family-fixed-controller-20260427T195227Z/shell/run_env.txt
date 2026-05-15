@@ -1,0 +1,7 @@
+run_id=cross-family-fixed-controller-20260427T195227Z
+started_at_utc=2026-04-27T19:52:27Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+models=olmo3_7b,phi4_mini,liquid_12b
+method=cross-family fixed train-learned prompt-boundary controllers
+completed_at_utc=2026-04-27T20:17:24Z

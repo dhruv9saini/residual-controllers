@@ -1,0 +1,91 @@
+# aime-fixed-branch-controller-20260429T194405Z
+
+- Controller: train-learned fixed width-2 prompt-boundary residual vectors.
+- Training prompts: public GSM8K/MATH-500 only; evaluation prompts: AIME 2025+2026.
+- Evaluation is next-token branch control with no AIME donor activations in the deployed fixed-vector controller.
+
+## AIME Branch Control
+
+- `liquid_12b` `instruct_to_think` `fixed_mean`: donor win `0.067` [`0.017`, `0.133`], effective `0.000` [`0.000`, `0.000`], margin `-0.0042`, JS donor `0.6929`
+- `liquid_12b` `instruct_to_think` `full_tail_patch`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.0957`, JS donor `0.6930`
+- `liquid_12b` `instruct_to_think` `opposite_mean`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.0039`, JS donor `0.6930`
+- `liquid_12b` `instruct_to_think` `random_norm_matched`: donor win `0.100` [`0.039`, `0.172`], effective `0.000` [`0.000`, `0.000`], margin `-0.0029`, JS donor `0.6930`
+- `liquid_12b` `think_to_instruct` `fixed_mean`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], margin `0.5777`, JS donor `0.1154`
+- `liquid_12b` `think_to_instruct` `full_tail_patch`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], margin `0.6784`, JS donor `0.0147`
+- `liquid_12b` `think_to_instruct` `opposite_mean`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.6933`, JS donor `0.6933`
+- `liquid_12b` `think_to_instruct` `random_norm_matched`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.6847`, JS donor `0.6924`
+- `olmo3_7b` `instruct_to_think` `fixed_mean`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], margin `0.6718`, JS donor `0.0207`
+- `olmo3_7b` `instruct_to_think` `full_tail_patch`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], margin `0.6685`, JS donor `0.0241`
+- `olmo3_7b` `instruct_to_think` `opposite_mean`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.6872`, JS donor `0.6926`
+- `olmo3_7b` `instruct_to_think` `random_norm_matched`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.6700`, JS donor `0.6922`
+- `olmo3_7b` `think_to_instruct` `fixed_mean`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], margin `0.4035`, JS donor `0.2873`
+- `olmo3_7b` `think_to_instruct` `full_tail_patch`: donor win `0.983` [`0.950`, `1.000`], effective `0.733` [`0.617`, `0.833`], margin `0.1625`, JS donor `0.5249`
+- `olmo3_7b` `think_to_instruct` `opposite_mean`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.5325`, JS donor `0.6847`
+- `olmo3_7b` `think_to_instruct` `random_norm_matched`: donor win `0.839` [`0.767`, `0.906`], effective `0.000` [`0.000`, `0.000`], margin `0.0019`, JS donor `0.6906`
+- `phi4_mini` `instruct_to_think` `fixed_mean`: donor win `0.200` [`0.100`, `0.300`], effective `0.000` [`0.000`, `0.000`], margin `-0.0003`, JS donor `0.6931`
+- `phi4_mini` `instruct_to_think` `full_tail_patch`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.5243`, JS donor `0.6931`
+- `phi4_mini` `instruct_to_think` `opposite_mean`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.4828`, JS donor `0.6932`
+- `phi4_mini` `instruct_to_think` `random_norm_matched`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.5099`, JS donor `0.6931`
+- `phi4_mini` `think_to_instruct` `fixed_mean`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], margin `0.5812`, JS donor `0.1119`
+- `phi4_mini` `think_to_instruct` `full_tail_patch`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], margin `0.5574`, JS donor `0.1358`
+- `phi4_mini` `think_to_instruct` `opposite_mean`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.6924`, JS donor `0.6933`
+- `phi4_mini` `think_to_instruct` `random_norm_matched`: donor win `0.000` [`0.000`, `0.000`], effective `0.000` [`0.000`, `0.000`], margin `-0.5644`, JS donor `0.6928`
+- `qwen35_4b` `no_to_think` `fixed_mean`: donor win `1.000` [`1.000`, `1.000`], effective `1.000` [`1.000`, `1.000`], margin `0.4941`, JS donor `0.1103`
+- `qwen35_4b` `no_to_think` `full_tail_patch`: donor win `1.000` [`1.000`, `1.000`], effective `0.983` [`0.950`, `1.000`], margin `0.5015`, JS donor `0.0226`
+- `qwen35_4b` `no_to_think` `opposite_mean`: donor win `0.017` [`0.000`, `0.050`], effective `0.000` [`0.000`, `0.000`], margin `-0.3847`, JS donor `0.5682`
+- `qwen35_4b` `no_to_think` `random_norm_matched`: donor win `0.250` [`0.183`, `0.317`], effective `0.106` [`0.056`, `0.156`], margin `-0.1073`, JS donor `0.3117`
+- `qwen35_4b` `think_to_no` `fixed_mean`: donor win `0.983` [`0.950`, `1.000`], effective `0.967` [`0.917`, `1.000`], margin `0.5064`, JS donor `0.1304`
+- `qwen35_4b` `think_to_no` `full_tail_patch`: donor win `1.000` [`1.000`, `1.000`], effective `0.967` [`0.917`, `1.000`], margin `0.4345`, JS donor `0.0087`
+- `qwen35_4b` `think_to_no` `opposite_mean`: donor win `0.717` [`0.600`, `0.833`], effective `0.000` [`0.000`, `0.000`], margin `0.0005`, JS donor `0.6918`
+- `qwen35_4b` `think_to_no` `random_norm_matched`: donor win `0.417` [`0.333`, `0.506`], effective `0.000` [`0.000`, `0.000`], margin `-0.0012`, JS donor `0.6901`
+
+## Selected Controllers
+
+- `qwen35_4b` `no_to_think` layer `15` alpha `0.25`: train donor win `0.150`, effective `0.017`, margin `-0.3987`
+- `qwen35_4b` `no_to_think` layer `15` alpha `0.5`: train donor win `0.700`, effective `0.417`, margin `0.0431`
+- `qwen35_4b` `no_to_think` layer `15` alpha `1.0`: train donor win `1.000`, effective `0.883`, margin `0.4904`
+- `qwen35_4b` `no_to_think` layer `15` alpha `2.0`: train donor win `1.000`, effective `0.833`, margin `0.3787`
+- `qwen35_4b` `no_to_think` layer `15` alpha `4.0`: train donor win `0.217`, effective `0.000`, margin `-0.0011`
+- `qwen35_4b` `no_to_think` layer `15` alpha `8.0`: train donor win `0.467`, effective `0.000`, margin `-0.0000`
+- `qwen35_4b` `think_to_no` layer `19` alpha `0.25`: train donor win `0.000`, effective `0.000`, margin `-0.4790`
+- `qwen35_4b` `think_to_no` layer `19` alpha `0.5`: train donor win `0.383`, effective `0.317`, margin `-0.0009`
+- `qwen35_4b` `think_to_no` layer `19` alpha `1.0`: train donor win `1.000`, effective `0.983`, margin `0.5039`
+- `qwen35_4b` `think_to_no` layer `19` alpha `2.0`: train donor win `1.000`, effective `1.000`, margin `0.5342`
+- `qwen35_4b` `think_to_no` layer `19` alpha `4.0`: train donor win `1.000`, effective `1.000`, margin `0.5162`
+- `qwen35_4b` `think_to_no` layer `19` alpha `8.0`: train donor win `1.000`, effective `0.250`, margin `0.0940`
+- `olmo3_7b` `instruct_to_think` layer `8` alpha `0.25`: train donor win `0.000`, effective `0.000`, margin `-0.6859`
+- `olmo3_7b` `instruct_to_think` layer `8` alpha `0.5`: train donor win `0.000`, effective `0.000`, margin `-0.6383`
+- `olmo3_7b` `instruct_to_think` layer `8` alpha `1.0`: train donor win `1.000`, effective `1.000`, margin `0.6664`
+- `olmo3_7b` `instruct_to_think` layer `8` alpha `2.0`: train donor win `1.000`, effective `1.000`, margin `0.6541`
+- `olmo3_7b` `instruct_to_think` layer `8` alpha `4.0`: train donor win `1.000`, effective `0.250`, margin `0.0700`
+- `olmo3_7b` `instruct_to_think` layer `8` alpha `8.0`: train donor win `0.783`, effective `0.000`, margin `0.0009`
+- `olmo3_7b` `think_to_instruct` layer `12` alpha `0.25`: train donor win `0.000`, effective `0.000`, margin `-0.6626`
+- `olmo3_7b` `think_to_instruct` layer `12` alpha `0.5`: train donor win `0.683`, effective `0.017`, margin `0.0114`
+- `olmo3_7b` `think_to_instruct` layer `12` alpha `1.0`: train donor win `1.000`, effective `0.533`, margin `0.1734`
+- `olmo3_7b` `think_to_instruct` layer `12` alpha `2.0`: train donor win `1.000`, effective `0.717`, margin `0.2714`
+- `olmo3_7b` `think_to_instruct` layer `12` alpha `4.0`: train donor win `1.000`, effective `0.967`, margin `0.3719`
+- `olmo3_7b` `think_to_instruct` layer `12` alpha `8.0`: train donor win `0.950`, effective `0.033`, margin `0.0106`
+- `phi4_mini` `instruct_to_think` layer `16` alpha `0.25`: train donor win `0.000`, effective `0.000`, margin `-0.6699`
+- `phi4_mini` `instruct_to_think` layer `16` alpha `0.5`: train donor win `0.000`, effective `0.000`, margin `-0.6035`
+- `phi4_mini` `instruct_to_think` layer `16` alpha `1.0`: train donor win `0.017`, effective `0.000`, margin `-0.3362`
+- `phi4_mini` `instruct_to_think` layer `16` alpha `2.0`: train donor win `0.450`, effective `0.000`, margin `-0.0002`
+- `phi4_mini` `instruct_to_think` layer `16` alpha `4.0`: train donor win `0.167`, effective `0.000`, margin `-0.0006`
+- `phi4_mini` `instruct_to_think` layer `16` alpha `8.0`: train donor win `0.200`, effective `0.000`, margin `-0.0010`
+- `phi4_mini` `think_to_instruct` layer `28` alpha `0.25`: train donor win `0.017`, effective `0.000`, margin `-0.6063`
+- `phi4_mini` `think_to_instruct` layer `28` alpha `0.5`: train donor win `0.700`, effective `0.583`, margin `0.0642`
+- `phi4_mini` `think_to_instruct` layer `28` alpha `1.0`: train donor win `1.000`, effective `1.000`, margin `0.5029`
+- `phi4_mini` `think_to_instruct` layer `28` alpha `2.0`: train donor win `1.000`, effective `1.000`, margin `0.4616`
+- `phi4_mini` `think_to_instruct` layer `28` alpha `4.0`: train donor win `0.567`, effective `0.000`, margin `0.0001`
+- `phi4_mini` `think_to_instruct` layer `28` alpha `8.0`: train donor win `0.567`, effective `0.000`, margin `0.0001`
+- `liquid_12b` `instruct_to_think` layer `12` alpha `0.25`: train donor win `0.000`, effective `0.000`, margin `-0.6009`
+- `liquid_12b` `instruct_to_think` layer `12` alpha `0.5`: train donor win `0.000`, effective `0.000`, margin `-0.5136`
+- `liquid_12b` `instruct_to_think` layer `12` alpha `1.0`: train donor win `0.000`, effective `0.000`, margin `-0.2483`
+- `liquid_12b` `instruct_to_think` layer `12` alpha `2.0`: train donor win `0.000`, effective `0.000`, margin `-0.0158`
+- `liquid_12b` `instruct_to_think` layer `12` alpha `4.0`: train donor win `0.000`, effective `0.000`, margin `-0.0078`
+- `liquid_12b` `instruct_to_think` layer `12` alpha `8.0`: train donor win `0.017`, effective `0.000`, margin `-0.0057`
+- `liquid_12b` `think_to_instruct` layer `16` alpha `0.25`: train donor win `0.000`, effective `0.000`, margin `-0.6911`
+- `liquid_12b` `think_to_instruct` layer `16` alpha `0.5`: train donor win `0.083`, effective `0.083`, margin `-0.4795`
+- `liquid_12b` `think_to_instruct` layer `16` alpha `1.0`: train donor win `1.000`, effective `0.983`, margin `0.5002`
+- `liquid_12b` `think_to_instruct` layer `16` alpha `2.0`: train donor win `1.000`, effective `0.917`, margin `0.3186`
+- `liquid_12b` `think_to_instruct` layer `16` alpha `4.0`: train donor win `1.000`, effective `0.000`, margin `0.0220`
+- `liquid_12b` `think_to_instruct` layer `16` alpha `8.0`: train donor win `0.967`, effective `0.000`, margin `0.0051`

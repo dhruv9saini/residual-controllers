@@ -1,0 +1,82 @@
+[
+  {
+    "direction": "no_think_to_think",
+    "alpha": 0.5,
+    "selection_count": 30,
+    "mean_donor_win": 0.0,
+    "mean_margin": -0.5266790665983342,
+    "mean_js_to_donor": 0.5955083365674114
+  },
+  {
+    "direction": "no_think_to_think",
+    "alpha": 1.0,
+    "selection_count": 30,
+    "mean_donor_win": 0.8666666666666667,
+    "mean_margin": 0.458749489905781,
+    "mean_js_to_donor": 0.1045169269275125
+  },
+  {
+    "direction": "no_think_to_think",
+    "alpha": 2.0,
+    "selection_count": 30,
+    "mean_donor_win": 0.9,
+    "mean_margin": 0.05779019698289447,
+    "mean_js_to_donor": 0.6242356553775263
+  },
+  {
+    "direction": "no_think_to_think",
+    "alpha": 4.0,
+    "selection_count": 30,
+    "mean_donor_win": 0.6,
+    "mean_margin": 0.0008791405748144373,
+    "mean_js_to_donor": 0.69210554191066
+  },
+  {
+    "direction": "no_think_to_think",
+    "alpha": 8.0,
+    "selection_count": 30,
+    "mean_donor_win": 0.5333333333333333,
+    "mean_margin": 0.0005054775440763566,
+    "mean_js_to_donor": 0.6927300272524374
+  },
+  {
+    "direction": "think_to_no_think",
+    "alpha": 0.5,
+    "selection_count": 30,
+    "mean_donor_win": 1.0,
+    "mean_margin": 0.3724452179687418,
+    "mean_js_to_donor": 0.1045662320466145
+  },
+  {
+    "direction": "think_to_no_think",
+    "alpha": 1.0,
+    "selection_count": 30,
+    "mean_donor_win": 1.0,
+    "mean_margin": 0.5813853120140436,
+    "mean_js_to_donor": 0.04661183618465701
+  },
+  {
+    "direction": "think_to_no_think",
+    "alpha": 2.0,
+    "selection_count": 30,
+    "mean_donor_win": 0.9666666666666667,
+    "mean_margin": 0.4923925295831982,
+    "mean_js_to_donor": 0.10171744920135052
+  },
+  {
+    "direction": "think_to_no_think",
+    "alpha": 4.0,
+    "selection_count": 30,
+    "mean_donor_win": 0.9333333333333333,
+    "mean_margin": 0.25113980838901967,
+    "mean_js_to_donor": 0.30314667686285485
+  },
+  {
+    "direction": "think_to_no_think",
+    "alpha": 8.0,
+    "selection_count": 30,
+    "mean_donor_win": 0.5,
+    "mean_margin": 0.009739445592330106,
+    "mean_js_to_donor": 0.6114574613033368
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "started_at": "2026-05-07T03:18:32.009429+00:00",
+  "model_id": "mlx-community/Qwen3.5-4B-4bit",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "layer_grid": [
+    32
+  ],
+  "width_grid": [
+    1,
+    2,
+    4,
+    8
+  ],
+  "alpha_grid": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0,
+    16.0
+  ],
+  "random_seeds": [
+    13,
+    29,
+    47
+  ],
+  "effective_margin_threshold": 0.1,
+  "effective_js_to_donor_threshold": 0.6
+}

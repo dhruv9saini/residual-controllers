@@ -1,0 +1,562 @@
+[
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 1,
+    "singular_value": 51.0805778503418,
+    "cumulative_energy": 0.8141883349708691
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 2,
+    "singular_value": 13.953239440917969,
+    "cumulative_energy": 0.8749407255102319
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 3,
+    "singular_value": 10.038262367248535,
+    "cumulative_energy": 0.9063841877506537
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 4,
+    "singular_value": 9.404624938964844,
+    "cumulative_energy": 0.9339833715082188
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 5,
+    "singular_value": 7.060072898864746,
+    "cumulative_energy": 0.9495369983375527
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 6,
+    "singular_value": 6.510075092315674,
+    "cumulative_energy": 0.9627616814692432
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 7,
+    "singular_value": 6.14762544631958,
+    "cumulative_energy": 0.9745547837793838
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 8,
+    "singular_value": 5.80065393447876,
+    "cumulative_energy": 0.9850542497518937
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 9,
+    "singular_value": 4.552834987640381,
+    "cumulative_energy": 0.9915223552578762
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 10,
+    "singular_value": 3.9922263622283936,
+    "cumulative_energy": 0.9964956430869327
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 11,
+    "singular_value": 1.6567003726959229,
+    "cumulative_energy": 0.9973520915250592
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 12,
+    "singular_value": 1.572824239730835,
+    "cumulative_energy": 0.9981240139854799
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 13,
+    "singular_value": 1.4011057615280151,
+    "cumulative_energy": 0.9987365831354407
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 14,
+    "singular_value": 1.1415053606033325,
+    "cumulative_energy": 0.999143184860783
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 15,
+    "singular_value": 0.9960708022117615,
+    "cumulative_energy": 0.9994527796961301
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 16,
+    "singular_value": 0.8549627065658569,
+    "cumulative_energy": 0.9996808704155224
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 17,
+    "singular_value": 0.6851805448532104,
+    "cumulative_energy": 0.999827365594776
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 18,
+    "singular_value": 0.46528497338294983,
+    "cumulative_energy": 0.9998949196366355
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 19,
+    "singular_value": 0.42474088072776794,
+    "cumulative_energy": 0.9999512135454939
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "think_to_no_think",
+    "component_index": 20,
+    "singular_value": 0.39520740509033203,
+    "cumulative_energy": 0.9999999510656031
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 1,
+    "singular_value": 67.48090362548828,
+    "cumulative_energy": 0.7935241381094259
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 2,
+    "singular_value": 18.82465934753418,
+    "cumulative_energy": 0.8552763633312844
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 3,
+    "singular_value": 14.359209060668945,
+    "cumulative_energy": 0.8912065446980975
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 4,
+    "singular_value": 13.247604370117188,
+    "cumulative_energy": 0.9217890504653634
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 5,
+    "singular_value": 10.558769226074219,
+    "cumulative_energy": 0.9412169105459451
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 6,
+    "singular_value": 9.611478805541992,
+    "cumulative_energy": 0.9573151647865618
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 7,
+    "singular_value": 8.908808708190918,
+    "cumulative_energy": 0.9711456571479551
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 8,
+    "singular_value": 7.662276268005371,
+    "cumulative_energy": 0.9813765600515922
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 9,
+    "singular_value": 6.683237552642822,
+    "cumulative_energy": 0.9891600104702933
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 10,
+    "singular_value": 5.957836151123047,
+    "cumulative_energy": 0.9953455198680098
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 11,
+    "singular_value": 2.712979316711426,
+    "cumulative_energy": 0.9966281201224623
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 12,
+    "singular_value": 2.6183972358703613,
+    "cumulative_energy": 0.997822849215799
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 13,
+    "singular_value": 1.9361766576766968,
+    "cumulative_energy": 0.998476112602088
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 14,
+    "singular_value": 1.4888628721237183,
+    "cumulative_energy": 0.9988623975398001
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 15,
+    "singular_value": 1.4585564136505127,
+    "cumulative_energy": 0.9992331165219495
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 16,
+    "singular_value": 1.3140746355056763,
+    "cumulative_energy": 0.9995340277648374
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 17,
+    "singular_value": 1.225913405418396,
+    "cumulative_energy": 0.9997959171771389
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 18,
+    "singular_value": 0.745017945766449,
+    "cumulative_energy": 0.99989264063935
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 19,
+    "singular_value": 0.5808026790618896,
+    "cumulative_energy": 0.9999514241570278
+  },
+  {
+    "model_label": "qwen35_4b",
+    "direction": "no_think_to_think",
+    "component_index": 20,
+    "singular_value": 0.5277771949768066,
+    "cumulative_energy": 0.9999999641398457
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 1,
+    "singular_value": 63.627098083496094,
+    "cumulative_energy": 0.8246152937266039
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 2,
+    "singular_value": 14.13725757598877,
+    "cumulative_energy": 0.865324953125718
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 3,
+    "singular_value": 12.032301902770996,
+    "cumulative_energy": 0.894814261527662
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 4,
+    "singular_value": 11.79648494720459,
+    "cumulative_energy": 0.9231589952920836
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 5,
+    "singular_value": 8.766526222229004,
+    "cumulative_energy": 0.9388128830105243
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 6,
+    "singular_value": 8.626855850219727,
+    "cumulative_energy": 0.9539719420921107
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 7,
+    "singular_value": 7.882181167602539,
+    "cumulative_energy": 0.9666268785703971
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 8,
+    "singular_value": 7.572257995605469,
+    "cumulative_energy": 0.9783062092435925
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 9,
+    "singular_value": 6.778968334197998,
+    "cumulative_energy": 0.9876666078065223
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 10,
+    "singular_value": 6.408902168273926,
+    "cumulative_energy": 0.996032927125609
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 11,
+    "singular_value": 2.149723768234253,
+    "cumulative_energy": 0.9969742366322887
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 12,
+    "singular_value": 2.0493741035461426,
+    "cumulative_energy": 0.9978297161337912
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 13,
+    "singular_value": 1.7914761304855347,
+    "cumulative_energy": 0.9984834322726424
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 14,
+    "singular_value": 1.5102791786193848,
+    "cumulative_energy": 0.9989480348380103
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 15,
+    "singular_value": 1.3631385564804077,
+    "cumulative_energy": 0.9993265184957638
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 16,
+    "singular_value": 1.0068269968032837,
+    "cumulative_energy": 0.99953299795153
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 17,
+    "singular_value": 0.9744646549224854,
+    "cumulative_energy": 0.9997264170406095
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 18,
+    "singular_value": 0.7807079553604126,
+    "cumulative_energy": 0.9998505663676986
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 19,
+    "singular_value": 0.6279057860374451,
+    "cumulative_energy": 0.9999308738697243
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "think_to_instruct",
+    "component_index": 20,
+    "singular_value": 0.5829578042030334,
+    "cumulative_energy": 1.0000000954327453
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 1,
+    "singular_value": 44.57455062866211,
+    "cumulative_energy": 0.8894959998767125
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 2,
+    "singular_value": 8.097314834594727,
+    "cumulative_energy": 0.9188489715873588
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 3,
+    "singular_value": 6.620092868804932,
+    "cumulative_energy": 0.9384689356929782
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 4,
+    "singular_value": 5.792091369628906,
+    "cumulative_energy": 0.9534879290649613
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 5,
+    "singular_value": 4.658337116241455,
+    "cumulative_energy": 0.9632026839932659
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 6,
+    "singular_value": 4.408629417419434,
+    "cumulative_energy": 0.9719038458212246
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 7,
+    "singular_value": 4.158773422241211,
+    "cumulative_energy": 0.979646690888078
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 8,
+    "singular_value": 3.905327558517456,
+    "cumulative_energy": 0.9864745564927448
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 9,
+    "singular_value": 3.536465883255005,
+    "cumulative_energy": 0.9920735373259861
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 10,
+    "singular_value": 3.307537317276001,
+    "cumulative_energy": 0.9969710948439139
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 11,
+    "singular_value": 1.5067627429962158,
+    "cumulative_energy": 0.9979874834617565
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 12,
+    "singular_value": 1.259974718093872,
+    "cumulative_energy": 0.9986981955673279
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 13,
+    "singular_value": 1.023005485534668,
+    "cumulative_energy": 0.999166713241903
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 14,
+    "singular_value": 0.8646177053451538,
+    "cumulative_energy": 0.9995013844024698
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 15,
+    "singular_value": 0.6690090894699097,
+    "cumulative_energy": 0.9997017550349354
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 16,
+    "singular_value": 0.552372932434082,
+    "cumulative_energy": 0.9998383500359757
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 17,
+    "singular_value": 0.3494815528392792,
+    "cumulative_energy": 0.9998930287814515
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 18,
+    "singular_value": 0.33749818801879883,
+    "cumulative_energy": 0.9999440220596219
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 19,
+    "singular_value": 0.2861870229244232,
+    "cumulative_energy": 0.9999806885974755
+  },
+  {
+    "model_label": "olmo3_7b",
+    "direction": "instruct_to_think",
+    "component_index": 20,
+    "singular_value": 0.20810215175151825,
+    "cumulative_energy": 1.000000076159333
+  }
+]

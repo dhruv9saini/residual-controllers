@@ -1,0 +1,6162 @@
+[
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "plain",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.5140528678894043,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.51953125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.404296875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0546875
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.015625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0021209716796875
+      }
+    ],
+    "token_count": 26
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "plain",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.46793174743652344,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.95703125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0419921875
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.000194549560546875
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 4.935264587402344e-05
+      },
+      {
+        "token_id": 8839,
+        "token_text": "Note",
+        "prob": 2.6345252990722656e-05
+      }
+    ],
+    "token_count": 28
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "user_says_think",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4700297713279724,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9609375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.032958984375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.005035400390625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0003223419189453125
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.000118255615234375
+      }
+    ],
+    "token_count": 38
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "user_says_think",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3297670781612396,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.0006256103515625
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.0001583099365234375
+      },
+      {
+        "token_id": 50534,
+        "token_text": " Thinking",
+        "prob": 0.00014019012451171875
+      },
+      {
+        "token_id": 248068,
+        "token_text": "<think>",
+        "prob": 0.00014019012451171875
+      }
+    ],
+    "token_count": 40
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.35297924280166626,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.8828125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.10546875
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.006744384765625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00170135498046875
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.00150299072265625
+      }
+    ],
+    "token_count": 39
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3712339401245117,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.478515625
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 0.2265625
+      },
+      {
+        "token_id": 13353,
+        "token_text": "<m",
+        "prob": 0.050537109375
+      },
+      {
+        "token_id": 90,
+        "token_text": "{",
+        "prob": 0.03466796875
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.0269775390625
+      }
+    ],
+    "token_count": 41
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.5084491968154907,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.005218505859375
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.003570556640625
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 3.981590270996094e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 3.0994415283203125e-05
+      }
+    ],
+    "token_count": 39
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.44252312183380127,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.9765625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.020263671875
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.0006103515625
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 1.8477439880371094e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 1.8477439880371094e-05
+      }
+    ],
+    "token_count": 41
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "user_says_direct",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4610399603843689,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.004608154296875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 4.506111145019531e-05
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 3.0994415283203125e-05
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 2.7298927307128906e-05
+      }
+    ],
+    "token_count": 36
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "user_says_direct",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.14670830965042114,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "x",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 87,
+        "token_text": "x",
+        "prob": 0.462890625
+      },
+      {
+        "token_id": 22,
+        "token_text": "7",
+        "prob": 0.1328125
+      },
+      {
+        "token_id": 24,
+        "token_text": "9",
+        "prob": 0.10302734375
+      },
+      {
+        "token_id": 20,
+        "token_text": "5",
+        "prob": 0.07080078125
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.06298828125
+      }
+    ],
+    "token_count": 38
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.42746996879577637,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.92578125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.06689453125
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.00095367431640625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.000743865966796875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.000579833984375
+      }
+    ],
+    "token_count": 45
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3711196482181549,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.9765625
+      },
+      {
+        "token_id": 20,
+        "token_text": "5",
+        "prob": 0.005126953125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.003509521484375
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.002410888671875
+      },
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.00156402587890625
+      }
+    ],
+    "token_count": 47
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.452811598777771,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00193023681640625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00116729736328125
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.00014019012451171875
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 5.841255187988281e-05
+      }
+    ],
+    "token_count": 36
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.2549792528152466,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "x",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 87,
+        "token_text": "x",
+        "prob": 0.64453125
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.1845703125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.1435546875
+      },
+      {
+        "token_id": 830,
+        "token_text": " x",
+        "prob": 0.01336669921875
+      },
+      {
+        "token_id": 5170,
+        "token_text": "First",
+        "prob": 0.00140380859375
+      }
+    ],
+    "token_count": 38
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "plain",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.5091023445129395,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.87109375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.1181640625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.005889892578125
+      },
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.000896453857421875
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0002918243408203125
+      }
+    ],
+    "token_count": 26
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "plain",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4797784388065338,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 1.0
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0002613067626953125
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 5.14984130859375e-05
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 7.867813110351562e-06
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 3.293156623840332e-06
+      }
+    ],
+    "token_count": 28
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "user_says_think",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.44972461462020874,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.01104736328125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0003337860107421875
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 6.580352783203125e-05
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 2.002716064453125e-05
+      }
+    ],
+    "token_count": 38
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "user_says_think",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.32457008957862854,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.000804901123046875
+      },
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.0002307891845703125
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.0001583099365234375
+      },
+      {
+        "token_id": 248068,
+        "token_text": "<think>",
+        "prob": 0.0001087188720703125
+      }
+    ],
+    "token_count": 40
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.33518752455711365,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.8359375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.1279296875
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.025146484375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0026702880859375
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.00103759765625
+      }
+    ],
+    "token_count": 39
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.32927995920181274,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.55078125
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 0.2021484375
+      },
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.07470703125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.018798828125
+      },
+      {
+        "token_id": 56749,
+        "token_text": "$\\",
+        "prob": 0.01300048828125
+      }
+    ],
+    "token_count": 41
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.501827597618103,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.68359375
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.251953125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0634765625
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 9.584426879882812e-05
+      },
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 9.584426879882812e-05
+      }
+    ],
+    "token_count": 39
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.44023749232292175,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 1.0
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.000431060791015625
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 9.632110595703125e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 1.6689300537109375e-05
+      },
+      {
+        "token_id": 8046,
+        "token_text": "Step",
+        "prob": 8.940696716308594e-06
+      }
+    ],
+    "token_count": 41
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "user_says_direct",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4574955105781555,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9609375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.037353515625
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.00060272216796875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.000469207763671875
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0003643035888671875
+      }
+    ],
+    "token_count": 36
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "user_says_direct",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.10323869436979294,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "2",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 1.0
+      },
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.0013275146484375
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.000335693359375
+      },
+      {
+        "token_id": 18,
+        "token_text": "3",
+        "prob": 0.0002956390380859375
+      },
+      {
+        "token_id": 12,
+        "token_text": "-",
+        "prob": 0.0002613067626953125
+      }
+    ],
+    "token_count": 38
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4028133153915405,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.96875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0228271484375
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0034942626953125
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.003082275390625
+      },
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.0004177093505859375
+      }
+    ],
+    "token_count": 45
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3077378273010254,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "4",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.484375
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.484375
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.006103515625
+      },
+      {
+        "token_id": 18,
+        "token_text": "3",
+        "prob": 0.00537109375
+      },
+      {
+        "token_id": 20,
+        "token_text": "5",
+        "prob": 0.0047607421875
+      }
+    ],
+    "token_count": 47
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.43709781765937805,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00102996826171875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.000804901123046875
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.000179290771484375
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0001087188720703125
+      }
+    ],
+    "token_count": 36
+  },
+  {
+    "id": "mul_438_57",
+    "category": "arithmetic",
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.24692443013191223,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "4",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.71484375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.140625
+      },
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.140625
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.00138092041015625
+      },
+      {
+        "token_id": 3,
+        "token_text": "$",
+        "prob": 0.000652313232421875
+      }
+    ],
+    "token_count": 38
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "plain",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.5217017531394958,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.92578125
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.06689453125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.002593994140625
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0006561279296875
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00018787384033203125
+      }
+    ],
+    "token_count": 34
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "plain",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.5339124798774719,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0027923583984375
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.00115966796875
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.000293731689453125
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.00010776519775390625
+      }
+    ],
+    "token_count": 36
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "user_says_think",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4467564821243286,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9609375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.032958984375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00238037109375
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 9.250640869140625e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 4.9591064453125e-05
+      }
+    ],
+    "token_count": 46
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "user_says_think",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3458474576473236,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.00102996826171875
+      },
+      {
+        "token_id": 248068,
+        "token_text": "<think>",
+        "prob": 0.0002307891845703125
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.00020313262939453125
+      },
+      {
+        "token_id": 50534,
+        "token_text": " Thinking",
+        "prob": 9.012222290039062e-05
+      }
+    ],
+    "token_count": 48
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.3029809892177582,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.796875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.177734375
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.010009765625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.00689697265625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00286865234375
+      }
+    ],
+    "token_count": 47
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3701198101043701,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.54296875
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 0.19921875
+      },
+      {
+        "token_id": 90,
+        "token_text": "{",
+        "prob": 0.04443359375
+      },
+      {
+        "token_id": 2592,
+        "token_text": "If",
+        "prob": 0.0238037109375
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.01446533203125
+      }
+    ],
+    "token_count": 49
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4930824339389801,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.984375
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00665283203125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.005859375
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 9.489059448242188e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 5.745887756347656e-05
+      }
+    ],
+    "token_count": 47
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.46928316354751587,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 1.0
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.000804901123046875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 8.487701416015625e-05
+      },
+      {
+        "token_id": 35,
+        "token_text": "D",
+        "prob": 1.895427703857422e-05
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 3.725290298461914e-06
+      }
+    ],
+    "token_count": 49
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "user_says_direct",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.46219125390052795,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.004608154296875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.004608154296875
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0002593994140625
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.00013065338134765625
+      }
+    ],
+    "token_count": 44
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "user_says_direct",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.13101699948310852,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "Saturday",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 32558,
+        "token_text": "Saturday",
+        "prob": 0.18359375
+      },
+      {
+        "token_id": 39181,
+        "token_text": "Wednesday",
+        "prob": 0.162109375
+      },
+      {
+        "token_id": 33475,
+        "token_text": "Friday",
+        "prob": 0.142578125
+      },
+      {
+        "token_id": 38867,
+        "token_text": "Tuesday",
+        "prob": 0.142578125
+      },
+      {
+        "token_id": 34072,
+        "token_text": "Monday",
+        "prob": 0.1259765625
+      }
+    ],
+    "token_count": 46
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4059755206108093,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9765625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.017822265625
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.00188446044921875
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000476837158203125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0002880096435546875
+      }
+    ],
+    "token_count": 53
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.41739895939826965,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.93359375
+      },
+      {
+        "token_id": 623,
+        "token_text": "In",
+        "prob": 0.0281982421875
+      },
+      {
+        "token_id": 2592,
+        "token_text": "If",
+        "prob": 0.0103759765625
+      },
+      {
+        "token_id": 26286,
+        "token_text": "June",
+        "prob": 0.00628662109375
+      },
+      {
+        "token_id": 12189,
+        "token_text": "Since",
+        "prob": 0.004913330078125
+      }
+    ],
+    "token_count": 55
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4281071126461029,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0006256103515625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00012302398681640625
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 4.267692565917969e-05
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 3.314018249511719e-05
+      }
+    ],
+    "token_count": 44
+  },
+  {
+    "id": "calendar_thursday_june_1",
+    "category": "calendar",
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.2653145492076874,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "June",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 26286,
+        "token_text": "June",
+        "prob": 0.734375
+      },
+      {
+        "token_id": 623,
+        "token_text": "In",
+        "prob": 0.1279296875
+      },
+      {
+        "token_id": 2592,
+        "token_text": "If",
+        "prob": 0.087890625
+      },
+      {
+        "token_id": 5361,
+        "token_text": " June",
+        "prob": 0.01953125
+      },
+      {
+        "token_id": 2064,
+        "token_text": "It",
+        "prob": 0.010498046875
+      }
+    ],
+    "token_count": 46
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "plain",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4374332129955292,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "The",
+    "top1_label": "no",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.82421875
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0673828125
+      },
+      {
+        "token_id": 21765,
+        "token_text": "Looking",
+        "prob": 0.04638671875
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0281982421875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0133056640625
+      }
+    ],
+    "token_count": 31
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "plain",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4527946412563324,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "The",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.94140625
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.046875
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00927734375
+      },
+      {
+        "token_id": 623,
+        "token_text": "In",
+        "prob": 0.000759124755859375
+      },
+      {
+        "token_id": 2523,
+        "token_text": "You",
+        "prob": 0.0004596710205078125
+      }
+    ],
+    "token_count": 33
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "user_says_think",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.417764812707901,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00860595703125
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0003757476806640625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0001392364501953125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 9.5367431640625e-05
+      }
+    ],
+    "token_count": 43
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "user_says_think",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.33849644660949707,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.003570556640625
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.00148773193359375
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.000705718994140625
+      },
+      {
+        "token_id": 79420,
+        "token_text": "thinking",
+        "prob": 0.00017833709716796875
+      }
+    ],
+    "token_count": 45
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.3046796917915344,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.5234375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.462890625
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.005157470703125
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00311279296875
+      },
+      {
+        "token_id": 21765,
+        "token_text": "Looking",
+        "prob": 0.00188446044921875
+      }
+    ],
+    "token_count": 44
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.31698837876319885,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "The",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.64453125
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 0.1435546875
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.06787109375
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.046630859375
+      },
+      {
+        "token_id": 90,
+        "token_text": "{",
+        "prob": 0.0194091796875
+      }
+    ],
+    "token_count": 46
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4473068118095398,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.49609375
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.234375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.1826171875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.076171875
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0033416748046875
+      }
+    ],
+    "token_count": 44
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4284150302410126,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.390625
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.236328125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.1845703125
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.0869140625
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.0771484375
+      }
+    ],
+    "token_count": 46
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "user_says_direct",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.41979455947875977,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.92578125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.06689453125
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0002918243408203125
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0001659393310546875
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.000156402587890625
+      }
+    ],
+    "token_count": 41
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "user_says_direct",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.19482119381427765,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "The",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.462890625
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.408203125
+      },
+      {
+        "token_id": 2523,
+        "token_text": "You",
+        "prob": 0.07080078125
+      },
+      {
+        "token_id": 24285,
+        "token_text": "Missing",
+        "prob": 0.026123046875
+      },
+      {
+        "token_id": 41314,
+        "token_text": "Indent",
+        "prob": 0.004547119140625
+      }
+    ],
+    "token_count": 43
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4016939699649811,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.6953125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.2890625
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.004150390625
+      },
+      {
+        "token_id": 21765,
+        "token_text": "Looking",
+        "prob": 0.0036468505859375
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0032196044921875
+      }
+    ],
+    "token_count": 50
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3676307201385498,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "The",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.96875
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.0257568359375
+      },
+      {
+        "token_id": 623,
+        "token_text": "In",
+        "prob": 0.003082275390625
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0021209716796875
+      },
+      {
+        "token_id": 2523,
+        "token_text": "You",
+        "prob": 0.0003681182861328125
+      }
+    ],
+    "token_count": 52
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.430592805147171,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0013275146484375
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.00020313262939453125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00014019012451171875
+      },
+      {
+        "token_id": 81266,
+        "token_text": "Thought",
+        "prob": 7.009506225585938e-05
+      }
+    ],
+    "token_count": 41
+  },
+  {
+    "id": "code_bug_4",
+    "category": "coding",
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.20396101474761963,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "The",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.8046875
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.1396484375
+      },
+      {
+        "token_id": 2523,
+        "token_text": "You",
+        "prob": 0.03125
+      },
+      {
+        "token_id": 2064,
+        "token_text": "It",
+        "prob": 0.0101318359375
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0037384033203125
+      }
+    ],
+    "token_count": 43
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "plain",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4794273376464844,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0028076171875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0003795623779296875
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0001087188720703125
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 7.486343383789062e-05
+      }
+    ],
+    "token_count": 21
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "plain",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.5216283202171326,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.78125
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.173828125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0267333984375
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.0162353515625
+      },
+      {
+        "token_id": 623,
+        "token_text": "In",
+        "prob": 0.00170135498046875
+      }
+    ],
+    "token_count": 23
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "user_says_think",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.44565948843955994,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0021820068359375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 7.486343383789062e-05
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 1.6689300537109375e-05
+      },
+      {
+        "token_id": 81266,
+        "token_text": "Thought",
+        "prob": 1.2218952178955078e-05
+      }
+    ],
+    "token_count": 33
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "user_says_think",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3312273919582367,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.00020313262939453125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.000179290771484375
+      },
+      {
+        "token_id": 248068,
+        "token_text": "<think>",
+        "prob": 0.00012302398681640625
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 8.487701416015625e-05
+      }
+    ],
+    "token_count": 35
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.29605016112327576,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "The",
+    "top1_label": "no",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.55078125
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.427734375
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.005401611328125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0025482177734375
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0025482177734375
+      }
+    ],
+    "token_count": 34
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3595915734767914,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "The",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.703125
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.10791015625
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.07421875
+      },
+      {
+        "token_id": 623,
+        "token_text": "In",
+        "prob": 0.034912109375
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 0.0308837890625
+      }
+    ],
+    "token_count": 36
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.46896472573280334,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9765625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.01397705078125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0074462890625
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 9.393692016601562e-05
+      },
+      {
+        "token_id": 5170,
+        "token_text": "First",
+        "prob": 3.457069396972656e-05
+      }
+    ],
+    "token_count": 34
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.456383615732193,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 1.0
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.000431060791015625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 5.14984130859375e-05
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 5.424022674560547e-06
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 3.293156623840332e-06
+      }
+    ],
+    "token_count": 36
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "user_says_direct",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4305397868156433,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.004608154296875
+      },
+      {
+        "token_id": 81266,
+        "token_text": "Thought",
+        "prob": 0.00013065338134765625
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 6.580352783203125e-05
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 6.580352783203125e-05
+      }
+    ],
+    "token_count": 31
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "user_says_direct",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.1258479803800583,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "4",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.66796875
+      },
+      {
+        "token_id": 220,
+        "token_text": " ",
+        "prob": 0.27734375
+      },
+      {
+        "token_id": 15,
+        "token_text": "0",
+        "prob": 0.0157470703125
+      },
+      {
+        "token_id": 274,
+        "token_text": " s",
+        "prob": 0.01385498046875
+      },
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.00579833984375
+      }
+    ],
+    "token_count": 33
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4076964557170868,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.005889892578125
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 5.793571472167969e-05
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 3.981590270996094e-05
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 3.0994415283203125e-05
+      }
+    ],
+    "token_count": 40
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4010176956653595,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "There",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.515625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.35546875
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.0791015625
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.025634765625
+      },
+      {
+        "token_id": 623,
+        "token_text": "In",
+        "prob": 0.02001953125
+      }
+    ],
+    "token_count": 42
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.42109179496765137,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0002956390380859375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 2.4318695068359375e-05
+      },
+      {
+        "token_id": 81266,
+        "token_text": "Thought",
+        "prob": 1.0132789611816406e-05
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 5.424022674560547e-06
+      }
+    ],
+    "token_count": 31
+  },
+  {
+    "id": "count_mississippi_s",
+    "category": "counting",
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.25266095995903015,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "There",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.92578125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.05224609375
+      },
+      {
+        "token_id": 2532,
+        "token_text": " There",
+        "prob": 0.0169677734375
+      },
+      {
+        "token_id": 561,
+        "token_text": " The",
+        "prob": 0.0003108978271484375
+      },
+      {
+        "token_id": 34141,
+        "token_text": "Miss",
+        "prob": 0.00012969970703125
+      }
+    ],
+    "token_count": 33
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "plain",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.522699773311615,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.50390625
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.4453125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.046630859375
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0030059814453125
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0020599365234375
+      }
+    ],
+    "token_count": 37
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "plain",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.5355420708656311,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 1.0
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.000804901123046875
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 7.486343383789062e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 5.14984130859375e-05
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 3.123283386230469e-05
+      }
+    ],
+    "token_count": 39
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "user_says_think",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4420253336429596,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9609375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.032958984375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00060272216796875
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.00022220611572265625
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000152587890625
+      }
+    ],
+    "token_count": 49
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "user_says_think",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3862050175666809,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.0021820068359375
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.0001583099365234375
+      },
+      {
+        "token_id": 248068,
+        "token_text": "<think>",
+        "prob": 0.00012302398681640625
+      },
+      {
+        "token_id": 50534,
+        "token_text": " Thinking",
+        "prob": 9.632110595703125e-05
+      }
+    ],
+    "token_count": 51
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.31072476506233215,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.8828125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.072265625
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.018310546875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0086669921875
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.0036163330078125
+      }
+    ],
+    "token_count": 50
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3741627335548401,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.70703125
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 0.07470703125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.039794921875
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.0274658203125
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.018798828125
+      }
+    ],
+    "token_count": 52
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.49714937806129456,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.90234375
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.05078125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.044921875
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000499725341796875
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0001430511474609375
+      }
+    ],
+    "token_count": 50
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4771917164325714,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 1.0
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.00116729736328125
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 1.6689300537109375e-05
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 1.0132789611816406e-05
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 8.940696716308594e-06
+      }
+    ],
+    "token_count": 52
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "user_says_direct",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4690047800540924,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.005889892578125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00010776519775390625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 3.0994415283203125e-05
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 2.1338462829589844e-05
+      }
+    ],
+    "token_count": 47
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "user_says_direct",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.16123731434345245,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "3",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 18,
+        "token_text": "3",
+        "prob": 0.671875
+      },
+      {
+        "token_id": 17,
+        "token_text": "2",
+        "prob": 0.2470703125
+      },
+      {
+        "token_id": 220,
+        "token_text": " ",
+        "prob": 0.04296875
+      },
+      {
+        "token_id": 19,
+        "token_text": "4",
+        "prob": 0.033447265625
+      },
+      {
+        "token_id": 20,
+        "token_text": "5",
+        "prob": 0.0035247802734375
+      }
+    ],
+    "token_count": 49
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.41997790336608887,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.92578125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.06689453125
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.004852294921875
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.00051116943359375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00051116943359375
+      }
+    ],
+    "token_count": 56
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3617793917655945,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.003570556640625
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.000621795654296875
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.000583648681640625
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.000354766845703125
+      }
+    ],
+    "token_count": 58
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.44509822130203247,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00102996826171875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00048828125
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 6.628036499023438e-05
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 3.528594970703125e-05
+      }
+    ],
+    "token_count": 47
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.2806271016597748,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": " The",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 561,
+        "token_text": " The",
+        "prob": 0.408203125
+      },
+      {
+        "token_id": 1394,
+        "token_text": " You",
+        "prob": 0.21875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.193359375
+      },
+      {
+        "token_id": 2523,
+        "token_text": "You",
+        "prob": 0.0625
+      },
+      {
+        "token_id": 1946,
+        "token_text": " To",
+        "prob": 0.015869140625
+      }
+    ],
+    "token_count": 49
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "plain",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4823569357395172,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00193023681640625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.00048828125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0003795623779296875
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0002307891845703125
+      }
+    ],
+    "token_count": 25
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "plain",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.48399582505226135,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.796875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.201171875
+      },
+      {
+        "token_id": 2033,
+        "token_text": "Al",
+        "prob": 0.003265380859375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.000640869140625
+      },
+      {
+        "token_id": 5170,
+        "token_text": "First",
+        "prob": 0.00018405914306640625
+      }
+    ],
+    "token_count": 27
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "user_says_think",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.46068286895751953,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.000553131103515625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00020313262939453125
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 9.632110595703125e-05
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 5.14984130859375e-05
+      }
+    ],
+    "token_count": 37
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "user_says_think",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.2688838541507721,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.000335693359375
+      },
+      {
+        "token_id": 248068,
+        "token_text": "<think>",
+        "prob": 0.0001583099365234375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.000148773193359375
+      },
+      {
+        "token_id": 19661,
+        "token_text": "Delta",
+        "prob": 0.0001316070556640625
+      }
+    ],
+    "token_count": 39
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.3093675971031189,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.07568359375
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0029449462890625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.000949859619140625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00045013427734375
+      }
+    ],
+    "token_count": 38
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.2864154875278473,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "<",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 0.33203125
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.1376953125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.1220703125
+      },
+      {
+        "token_id": 90,
+        "token_text": "{",
+        "prob": 0.08349609375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0654296875
+      }
+    ],
+    "token_count": 40
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.47909295558929443,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.94140625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.052978515625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0081787109375
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.000148773193359375
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 8.0108642578125e-05
+      }
+    ],
+    "token_count": 38
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4395381808280945,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 1.0
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 9.632110595703125e-05
+      },
+      {
+        "token_id": 2033,
+        "token_text": "Al",
+        "prob": 1.0132789611816406e-05
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 8.940696716308594e-06
+      },
+      {
+        "token_id": 951,
+        "token_text": "to",
+        "prob": 4.231929779052734e-06
+      }
+    ],
+    "token_count": 40
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "user_says_direct",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4514384865760803,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9765625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0157470703125
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0016632080078125
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0006103515625
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.0004215240478515625
+      }
+    ],
+    "token_count": 35
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "user_says_direct",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.11101176589727402,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "alpha",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 6918,
+        "token_text": "alpha",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 81513,
+        "token_text": "alfa",
+        "prob": 0.0027923583984375
+      },
+      {
+        "token_id": 278,
+        "token_text": "al",
+        "prob": 0.00131988525390625
+      },
+      {
+        "token_id": 18796,
+        "token_text": "Alpha",
+        "prob": 0.000705718994140625
+      },
+      {
+        "token_id": 3004,
+        "token_text": "alf",
+        "prob": 0.000705718994140625
+      }
+    ],
+    "token_count": 37
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4075797498226166,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9609375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.032958984375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00127410888671875
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.00112152099609375
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.00087738037109375
+      }
+    ],
+    "token_count": 44
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.30323365330696106,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.3515625
+      },
+      {
+        "token_id": 6918,
+        "token_text": "alpha",
+        "prob": 0.212890625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.1884765625
+      },
+      {
+        "token_id": 1277,
+        "token_text": "br",
+        "prob": 0.078125
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.0693359375
+      }
+    ],
+    "token_count": 46
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.44314244389533997,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.000335693359375
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0002307891845703125
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 7.009506225585938e-05
+      },
+      {
+        "token_id": 81266,
+        "token_text": "Thought",
+        "prob": 4.5299530029296875e-05
+      }
+    ],
+    "token_count": 35
+  },
+  {
+    "id": "sort_4",
+    "category": "language",
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.192055344581604,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "The",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.40234375
+      },
+      {
+        "token_id": 2033,
+        "token_text": "Al",
+        "prob": 0.3125
+      },
+      {
+        "token_id": 6918,
+        "token_text": "alpha",
+        "prob": 0.1669921875
+      },
+      {
+        "token_id": 18796,
+        "token_text": "Alpha",
+        "prob": 0.1015625
+      },
+      {
+        "token_id": 86376,
+        "token_text": "alphabet",
+        "prob": 0.0023956298828125
+      }
+    ],
+    "token_count": 37
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "plain",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.5025147795677185,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.671875
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.279296875
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.02294921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0123291015625
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0084228515625
+      }
+    ],
+    "token_count": 35
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "plain",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.47949904203414917,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "Let",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.6875
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.22265625
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.08203125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0052490234375
+      },
+      {
+        "token_id": 5170,
+        "token_text": "First",
+        "prob": 0.0002956390380859375
+      }
+    ],
+    "token_count": 37
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "user_says_think",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4484652876853943,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.94921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.04736328125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.004974365234375
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.00125885009765625
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000247955322265625
+      }
+    ],
+    "token_count": 47
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "user_says_think",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.38881102204322815,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.003570556640625
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00148773193359375
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.00115966796875
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.000621795654296875
+      }
+    ],
+    "token_count": 49
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.28627052903175354,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.89453125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0830078125
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.00775146484375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.004150390625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.003662109375
+      }
+    ],
+    "token_count": 48
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.36136311292648315,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Based",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.5234375
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.150390625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.048583984375
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 0.04296875
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.04296875
+      }
+    ],
+    "token_count": 50
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4746265113353729,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.69921875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.291015625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.01129150390625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0003871917724609375
+      },
+      {
+        "token_id": 5170,
+        "token_text": "First",
+        "prob": 0.00012493133544921875
+      }
+    ],
+    "token_count": 48
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.44319725036621094,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 1.0
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.00170135498046875
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0006256103515625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0002613067626953125
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 5.14984130859375e-05
+      }
+    ],
+    "token_count": 50
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "user_says_direct",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.44694387912750244,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.94140625
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.041259765625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.007171630859375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0026397705078125
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0016021728515625
+      }
+    ],
+    "token_count": 45
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "user_says_direct",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.11478740721940994,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "R",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 49,
+        "token_text": "R",
+        "prob": 0.470703125
+      },
+      {
+        "token_id": 50,
+        "token_text": "S",
+        "prob": 0.32421875
+      },
+      {
+        "token_id": 51,
+        "token_text": "T",
+        "prob": 0.134765625
+      },
+      {
+        "token_id": 2114,
+        "token_text": "Qu",
+        "prob": 0.0206298828125
+      },
+      {
+        "token_id": 42748,
+        "token_text": " Seth",
+        "prob": 0.01177978515625
+      }
+    ],
+    "token_count": 47
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.40388134121894836,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.95703125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.03271484375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.004425048828125
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00162506103515625
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.00127410888671875
+      }
+    ],
+    "token_count": 54
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.400727778673172,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "Based",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.81640625
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.125
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.021728515625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0169677734375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0054931640625
+      }
+    ],
+    "token_count": 56
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4335673153400421,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.000553131103515625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 3.528594970703125e-05
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 2.4318695068359375e-05
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 2.014636993408203e-05
+      }
+    ],
+    "token_count": 45
+  },
+  {
+    "id": "ages_Quin_Ruth_Seth_Tara",
+    "category": "logic_ordering",
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.17831626534461975,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "R",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 49,
+        "token_text": "R",
+        "prob": 0.55078125
+      },
+      {
+        "token_id": 50,
+        "token_text": "S",
+        "prob": 0.259765625
+      },
+      {
+        "token_id": 2114,
+        "token_text": "Qu",
+        "prob": 0.08447265625
+      },
+      {
+        "token_id": 51,
+        "token_text": "T",
+        "prob": 0.08447265625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.006103515625
+      }
+    ],
+    "token_count": 47
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "plain",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.5009714961051941,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.84765625
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.1474609375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0034637451171875
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0016326904296875
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000469207763671875
+      }
+    ],
+    "token_count": 54
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "plain",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.5346927642822266,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.94921875
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.04736328125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00125885009765625
+      },
+      {
+        "token_id": 2523,
+        "token_text": "You",
+        "prob": 0.00110626220703125
+      },
+      {
+        "token_id": 12189,
+        "token_text": "Since",
+        "prob": 0.000762939453125
+      }
+    ],
+    "token_count": 56
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "user_says_think",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4661844074726105,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00860595703125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0027923583984375
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 5.1021575927734375e-05
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 2.002716064453125e-05
+      }
+    ],
+    "token_count": 66
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "user_says_think",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4091143310070038,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9609375
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.037353515625
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.0016326904296875
+      },
+      {
+        "token_id": 248068,
+        "token_text": "<think>",
+        "prob": 0.00127410888671875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.000530242919921875
+      }
+    ],
+    "token_count": 68
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.32569193840026855,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.984375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.01239013671875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0024261474609375
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0003299713134765625
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0002269744873046875
+      }
+    ],
+    "token_count": 67
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3905998468399048,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.71875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.07568359375
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.06689453125
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 0.0458984375
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.021728515625
+      }
+    ],
+    "token_count": 69
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.49085068702697754,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.93359375
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.059814453125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00555419921875
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0015869140625
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 7.915496826171875e-05
+      }
+    ],
+    "token_count": 67
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4801621735095978,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 1.0
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.00020313262939453125
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.00014019012451171875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 6.628036499023438e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 5.14984130859375e-05
+      }
+    ],
+    "token_count": 69
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "user_says_direct",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.45067158341407776,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0031890869140625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00012302398681640625
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 3.7670135498046875e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 2.586841583251953e-05
+      }
+    ],
+    "token_count": 64
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "user_says_direct",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.15145350992679596,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "Book",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 6911,
+        "token_text": "Book",
+        "prob": 0.37890625
+      },
+      {
+        "token_id": 25382,
+        "token_text": "Visit",
+        "prob": 0.203125
+      },
+      {
+        "token_id": 41309,
+        "token_text": "Doctor",
+        "prob": 0.10888671875
+      },
+      {
+        "token_id": 3367,
+        "token_text": "Start",
+        "prob": 0.095703125
+      },
+      {
+        "token_id": 2121,
+        "token_text": "book",
+        "prob": 0.0400390625
+      }
+    ],
+    "token_count": 66
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.42563092708587646,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.984375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.008544921875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0040283203125
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000896453857421875
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 7.390975952148438e-05
+      }
+    ],
+    "token_count": 73
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4832349121570587,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.94921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.028564453125
+      },
+      {
+        "token_id": 27775,
+        "token_text": "Based",
+        "prob": 0.00823974609375
+      },
+      {
+        "token_id": 2523,
+        "token_text": "You",
+        "prob": 0.007232666015625
+      },
+      {
+        "token_id": 12189,
+        "token_text": "Since",
+        "prob": 0.0018310546875
+      }
+    ],
+    "token_count": 75
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4360845386981964,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.000553131103515625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00012302398681640625
+      },
+      {
+        "token_id": 7047,
+        "token_text": " thinking",
+        "prob": 5.4836273193359375e-05
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 2.9325485229492188e-05
+      }
+    ],
+    "token_count": 64
+  },
+  {
+    "id": "trip_doctor",
+    "category": "planning",
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.1913107931613922,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "Visit",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 25382,
+        "token_text": "Visit",
+        "prob": 0.796875
+      },
+      {
+        "token_id": 2523,
+        "token_text": "You",
+        "prob": 0.177734375
+      },
+      {
+        "token_id": 3367,
+        "token_text": "Start",
+        "prob": 0.01458740234375
+      },
+      {
+        "token_id": 3020,
+        "token_text": "Vis",
+        "prob": 0.004180908203125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.001739501953125
+      }
+    ],
+    "token_count": 66
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "plain",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.52939373254776,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9765625
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.01226806640625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00958251953125
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0001201629638671875
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00010633468627929688
+      }
+    ],
+    "token_count": 29
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "plain",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4895402491092682,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "neutral",
+    "visible_label": "unknown",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.95703125
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.03271484375
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.01202392578125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 8.106231689453125e-05
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 4.935264587402344e-05
+      }
+    ],
+    "token_count": 31
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "user_says_think",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.46289288997650146,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9765625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.020263671875
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00274658203125
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00054168701171875
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 8.296966552734375e-05
+      }
+    ],
+    "token_count": 41
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "user_says_think",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.38820746541023254,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.0
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.000911712646484375
+      },
+      {
+        "token_id": 50534,
+        "token_text": " Thinking",
+        "prob": 0.000431060791015625
+      },
+      {
+        "token_id": 37405,
+        "token_text": "Think",
+        "prob": 0.0002956390380859375
+      },
+      {
+        "token_id": 248068,
+        "token_text": "<think>",
+        "prob": 0.00020313262939453125
+      }
+    ],
+    "token_count": 43
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.32670214772224426,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.87109375
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.10400390625
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.012451171875
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.00665283203125
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00115966796875
+      }
+    ],
+    "token_count": 42
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.3850531280040741,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.462890625
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.1328125
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 0.08056640625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.07080078125
+      },
+      {
+        "token_id": 71093,
+        "token_text": "```",
+        "prob": 0.0296630859375
+      }
+    ],
+    "token_count": 44
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.5034334063529968,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 1,
+    "top1_text": "Here",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 1.0
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0028076171875
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.000335693359375
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 6.628036499023438e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 1.4722347259521484e-05
+      }
+    ],
+    "token_count": 42
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4867863953113556,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "think",
+    "visible_label": "think",
+    "visible_correct": 0,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.984375
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.00750732421875
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0040283203125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.0002574920654296875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 4.458427429199219e-05
+      }
+    ],
+    "token_count": 44
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "user_says_direct",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4837230145931244,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00860595703125
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.00131988525390625
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 5.1021575927734375e-05
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 3.504753112792969e-05
+      }
+    ],
+    "token_count": 39
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "user_says_direct",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.16708113253116608,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "1",
+    "top1_label": "unknown",
+    "top1_correct": 0,
+    "top_tokens": [
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.66796875
+      },
+      {
+        "token_id": 15,
+        "token_text": "0",
+        "prob": 0.1162109375
+      },
+      {
+        "token_id": 59,
+        "token_text": "\\",
+        "prob": 0.04833984375
+      },
+      {
+        "token_id": 56749,
+        "token_text": "$\\",
+        "prob": 0.033203125
+      },
+      {
+        "token_id": 1088,
+        "token_text": " \\",
+        "prob": 0.02587890625
+      }
+    ],
+    "token_count": 41
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.42331764101982117,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.81640625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.1611328125
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.007080078125
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 0.0062255859375
+      },
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.002288818359375
+      }
+    ],
+    "token_count": 48
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.4248792827129364,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": "To",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 1206,
+        "token_text": "To",
+        "prob": 0.95703125
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.013671875
+      },
+      {
+        "token_id": 3733,
+        "token_text": "There",
+        "prob": 0.004425048828125
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.004425048828125
+      },
+      {
+        "token_id": 13962,
+        "token_text": "###",
+        "prob": 0.00390625
+      }
+    ],
+    "token_count": 50
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "expected_branch": "think",
+    "residual_score": 0.4549486041069031,
+    "residual_label": "think",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 0,
+    "top1_text": "Thinking",
+    "top1_label": "think",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.9921875
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.007568359375
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.002166748046875
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0001220703125
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 7.915496826171875e-05
+      }
+    ],
+    "token_count": 39
+  },
+  {
+    "id": "heads_exact2_6",
+    "category": "probability",
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "expected_branch": "no",
+    "residual_score": -0.2809411883354187,
+    "residual_label": "no",
+    "residual_correct": 1,
+    "visible_hint": "direct",
+    "visible_label": "no",
+    "visible_correct": 1,
+    "top1_text": " The",
+    "top1_label": "no",
+    "top1_correct": 1,
+    "top_tokens": [
+      {
+        "token_id": 561,
+        "token_text": " The",
+        "prob": 0.7265625
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.2353515625
+      },
+      {
+        "token_id": 16,
+        "token_text": "1",
+        "prob": 0.0247802734375
+      },
+      {
+        "token_id": 2532,
+        "token_text": " There",
+        "prob": 0.0033721923828125
+      },
+      {
+        "token_id": 220,
+        "token_text": " ",
+        "prob": 0.00140380859375
+      }
+    ],
+    "token_count": 41
+  }
+]

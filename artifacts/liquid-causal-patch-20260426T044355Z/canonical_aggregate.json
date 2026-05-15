@@ -1,0 +1,12 @@
+[
+  {
+    "prompt_set": "full",
+    "count": 60,
+    "mean_js_instruct_to_think": 0.6932121845599267,
+    "js_instruct_to_think_ci_low": 0.6930015471478742,
+    "js_instruct_to_think_ci_high": 0.693411021061056,
+    "mean_top1_match": 0.0,
+    "top1_match_ci_low": 0.0,
+    "top1_match_ci_high": 0.0
+  }
+]

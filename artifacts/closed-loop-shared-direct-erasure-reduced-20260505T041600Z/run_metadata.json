@@ -1,0 +1,18 @@
+{
+  "started_at_utc": "2026-05-05T04:16:03.009708+00:00",
+  "args": {
+    "adapter_dir": "outputs/shared-latent-step-direct-erasure-20260430T040633Z",
+    "output_dir": "outputs/closed-loop-shared-direct-erasure-reduced-20260505T041600Z",
+    "models": "qwen35_4b,olmo3_7b,phi4_mini,liquid_12b",
+    "directions": "direct_erasure",
+    "eval_gsm8k_limit": 3,
+    "eval_math500_limit": 3,
+    "aime_limit": 6,
+    "max_steps": 8,
+    "hf_repo_id": "",
+    "hf_repo_type": "dataset",
+    "skip_hf_upload": true
+  },
+  "adapter_dir": "/Users/d/Documents/reasoning-switch-research/outputs/shared-latent-step-direct-erasure-20260430T040633Z",
+  "patch_width": 2
+}

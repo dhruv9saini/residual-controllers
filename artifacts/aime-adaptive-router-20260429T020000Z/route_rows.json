@@ -1,0 +1,542 @@
+[
+  {
+    "id": "aime2025_0",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 991
+  },
+  {
+    "id": "aime2025_1",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1793
+  },
+  {
+    "id": "aime2025_10",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2688
+  },
+  {
+    "id": "aime2025_11",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1586
+  },
+  {
+    "id": "aime2025_12",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1325
+  },
+  {
+    "id": "aime2025_13",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2953
+  },
+  {
+    "id": "aime2025_14",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1835
+  },
+  {
+    "id": "aime2025_15",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 2554
+  },
+  {
+    "id": "aime2025_16",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 932
+  },
+  {
+    "id": "aime2025_17",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 570
+  },
+  {
+    "id": "aime2025_18",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 2681
+  },
+  {
+    "id": "aime2025_19",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 3680
+  },
+  {
+    "id": "aime2025_2",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 1545
+  },
+  {
+    "id": "aime2025_20",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 3281
+  },
+  {
+    "id": "aime2025_21",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 3137
+  },
+  {
+    "id": "aime2025_22",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 570
+  },
+  {
+    "id": "aime2025_23",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 4041
+  },
+  {
+    "id": "aime2025_24",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 3154
+  },
+  {
+    "id": "aime2025_25",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1775
+  },
+  {
+    "id": "aime2025_26",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2650
+  },
+  {
+    "id": "aime2025_27",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 3595
+  },
+  {
+    "id": "aime2025_28",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1122
+  },
+  {
+    "id": "aime2025_29",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 3096
+  },
+  {
+    "id": "aime2025_3",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1344
+  },
+  {
+    "id": "aime2025_4",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 3439
+  },
+  {
+    "id": "aime2025_5",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 3190
+  },
+  {
+    "id": "aime2025_6",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2932
+  },
+  {
+    "id": "aime2025_7",
+    "benchmark": "aime2025",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 1938
+  },
+  {
+    "id": "aime2025_8",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 1589
+  },
+  {
+    "id": "aime2025_9",
+    "benchmark": "aime2025",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2961
+  },
+  {
+    "id": "aime2026_1",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 1388
+  },
+  {
+    "id": "aime2026_10",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1609
+  },
+  {
+    "id": "aime2026_11",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 955
+  },
+  {
+    "id": "aime2026_12",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2680
+  },
+  {
+    "id": "aime2026_13",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1244
+  },
+  {
+    "id": "aime2026_14",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 3775
+  },
+  {
+    "id": "aime2026_15",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1478
+  },
+  {
+    "id": "aime2026_16",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1200
+  },
+  {
+    "id": "aime2026_17",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 3867
+  },
+  {
+    "id": "aime2026_18",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1388
+  },
+  {
+    "id": "aime2026_19",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 3678
+  },
+  {
+    "id": "aime2026_2",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 2976
+  },
+  {
+    "id": "aime2026_20",
+    "benchmark": "aime2026",
+    "routed_model_label": "qwen35_4b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1546
+  },
+  {
+    "id": "aime2026_21",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1509
+  },
+  {
+    "id": "aime2026_22",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1444
+  },
+  {
+    "id": "aime2026_23",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1739
+  },
+  {
+    "id": "aime2026_24",
+    "benchmark": "aime2026",
+    "routed_model_label": "qwen35_4b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 3179
+  },
+  {
+    "id": "aime2026_25",
+    "benchmark": "aime2026",
+    "routed_model_label": "qwen35_4b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 2688
+  },
+  {
+    "id": "aime2026_26",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2492
+  },
+  {
+    "id": "aime2026_27",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 3552
+  },
+  {
+    "id": "aime2026_28",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2084
+  },
+  {
+    "id": "aime2026_29",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 1081
+  },
+  {
+    "id": "aime2026_3",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 2505
+  },
+  {
+    "id": "aime2026_30",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2159
+  },
+  {
+    "id": "aime2026_4",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 2216
+  },
+  {
+    "id": "aime2026_5",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 2708
+  },
+  {
+    "id": "aime2026_6",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 1991
+  },
+  {
+    "id": "aime2026_7",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2563
+  },
+  {
+    "id": "aime2026_8",
+    "benchmark": "aime2026",
+    "routed_model_label": "olmo3_7b",
+    "route_reason": "first_nontruncated",
+    "is_correct": true,
+    "may_be_truncated": false,
+    "generated_token_count": 2360
+  },
+  {
+    "id": "aime2026_9",
+    "benchmark": "aime2026",
+    "routed_model_label": "liquid_12b",
+    "route_reason": "first_nontruncated",
+    "is_correct": false,
+    "may_be_truncated": false,
+    "generated_token_count": 2999
+  }
+]

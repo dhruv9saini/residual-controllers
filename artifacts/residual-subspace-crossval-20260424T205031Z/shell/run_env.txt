@@ -1,0 +1,7 @@
+run_id=residual-subspace-crossval-20260424T205031Z
+started_at_utc=2026-04-24T20:50:31Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+models=mlx-community/Qwen3.5-4B-4bit,mlx-community/Olmo-3-7B-Think-4bit,mlx-community/Olmo-3-7B-Instruct-4bit
+folds=3
+completed_at_utc=2026-04-24T21:08:59Z

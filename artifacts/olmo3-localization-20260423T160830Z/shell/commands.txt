@@ -1,0 +1,1 @@
+~/.local/bin/uv run python scripts/run_olmo3_localization_suite.py --output-dir outputs/olmo3-localization-20260423T160830Z

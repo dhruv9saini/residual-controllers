@@ -1,0 +1,9 @@
+run_id=qwen35-bf16-residual-subspace-20260425T014455Z
+started_at_utc=2026-04-25T01:44:55Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+model=mlx-community/Qwen3.5-4B-MLX-bf16
+prompt_preset=category_split
+main_per_category=1
+alt_per_category=2
+completed_at_utc=2026-04-25T01:55:51Z

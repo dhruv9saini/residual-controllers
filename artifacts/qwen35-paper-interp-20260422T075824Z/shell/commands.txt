@@ -1,0 +1,2 @@
+~/.local/bin/uv sync
+~/.local/bin/uv run python scripts/run_qwen35_paper_interp_suite.py --output-dir outputs/qwen35-paper-interp-20260422T075824Z

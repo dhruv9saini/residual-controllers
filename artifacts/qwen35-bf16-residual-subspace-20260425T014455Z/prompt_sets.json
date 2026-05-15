@@ -1,0 +1,156 @@
+{
+  "main": [
+    {
+      "id": "eq_2_9_21",
+      "category": "algebra",
+      "prompt": "Solve for x: 2x + 9 = 21."
+    },
+    {
+      "id": "mul_124_125",
+      "category": "arithmetic",
+      "prompt": "Compute 124 multiplied by 125 and give the exact result."
+    },
+    {
+      "id": "calendar_friday_july_1",
+      "category": "calendar",
+      "prompt": "If January 1 is a Friday in a non-leap year, what day of the week is July 1?"
+    },
+    {
+      "id": "code_bug_1",
+      "category": "coding",
+      "prompt": "What is wrong with this Python code?\n\ntotal = sum([1, 2, 3]) / len(1, 2, 3)"
+    },
+    {
+      "id": "count_balloon_l",
+      "category": "counting",
+      "prompt": "How many l letters are in the word balloon?"
+    },
+    {
+      "id": "coin_10",
+      "category": "dynamic_programming",
+      "prompt": "You have coins worth 1, 3, and 4. What is the minimum number of coins needed to make 10?"
+    },
+    {
+      "id": "sort_1",
+      "category": "language",
+      "prompt": "Sort these words alphabetically: banana, apple, apricot, blueberry."
+    },
+    {
+      "id": "ages_Ava_Ben_Cara_Dan",
+      "category": "logic_ordering",
+      "prompt": "Ava is older than Ben. Ben is older than Cara. Cara is older than Dan. Who is the second youngest?"
+    },
+    {
+      "id": "trip_bank",
+      "category": "planning",
+      "prompt": "I need to visit the bank, grocery store, and post office in one trip. The bank closes first, the grocery store closes second, and the post office closes last. What order is safest if I want to avoid closures?"
+    },
+    {
+      "id": "heads_exact2_3",
+      "category": "probability",
+      "prompt": "A fair coin is flipped 3 times. What is the probability of getting exactly two heads?"
+    }
+  ],
+  "alt": [
+    {
+      "id": "eq_3_7_25",
+      "category": "algebra",
+      "prompt": "Solve for x: 3x + 7 = 25."
+    },
+    {
+      "id": "eq_4_3_35",
+      "category": "algebra",
+      "prompt": "Solve for x: 4x + 3 = 35."
+    },
+    {
+      "id": "mul_126_94",
+      "category": "arithmetic",
+      "prompt": "Compute 126 multiplied by 94 and give the exact result."
+    },
+    {
+      "id": "mul_317_248",
+      "category": "arithmetic",
+      "prompt": "Compute 317 multiplied by 248 and give the exact result."
+    },
+    {
+      "id": "calendar_monday_march_1",
+      "category": "calendar",
+      "prompt": "If January 1 is a Monday in a non-leap year, what day of the week is March 1?"
+    },
+    {
+      "id": "calendar_saturday_august_1",
+      "category": "calendar",
+      "prompt": "If January 1 is a Saturday in a non-leap year, what day of the week is August 1?"
+    },
+    {
+      "id": "code_bug_2",
+      "category": "coding",
+      "prompt": "What is wrong with this Python code?\n\nvalue = int('7') + '3'"
+    },
+    {
+      "id": "code_bug_3",
+      "category": "coding",
+      "prompt": "What is wrong with this Python code?\n\nitems.append[4]"
+    },
+    {
+      "id": "count_bookkeeper_e",
+      "category": "counting",
+      "prompt": "How many e letters are in the word bookkeeper?"
+    },
+    {
+      "id": "count_committee_m",
+      "category": "counting",
+      "prompt": "How many m letters are in the word committee?"
+    },
+    {
+      "id": "coin_11",
+      "category": "dynamic_programming",
+      "prompt": "You have coins worth 1, 3, and 4. What is the minimum number of coins needed to make 11?"
+    },
+    {
+      "id": "coin_6",
+      "category": "dynamic_programming",
+      "prompt": "You have coins worth 1, 3, and 4. What is the minimum number of coins needed to make 6?"
+    },
+    {
+      "id": "sort_2",
+      "category": "language",
+      "prompt": "Sort these words alphabetically: zebra, ant, koala, yak."
+    },
+    {
+      "id": "sort_3",
+      "category": "language",
+      "prompt": "Sort these words alphabetically: violet, amber, cyan, beige."
+    },
+    {
+      "id": "ages_Iris_Jules_Kai_Lena",
+      "category": "logic_ordering",
+      "prompt": "Iris is older than Jules. Jules is older than Kai. Kai is older than Lena. Who is the second youngest?"
+    },
+    {
+      "id": "ages_Mina_Nora_Owen_Pia",
+      "category": "logic_ordering",
+      "prompt": "Mina is older than Nora. Nora is older than Owen. Owen is older than Pia. Who is the second youngest?"
+    },
+    {
+      "id": "trip_city_hall",
+      "category": "planning",
+      "prompt": "I need to visit the city hall, library, and cafe in one trip. The city hall closes first, the library closes second, and the cafe closes last. What order is safest if I want to avoid closures?"
+    },
+    {
+      "id": "trip_dentist",
+      "category": "planning",
+      "prompt": "I need to visit the dentist, laundromat, and market in one trip. The dentist closes first, the laundromat closes second, and the market closes last. What order is safest if I want to avoid closures?"
+    },
+    {
+      "id": "heads_exact2_4",
+      "category": "probability",
+      "prompt": "A fair coin is flipped 4 times. What is the probability of getting exactly two heads?"
+    },
+    {
+      "id": "heads_exact2_5",
+      "category": "probability",
+      "prompt": "A fair coin is flipped 5 times. What is the probability of getting exactly two heads?"
+    }
+  ]
+}

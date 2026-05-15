@@ -1,0 +1,6 @@
+run_id=cross-family-reasoning-20260423T072551Z
+started_at_utc=2026-04-23T07:25:51Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+models=LiquidAI/LFM2.5-1.2B-Instruct-MLX-4bit,LiquidAI/LFM2.5-1.2B-Thinking-MLX-4bit,mlx-community/Olmo-3-7B-Instruct-4bit,mlx-community/Olmo-3-7B-Think-4bit
+completed_at_utc=2026-04-23T07:29:50Z

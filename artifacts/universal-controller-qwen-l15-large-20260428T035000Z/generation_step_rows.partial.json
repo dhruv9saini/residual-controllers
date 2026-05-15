@@ -1,0 +1,3502 @@
+[
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_12",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9994521737098694
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00021472225489560515
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00014474317140411586
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00010000036127166823
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 3.518256562529132e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_13",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9981129169464111
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0016136529156938195
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00010621351975714788
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 9.019092249218374e-05
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 3.087777440669015e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_14",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9990737438201904
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0005474422359839082
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00020569609478116035
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00010402821499155834
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 2.0837369447690435e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_15",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9989290833473206
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0003540303441695869
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00034436004352755845
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0002787712146528065
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 1.6642183254589327e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_16",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9710947871208191
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.025551071390509605
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0022035627625882626
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000819625798612833
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 6.897176353959367e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_17",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9806374311447144
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.018777895718812943
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00042180661694146693
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 4.129715671297163e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 2.2922886273590848e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_18",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9912698268890381
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.007590299006551504
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.000890514871571213
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 5.457892257254571e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 3.848332926281728e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_19",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9992663264274597
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00034595254692249
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00033221094054169953
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 1.6722271539038047e-05
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 1.2064939255651552e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_20",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.999518632888794
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00026491997414268553
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00011383942182874307
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 3.5897031921194866e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 3.4338412660872564e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_21",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9986326098442078
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0004963916726410389
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0004778234870173037
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0002833495382219553
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 3.08254748233594e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_22",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.8991851806640625
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.09785573929548264
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0021979291923344135
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.00018783465202432126
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.000136140501126647
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_23",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.8230684995651245
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.1611083447933197
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.014424201101064682
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0006077280850149691
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.00019714765949174762
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_24",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9860775470733643
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.010347523726522923
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0011753489961847663
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.001064010662958026
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0008104189764708281
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_25",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9991629123687744
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0002981839934363961
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00028270130860619247
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00018776416254695505
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 1.180551862489665e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_26",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9948790073394775
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.002670485991984606
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.002166402991861105
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00010675528028514236
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 3.555186412995681e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_27",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9876848459243774
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.009266776964068413
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00270593143068254
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 6.240882794372737e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 5.97543221374508e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_28",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9892159700393677
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00650366023182869
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0035773725248873234
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.000282117078313604
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0001274609676329419
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_29",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9967225193977356
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0028549148701131344
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00018803103012032807
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 9.948703518602997e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 2.6330595574108884e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_30",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9990189075469971
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0006248150602914393
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0002158590650651604
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 9.662398224463686e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 1.4456695680564735e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_31",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9950860142707825
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.003006594255566597
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0012445288011804223
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0004917558981105685
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 4.604347122949548e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_32",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9214248061180115
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.07711074501276016
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0012020054273307323
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 8.411347516812384e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 2.5541192371747456e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_33",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9896302819252014
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.004911942407488823
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0033053045626729727
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0018642275827005506
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 6.128695531515405e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_34",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9982183575630188
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.001361691509373486
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00022431738034356385
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00010544028918957338
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 2.3075479475664906e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_35",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9792107939720154
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.017880290746688843
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0025214767083525658
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00016727969341445714
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 7.112539606168866e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_36",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9890516400337219
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.009429923258721828
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.001164464047178626
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 7.780867599649355e-05
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 6.732535257469863e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_37",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9903658628463745
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.008719725534319878
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0006198771297931671
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00014230128726921976
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 4.6606834075646475e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_38",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9982237219810486
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0015222725924104452
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 9.37792647164315e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 7.853912393329665e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 3.476567508187145e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_39",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9994698166847229
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00030874102958478034
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00014212969108484685
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 3.10523173538968e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 2.2676458684145473e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_40",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9713633060455322
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.028152745217084885
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00014984454901423305
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00012803199933841825
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 4.121577876503579e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_41",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.992660403251648
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.006203746888786554
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.000547668372746557
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00025880688917823136
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 7.725437899352983e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_42",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9341641068458557
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.06025584414601326
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.004015181213617325
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000297505350317806
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00028879582532681525
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_43",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9990518689155579
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0008043260313570499
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 7.932708103908226e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 2.2223935957299545e-05
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 9.11999541131081e-06
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_44",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.998891294002533
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0005223116022534668
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0004133086185902357
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 7.705918687861413e-05
+      },
+      {
+        "token_id": 40,
+        "token_text": "I",
+        "prob": 2.5831635866779834e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_45",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9994521737098694
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00023994920775294304
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0001571702305227518
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 7.757463026791811e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 2.8404194381437264e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_46",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9992738366127014
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0004528312711045146
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00011486923904158175
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 7.637812086613849e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 2.9639782951562665e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_47",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9993396401405334
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00043394515523687005
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00011232602264499292
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 8.316007733810693e-05
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 7.291578640433727e-06
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_48",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9939013719558716
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.004005278926342726
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0017970693297684193
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 6.551731348736212e-05
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 5.342189615475945e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_49",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9917274713516235
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.007418839726597071
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0006251874729059637
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00010304487659595907
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 3.751093754544854e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_50",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9986687898635864
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0010267941979691386
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00024318449140992016
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 2.2474194338428788e-05
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 8.223205441026948e-06
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_51",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9884746670722961
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.009775354526937008
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0014880659291520715
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00011176111729582772
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 3.732234472408891e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_52",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.99852055311203
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0008032608893699944
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00033501311554573476
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00018135551363229752
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 5.0259754061698914e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_53",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9963319897651672
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.002180756302550435
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.000680658791679889
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0004228581383358687
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00010434300202177837
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_54",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9891995191574097
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.010200854390859604
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00030342722311615944
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0001257593248737976
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 8.377343328902498e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_55",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9096489548683167
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.08884477615356445
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0008022437104955316
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.00024356153153348714
+      },
+      {
+        "token_id": 5170,
+        "token_text": "First",
+        "prob": 8.82481544977054e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_56",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9487115144729614
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.04410688206553459
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.005259422585368156
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00034494433202780783
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.00032576220110058784
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_57",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9911652207374573
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00763698061928153
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0006595248123630881
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0002561474684625864
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00021307550196070224
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_58",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9954921007156372
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.004212378058582544
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 7.61529736337252e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 6.515014683827758e-05
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 3.33890420733951e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_59",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 90700,
+    "token_text": "Thinking",
+    "top_tokens": [
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.5226819515228271
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.46984994411468506
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.005986894015222788
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0006831237114965916
+      },
+      {
+        "token_id": 5170,
+        "token_text": "First",
+        "prob": 0.00014826537517365068
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_60",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9978399276733398
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0010348053183406591
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0009161067428067327
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 5.998534834361635e-05
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 5.1105736929457635e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "gsm8k_61",
+    "benchmark": "gsm8k",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9890680909156799
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.010083995759487152
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00041061852243728936
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.00011704125063261017
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 6.129187386250123e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_21",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.7693206667900085
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.11859214305877686
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.10727544873952866
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.003929039463400841
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0006131748668849468
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_22",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.7956907749176025
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.16697683930397034
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.03692914545536041
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0001751492527546361
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0001179249447886832
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_24",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.8371428847312927
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.12359216064214706
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.03855086863040924
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0005104896263219416
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 6.038057108526118e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_26",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.7891289591789246
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.11485213041305542
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.09397624433040619
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.001873250468634069
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 4.505388278630562e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_27",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9931091070175171
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0062911841087043285
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0002838015789166093
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00013999879593029618
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 4.701766374637373e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_29",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9949443936347961
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.003771147457882762
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0008645531488582492
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0002602016320452094
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 4.472949149203487e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_32",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9673848152160645
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0220758318901062
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.009350094944238663
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0010150531306862831
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 7.839815953047946e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_33",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.4991331994533539
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.4977688789367676
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0021679839119315147
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.00045370918815024197
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00012877814879175276
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_34",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9690583348274231
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.029859889298677444
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0007601966499350965
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.00010996213677572086
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 7.780710438964888e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_35",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.8824595212936401
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0911107212305069
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.025836816057562828
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.000327206973452121
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 9.044157195603475e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_37",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9096632599830627
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.08577481657266617
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0028608778957277536
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0009010264184325933
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.000496850349009037
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_38",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9836804866790771
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.011449056677520275
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0020575246307998896
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0010857515735551715
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0008117278339341283
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_39",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9544198513031006
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.043274011462926865
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0016775790136307478
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00016125515685416758
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00012825816520489752
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_40",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.6485163569450378
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.3482591509819031
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0018125794595107436
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0008946327143348753
+      },
+      {
+        "token_id": 3702,
+        "token_text": "From",
+        "prob": 8.973940566647798e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_41",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9455522894859314
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.044135600328445435
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.010017613880336285
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.00010276388638885692
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 8.453740883851424e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_42",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.8084867596626282
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.1889885663986206
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0012839286355301738
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0004932332085445523
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00037690767203457654
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_44",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9339506030082703
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.06300275772809982
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.002598222577944398
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00016200165555346757
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.00013082686928100884
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_45",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.8553809523582458
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.14131653308868408
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0021911109797656536
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00044152536429464817
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.00028672520420514047
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_46",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.5092450976371765
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.4202805161476135
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.06916086375713348
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0005772961303591728
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0005371946608647704
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_47",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.5452868342399597
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.44841066002845764
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.005138823296874762
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0006266094860620797
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00024471170036122203
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_48",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.830083966255188
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.13705512881278992
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.030925747007131577
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0009042915771715343
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0001935507170855999
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_49",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.985762357711792
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.01291290856897831
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0005327120888978243
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0004592179029714316
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 7.826679211575538e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_50",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9750434756278992
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.013339557684957981
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.010055485181510448
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0013121347874403
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00011326135427225381
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_52",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9939088821411133
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.005639221053570509
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0002225736971013248
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0001193202260765247
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 3.1106319511309266e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_54",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.7095721364021301
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.21779987215995789
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.06657258421182632
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0024444616865366697
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0005803192034363747
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_55",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.7013548016548157
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.2946910560131073
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.003079944057390094
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00037626849371008575
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0002258894091937691
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_56",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9270561933517456
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.07093248516321182
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.001363099436275661
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00025386508787050843
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.00014609226491302252
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_57",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.977290689945221
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.02127906307578087
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0005769114941358566
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00037614733446389437
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0003126692317891866
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_58",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.6137455701828003
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.33049276471138
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.05385265871882439
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0006588073447346687
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00042622696491889656
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_59",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9928939938545227
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.0038928634021431208
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.002424483885988593
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0005488200695253909
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.0001265781174879521
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_61",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 9764,
+    "token_text": "Let",
+    "top_tokens": [
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.4970308840274811
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.26311206817626953
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.2392215132713318
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.00035501716774888337
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00012622628128156066
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_62",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 760,
+    "token_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.5228515863418579
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.4673840403556824
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.00864297803491354
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0005482419510371983
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0003848045307677239
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_63",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 760,
+    "token_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.5484960675239563
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.32770130038261414
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.1208232194185257
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0025118952617049217
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0002427498548058793
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_64",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.6188132166862488
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.34937116503715515
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.030335765331983566
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0009221771033480763
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00029996896046213806
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_65",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9476490020751953
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.04177281633019447
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.008874612860381603
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.001382036367431283
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 7.802305481163785e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_67",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9463668465614319
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.03324556723237038
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.020108144730329514
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00014523621939588338
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 4.732770685222931e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_68",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.6841372847557068
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.21912601590156555
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.09521808475255966
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000880155828781426
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.00044236250687390566
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_69",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.6360338926315308
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.19114437699317932
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.17192015051841736
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0005771541618742049
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.00020318917813710868
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_72",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9825575947761536
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.008932351134717464
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0081414096057415
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000147854836541228
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00013045901141595095
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_75",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.7009106874465942
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.2873477339744568
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.01087980717420578
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0003742623666767031
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.000231788435485214
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_76",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.8675501346588135
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.12625616788864136
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.005489356350153685
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0002918089448940009
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00016088286065496504
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_77",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9379538297653198
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.050012923777103424
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.010666883550584316
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0003082966723013669
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0002987954067066312
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_79",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9065303802490234
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.08906526118516922
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.002428303472697735
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0005300188204273582
+      },
+      {
+        "token_id": 31248,
+        "token_text": "Okay",
+        "prob": 0.0004041185602545738
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_80",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 760,
+    "token_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.5190932750701904
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.3793908655643463
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.09914914518594742
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0015034372918307781
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0003923304029740393
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_81",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9966877102851868
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0026083732955157757
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.00045787240378558636
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 8.395818440476432e-05
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 8.170959335984662e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_82",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 760,
+    "token_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.6226727962493896
+      },
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.3076157867908478
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0669999048113823
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.0014360558707267046
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0008081861305981874
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_83",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9925568103790283
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.006407347973436117
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0008417669450864196
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 6.798225513193756e-05
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 4.3539686885196716e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_84",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.8804265260696411
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.10326771438121796
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.01569211296737194
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0003831839421764016
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 9.39125384320505e-05
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_86",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.727811336517334
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.23074749112129211
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.018340416252613068
+      },
+      {
+        "token_id": 1919,
+        "token_text": "This",
+        "prob": 0.017797406762838364
+      },
+      {
+        "token_id": 1421,
+        "token_text": "User",
+        "prob": 0.0014903137926012278
+      }
+    ]
+  },
+  {
+    "model_label": "qwen35_4b",
+    "id": "math500_numeric_87",
+    "benchmark": "math500_numeric",
+    "step": 0,
+    "token_id": 8160,
+    "token_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 8160,
+        "token_text": "Here",
+        "prob": 0.9053397178649902
+      },
+      {
+        "token_id": 760,
+        "token_text": "The",
+        "prob": 0.09247059375047684
+      },
+      {
+        "token_id": 9764,
+        "token_text": "Let",
+        "prob": 0.0014278144808486104
+      },
+      {
+        "token_id": 1596,
+        "token_text": "We",
+        "prob": 0.0003350298502482474
+      },
+      {
+        "token_id": 90700,
+        "token_text": "Thinking",
+        "prob": 0.00016823626356199384
+      }
+    ]
+  }
+]

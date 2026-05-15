@@ -1,0 +1,52 @@
+{
+  "created_utc": "2026-05-07T00:35:17.673238+00:00",
+  "model_id": "mlx-community/Llama-3.1-Nemotron-Nano-4B-v1.1-4bit",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python": "3.12.13 (main, Mar 10 2026, 18:18:07) [Clang 21.1.4 ]",
+  "patch_blocks": [
+    {
+      "label": "tail_w1",
+      "width": 1,
+      "mode": "tail"
+    },
+    {
+      "label": "tail_w2",
+      "width": 2,
+      "mode": "tail"
+    },
+    {
+      "label": "tail_w4",
+      "width": 4,
+      "mode": "tail"
+    },
+    {
+      "label": "nontail_w2",
+      "width": 2,
+      "mode": "nontail"
+    },
+    {
+      "label": "nontail_w4",
+      "width": 4,
+      "mode": "nontail"
+    },
+    {
+      "label": "prefix_w4",
+      "width": 4,
+      "mode": "prefix"
+    }
+  ],
+  "module_patch_layers": [
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    31
+  ],
+  "module_patch_widths": [
+    1,
+    2
+  ],
+  "prompt_count": 12
+}

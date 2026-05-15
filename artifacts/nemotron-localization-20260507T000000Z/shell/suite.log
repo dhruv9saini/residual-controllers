@@ -1,0 +1,15 @@
+2026-05-07T00:35:17.679410+00:00 loading mlx-community/Llama-3.1-Nemotron-Nano-4B-v1.1-4bit
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 84072.91it/s]
+2026-05-07T00:35:18.511279+00:00 cache 1/12 count_strawberries_r
+2026-05-07T00:35:18.728829+00:00 cache 2/12 count_committee_m
+2026-05-07T00:35:18.917682+00:00 cache 3/12 mul_317_248
+2026-05-07T00:35:19.104365+00:00 cache 4/12 mul_126_94
+2026-05-07T00:35:19.290800+00:00 cache 5/12 eq_3_7_25
+2026-05-07T00:35:19.624348+00:00 cache 6/12 eq_5_-4_31
+2026-05-07T00:35:19.953895+00:00 cache 7/12 ages_Ava_Ben_Cara_Dan
+2026-05-07T00:35:20.291884+00:00 cache 8/12 ages_Iris_Jules_Kai_Lena
+2026-05-07T00:35:20.628957+00:00 cache 9/12 coin_6
+2026-05-07T00:35:20.966042+00:00 cache 10/12 coin_7
+2026-05-07T00:35:21.303935+00:00 cache 11/12 heads_exact2_3
+2026-05-07T00:35:21.639351+00:00 cache 12/12 heads_exact2_4
+/Users/d/Documents/reasoning-switch-research/artifacts/nemotron-localization-20260507T000000Z

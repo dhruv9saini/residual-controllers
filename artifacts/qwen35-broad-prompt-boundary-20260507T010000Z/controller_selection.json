@@ -1,0 +1,20 @@
+[
+  {
+    "direction": "thinking_induction",
+    "layer": 15,
+    "width": 2,
+    "alpha": 1.0,
+    "train_prompt_count": 60,
+    "vector_norm": 12.111556053161621,
+    "rule": "Layer and width fixed from prior localization; alpha fixed from public-prompt AIME-controller selection; vector is train mean donor-minus-target residual tail."
+  },
+  {
+    "direction": "direct_erasure",
+    "layer": 19,
+    "width": 2,
+    "alpha": 2.0,
+    "train_prompt_count": 60,
+    "vector_norm": 15.882781028747559,
+    "rule": "Layer and width fixed from prior localization; alpha fixed from public-prompt AIME-controller selection; vector is train mean donor-minus-target residual tail."
+  }
+]

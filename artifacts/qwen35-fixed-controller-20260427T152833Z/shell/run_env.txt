@@ -1,0 +1,7 @@
+run_id=qwen35-fixed-controller-20260427T152833Z
+started_at_utc=2026-04-27T15:28:33Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+model=mlx-community/Qwen3.5-4B-4bit
+method=fixed train-learned residual controller
+completed_at_utc=2026-04-27T16:18:17Z

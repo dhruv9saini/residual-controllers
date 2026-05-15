@@ -1,0 +1,24 @@
+{
+  "started_at_utc": "2026-04-22T05:30:18.792269+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "model": "mlx-community/Qwen3.5-4B-4bit",
+  "patch_layers": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32
+  ],
+  "patch_widths": [
+    1,
+    4
+  ],
+  "variant_generation_tokens": 192,
+  "prompt_count": 12
+}

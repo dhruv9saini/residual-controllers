@@ -1,0 +1,87 @@
+{
+  "started_at_utc": "2026-04-27T19:52:28.172665+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "patch_width": 2,
+  "alpha_grid": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "random_seeds": [
+    13,
+    29,
+    47
+  ],
+  "effective_margin_threshold": 0.1,
+  "effective_js_to_donor_threshold": 0.6,
+  "model_configs": [
+    {
+      "label": "olmo3_7b",
+      "kind": "olmo",
+      "think_model": "mlx-community/Olmo-3-7B-Think-4bit",
+      "instruct_model": "mlx-community/Olmo-3-7B-Instruct-4bit",
+      "directions": [
+        {
+          "label": "think_to_instruct",
+          "donor_mode": "think",
+          "target_mode": "instruct",
+          "layer": 12
+        },
+        {
+          "label": "instruct_to_think",
+          "donor_mode": "instruct",
+          "target_mode": "think",
+          "layer": 8
+        }
+      ]
+    },
+    {
+      "label": "phi4_mini",
+      "kind": "phi",
+      "think_model": "mlx-community/Phi-4-mini-reasoning-4bit",
+      "instruct_model": "mlx-community/Phi-4-mini-instruct-4bit",
+      "directions": [
+        {
+          "label": "think_to_instruct",
+          "donor_mode": "think",
+          "target_mode": "instruct",
+          "layer": 28
+        },
+        {
+          "label": "instruct_to_think",
+          "donor_mode": "instruct",
+          "target_mode": "think",
+          "layer": 16
+        }
+      ]
+    },
+    {
+      "label": "liquid_12b",
+      "kind": "phi",
+      "think_model": "LiquidAI/LFM2.5-1.2B-Thinking-MLX-4bit",
+      "instruct_model": "LiquidAI/LFM2.5-1.2B-Instruct-MLX-4bit",
+      "directions": [
+        {
+          "label": "think_to_instruct",
+          "donor_mode": "think",
+          "target_mode": "instruct",
+          "layer": 16
+        },
+        {
+          "label": "instruct_to_think",
+          "donor_mode": "instruct",
+          "target_mode": "think",
+          "layer": 12
+        }
+      ]
+    }
+  ],
+  "folds": 3,
+  "prompt_limit": 0,
+  "method": "cross-family fixed train-learned prompt-boundary controller"
+}

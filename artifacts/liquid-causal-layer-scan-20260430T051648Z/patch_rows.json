@@ -1,0 +1,4002 @@
+[
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931420719172747,
+    "js_to_target": 0.009233608956550303
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693142330082415,
+    "js_to_target": 0.013938168156242575
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931425015908796,
+    "js_to_target": 0.0006719462136107403
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931424213732285,
+    "js_to_target": 0.0008656404868167872
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931422568032501,
+    "js_to_target": 0.00011854103547725812
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931415564960919,
+    "js_to_target": 0.08411429592957123
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693141627127893,
+    "js_to_target": 0.08712791065242972
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931422978203101,
+    "js_to_target": 0.003180662270224677
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.69314196902049,
+    "js_to_target": 0.018519514456482943
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931420068630371,
+    "js_to_target": 0.0020087178421718793
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931401650242571,
+    "js_to_target": 0.07368246944345207
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931404555590637,
+    "js_to_target": 0.07990693413660194
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931417283258736,
+    "js_to_target": 0.06713641452611592
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931413973159692,
+    "js_to_target": 0.09404924981165319
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931423534779575,
+    "js_to_target": 0.005465924402782622
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931363996914737,
+    "js_to_target": 0.3649463810120934
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931365977877384,
+    "js_to_target": 0.3673923451847967
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931422960129776,
+    "js_to_target": 0.001870656784396245
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931420589440151,
+    "js_to_target": 0.01416885472819157
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931423444483871,
+    "js_to_target": 0.00045497538606739473
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6928455329391099,
+    "js_to_target": 0.5180747222294149
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928455329391099,
+    "js_to_target": 0.5180747222294149
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931423397344469,
+    "js_to_target": 0.00016879642964318846
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931423397344469,
+    "js_to_target": 0.00016879642964318846
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931423397344469,
+    "js_to_target": 0.00016879642964318846
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936736662756406,
+    "js_to_target": 3.0696054089414025e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936736652589592,
+    "js_to_target": 3.097597093816658e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.693681668799621,
+    "js_to_target": 5.388297450699336e-09
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936823296100334,
+    "js_to_target": 1.2737639965208607e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936826463122991,
+    "js_to_target": 1.2635414613020852e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936856934113262,
+    "js_to_target": 4.211880736659583e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693685848387311,
+    "js_to_target": 4.346688706961123e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936790120160885,
+    "js_to_target": 8.364526199502527e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936785422373836,
+    "js_to_target": 9.456989164687838e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693678633256803,
+    "js_to_target": 7.048404021998846e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6921768188301853,
+    "js_to_target": 0.00017530596731154508
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6841899215739988,
+    "js_to_target": 0.0013270505808825528
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936789412671628,
+    "js_to_target": 1.9680227147092146e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693681745404054,
+    "js_to_target": 1.1132145191294322e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936726802884416,
+    "js_to_target": 4.0205978179637565e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.05950494552278163,
+    "js_to_target": 0.6930389621582203
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.05150910757502729,
+    "js_to_target": 0.6930559415283337
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936799964776534,
+    "js_to_target": 2.982648876768498e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936769239881435,
+    "js_to_target": 2.1387360198655636e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936784606093713,
+    "js_to_target": 8.909392952335675e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.01819471936224624,
+    "js_to_target": 0.6931291684938211
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.01819471936224624,
+    "js_to_target": 0.6931291684938211
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936815492473838,
+    "js_to_target": 7.863561867411308e-10
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936815492473838,
+    "js_to_target": 7.863561867411308e-10
+  },
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936815492473838,
+    "js_to_target": 7.863561867411308e-10
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931443189760738,
+    "js_to_target": 0.003439525942047439
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931444146276668,
+    "js_to_target": 0.002501066917965755
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931452645187737,
+    "js_to_target": 0.001510197425121967
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931450968877744,
+    "js_to_target": 0.0006162407773407993
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931449398749245,
+    "js_to_target": 0.000129010794045342
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931399603380631,
+    "js_to_target": 0.2564469073734494
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931386619373687,
+    "js_to_target": 0.24065305956001548
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931443412455975,
+    "js_to_target": 0.0070907307542282085
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931437630484749,
+    "js_to_target": 0.03561548490623754
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931446446061525,
+    "js_to_target": 0.005996819145241121
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931326024870359,
+    "js_to_target": 0.5164209532432195
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931334162821831,
+    "js_to_target": 0.5061518748233514
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931449308567159,
+    "js_to_target": 0.0006175117487201321
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931448616324123,
+    "js_to_target": 0.0008677144511529815
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931449773602597,
+    "js_to_target": 0.003054414272301934
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931162582495323,
+    "js_to_target": 0.5905206504422337
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931172412503509,
+    "js_to_target": 0.5911011716895737
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.693145052583598,
+    "js_to_target": 0.00042901148922149944
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931449952712205,
+    "js_to_target": 0.00048745281318328545
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931451303183167,
+    "js_to_target": 0.0002207535718348044
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6924612975378857,
+    "js_to_target": 0.6859936910413561
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924612975378857,
+    "js_to_target": 0.6859936910413561
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931451137141684,
+    "js_to_target": 2.7129792963653376e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931451137141684,
+    "js_to_target": 2.7129792963653376e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931451137141684,
+    "js_to_target": 2.7129792963653376e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6941867945314226,
+    "js_to_target": 2.8391711876716493e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941874640710087,
+    "js_to_target": 2.2081521194725545e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6941911482313625,
+    "js_to_target": 8.854717927790793e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941908349914604,
+    "js_to_target": 2.5350010749586394e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.694191588606707,
+    "js_to_target": 1.1808126538929835e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.694191923598492,
+    "js_to_target": 2.2166653200845244e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941917805756852,
+    "js_to_target": 2.1323425088098892e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6941919527237159,
+    "js_to_target": 3.5352690206649087e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941917888113234,
+    "js_to_target": 3.162474295758359e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941922364343902,
+    "js_to_target": 4.615175859519785e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6861641012118725,
+    "js_to_target": 0.010088185704142478
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6909459664583397,
+    "js_to_target": 0.0015551308167195044
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6941913608004182,
+    "js_to_target": 1.425532283517032e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941915810531654,
+    "js_to_target": 2.4226756095854807e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941914935706095,
+    "js_to_target": 4.493933057536794e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.15729969380664982,
+    "js_to_target": 0.6930726581069768
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.21574737198789373,
+    "js_to_target": 0.6930668096520389
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6941893572366769,
+    "js_to_target": 3.806127482305898e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941891593811742,
+    "js_to_target": 4.699023829659969e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941910211802043,
+    "js_to_target": 1.4731463193117263e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.01469164838122477,
+    "js_to_target": 0.6931414217652723
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.01469164838122477,
+    "js_to_target": 0.6931414217652723
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6941903918030493,
+    "js_to_target": 6.018487106890755e-09
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941903918030493,
+    "js_to_target": 6.018487106890755e-09
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6941903918030493,
+    "js_to_target": 6.018487106890755e-09
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6932159703851011,
+    "js_to_target": 0.007283694543382941
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6932175770198652,
+    "js_to_target": 0.006347317790891561
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6932223052725224,
+    "js_to_target": 0.0013718300705617588
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6932220531764224,
+    "js_to_target": 0.0007679688175208244
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693222667050293,
+    "js_to_target": 0.0014025406879110548
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.693213900815117,
+    "js_to_target": 0.20863973574544942
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.69321378015334,
+    "js_to_target": 0.22580804839702648
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6932248455351844,
+    "js_to_target": 0.006953783621519733
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6932248397416468,
+    "js_to_target": 0.006686234071550094
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6932185938366415,
+    "js_to_target": 0.023861747914220865
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931683970044429,
+    "js_to_target": 0.5079941110236281
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931720726177835,
+    "js_to_target": 0.5119646980363012
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6932234908376211,
+    "js_to_target": 0.007673845426445918
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6932230810814282,
+    "js_to_target": 0.01117187542394908
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693219566858517,
+    "js_to_target": 0.001498344296165563
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6925544284221716,
+    "js_to_target": 0.6804795058109084
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6925600423329885,
+    "js_to_target": 0.6804677275830047
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6932190730411099,
+    "js_to_target": 0.00015796146972625093
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6932191325164512,
+    "js_to_target": 0.0001479362954160987
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693221259130731,
+    "js_to_target": 0.00045411558786971466
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.691673143712158,
+    "js_to_target": 0.6893904037603968
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.691673143712158,
+    "js_to_target": 0.6893904037603968
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6932196031031039,
+    "js_to_target": 8.200619853110434e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6932196031031039,
+    "js_to_target": 8.200619853110434e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6932196031031039,
+    "js_to_target": 8.200619853110434e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6920743390547555,
+    "js_to_target": 3.7330025281702726e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6920761002239939,
+    "js_to_target": 3.475126701799866e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6920629118281236,
+    "js_to_target": 1.937276590955738e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.692065090934179,
+    "js_to_target": 1.4076059281794404e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6920817022078367,
+    "js_to_target": 3.304246338083091e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6920833685668993,
+    "js_to_target": 8.772201094772557e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6920881082149777,
+    "js_to_target": 9.038127687823117e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6920884068386386,
+    "js_to_target": 2.2255330550460223e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6920870396651132,
+    "js_to_target": 2.18935014300152e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6920848166539336,
+    "js_to_target": 1.3131318763317642e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6653336728782515,
+    "js_to_target": 0.02356422160069575
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6517293134517573,
+    "js_to_target": 0.027168518878106902
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6920925024359447,
+    "js_to_target": 4.086508539847506e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6920928311958521,
+    "js_to_target": 4.232947888473266e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6920861351352628,
+    "js_to_target": 2.3021987199317398e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.33837314810383645,
+    "js_to_target": 0.6931198410572217
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.2498017541836645,
+    "js_to_target": 0.6930876055193711
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6920785208298107,
+    "js_to_target": 3.691652466710518e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.69207864731393,
+    "js_to_target": 4.410184146872603e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6920799889497744,
+    "js_to_target": 4.015736619667113e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.03965062703509633,
+    "js_to_target": 0.6932046574930513
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.03965062703509633,
+    "js_to_target": 0.6932046574930513
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6920776268905077,
+    "js_to_target": 9.888274813602048e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6920776268905077,
+    "js_to_target": 9.888274813602048e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6920776268905077,
+    "js_to_target": 9.888274813602048e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6930792284166543,
+    "js_to_target": 0.0012428352259697063
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930806679722126,
+    "js_to_target": 0.0009175129749451436
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6930757793914354,
+    "js_to_target": 0.0005269360340163577
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693075718004353,
+    "js_to_target": 0.0004977060209711048
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930759050668336,
+    "js_to_target": 0.0001966717209885851
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6930826423022922,
+    "js_to_target": 0.019090912671792498
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930839806446736,
+    "js_to_target": 0.02037523042977981
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6930760673119285,
+    "js_to_target": 0.007610059072854556
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930759544131782,
+    "js_to_target": 0.011256770065466222
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930785723534432,
+    "js_to_target": 0.0008084373576781735
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6930685781010596,
+    "js_to_target": 0.335081517888001
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930761046684177,
+    "js_to_target": 0.43808217091361323
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6930743066710137,
+    "js_to_target": 0.0004464743684601918
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930760447468557,
+    "js_to_target": 0.000548757958369457
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930791865598799,
+    "js_to_target": 0.0030685671360609124
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6929997689429259,
+    "js_to_target": 0.3926125958520911
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6929992980163107,
+    "js_to_target": 0.4001391248966403
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6930756534241316,
+    "js_to_target": 0.0002587628003301843
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930755096151942,
+    "js_to_target": 0.00024365667192087853
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930773883852103,
+    "js_to_target": 0.0008822851961995515
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6927921307418043,
+    "js_to_target": 0.42089742239592437
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6927921307418043,
+    "js_to_target": 0.42089742239592437
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6930756843009998,
+    "js_to_target": 8.611071540604118e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930756843009998,
+    "js_to_target": 8.611071540604118e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930756843009998,
+    "js_to_target": 8.611071540604118e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6924531964184771,
+    "js_to_target": 9.971856795932545e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6923704552826575,
+    "js_to_target": 1.8260231012674208e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6926272440517421,
+    "js_to_target": 1.1892600286148833e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6926287116069583,
+    "js_to_target": 2.6324579721576415e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6926260857204132,
+    "js_to_target": 1.2029965574329391e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6926955847302658,
+    "js_to_target": 9.96776000153925e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6926955209089296,
+    "js_to_target": 1.0005718612771497e-05
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6926443254640178,
+    "js_to_target": 7.505703738203684e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6926622141829166,
+    "js_to_target": 2.2867844941992574e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6925912698144905,
+    "js_to_target": 4.0949742311544946e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6875374273407711,
+    "js_to_target": 0.0006992236047255769
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6861899923604764,
+    "js_to_target": 0.0007881405816956672
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6926557120409527,
+    "js_to_target": 1.491751714931421e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6926561978769501,
+    "js_to_target": 1.8906472708276163e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6925661127845327,
+    "js_to_target": 1.82955940769156e-06
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.06507287456640948,
+    "js_to_target": 0.693025154306695
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.054981844408227926,
+    "js_to_target": 0.6930000902479378
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6925954669577311,
+    "js_to_target": 2.3075811682926016e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6925895663017243,
+    "js_to_target": 3.6805848254433543e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6926249576739432,
+    "js_to_target": 3.369497721002614e-07
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.03710841716189238,
+    "js_to_target": 0.693054019378146
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.03710841716189238,
+    "js_to_target": 0.693054019378146
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6926117609304987,
+    "js_to_target": 1.4574829840392948e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6926117609304987,
+    "js_to_target": 1.4574829840392948e-08
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6926117609304987,
+    "js_to_target": 1.4574829840392948e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931404555634877,
+    "js_to_target": 0.0026066366442709012
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931403598315686,
+    "js_to_target": 0.0030319576365777975
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931412850807568,
+    "js_to_target": 0.004628237544857333
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931412329788158,
+    "js_to_target": 0.006094451198760744
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931413942861164,
+    "js_to_target": 0.0005235690485644088
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931375902487298,
+    "js_to_target": 0.12833277598532547
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931376050281349,
+    "js_to_target": 0.1358213358027619
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931407320585203,
+    "js_to_target": 0.003914928155407425
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931404869025661,
+    "js_to_target": 0.006254111095605551
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693141153430848,
+    "js_to_target": 0.021624563753673998
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931298992576702,
+    "js_to_target": 0.3215709728274794
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931320161832739,
+    "js_to_target": 0.29835125476812213
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.693141625050378,
+    "js_to_target": 0.008209680262635554
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931417443175162,
+    "js_to_target": 0.008176138507512804
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.69314150113104,
+    "js_to_target": 0.003461102225252209
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931025195152025,
+    "js_to_target": 0.4111033297307614
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931029071531398,
+    "js_to_target": 0.42114331259226023
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931409400489013,
+    "js_to_target": 0.0022852858174899986
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931409677445433,
+    "js_to_target": 0.0019890866514532834
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931415734120105,
+    "js_to_target": 0.0003606045892707965
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6921171679990346,
+    "js_to_target": 0.6761508433449493
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6921171679990346,
+    "js_to_target": 0.6761508433449493
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931414478366293,
+    "js_to_target": 5.1593438274336696e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931414478366293,
+    "js_to_target": 5.1593438274336696e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931414478366293,
+    "js_to_target": 5.1593438274336696e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6924206857256741,
+    "js_to_target": 1.3165790136122865e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924204620428256,
+    "js_to_target": 6.726102619322436e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6924210386476102,
+    "js_to_target": 2.8150693810766566e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924211794607507,
+    "js_to_target": 3.2378803656193647e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924204439656566,
+    "js_to_target": 3.362880860932954e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6924247014761612,
+    "js_to_target": 1.7085256506049953e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924244411579011,
+    "js_to_target": 1.6095268006421533e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6924176614443331,
+    "js_to_target": 3.208448367423532e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924169122804511,
+    "js_to_target": 5.117616790787257e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924200500937068,
+    "js_to_target": 1.1494170810903437e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6594804671551218,
+    "js_to_target": 0.024214156133856874
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6315572297646057,
+    "js_to_target": 0.01993922122779647
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6924144713054607,
+    "js_to_target": 6.062507083445137e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924163011210602,
+    "js_to_target": 5.01864093968422e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924167146871929,
+    "js_to_target": 4.2153164101237644e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.07142615387279341,
+    "js_to_target": 0.6931310755848241
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.1540851734577967,
+    "js_to_target": 0.6931284282180818
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6924199407181533,
+    "js_to_target": 2.9520501087180052e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.692420363672749,
+    "js_to_target": 2.511328691393468e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924208160246703,
+    "js_to_target": 7.279818936145189e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.02708384834233654,
+    "js_to_target": 0.6931313343931351
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.02708384834233654,
+    "js_to_target": 0.6931313343931351
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6924209641442924,
+    "js_to_target": 4.944021525899534e-09
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924209641442924,
+    "js_to_target": 4.944021525899534e-09
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6924209641442924,
+    "js_to_target": 4.944021525899534e-09
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931440758809928,
+    "js_to_target": 0.0024925677265150996
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931436277039669,
+    "js_to_target": 0.0026506458335146263
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931456738153119,
+    "js_to_target": 0.005172566243250779
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931458779014767,
+    "js_to_target": 0.006759075201655965
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931463779292325,
+    "js_to_target": 0.0007056807273984621
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931365238105506,
+    "js_to_target": 0.13434187825291452
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931370291023472,
+    "js_to_target": 0.13981948978535252
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931446386917794,
+    "js_to_target": 0.005921291299716135
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931435993129835,
+    "js_to_target": 0.010323413929853632
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931459866862778,
+    "js_to_target": 0.021182287244860244
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931087246451222,
+    "js_to_target": 0.3285075715275676
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931159050319238,
+    "js_to_target": 0.30768233640582987
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931472134179875,
+    "js_to_target": 0.005590510928745227
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931468863999501,
+    "js_to_target": 0.003958405777685197
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931469652830062,
+    "js_to_target": 0.0035350273748087874
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6929763636436368,
+    "js_to_target": 0.46297762601247466
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6929772031586499,
+    "js_to_target": 0.46509121843519075
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931452254105437,
+    "js_to_target": 0.003169539843236664
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931453746556204,
+    "js_to_target": 0.0028532383603385846
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931470848848198,
+    "js_to_target": 0.00040804850560883284
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.691933949555029,
+    "js_to_target": 0.68601852667257
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.691933949555029,
+    "js_to_target": 0.68601852667257
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931465483290772,
+    "js_to_target": 7.441831236072705e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931465483290772,
+    "js_to_target": 7.441831236072705e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931465483290772,
+    "js_to_target": 7.441831236072705e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6928941153973547,
+    "js_to_target": 2.8433348017721704e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928935097693121,
+    "js_to_target": 1.9334553880905467e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6928897395408752,
+    "js_to_target": 8.426346065341751e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928894783557225,
+    "js_to_target": 1.0546306793585033e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928900974230634,
+    "js_to_target": 1.284984236898732e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6929007517229522,
+    "js_to_target": 1.1044308321455098e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6929002647625845,
+    "js_to_target": 1.121862638258539e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6928880075991033,
+    "js_to_target": 9.783211386854121e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.692891516137506,
+    "js_to_target": 5.460190969252193e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.692891639771124,
+    "js_to_target": 1.340658730516478e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6627054317001368,
+    "js_to_target": 0.02862811726619241
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.62541557083558,
+    "js_to_target": 0.023364179745446686
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6928838667633058,
+    "js_to_target": 4.4085094264935283e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928812941750461,
+    "js_to_target": 1.6137204631652346e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928841321929615,
+    "js_to_target": 1.594719833536755e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.0693178920312859,
+    "js_to_target": 0.6931277507556792
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.14690672534992233,
+    "js_to_target": 0.6931254361278674
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6928875121471068,
+    "js_to_target": 8.946156881074529e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928878749848522,
+    "js_to_target": 8.517566600960459e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928893397860794,
+    "js_to_target": 5.285099243300092e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.021426102970157408,
+    "js_to_target": 0.6931321149061034
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.021426102970157408,
+    "js_to_target": 0.6931321149061034
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6928890980007284,
+    "js_to_target": 1.9500004152055964e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928890980007284,
+    "js_to_target": 1.9500004152055964e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928890980007284,
+    "js_to_target": 1.9500004152055964e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931315670870544,
+    "js_to_target": 0.015594719920303837
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931315194971412,
+    "js_to_target": 0.01150127142149927
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931302760017937,
+    "js_to_target": 0.0005883021227295147
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693130209669753,
+    "js_to_target": 0.000808884608965701
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931305597071409,
+    "js_to_target": 0.0005591811644109841
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931343477759113,
+    "js_to_target": 0.12327751770643534
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931338834063385,
+    "js_to_target": 0.13421477562711553
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931308408651409,
+    "js_to_target": 0.0016552533424344356
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931309949291571,
+    "js_to_target": 0.0017891229937423915
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931319869608539,
+    "js_to_target": 0.005875596459804583
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931247541953002,
+    "js_to_target": 0.27838068946669314
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.69312511170187,
+    "js_to_target": 0.35272465003715414
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.693130723688703,
+    "js_to_target": 0.004679963944549735
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931304093755157,
+    "js_to_target": 0.004640206722566261
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931318862608277,
+    "js_to_target": 0.004506082043298728
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931101037615228,
+    "js_to_target": 0.5237506327099175
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931109439574125,
+    "js_to_target": 0.5209465404589417
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931308048714742,
+    "js_to_target": 0.0007238013111523656
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931306358359661,
+    "js_to_target": 0.004536391458069378
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931302965117392,
+    "js_to_target": 0.0003277444690078907
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6929035903286498,
+    "js_to_target": 0.6172590070038388
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6929035903286498,
+    "js_to_target": 0.6172590070038388
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931303683374948,
+    "js_to_target": 3.154347512634287e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931303683374948,
+    "js_to_target": 3.154347512634287e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931303683374948,
+    "js_to_target": 3.154347512634287e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936016787788963,
+    "js_to_target": 1.1997557318477423e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936024012635198,
+    "js_to_target": 1.0087271612868832e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936073571864343,
+    "js_to_target": 1.9997484363378404e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936071669442598,
+    "js_to_target": 1.7737830868098725e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936093582514984,
+    "js_to_target": 4.286266245376224e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936234819493468,
+    "js_to_target": 1.872710974997785e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936231226106928,
+    "js_to_target": 1.816895950816419e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936151564044244,
+    "js_to_target": 3.607672965034933e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936159873092055,
+    "js_to_target": 4.4420462305939084e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936067583441885,
+    "js_to_target": 5.698890805025959e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6783371426975209,
+    "js_to_target": 0.0058305741893685216
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6822851945890878,
+    "js_to_target": 0.003061565619140438
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936156318167268,
+    "js_to_target": 3.965262760303824e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936153944442659,
+    "js_to_target": 3.7736846950187745e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6935815126075696,
+    "js_to_target": 1.2638923449824787e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.27083340036771075,
+    "js_to_target": 0.6931026885778693
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.24399667985055118,
+    "js_to_target": 0.693108913329241
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936044312507069,
+    "js_to_target": 3.3457755894268526e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936044382479171,
+    "js_to_target": 3.18624024468724e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936057906206832,
+    "js_to_target": 5.572467157771668e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.04778873097999201,
+    "js_to_target": 0.6931158477231867
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.04778873097999201,
+    "js_to_target": 0.6931158477231867
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936082909769459,
+    "js_to_target": 1.0537668791139359e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936082909769459,
+    "js_to_target": 1.0537668791139359e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6936082909769459,
+    "js_to_target": 1.0537668791139359e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931262882532175,
+    "js_to_target": 0.030939543126564148
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931260937936534,
+    "js_to_target": 0.026631694917534768
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931252662127693,
+    "js_to_target": 0.0014745286241938844
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931253048520685,
+    "js_to_target": 0.0030393976227963276
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931250738957548,
+    "js_to_target": 0.002619141367539184
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931320122922809,
+    "js_to_target": 0.13957355708905828
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931316176148583,
+    "js_to_target": 0.15183204592976013
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.693125160822238,
+    "js_to_target": 0.0031977356005663113
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931251691233105,
+    "js_to_target": 0.0068405392522895465
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931277122296315,
+    "js_to_target": 0.008013334731080008
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931207058430449,
+    "js_to_target": 0.3091044610261423
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931212209855622,
+    "js_to_target": 0.3522978002250403
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931250700756424,
+    "js_to_target": 0.0053583112831649795
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931253460835858,
+    "js_to_target": 0.004585318472826794
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931276240522333,
+    "js_to_target": 0.00235573157397831
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6930989742512272,
+    "js_to_target": 0.5042313403622469
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6930998346351545,
+    "js_to_target": 0.5020516119574073
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931250605321895,
+    "js_to_target": 0.00021171627033620864
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931255218063602,
+    "js_to_target": 0.000553537191058536
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693125059422911,
+    "js_to_target": 0.0004856185346700224
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6928396908492918,
+    "js_to_target": 0.6040322916353892
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6928396908492918,
+    "js_to_target": 0.6040322916353892
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6931248975728475,
+    "js_to_target": 5.399328708035966e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931248975728475,
+    "js_to_target": 5.399328708035966e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "think_to_instruct",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6931248975728475,
+    "js_to_target": 5.399328708035966e-05
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6936999795274048,
+    "js_to_target": 2.6674520035925376e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6937034577268468,
+    "js_to_target": 1.4049705408707104e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6937097984205922,
+    "js_to_target": 2.4733638997431904e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6937085669266868,
+    "js_to_target": 3.036990576218158e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 0,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6937132187980415,
+    "js_to_target": 6.39373115873342e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6937298523027058,
+    "js_to_target": 2.2859843360565637e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6937300477220719,
+    "js_to_target": 2.324540285024463e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6937181243898507,
+    "js_to_target": 3.176573084855956e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6937181889462388,
+    "js_to_target": 3.4562514255748496e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 4,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6937066305639308,
+    "js_to_target": 7.315838853122585e-08
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6852386576418981,
+    "js_to_target": 0.0021161871987755336
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "tail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.685654286420178,
+    "js_to_target": 0.0018397946094630088
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.693715753792025,
+    "js_to_target": 2.0792649961123617e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6937132860869892,
+    "js_to_target": 1.565913052681355e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 8,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693655073989182,
+    "js_to_target": 3.5364340964826603e-06
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.2526050880867712,
+    "js_to_target": 0.6930970852089074
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.24409075169188943,
+    "js_to_target": 0.69309378808035
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6937012923447254,
+    "js_to_target": 1.733945981666639e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.693701558557908,
+    "js_to_target": 1.58951749880505e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 12,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.69370154253282,
+    "js_to_target": 1.645224624982119e-07
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w2",
+    "donor_win": 1,
+    "js_to_donor": 0.023019392259117102,
+    "js_to_target": 0.6931152880655403
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "tail_w4",
+    "donor_win": 1,
+    "js_to_donor": 0.023019392259117102,
+    "js_to_target": 0.6931152880655403
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w2",
+    "donor_win": 0,
+    "js_to_donor": 0.6937083266790874,
+    "js_to_target": 4.4165934602826386e-09
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "nontail_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6937083266790874,
+    "js_to_target": 4.4165934602826386e-09
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "direction": "instruct_to_think",
+    "layer_boundary": 16,
+    "block_label": "prefix_w4",
+    "donor_win": 0,
+    "js_to_donor": 0.6937083266790874,
+    "js_to_target": 4.4165934602826386e-09
+  }
+]

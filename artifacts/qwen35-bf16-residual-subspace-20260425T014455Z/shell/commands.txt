@@ -1,0 +1,1 @@
+./.venv/bin/python scripts/run_residual_subspace_suite.py --output-dir outputs/qwen35-bf16-residual-subspace-20260425T014455Z --prompt-preset category_split --main-per-category 1 --alt-per-category 2 --models qwen35_4b_bf16

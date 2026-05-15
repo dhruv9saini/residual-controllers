@@ -1,0 +1,32 @@
+{
+  "started_at_utc": "2026-04-23T05:58:40.401535+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/.cache/uv/builds-v0/.tmpZhDlYT/bin/python",
+  "trace_model": "mlx-community/Qwen3.5-4B-4bit",
+  "lora_model": "mlx-community/Qwen3.5-4B-4bit",
+  "trace_token_steps": [
+    0,
+    8,
+    32,
+    64
+  ],
+  "trace_generation_tokens": 128,
+  "edit_alpha_grid": [
+    0.125,
+    0.25,
+    0.5,
+    0.75,
+    1.0,
+    1.5,
+    2.0
+  ],
+  "edit_row_counts": [
+    1,
+    2,
+    4,
+    8
+  ],
+  "lora_iters": 40,
+  "lora_fact_count": 12
+}

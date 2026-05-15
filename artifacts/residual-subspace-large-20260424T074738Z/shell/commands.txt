@@ -1,0 +1,1 @@
+./.venv/bin/python scripts/run_residual_subspace_suite.py --output-dir outputs/residual-subspace-large-20260424T074738Z --prompt-preset category_split --main-per-category 2 --alt-per-category 4 --models qwen35_4b,olmo3_7b

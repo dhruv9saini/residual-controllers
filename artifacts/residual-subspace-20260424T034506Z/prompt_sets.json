@@ -1,0 +1,86 @@
+{
+  "main": [
+    {
+      "id": "count_strawberries_r",
+      "category": "counting",
+      "prompt": "How many r letters are in the word strawberries?"
+    },
+    {
+      "id": "mul_317_248",
+      "category": "arithmetic",
+      "prompt": "Compute 317 multiplied by 248 and give the exact result."
+    },
+    {
+      "id": "eq_3_7_25",
+      "category": "algebra",
+      "prompt": "Solve for x: 3x + 7 = 25."
+    },
+    {
+      "id": "ages_Ava_Ben_Cara_Dan",
+      "category": "logic_ordering",
+      "prompt": "Ava is older than Ben. Ben is older than Cara. Cara is older than Dan. Who is the second youngest?"
+    },
+    {
+      "id": "coin_6",
+      "category": "dynamic_programming",
+      "prompt": "You have coins worth 1, 3, and 4. What is the minimum number of coins needed to make 6?"
+    },
+    {
+      "id": "heads_exact2_3",
+      "category": "probability",
+      "prompt": "A fair coin is flipped 3 times. What is the probability of getting exactly two heads?"
+    },
+    {
+      "id": "calendar_monday_march_1",
+      "category": "calendar",
+      "prompt": "If January 1 is a Monday in a non-leap year, what day of the week is March 1?"
+    },
+    {
+      "id": "code_bug_1",
+      "category": "coding",
+      "prompt": "What is wrong with this Python code?\n\ntotal = sum([1, 2, 3]) / len(1, 2, 3)"
+    }
+  ],
+  "alt": [
+    {
+      "id": "calendar_monday_march_1",
+      "category": "calendar",
+      "prompt": "If January 1 is a Monday in a non-leap year, what day of the week is March 1?"
+    },
+    {
+      "id": "calendar_tuesday_april_1",
+      "category": "calendar",
+      "prompt": "If January 1 is a Tuesday in a non-leap year, what day of the week is April 1?"
+    },
+    {
+      "id": "sort_1",
+      "category": "language",
+      "prompt": "Sort these words alphabetically: banana, apple, apricot, blueberry."
+    },
+    {
+      "id": "sort_2",
+      "category": "language",
+      "prompt": "Sort these words alphabetically: zebra, ant, koala, yak."
+    },
+    {
+      "id": "code_bug_1",
+      "category": "coding",
+      "prompt": "What is wrong with this Python code?\n\ntotal = sum([1, 2, 3]) / len(1, 2, 3)"
+    },
+    {
+      "id": "code_bug_2",
+      "category": "coding",
+      "prompt": "What is wrong with this Python code?\n\nvalue = int('7') + '3'"
+    },
+    {
+      "id": "trip_bank",
+      "category": "planning",
+      "prompt": "I need to visit the bank, grocery store, and post office in one trip. The bank closes first, the grocery store closes second, and the post office closes last. What order is safest if I want to avoid closures?"
+    },
+    {
+      "id": "trip_pharmacy",
+      "category": "planning",
+      "prompt": "I need to visit the pharmacy, hardware store, and bakery in one trip. The pharmacy closes first, the hardware store closes second, and the bakery closes last. What order is safest if I want to avoid closures?"
+    }
+  ]
+}

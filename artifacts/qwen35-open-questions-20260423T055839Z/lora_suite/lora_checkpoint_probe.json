@@ -1,0 +1,26 @@
+[
+  {
+    "checkpoint": "0000010_adapters.safetensors",
+    "no_think_correct": 0,
+    "think_correct": 0,
+    "fact_count": 12
+  },
+  {
+    "checkpoint": "0000020_adapters.safetensors",
+    "no_think_correct": 1,
+    "think_correct": 0,
+    "fact_count": 12
+  },
+  {
+    "checkpoint": "0000030_adapters.safetensors",
+    "no_think_correct": 2,
+    "think_correct": 0,
+    "fact_count": 12
+  },
+  {
+    "checkpoint": "0000040_adapters.safetensors",
+    "no_think_correct": 1,
+    "think_correct": 0,
+    "fact_count": 12
+  }
+]

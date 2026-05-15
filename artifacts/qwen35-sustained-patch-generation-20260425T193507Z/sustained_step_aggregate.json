@@ -1,0 +1,30 @@
+[
+  {
+    "direction": "no_think_to_think",
+    "method": "sustained_full",
+    "count": 384,
+    "mean_js_to_donor": 0.015873579921107144,
+    "mean_js_to_target": 0.03471529479703323
+  },
+  {
+    "direction": "no_think_to_think",
+    "method": "sustained_rank2",
+    "count": 384,
+    "mean_js_to_donor": 0.05226859641644316,
+    "mean_js_to_target": 0.010441888453720322
+  },
+  {
+    "direction": "think_to_no_think",
+    "method": "sustained_full",
+    "count": 384,
+    "mean_js_to_donor": 0.014933672225362625,
+    "mean_js_to_target": 0.03015931076351892
+  },
+  {
+    "direction": "think_to_no_think",
+    "method": "sustained_rank2",
+    "count": 384,
+    "mean_js_to_donor": 0.06034137911540769,
+    "mean_js_to_target": 0.007359059742964159
+  }
+]

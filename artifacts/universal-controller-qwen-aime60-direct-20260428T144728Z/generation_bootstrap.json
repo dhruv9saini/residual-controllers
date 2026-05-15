@@ -1,0 +1,32 @@
+[
+  {
+    "model_label": "qwen35_4b",
+    "method": "canonical_donor",
+    "n": 60,
+    "is_correct_mean": 0.23333333333333334,
+    "is_correct_ci_low": 0.13333333333333333,
+    "is_correct_ci_high": 0.35,
+    "may_be_truncated_mean": 0.7333333333333333,
+    "may_be_truncated_ci_low": 0.6166666666666667,
+    "may_be_truncated_ci_high": 0.8333333333333334,
+    "degenerate_mean": 0.0,
+    "degenerate_ci_low": 0.0,
+    "degenerate_ci_high": 0.0,
+    "reasoning_mode_score_mean": 0.14500000000000002
+  },
+  {
+    "model_label": "qwen35_4b",
+    "method": "universal_controller",
+    "n": 60,
+    "is_correct_mean": 0.23333333333333334,
+    "is_correct_ci_low": 0.13333333333333333,
+    "is_correct_ci_high": 0.35,
+    "may_be_truncated_mean": 0.7333333333333333,
+    "may_be_truncated_ci_low": 0.6166666666666667,
+    "may_be_truncated_ci_high": 0.8333333333333334,
+    "degenerate_mean": 0.0,
+    "degenerate_ci_low": 0.0,
+    "degenerate_ci_high": 0.0,
+    "reasoning_mode_score_mean": 0.14500000000000002
+  }
+]

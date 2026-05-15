@@ -1,0 +1,116 @@
+{
+  "started_at_utc": "2026-04-30T04:38:40.299499+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "patch_width": 2,
+  "alpha_grid": [
+    0.5,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "random_seeds": [
+    19,
+    37
+  ],
+  "effective_margin_threshold": 0.1,
+  "effective_js_to_donor_threshold": 0.6,
+  "prefix_steps": 3,
+  "model_configs": [
+    {
+      "label": "qwen35_4b",
+      "kind": "qwen",
+      "model": "mlx-community/Qwen3.5-4B-4bit",
+      "directions": [
+        {
+          "label": "direct_erasure",
+          "donor_mode": "no",
+          "target_mode": "think",
+          "layer": 19
+        },
+        {
+          "label": "thinking_induction",
+          "donor_mode": "think",
+          "target_mode": "no",
+          "layer": 15
+        }
+      ]
+    },
+    {
+      "label": "olmo3_7b",
+      "kind": "olmo",
+      "think_model": "mlx-community/Olmo-3-7B-Think-4bit",
+      "instruct_model": "mlx-community/Olmo-3-7B-Instruct-4bit",
+      "directions": [
+        {
+          "label": "direct_erasure",
+          "donor_mode": "instruct",
+          "target_mode": "think",
+          "layer": 12
+        },
+        {
+          "label": "thinking_induction",
+          "donor_mode": "think",
+          "target_mode": "instruct",
+          "layer": 8
+        }
+      ]
+    },
+    {
+      "label": "phi4_mini",
+      "kind": "phi",
+      "think_model": "mlx-community/Phi-4-mini-reasoning-4bit",
+      "instruct_model": "mlx-community/Phi-4-mini-instruct-4bit",
+      "directions": [
+        {
+          "label": "direct_erasure",
+          "donor_mode": "instruct",
+          "target_mode": "think",
+          "layer": 28
+        },
+        {
+          "label": "thinking_induction",
+          "donor_mode": "think",
+          "target_mode": "instruct",
+          "layer": 16
+        }
+      ]
+    },
+    {
+      "label": "liquid_12b",
+      "kind": "phi",
+      "think_model": "LiquidAI/LFM2.5-1.2B-Thinking-MLX-4bit",
+      "instruct_model": "LiquidAI/LFM2.5-1.2B-Instruct-MLX-4bit",
+      "directions": [
+        {
+          "label": "direct_erasure",
+          "donor_mode": "instruct",
+          "target_mode": "think",
+          "layer": 16
+        },
+        {
+          "label": "thinking_induction",
+          "donor_mode": "think",
+          "target_mode": "instruct",
+          "layer": 12
+        }
+      ]
+    }
+  ],
+  "args": {
+    "output_dir": "outputs/shared-latent-step-thinking-induction-20260430T043837Z",
+    "models": "qwen35_4b,olmo3_7b,phi4_mini,liquid_12b",
+    "directions": "thinking_induction",
+    "train_gsm8k_limit": 20,
+    "train_math500_limit": 20,
+    "eval_gsm8k_limit": 10,
+    "eval_math500_limit": 10,
+    "prefix_steps": 3,
+    "aime_limit": 60,
+    "step_specific_adapters": true,
+    "hf_repo_id": "",
+    "hf_repo_type": "dataset",
+    "skip_hf_upload": true
+  }
+}

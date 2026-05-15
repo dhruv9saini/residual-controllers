@@ -1,0 +1,1 @@
+./.venv/bin/python scripts/run_qwen35_patched_generation_suite.py --output-dir outputs/qwen35-patched-generation-20260425T174409Z --gsm8k-limit 6 --math500-limit 6 --max-generation-tokens 1024

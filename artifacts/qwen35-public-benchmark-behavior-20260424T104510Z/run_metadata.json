@@ -1,0 +1,33 @@
+{
+  "started_at_utc": "2026-04-24T10:45:11.116559+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "model": "mlx-community/Qwen3.5-4B-4bit",
+  "max_generation_tokens": 4096,
+  "max_numeric_digits": 64,
+  "benchmarks": [
+    {
+      "benchmark": "gsm8k",
+      "dataset": "openai/gsm8k",
+      "config": "main",
+      "split": "test",
+      "prompt_field": "question"
+    },
+    {
+      "benchmark": "math500_numeric",
+      "dataset": "HuggingFaceH4/MATH-500",
+      "config": "default",
+      "split": "test",
+      "prompt_field": "problem"
+    }
+  ],
+  "variant_order": [
+    "think_open_newline",
+    "shared_prefix_only",
+    "no_think_preclose",
+    "no_think_closed_no_gap",
+    "no_think_full"
+  ],
+  "grading": "last numeric candidate must equal gold Fraction"
+}

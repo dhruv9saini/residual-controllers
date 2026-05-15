@@ -1,0 +1,212 @@
+2026-04-27T19:52:28.178925+00:00 load/build olmo3_7b
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 56223.91it/s]
+`rope_parameters`'s beta_fast field must be a float, got 32
+`rope_parameters`'s beta_slow field must be a float, got 1
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 70021.77it/s]
+`rope_parameters`'s beta_fast field must be a float, got 32
+`rope_parameters`'s beta_slow field must be a float, got 1
+2026-04-27T19:52:32.579111+00:00 cache olmo3_7b prompt 1/60 count_strawberries_r
+2026-04-27T19:52:33.505992+00:00 cache olmo3_7b prompt 2/60 count_committee_m
+2026-04-27T19:52:34.186466+00:00 cache olmo3_7b prompt 3/60 count_balloon_l
+2026-04-27T19:52:34.867553+00:00 cache olmo3_7b prompt 4/60 count_mississippi_s
+2026-04-27T19:52:35.549592+00:00 cache olmo3_7b prompt 5/60 count_bookkeeper_e
+2026-04-27T19:52:36.230187+00:00 cache olmo3_7b prompt 6/60 count_programming_g
+2026-04-27T19:52:36.910317+00:00 cache olmo3_7b prompt 7/60 mul_317_248
+2026-04-27T19:52:37.597094+00:00 cache olmo3_7b prompt 8/60 mul_126_94
+2026-04-27T19:52:38.283677+00:00 cache olmo3_7b prompt 9/60 mul_438_57
+2026-04-27T19:52:38.965341+00:00 cache olmo3_7b prompt 10/60 mul_999_37
+2026-04-27T19:52:39.651476+00:00 cache olmo3_7b prompt 11/60 mul_124_125
+2026-04-27T19:52:40.338266+00:00 cache olmo3_7b prompt 12/60 mul_808_19
+2026-04-27T19:52:41.025162+00:00 cache olmo3_7b prompt 13/60 eq_3_7_25
+2026-04-27T19:52:41.713887+00:00 cache olmo3_7b prompt 14/60 eq_5_-4_31
+2026-04-27T19:52:42.402805+00:00 cache olmo3_7b prompt 15/60 eq_2_9_21
+2026-04-27T19:52:43.091870+00:00 cache olmo3_7b prompt 16/60 eq_7_5_54
+2026-04-27T19:52:43.779763+00:00 cache olmo3_7b prompt 17/60 eq_4_3_35
+2026-04-27T19:52:44.467497+00:00 cache olmo3_7b prompt 18/60 eq_6_-1_23
+2026-04-27T19:52:45.155552+00:00 cache olmo3_7b prompt 19/60 ages_Ava_Ben_Cara_Dan
+2026-04-27T19:52:45.970253+00:00 cache olmo3_7b prompt 20/60 ages_Iris_Jules_Kai_Lena
+2026-04-27T19:52:46.784910+00:00 cache olmo3_7b prompt 21/60 ages_Mina_Nora_Owen_Pia
+2026-04-27T19:52:47.600202+00:00 cache olmo3_7b prompt 22/60 ages_Quin_Ruth_Seth_Tara
+2026-04-27T19:52:48.409452+00:00 cache olmo3_7b prompt 23/60 ages_Uma_Vera_Wade_Xena
+2026-04-27T19:52:49.224081+00:00 cache olmo3_7b prompt 24/60 ages_Yara_Zane_Arlo_Bree
+2026-04-27T19:52:50.155952+00:00 cache olmo3_7b prompt 25/60 coin_6
+2026-04-27T19:52:50.966781+00:00 cache olmo3_7b prompt 26/60 coin_7
+2026-04-27T19:52:51.776726+00:00 cache olmo3_7b prompt 27/60 coin_8
+2026-04-27T19:52:52.586460+00:00 cache olmo3_7b prompt 28/60 coin_9
+2026-04-27T19:52:53.396196+00:00 cache olmo3_7b prompt 29/60 coin_10
+2026-04-27T19:52:54.205728+00:00 cache olmo3_7b prompt 30/60 coin_11
+2026-04-27T19:52:55.016001+00:00 cache olmo3_7b prompt 31/60 heads_exact2_3
+2026-04-27T19:52:55.704987+00:00 cache olmo3_7b prompt 32/60 heads_exact2_4
+2026-04-27T19:52:56.389277+00:00 cache olmo3_7b prompt 33/60 heads_exact2_5
+2026-04-27T19:52:57.073652+00:00 cache olmo3_7b prompt 34/60 heads_exact2_6
+2026-04-27T19:52:57.758294+00:00 cache olmo3_7b prompt 35/60 heads_exact2_7
+2026-04-27T19:52:58.442832+00:00 cache olmo3_7b prompt 36/60 heads_exact2_8
+2026-04-27T19:52:59.132460+00:00 cache olmo3_7b prompt 37/60 calendar_monday_march_1
+2026-04-27T19:52:59.946010+00:00 cache olmo3_7b prompt 38/60 calendar_tuesday_april_1
+2026-04-27T19:53:00.755120+00:00 cache olmo3_7b prompt 39/60 calendar_wednesday_may_1
+2026-04-27T19:53:01.564340+00:00 cache olmo3_7b prompt 40/60 calendar_thursday_june_1
+2026-04-27T19:53:02.377781+00:00 cache olmo3_7b prompt 41/60 calendar_friday_july_1
+2026-04-27T19:53:03.191446+00:00 cache olmo3_7b prompt 42/60 calendar_saturday_august_1
+2026-04-27T19:53:04.006185+00:00 cache olmo3_7b prompt 43/60 sort_1
+2026-04-27T19:53:04.695400+00:00 cache olmo3_7b prompt 44/60 sort_2
+2026-04-27T19:53:05.379559+00:00 cache olmo3_7b prompt 45/60 sort_3
+2026-04-27T19:53:06.067796+00:00 cache olmo3_7b prompt 46/60 sort_4
+2026-04-27T19:53:06.752008+00:00 cache olmo3_7b prompt 47/60 sort_5
+2026-04-27T19:53:07.439887+00:00 cache olmo3_7b prompt 48/60 sort_6
+2026-04-27T19:53:08.128819+00:00 cache olmo3_7b prompt 49/60 code_bug_1
+2026-04-27T19:53:09.060916+00:00 cache olmo3_7b prompt 50/60 code_bug_2
+2026-04-27T19:53:09.744949+00:00 cache olmo3_7b prompt 51/60 code_bug_3
+2026-04-27T19:53:10.426666+00:00 cache olmo3_7b prompt 52/60 code_bug_4
+2026-04-27T19:53:11.110847+00:00 cache olmo3_7b prompt 53/60 code_bug_5
+2026-04-27T19:53:11.795574+00:00 cache olmo3_7b prompt 54/60 code_bug_6
+2026-04-27T19:53:12.479841+00:00 cache olmo3_7b prompt 55/60 trip_bank
+2026-04-27T19:53:13.422607+00:00 cache olmo3_7b prompt 56/60 trip_pharmacy
+2026-04-27T19:53:14.360157+00:00 cache olmo3_7b prompt 57/60 trip_city_hall
+2026-04-27T19:53:15.296645+00:00 cache olmo3_7b prompt 58/60 trip_dentist
+2026-04-27T19:53:16.240637+00:00 cache olmo3_7b prompt 59/60 trip_doctor
+2026-04-27T19:53:17.181016+00:00 cache olmo3_7b prompt 60/60 trip_tailor
+2026-04-27T19:53:18.121165+00:00 select olmo3_7b fold 0 think_to_instruct
+2026-04-27T19:55:25.117257+00:00 select olmo3_7b fold 0 instruct_to_think
+2026-04-27T19:59:30.060661+00:00 select olmo3_7b fold 1 think_to_instruct
+2026-04-27T20:01:45.181836+00:00 select olmo3_7b fold 1 instruct_to_think
+2026-04-27T20:05:52.241375+00:00 select olmo3_7b fold 2 think_to_instruct
+2026-04-27T20:08:06.254792+00:00 select olmo3_7b fold 2 instruct_to_think
+2026-04-27T20:12:13.523669+00:00 load/build phi4_mini
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 54158.88it/s]
+This model config has set a `rope_parameters['original_max_position_embeddings']` field, to be used together with `max_position_embeddings` to determine a scaling factor. Please set the `factor` field of `rope_parameters`with this ratio instead -- we recommend the use of this field over `original_max_position_embeddings`, as it is compatible with most model architectures.
+Fetching 12 files:   0%|          | 0/12 [00:00<?, ?it/s]Fetching 12 files: 100%|██████████| 12/12 [00:00<00:00, 316551.25it/s]
+2026-04-27T20:12:16.867566+00:00 cache phi4_mini prompt 1/60 count_strawberries_r
+2026-04-27T20:12:17.093641+00:00 cache phi4_mini prompt 2/60 count_committee_m
+2026-04-27T20:12:17.268870+00:00 cache phi4_mini prompt 3/60 count_balloon_l
+2026-04-27T20:12:17.438637+00:00 cache phi4_mini prompt 4/60 count_mississippi_s
+2026-04-27T20:12:17.611765+00:00 cache phi4_mini prompt 5/60 count_bookkeeper_e
+2026-04-27T20:12:17.785202+00:00 cache phi4_mini prompt 6/60 count_programming_g
+2026-04-27T20:12:17.956226+00:00 cache phi4_mini prompt 7/60 mul_317_248
+2026-04-27T20:12:18.131418+00:00 cache phi4_mini prompt 8/60 mul_126_94
+2026-04-27T20:12:18.305510+00:00 cache phi4_mini prompt 9/60 mul_438_57
+2026-04-27T20:12:18.479728+00:00 cache phi4_mini prompt 10/60 mul_999_37
+2026-04-27T20:12:18.653442+00:00 cache phi4_mini prompt 11/60 mul_124_125
+2026-04-27T20:12:18.827769+00:00 cache phi4_mini prompt 12/60 mul_808_19
+2026-04-27T20:12:19.001880+00:00 cache phi4_mini prompt 13/60 eq_3_7_25
+2026-04-27T20:12:19.175235+00:00 cache phi4_mini prompt 14/60 eq_5_-4_31
+2026-04-27T20:12:19.348532+00:00 cache phi4_mini prompt 15/60 eq_2_9_21
+2026-04-27T20:12:19.521723+00:00 cache phi4_mini prompt 16/60 eq_7_5_54
+2026-04-27T20:12:19.694638+00:00 cache phi4_mini prompt 17/60 eq_4_3_35
+2026-04-27T20:12:19.867875+00:00 cache phi4_mini prompt 18/60 eq_6_-1_23
+2026-04-27T20:12:20.040573+00:00 cache phi4_mini prompt 19/60 ages_Ava_Ben_Cara_Dan
+2026-04-27T20:12:20.279474+00:00 cache phi4_mini prompt 20/60 ages_Iris_Jules_Kai_Lena
+2026-04-27T20:12:20.518429+00:00 cache phi4_mini prompt 21/60 ages_Mina_Nora_Owen_Pia
+2026-04-27T20:12:20.756884+00:00 cache phi4_mini prompt 22/60 ages_Quin_Ruth_Seth_Tara
+2026-04-27T20:12:20.995654+00:00 cache phi4_mini prompt 23/60 ages_Uma_Vera_Wade_Xena
+2026-04-27T20:12:21.234192+00:00 cache phi4_mini prompt 24/60 ages_Yara_Zane_Arlo_Bree
+2026-04-27T20:12:21.565668+00:00 cache phi4_mini prompt 25/60 coin_6
+2026-04-27T20:12:21.804310+00:00 cache phi4_mini prompt 26/60 coin_7
+2026-04-27T20:12:22.042697+00:00 cache phi4_mini prompt 27/60 coin_8
+2026-04-27T20:12:22.281094+00:00 cache phi4_mini prompt 28/60 coin_9
+2026-04-27T20:12:22.519867+00:00 cache phi4_mini prompt 29/60 coin_10
+2026-04-27T20:12:22.758138+00:00 cache phi4_mini prompt 30/60 coin_11
+2026-04-27T20:12:22.996006+00:00 cache phi4_mini prompt 31/60 heads_exact2_3
+2026-04-27T20:12:23.233543+00:00 cache phi4_mini prompt 32/60 heads_exact2_4
+2026-04-27T20:12:23.470539+00:00 cache phi4_mini prompt 33/60 heads_exact2_5
+2026-04-27T20:12:23.707577+00:00 cache phi4_mini prompt 34/60 heads_exact2_6
+2026-04-27T20:12:23.944588+00:00 cache phi4_mini prompt 35/60 heads_exact2_7
+2026-04-27T20:12:24.181748+00:00 cache phi4_mini prompt 36/60 heads_exact2_8
+2026-04-27T20:12:24.418990+00:00 cache phi4_mini prompt 37/60 calendar_monday_march_1
+2026-04-27T20:12:24.656395+00:00 cache phi4_mini prompt 38/60 calendar_tuesday_april_1
+2026-04-27T20:12:24.893853+00:00 cache phi4_mini prompt 39/60 calendar_wednesday_may_1
+2026-04-27T20:12:25.131598+00:00 cache phi4_mini prompt 40/60 calendar_thursday_june_1
+2026-04-27T20:12:25.368974+00:00 cache phi4_mini prompt 41/60 calendar_friday_july_1
+2026-04-27T20:12:25.606330+00:00 cache phi4_mini prompt 42/60 calendar_saturday_august_1
+2026-04-27T20:12:25.837326+00:00 cache phi4_mini prompt 43/60 sort_1
+2026-04-27T20:12:26.073380+00:00 cache phi4_mini prompt 44/60 sort_2
+2026-04-27T20:12:26.309534+00:00 cache phi4_mini prompt 45/60 sort_3
+2026-04-27T20:12:26.482414+00:00 cache phi4_mini prompt 46/60 sort_4
+2026-04-27T20:12:26.718303+00:00 cache phi4_mini prompt 47/60 sort_5
+2026-04-27T20:12:26.891188+00:00 cache phi4_mini prompt 48/60 sort_6
+2026-04-27T20:12:27.127948+00:00 cache phi4_mini prompt 49/60 code_bug_1
+2026-04-27T20:12:27.424993+00:00 cache phi4_mini prompt 50/60 code_bug_2
+2026-04-27T20:12:27.661674+00:00 cache phi4_mini prompt 51/60 code_bug_3
+2026-04-27T20:12:27.835465+00:00 cache phi4_mini prompt 52/60 code_bug_4
+2026-04-27T20:12:28.072493+00:00 cache phi4_mini prompt 53/60 code_bug_5
+2026-04-27T20:12:28.309471+00:00 cache phi4_mini prompt 54/60 code_bug_6
+2026-04-27T20:12:28.546065+00:00 cache phi4_mini prompt 55/60 trip_bank
+2026-04-27T20:12:28.844843+00:00 cache phi4_mini prompt 56/60 trip_pharmacy
+2026-04-27T20:12:29.143680+00:00 cache phi4_mini prompt 57/60 trip_city_hall
+2026-04-27T20:12:29.435942+00:00 cache phi4_mini prompt 58/60 trip_dentist
+2026-04-27T20:12:29.734685+00:00 cache phi4_mini prompt 59/60 trip_doctor
+2026-04-27T20:12:30.033500+00:00 cache phi4_mini prompt 60/60 trip_tailor
+2026-04-27T20:12:30.332134+00:00 select phi4_mini fold 0 think_to_instruct
+2026-04-27T20:12:52.790638+00:00 select phi4_mini fold 0 instruct_to_think
+2026-04-27T20:13:45.841189+00:00 select phi4_mini fold 1 think_to_instruct
+2026-04-27T20:14:08.536751+00:00 select phi4_mini fold 1 instruct_to_think
+2026-04-27T20:15:01.837324+00:00 select phi4_mini fold 2 think_to_instruct
+2026-04-27T20:15:24.956214+00:00 select phi4_mini fold 2 instruct_to_think
+2026-04-27T20:16:18.687946+00:00 load/build liquid_12b
+Fetching 8 files:   0%|          | 0/8 [00:00<?, ?it/s]Fetching 8 files: 100%|██████████| 8/8 [00:00<00:00, 124737.67it/s]
+Fetching 8 files:   0%|          | 0/8 [00:00<?, ?it/s]Fetching 8 files: 100%|██████████| 8/8 [00:00<00:00, 26843.55it/s]
+2026-04-27T20:16:19.879875+00:00 cache liquid_12b prompt 1/60 count_strawberries_r
+2026-04-27T20:16:19.966778+00:00 cache liquid_12b prompt 2/60 count_committee_m
+2026-04-27T20:16:20.033849+00:00 cache liquid_12b prompt 3/60 count_balloon_l
+2026-04-27T20:16:20.100387+00:00 cache liquid_12b prompt 4/60 count_mississippi_s
+2026-04-27T20:16:20.167227+00:00 cache liquid_12b prompt 5/60 count_bookkeeper_e
+2026-04-27T20:16:20.233755+00:00 cache liquid_12b prompt 6/60 count_programming_g
+2026-04-27T20:16:20.300262+00:00 cache liquid_12b prompt 7/60 mul_317_248
+2026-04-27T20:16:20.367293+00:00 cache liquid_12b prompt 8/60 mul_126_94
+2026-04-27T20:16:20.434393+00:00 cache liquid_12b prompt 9/60 mul_438_57
+2026-04-27T20:16:20.501788+00:00 cache liquid_12b prompt 10/60 mul_999_37
+2026-04-27T20:16:20.569213+00:00 cache liquid_12b prompt 11/60 mul_124_125
+2026-04-27T20:16:20.636606+00:00 cache liquid_12b prompt 12/60 mul_808_19
+2026-04-27T20:16:20.703957+00:00 cache liquid_12b prompt 13/60 eq_3_7_25
+2026-04-27T20:16:20.771375+00:00 cache liquid_12b prompt 14/60 eq_5_-4_31
+2026-04-27T20:16:20.838771+00:00 cache liquid_12b prompt 15/60 eq_2_9_21
+2026-04-27T20:16:20.906095+00:00 cache liquid_12b prompt 16/60 eq_7_5_54
+2026-04-27T20:16:20.973564+00:00 cache liquid_12b prompt 17/60 eq_4_3_35
+2026-04-27T20:16:21.040889+00:00 cache liquid_12b prompt 18/60 eq_6_-1_23
+2026-04-27T20:16:21.108205+00:00 cache liquid_12b prompt 19/60 ages_Ava_Ben_Cara_Dan
+2026-04-27T20:16:21.213766+00:00 cache liquid_12b prompt 20/60 ages_Iris_Jules_Kai_Lena
+2026-04-27T20:16:21.319402+00:00 cache liquid_12b prompt 21/60 ages_Mina_Nora_Owen_Pia
+2026-04-27T20:16:21.422272+00:00 cache liquid_12b prompt 22/60 ages_Quin_Ruth_Seth_Tara
+2026-04-27T20:16:21.527777+00:00 cache liquid_12b prompt 23/60 ages_Uma_Vera_Wade_Xena
+2026-04-27T20:16:21.633481+00:00 cache liquid_12b prompt 24/60 ages_Yara_Zane_Arlo_Bree
+2026-04-27T20:16:21.739240+00:00 cache liquid_12b prompt 25/60 coin_6
+2026-04-27T20:16:21.845000+00:00 cache liquid_12b prompt 26/60 coin_7
+2026-04-27T20:16:21.950474+00:00 cache liquid_12b prompt 27/60 coin_8
+2026-04-27T20:16:22.056156+00:00 cache liquid_12b prompt 28/60 coin_9
+2026-04-27T20:16:22.162151+00:00 cache liquid_12b prompt 29/60 coin_10
+2026-04-27T20:16:22.267698+00:00 cache liquid_12b prompt 30/60 coin_11
+2026-04-27T20:16:22.373141+00:00 cache liquid_12b prompt 31/60 heads_exact2_3
+2026-04-27T20:16:22.441615+00:00 cache liquid_12b prompt 32/60 heads_exact2_4
+2026-04-27T20:16:22.510045+00:00 cache liquid_12b prompt 33/60 heads_exact2_5
+2026-04-27T20:16:22.578551+00:00 cache liquid_12b prompt 34/60 heads_exact2_6
+2026-04-27T20:16:22.646847+00:00 cache liquid_12b prompt 35/60 heads_exact2_7
+2026-04-27T20:16:22.715321+00:00 cache liquid_12b prompt 36/60 heads_exact2_8
+2026-04-27T20:16:22.783819+00:00 cache liquid_12b prompt 37/60 calendar_monday_march_1
+2026-04-27T20:16:22.889304+00:00 cache liquid_12b prompt 38/60 calendar_tuesday_april_1
+2026-04-27T20:16:22.994785+00:00 cache liquid_12b prompt 39/60 calendar_wednesday_may_1
+2026-04-27T20:16:23.100037+00:00 cache liquid_12b prompt 40/60 calendar_thursday_june_1
+2026-04-27T20:16:23.205518+00:00 cache liquid_12b prompt 41/60 calendar_friday_july_1
+2026-04-27T20:16:23.311045+00:00 cache liquid_12b prompt 42/60 calendar_saturday_august_1
+2026-04-27T20:16:23.416527+00:00 cache liquid_12b prompt 43/60 sort_1
+2026-04-27T20:16:23.484713+00:00 cache liquid_12b prompt 44/60 sort_2
+2026-04-27T20:16:23.552823+00:00 cache liquid_12b prompt 45/60 sort_3
+2026-04-27T20:16:23.620633+00:00 cache liquid_12b prompt 46/60 sort_4
+2026-04-27T20:16:23.688531+00:00 cache liquid_12b prompt 47/60 sort_5
+2026-04-27T20:16:23.756426+00:00 cache liquid_12b prompt 48/60 sort_6
+2026-04-27T20:16:23.824395+00:00 cache liquid_12b prompt 49/60 code_bug_1
+2026-04-27T20:16:23.930604+00:00 cache liquid_12b prompt 50/60 code_bug_2
+2026-04-27T20:16:23.998940+00:00 cache liquid_12b prompt 51/60 code_bug_3
+2026-04-27T20:16:24.066449+00:00 cache liquid_12b prompt 52/60 code_bug_4
+2026-04-27T20:16:24.134934+00:00 cache liquid_12b prompt 53/60 code_bug_5
+2026-04-27T20:16:24.203358+00:00 cache liquid_12b prompt 54/60 code_bug_6
+2026-04-27T20:16:24.272024+00:00 cache liquid_12b prompt 55/60 trip_bank
+2026-04-27T20:16:24.379912+00:00 cache liquid_12b prompt 56/60 trip_pharmacy
+2026-04-27T20:16:24.487658+00:00 cache liquid_12b prompt 57/60 trip_city_hall
+2026-04-27T20:16:24.595567+00:00 cache liquid_12b prompt 58/60 trip_dentist
+2026-04-27T20:16:24.703537+00:00 cache liquid_12b prompt 59/60 trip_doctor
+2026-04-27T20:16:24.811307+00:00 cache liquid_12b prompt 60/60 trip_tailor
+2026-04-27T20:16:24.918889+00:00 select liquid_12b fold 0 think_to_instruct
+2026-04-27T20:16:30.273603+00:00 select liquid_12b fold 0 instruct_to_think
+2026-04-27T20:16:40.861436+00:00 select liquid_12b fold 1 think_to_instruct
+2026-04-27T20:16:46.260195+00:00 select liquid_12b fold 1 instruct_to_think
+2026-04-27T20:16:56.863977+00:00 select liquid_12b fold 2 think_to_instruct
+2026-04-27T20:17:02.260088+00:00 select liquid_12b fold 2 instruct_to_think

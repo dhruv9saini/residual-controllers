@@ -1,0 +1,39 @@
+{
+  "started_at_utc": "2026-05-07T05:07:26.762646+00:00",
+  "cwd": "reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": ".venv/bin/python",
+  "models": [
+    "nemotron_nano_4b"
+  ],
+  "patch_width": 2,
+  "alpha_grid": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "random_count": 16,
+  "subset_sizes": [
+    10,
+    20,
+    40,
+    60
+  ],
+  "subset_repeats": 5,
+  "wrong_position_offsets": [
+    0,
+    8,
+    16
+  ],
+  "wrong_layer_offsets": [
+    -4,
+    -2,
+    2,
+    4
+  ],
+  "eval_prompt_count": 42,
+  "train_prompt_count": 60
+}

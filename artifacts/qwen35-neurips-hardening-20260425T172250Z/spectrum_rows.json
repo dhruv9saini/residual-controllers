@@ -1,0 +1,5042 @@
+[
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 1,
+    "singular_value": 123.55020904541016,
+    "cumulative_energy": 0.7988273376588864
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 2,
+    "singular_value": 35.64886474609375,
+    "cumulative_energy": 0.865332805415527
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 3,
+    "singular_value": 24.392702102661133,
+    "cumulative_energy": 0.8964704504012788
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 4,
+    "singular_value": 21.314983367919922,
+    "cumulative_energy": 0.9202462946737029
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 5,
+    "singular_value": 17.537939071655273,
+    "cumulative_energy": 0.9363424839938183
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 6,
+    "singular_value": 16.444664001464844,
+    "cumulative_energy": 0.9504944230696504
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 7,
+    "singular_value": 14.575201034545898,
+    "cumulative_energy": 0.9616116133165605
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 8,
+    "singular_value": 13.580280303955078,
+    "cumulative_energy": 0.9712628598516209
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 9,
+    "singular_value": 10.672748565673828,
+    "cumulative_energy": 0.9772238513635406
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 10,
+    "singular_value": 9.361721992492676,
+    "cumulative_energy": 0.981810309387048
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 11,
+    "singular_value": 9.16545581817627,
+    "cumulative_energy": 0.9862064752083052
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 12,
+    "singular_value": 8.425668716430664,
+    "cumulative_energy": 0.989921610929304
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 13,
+    "singular_value": 5.818880558013916,
+    "cumulative_energy": 0.991693533883648
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 14,
+    "singular_value": 4.508549690246582,
+    "cumulative_energy": 0.9927572841310297
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 15,
+    "singular_value": 3.7201480865478516,
+    "cumulative_energy": 0.9934815306044601
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 16,
+    "singular_value": 3.564253330230713,
+    "cumulative_energy": 0.9941463490936666
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 17,
+    "singular_value": 3.3599982261657715,
+    "cumulative_energy": 0.9947371539248523
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 18,
+    "singular_value": 2.6048505306243896,
+    "cumulative_energy": 0.9950922383040637
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 19,
+    "singular_value": 2.540572166442871,
+    "cumulative_energy": 0.9954300144791313
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 20,
+    "singular_value": 2.4554171562194824,
+    "cumulative_energy": 0.9957455269322725
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 21,
+    "singular_value": 2.356990337371826,
+    "cumulative_energy": 0.9960362513658292
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 22,
+    "singular_value": 2.328636407852173,
+    "cumulative_energy": 0.996320023207039
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 23,
+    "singular_value": 2.261399507522583,
+    "cumulative_energy": 0.9965876444241923
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 24,
+    "singular_value": 2.096310615539551,
+    "cumulative_energy": 0.9968176176254085
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 25,
+    "singular_value": 1.9430315494537354,
+    "cumulative_energy": 0.9970151897385082
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 26,
+    "singular_value": 1.9110848903656006,
+    "cumulative_energy": 0.9972063184407841
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 27,
+    "singular_value": 1.7982087135314941,
+    "cumulative_energy": 0.9973755362798121
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 28,
+    "singular_value": 1.704491376876831,
+    "cumulative_energy": 0.9975275754746309
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 29,
+    "singular_value": 1.6256036758422852,
+    "cumulative_energy": 0.9976658669180433
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 30,
+    "singular_value": 1.6206845045089722,
+    "cumulative_energy": 0.9978033226599503
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 31,
+    "singular_value": 1.5735340118408203,
+    "cumulative_energy": 0.9979328967684566
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 32,
+    "singular_value": 1.466292142868042,
+    "cumulative_energy": 0.9980454108754174
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 33,
+    "singular_value": 1.4337224960327148,
+    "cumulative_energy": 0.9981529821036766
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 34,
+    "singular_value": 1.4189255237579346,
+    "cumulative_energy": 0.998258344374974
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 35,
+    "singular_value": 1.412888765335083,
+    "cumulative_energy": 0.9983628120414098
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 36,
+    "singular_value": 1.38149893283844,
+    "cumulative_energy": 0.9984626894008538
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 37,
+    "singular_value": 1.3019623756408691,
+    "cumulative_energy": 0.9985513974063067
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 38,
+    "singular_value": 1.253272533416748,
+    "cumulative_energy": 0.9986335946008235
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 39,
+    "singular_value": 1.2035950422286987,
+    "cumulative_energy": 0.998709404642774
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 40,
+    "singular_value": 1.177456021308899,
+    "cumulative_energy": 0.9987819576385467
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 41,
+    "singular_value": 1.143320083618164,
+    "cumulative_energy": 0.9988503648037449
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 42,
+    "singular_value": 1.0999696254730225,
+    "cumulative_energy": 0.9989136828237627
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 43,
+    "singular_value": 1.0818785429000854,
+    "cumulative_energy": 0.9989749352025151
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 44,
+    "singular_value": 1.0430982112884521,
+    "cumulative_energy": 0.9990318750533212
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 45,
+    "singular_value": 1.0130586624145508,
+    "cumulative_energy": 0.9990855825746511
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 46,
+    "singular_value": 1.0047961473464966,
+    "cumulative_energy": 0.9991384175939145
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 47,
+    "singular_value": 0.9607738256454468,
+    "cumulative_energy": 0.9991867243942666
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 48,
+    "singular_value": 0.9155903458595276,
+    "cumulative_energy": 0.9992305944655582
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 49,
+    "singular_value": 0.9022966027259827,
+    "cumulative_energy": 0.9992731998614521
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 50,
+    "singular_value": 0.8718221783638,
+    "cumulative_energy": 0.9993129759217763
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 51,
+    "singular_value": 0.8458172082901001,
+    "cumulative_energy": 0.9993504144695927
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 52,
+    "singular_value": 0.8091868758201599,
+    "cumulative_energy": 0.9993846804865055
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 53,
+    "singular_value": 0.7833999395370483,
+    "cumulative_energy": 0.9994167973419098
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 54,
+    "singular_value": 0.7439101934432983,
+    "cumulative_energy": 0.9994457579019522
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 55,
+    "singular_value": 0.7295145392417908,
+    "cumulative_energy": 0.9994736084562553
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 56,
+    "singular_value": 0.6958647966384888,
+    "cumulative_energy": 0.9994989489848928
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 57,
+    "singular_value": 0.6870245337486267,
+    "cumulative_energy": 0.9995236497520872
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 58,
+    "singular_value": 0.649105966091156,
+    "cumulative_energy": 0.9995456991711013
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 59,
+    "singular_value": 0.6447615027427673,
+    "cumulative_energy": 0.9995674544242461
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 60,
+    "singular_value": 0.6206591129302979,
+    "cumulative_energy": 0.9995876135739182
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 61,
+    "singular_value": 0.6014792919158936,
+    "cumulative_energy": 0.999606546044975
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 62,
+    "singular_value": 0.5941298007965088,
+    "cumulative_energy": 0.9996250186696565
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 63,
+    "singular_value": 0.5892197489738464,
+    "cumulative_energy": 0.9996431872311826
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 64,
+    "singular_value": 0.5772470235824585,
+    "cumulative_energy": 0.9996606249375557
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 65,
+    "singular_value": 0.5686141848564148,
+    "cumulative_energy": 0.999677544975007
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 66,
+    "singular_value": 0.539319634437561,
+    "cumulative_energy": 0.9996927665081021
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 67,
+    "singular_value": 0.5240177512168884,
+    "cumulative_energy": 0.9997071365470795
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 68,
+    "singular_value": 0.5173903703689575,
+    "cumulative_energy": 0.9997211454021797
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 69,
+    "singular_value": 0.5112614035606384,
+    "cumulative_energy": 0.9997348243264305
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 70,
+    "singular_value": 0.5059207081794739,
+    "cumulative_energy": 0.9997482189602634
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 71,
+    "singular_value": 0.4976087808609009,
+    "cumulative_energy": 0.9997611770810486
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 72,
+    "singular_value": 0.490232914686203,
+    "cumulative_energy": 0.9997737539021047
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 73,
+    "singular_value": 0.4843698740005493,
+    "cumulative_energy": 0.9997860316920876
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 74,
+    "singular_value": 0.4688957631587982,
+    "cumulative_energy": 0.9997975375382081
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 75,
+    "singular_value": 0.4624467194080353,
+    "cumulative_energy": 0.9998087290651769
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 76,
+    "singular_value": 0.4569777846336365,
+    "cumulative_energy": 0.9998196574539406
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 77,
+    "singular_value": 0.44062042236328125,
+    "cumulative_energy": 0.9998298174882848
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 78,
+    "singular_value": 0.4365420639514923,
+    "cumulative_energy": 0.9998397903117048
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 79,
+    "singular_value": 0.42595621943473816,
+    "cumulative_energy": 0.9998492853313982
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 80,
+    "singular_value": 0.4204474091529846,
+    "cumulative_energy": 0.9998585363446243
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 81,
+    "singular_value": 0.40778955817222595,
+    "cumulative_energy": 0.999867238726768
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 82,
+    "singular_value": 0.4027855098247528,
+    "cumulative_energy": 0.9998757288428505
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 83,
+    "singular_value": 0.3901192247867584,
+    "cumulative_energy": 0.9998836933820078
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 84,
+    "singular_value": 0.38703688979148865,
+    "cumulative_energy": 0.9998915325628202
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 85,
+    "singular_value": 0.37692826986312866,
+    "cumulative_energy": 0.9998989676041926
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 86,
+    "singular_value": 0.3711734712123871,
+    "cumulative_energy": 0.9999061773474013
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 87,
+    "singular_value": 0.36487269401550293,
+    "cumulative_energy": 0.9999131443934354
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 88,
+    "singular_value": 0.356597900390625,
+    "cumulative_energy": 0.9999197990175834
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 89,
+    "singular_value": 0.35545116662979126,
+    "cumulative_energy": 0.9999264109107527
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 90,
+    "singular_value": 0.3452225625514984,
+    "cumulative_energy": 0.9999326477461427
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 91,
+    "singular_value": 0.3376968502998352,
+    "cumulative_energy": 0.999938615624422
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 92,
+    "singular_value": 0.3295880854129791,
+    "cumulative_energy": 0.9999443003426111
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 93,
+    "singular_value": 0.31396788358688354,
+    "cumulative_energy": 0.9999494589964968
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 94,
+    "singular_value": 0.3097728192806244,
+    "cumulative_energy": 0.9999544807173908
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 95,
+    "singular_value": 0.3086613714694977,
+    "cumulative_energy": 0.9999594664674362
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 96,
+    "singular_value": 0.30267611145973206,
+    "cumulative_energy": 0.9999642607347852
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 97,
+    "singular_value": 0.300414115190506,
+    "cumulative_energy": 0.9999689836113693
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 98,
+    "singular_value": 0.2905425429344177,
+    "cumulative_energy": 0.9999734012012839
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 99,
+    "singular_value": 0.28127893805503845,
+    "cumulative_energy": 0.9999775415829704
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 100,
+    "singular_value": 0.2750588059425354,
+    "cumulative_energy": 0.9999815008705237
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 101,
+    "singular_value": 0.26564937829971313,
+    "cumulative_energy": 0.9999851939065002
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 102,
+    "singular_value": 0.260747492313385,
+    "cumulative_energy": 0.9999887519087002
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 103,
+    "singular_value": 0.2573193311691284,
+    "cumulative_energy": 0.9999922169686624
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 104,
+    "singular_value": 0.24463659524917603,
+    "cumulative_energy": 0.9999953488752306
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 105,
+    "singular_value": 0.22141626477241516,
+    "cumulative_energy": 0.9999979144518705
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 106,
+    "singular_value": 0.19981785118579865,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 107,
+    "singular_value": 5.4867314711786255e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 108,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 109,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 110,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 111,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 112,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 113,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 114,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 115,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 116,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 117,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 118,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 119,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 0,
+    "direction": "think_to_no_think",
+    "component_index": 120,
+    "singular_value": 1.1292580572356235e-14,
+    "cumulative_energy": 1.0000000039140367
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 1,
+    "singular_value": 123.62867736816406,
+    "cumulative_energy": 0.7991210359792867
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 2,
+    "singular_value": 35.49648666381836,
+    "cumulative_energy": 0.8649997138130809
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 3,
+    "singular_value": 24.439739227294922,
+    "cumulative_energy": 0.8962293730969592
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 4,
+    "singular_value": 21.378881454467773,
+    "cumulative_energy": 0.9201264116469753
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 5,
+    "singular_value": 17.45176124572754,
+    "cumulative_energy": 0.93605042879021
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 6,
+    "singular_value": 16.3863582611084,
+    "cumulative_energy": 0.9500895198937437
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 7,
+    "singular_value": 14.55107307434082,
+    "cumulative_energy": 0.9611599418782706
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 8,
+    "singular_value": 13.481346130371094,
+    "cumulative_energy": 0.9706625020066273
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 9,
+    "singular_value": 10.704748153686523,
+    "cumulative_energy": 0.9766538844327949
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 10,
+    "singular_value": 9.336472511291504,
+    "cumulative_energy": 0.9812115216134693
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 11,
+    "singular_value": 9.207685470581055,
+    "cumulative_energy": 0.9856442902843957
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 12,
+    "singular_value": 8.633986473083496,
+    "cumulative_energy": 0.9895418865446808
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 13,
+    "singular_value": 5.762550354003906,
+    "cumulative_energy": 0.9912781018130515
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 14,
+    "singular_value": 4.4712958335876465,
+    "cumulative_energy": 0.9923234017885444
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 15,
+    "singular_value": 3.786597490310669,
+    "cumulative_energy": 0.9930730757207857
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 16,
+    "singular_value": 3.640259265899658,
+    "cumulative_energy": 0.9937659249812849
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 17,
+    "singular_value": 3.4457955360412598,
+    "cumulative_energy": 0.9943867269920748
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 18,
+    "singular_value": 2.748739004135132,
+    "cumulative_energy": 0.9947817670537678
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 19,
+    "singular_value": 2.607706308364868,
+    "cumulative_energy": 0.9951373095191182
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 20,
+    "singular_value": 2.5735723972320557,
+    "cumulative_energy": 0.9954836050553088
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 21,
+    "singular_value": 2.498218059539795,
+    "cumulative_energy": 0.9958099183868815
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 22,
+    "singular_value": 2.294886827468872,
+    "cumulative_energy": 0.9960852757404184
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 23,
+    "singular_value": 2.2576329708099365,
+    "cumulative_energy": 0.9963517656684194
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 24,
+    "singular_value": 2.1939175128936768,
+    "cumulative_energy": 0.9966034259600263
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 25,
+    "singular_value": 1.9508390426635742,
+    "cumulative_energy": 0.9968024094308433
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 26,
+    "singular_value": 1.8677940368652344,
+    "cumulative_energy": 0.9969848124800702
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 27,
+    "singular_value": 1.7598381042480469,
+    "cumulative_energy": 0.9971467395860264
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 28,
+    "singular_value": 1.750062108039856,
+    "cumulative_energy": 0.9973068726635183
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 29,
+    "singular_value": 1.7300114631652832,
+    "cumulative_energy": 0.9974633574376935
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 30,
+    "singular_value": 1.686065912246704,
+    "cumulative_energy": 0.9976119931659342
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 31,
+    "singular_value": 1.598768949508667,
+    "cumulative_energy": 0.9977456359580342
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 32,
+    "singular_value": 1.5810531377792358,
+    "cumulative_energy": 0.9978763333836647
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 33,
+    "singular_value": 1.449393630027771,
+    "cumulative_energy": 0.9979861699149204
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 34,
+    "singular_value": 1.4210063219070435,
+    "cumulative_energy": 0.9980917461427801
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 35,
+    "singular_value": 1.3815200328826904,
+    "cumulative_energy": 0.9981915364798772
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 36,
+    "singular_value": 1.3307303190231323,
+    "cumulative_energy": 0.9982841243757069
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 37,
+    "singular_value": 1.2940058708190918,
+    "cumulative_energy": 0.9983716724549317
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 38,
+    "singular_value": 1.255359411239624,
+    "cumulative_energy": 0.9984540692436602
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 39,
+    "singular_value": 1.2144877910614014,
+    "cumulative_energy": 0.9985311880723982
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 40,
+    "singular_value": 1.1882104873657227,
+    "cumulative_energy": 0.9986050058341619
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 41,
+    "singular_value": 1.1635198593139648,
+    "cumulative_energy": 0.9986757876541922
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 42,
+    "singular_value": 1.137730360031128,
+    "cumulative_energy": 0.9987434664798681
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 43,
+    "singular_value": 1.1259273290634155,
+    "cumulative_energy": 0.9988097483634739
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 44,
+    "singular_value": 1.0905296802520752,
+    "cumulative_energy": 0.9988719281325218
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 45,
+    "singular_value": 1.073547124862671,
+    "cumulative_energy": 0.9989321863559484
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 46,
+    "singular_value": 1.0475550889968872,
+    "cumulative_energy": 0.998989562039678
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 47,
+    "singular_value": 1.0275498628616333,
+    "cumulative_energy": 0.9990447672329326
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 48,
+    "singular_value": 1.0087710618972778,
+    "cumulative_energy": 0.9990979730763393
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 49,
+    "singular_value": 0.9977238178253174,
+    "cumulative_energy": 0.9991500199683578
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 50,
+    "singular_value": 0.9480839371681213,
+    "cumulative_energy": 0.9991970167035319
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 51,
+    "singular_value": 0.9307906031608582,
+    "cumulative_energy": 0.9992423146071373
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 52,
+    "singular_value": 0.911941409111023,
+    "cumulative_energy": 0.9992857964555111
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 53,
+    "singular_value": 0.8978091478347778,
+    "cumulative_energy": 0.9993279410784127
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 54,
+    "singular_value": 0.8412566184997559,
+    "cumulative_energy": 0.9993649435824049
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 55,
+    "singular_value": 0.8089074492454529,
+    "cumulative_energy": 0.999399155056886
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 56,
+    "singular_value": 0.7768372297286987,
+    "cumulative_energy": 0.9994307075876664
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 57,
+    "singular_value": 0.7507911920547485,
+    "cumulative_energy": 0.9994601797825206
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 58,
+    "singular_value": 0.7192941904067993,
+    "cumulative_energy": 0.9994872310243557
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 59,
+    "singular_value": 0.7048183679580688,
+    "cumulative_energy": 0.9995132044083969
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 60,
+    "singular_value": 0.6896847486495972,
+    "cumulative_energy": 0.9995380743847784
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 61,
+    "singular_value": 0.669955849647522,
+    "cumulative_energy": 0.9995615418656519
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 62,
+    "singular_value": 0.6560842394828796,
+    "cumulative_energy": 0.9995840476076285
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 63,
+    "singular_value": 0.6371089816093445,
+    "cumulative_energy": 0.999605270354296
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 64,
+    "singular_value": 0.6253260970115662,
+    "cumulative_energy": 0.9996257153594325
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 65,
+    "singular_value": 0.607071042060852,
+    "cumulative_energy": 0.9996449840921884
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 66,
+    "singular_value": 0.5893325805664062,
+    "cumulative_energy": 0.9996631432218668
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 67,
+    "singular_value": 0.5625861287117004,
+    "cumulative_energy": 0.9996796914743419
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 68,
+    "singular_value": 0.5597162246704102,
+    "cumulative_energy": 0.9996960713239536
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 69,
+    "singular_value": 0.5501521229743958,
+    "cumulative_energy": 0.9997118961772511
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 70,
+    "singular_value": 0.5251117944717407,
+    "cumulative_energy": 0.9997263132698704
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 71,
+    "singular_value": 0.5232483148574829,
+    "cumulative_energy": 0.9997406282191217
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 72,
+    "singular_value": 0.5030986666679382,
+    "cumulative_energy": 0.9997538618934384
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 73,
+    "singular_value": 0.4996100664138794,
+    "cumulative_energy": 0.9997669126735975
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 74,
+    "singular_value": 0.4853150546550751,
+    "cumulative_energy": 0.9997792273115893
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 75,
+    "singular_value": 0.47460147738456726,
+    "cumulative_energy": 0.9997910042469904
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 76,
+    "singular_value": 0.46818432211875916,
+    "cumulative_energy": 0.9998024648600314
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 77,
+    "singular_value": 0.4595678150653839,
+    "cumulative_energy": 0.9998135075106441
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 78,
+    "singular_value": 0.4397561848163605,
+    "cumulative_energy": 0.9998236186016487
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 79,
+    "singular_value": 0.4359106421470642,
+    "cumulative_energy": 0.9998335536288816
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 80,
+    "singular_value": 0.431018203496933,
+    "cumulative_energy": 0.9998432668964614
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 81,
+    "singular_value": 0.42202267050743103,
+    "cumulative_energy": 0.9998525789546397
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 82,
+    "singular_value": 0.41427573561668396,
+    "cumulative_energy": 0.9998615522741398
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 83,
+    "singular_value": 0.40938296914100647,
+    "cumulative_energy": 0.9998703148878836
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 84,
+    "singular_value": 0.40501707792282104,
+    "cumulative_energy": 0.9998788915993576
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 85,
+    "singular_value": 0.3913908004760742,
+    "cumulative_energy": 0.9998869009135534
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 86,
+    "singular_value": 0.3900100886821747,
+    "cumulative_energy": 0.9998948538184383
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 87,
+    "singular_value": 0.3777560293674469,
+    "cumulative_energy": 0.9999023148163391
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 88,
+    "singular_value": 0.3678939938545227,
+    "cumulative_energy": 0.999909391332934
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 89,
+    "singular_value": 0.3653920888900757,
+    "cumulative_energy": 0.9999163719272891
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 90,
+    "singular_value": 0.35924816131591797,
+    "cumulative_energy": 0.9999231197431538
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 91,
+    "singular_value": 0.3496687412261963,
+    "cumulative_energy": 0.9999295124934819
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 92,
+    "singular_value": 0.34846633672714233,
+    "cumulative_energy": 0.9999358613538868
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 93,
+    "singular_value": 0.3395438492298126,
+    "cumulative_energy": 0.9999418892512114
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 94,
+    "singular_value": 0.3348260819911957,
+    "cumulative_energy": 0.9999477508040597
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 95,
+    "singular_value": 0.32650554180145264,
+    "cumulative_energy": 0.9999533246536854
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 96,
+    "singular_value": 0.3188939392566681,
+    "cumulative_energy": 0.9999586416536901
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 97,
+    "singular_value": 0.3119901716709137,
+    "cumulative_energy": 0.9999637309288485
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 98,
+    "singular_value": 0.3026585578918457,
+    "cumulative_energy": 0.9999685203171897
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 99,
+    "singular_value": 0.29670581221580505,
+    "cumulative_energy": 0.9999731231608916
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 100,
+    "singular_value": 0.2854364514350891,
+    "cumulative_energy": 0.9999773829979952
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 101,
+    "singular_value": 0.2827863395214081,
+    "cumulative_energy": 0.999981564102183
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 102,
+    "singular_value": 0.267292320728302,
+    "cumulative_energy": 0.9999852995877746
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 103,
+    "singular_value": 0.25946328043937683,
+    "cumulative_energy": 0.9999888194522567
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 104,
+    "singular_value": 0.25355324149131775,
+    "cumulative_energy": 0.9999921807924972
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 105,
+    "singular_value": 0.2531060576438904,
+    "cumulative_energy": 0.9999955302864942
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 106,
+    "singular_value": 0.21558409929275513,
+    "cumulative_energy": 0.9999979602938454
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 107,
+    "singular_value": 0.19879472255706787,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 108,
+    "singular_value": 5.49021616472363e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 109,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 110,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 111,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 112,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 113,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 114,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 115,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 116,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 117,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 118,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 119,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 1,
+    "direction": "think_to_no_think",
+    "component_index": 120,
+    "singular_value": 1.1310676584241376e-14,
+    "cumulative_energy": 1.0000000265484796
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 1,
+    "singular_value": 123.58033752441406,
+    "cumulative_energy": 0.7988289694244414
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 2,
+    "singular_value": 35.62384796142578,
+    "cumulative_energy": 0.8652088906215393
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 3,
+    "singular_value": 24.39075469970703,
+    "cumulative_energy": 0.8963264516668179
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 4,
+    "singular_value": 21.35719871520996,
+    "cumulative_energy": 0.9201849794584895
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 5,
+    "singular_value": 17.52488899230957,
+    "cumulative_energy": 0.9362494201725254
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 6,
+    "singular_value": 16.46989631652832,
+    "cumulative_energy": 0.9504379296891282
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 7,
+    "singular_value": 14.497576713562012,
+    "cumulative_energy": 0.9614316806481645
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 8,
+    "singular_value": 13.493635177612305,
+    "cumulative_energy": 0.9709555400666723
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 9,
+    "singular_value": 10.677376747131348,
+    "cumulative_energy": 0.9769188060104018
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 10,
+    "singular_value": 9.282381057739258,
+    "cumulative_energy": 0.9814256636690845
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 11,
+    "singular_value": 9.05010986328125,
+    "cumulative_energy": 0.9857097948037753
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 12,
+    "singular_value": 8.484272956848145,
+    "cumulative_energy": 0.9894749624705215
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 13,
+    "singular_value": 5.724785804748535,
+    "cumulative_energy": 0.9911892101318903
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 14,
+    "singular_value": 4.478129863739014,
+    "cumulative_energy": 0.9922381448147947
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 15,
+    "singular_value": 3.7232472896575928,
+    "cumulative_energy": 0.9929632463659325
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 16,
+    "singular_value": 3.6486048698425293,
+    "cumulative_energy": 0.9936595661529514
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 17,
+    "singular_value": 3.41005539894104,
+    "cumulative_energy": 0.9942678102958288
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 18,
+    "singular_value": 2.8362956047058105,
+    "cumulative_energy": 0.9946885931605152
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 19,
+    "singular_value": 2.7070882320404053,
+    "cumulative_energy": 0.9950719117491043
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 20,
+    "singular_value": 2.6315536499023438,
+    "cumulative_energy": 0.9954341376597055
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 21,
+    "singular_value": 2.564018964767456,
+    "cumulative_energy": 0.9957780102335398
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 22,
+    "singular_value": 2.445560932159424,
+    "cumulative_energy": 0.9960908428513696
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 23,
+    "singular_value": 2.2859246730804443,
+    "cumulative_energy": 0.9963641675492738
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 24,
+    "singular_value": 2.269491672515869,
+    "cumulative_energy": 0.9966335766328861
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 25,
+    "singular_value": 1.9919525384902954,
+    "cumulative_energy": 0.9968411219986952
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 26,
+    "singular_value": 1.902486801147461,
+    "cumulative_energy": 0.9970304428139383
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 27,
+    "singular_value": 1.8837271928787231,
+    "cumulative_energy": 0.9972160484085618
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 28,
+    "singular_value": 1.7886587381362915,
+    "cumulative_energy": 0.9973833923643882
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 29,
+    "singular_value": 1.7427153587341309,
+    "cumulative_energy": 0.9975422499618285
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 30,
+    "singular_value": 1.708274245262146,
+    "cumulative_energy": 0.9976948906289811
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 31,
+    "singular_value": 1.651419758796692,
+    "cumulative_energy": 0.9978375400459911
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 32,
+    "singular_value": 1.5891348123550415,
+    "cumulative_energy": 0.9979696320499153
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 33,
+    "singular_value": 1.5529084205627441,
+    "cumulative_energy": 0.9980957702828819
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 34,
+    "singular_value": 1.5009537935256958,
+    "cumulative_energy": 0.9982136094567695
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 35,
+    "singular_value": 1.4195870161056519,
+    "cumulative_energy": 0.9983190187981579
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 36,
+    "singular_value": 1.3430622816085815,
+    "cumulative_energy": 0.9984133699854605
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 37,
+    "singular_value": 1.2546546459197998,
+    "cumulative_energy": 0.9984957085828612
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 38,
+    "singular_value": 1.2448010444641113,
+    "cumulative_energy": 0.9985767589441326
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 39,
+    "singular_value": 1.2280586957931519,
+    "cumulative_energy": 0.9986556437405638
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 40,
+    "singular_value": 1.206435203552246,
+    "cumulative_energy": 0.9987317750102114
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 41,
+    "singular_value": 1.1403868198394775,
+    "cumulative_energy": 0.9987997985855757
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 42,
+    "singular_value": 1.1245824098587036,
+    "cumulative_energy": 0.9988659497727036
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 43,
+    "singular_value": 1.0615192651748657,
+    "cumulative_energy": 0.9989248898679176
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 44,
+    "singular_value": 1.0528502464294434,
+    "cumulative_energy": 0.9989828712124104
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 45,
+    "singular_value": 1.030200719833374,
+    "cumulative_energy": 0.999038384730464
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 46,
+    "singular_value": 1.0145906209945679,
+    "cumulative_energy": 0.9990922286608229
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 47,
+    "singular_value": 0.9774115085601807,
+    "cumulative_energy": 0.999142198729209
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 48,
+    "singular_value": 0.9222981333732605,
+    "cumulative_energy": 0.9991866923474296
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 49,
+    "singular_value": 0.9049745202064514,
+    "cumulative_energy": 0.9992295302080996
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 50,
+    "singular_value": 0.8836233019828796,
+    "cumulative_energy": 0.9992703705514019
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 51,
+    "singular_value": 0.8687436580657959,
+    "cumulative_energy": 0.9993098470261443
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 52,
+    "singular_value": 0.8344129323959351,
+    "cumulative_energy": 0.9993462651123372
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 53,
+    "singular_value": 0.7994886040687561,
+    "cumulative_energy": 0.9993796984408435
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 54,
+    "singular_value": 0.7811979055404663,
+    "cumulative_energy": 0.999411619491748
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 55,
+    "singular_value": 0.7456726431846619,
+    "cumulative_energy": 0.9994407033148149
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 56,
+    "singular_value": 0.7223111391067505,
+    "cumulative_energy": 0.9994679933251905
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 57,
+    "singular_value": 0.7147136330604553,
+    "cumulative_energy": 0.999494712262236
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 58,
+    "singular_value": 0.7122595906257629,
+    "cumulative_energy": 0.9995212480309347
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 59,
+    "singular_value": 0.6808278560638428,
+    "cumulative_energy": 0.9995454934501686
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 60,
+    "singular_value": 0.6406474113464355,
+    "cumulative_energy": 0.9995669615311391
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 61,
+    "singular_value": 0.6301881670951843,
+    "cumulative_energy": 0.9995877343558718
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 62,
+    "singular_value": 0.6119115948677063,
+    "cumulative_energy": 0.9996073197554994
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 63,
+    "singular_value": 0.6027504205703735,
+    "cumulative_energy": 0.9996263231027951
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 64,
+    "singular_value": 0.5902517437934875,
+    "cumulative_energy": 0.9996445465122809
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 65,
+    "singular_value": 0.5837551355361938,
+    "cumulative_energy": 0.9996623709769861
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 66,
+    "singular_value": 0.5743806958198547,
+    "cumulative_energy": 0.9996796275562154
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 67,
+    "singular_value": 0.5630581378936768,
+    "cumulative_energy": 0.9996962104958218
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 68,
+    "singular_value": 0.5391424894332886,
+    "cumulative_energy": 0.9997114146470862
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 69,
+    "singular_value": 0.5311582088470459,
+    "cumulative_energy": 0.9997261718097202
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 70,
+    "singular_value": 0.5279127955436707,
+    "cumulative_energy": 0.9997407491882775
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 71,
+    "singular_value": 0.5113987326622009,
+    "cumulative_energy": 0.9997544288187084
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 72,
+    "singular_value": 0.48998385667800903,
+    "cumulative_energy": 0.9997669867647629
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 73,
+    "singular_value": 0.4800708591938019,
+    "cumulative_energy": 0.9997790417242897
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 74,
+    "singular_value": 0.46445587277412415,
+    "cumulative_energy": 0.9997903252277258
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 75,
+    "singular_value": 0.46142977476119995,
+    "cumulative_energy": 0.9998014621779343
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 76,
+    "singular_value": 0.45592230558395386,
+    "cumulative_energy": 0.9998123348612475
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 77,
+    "singular_value": 0.44703736901283264,
+    "cumulative_energy": 0.9998227879036682
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 78,
+    "singular_value": 0.4280756115913391,
+    "cumulative_energy": 0.9998323729899818
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 79,
+    "singular_value": 0.4236105680465698,
+    "cumulative_energy": 0.9998417591643128
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 80,
+    "singular_value": 0.4200087785720825,
+    "cumulative_energy": 0.9998509864034468
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 81,
+    "singular_value": 0.4087204039096832,
+    "cumulative_energy": 0.9998597243162819
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 82,
+    "singular_value": 0.40048158168792725,
+    "cumulative_energy": 0.9998681135090215
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 83,
+    "singular_value": 0.39313483238220215,
+    "cumulative_energy": 0.9998761977285373
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 84,
+    "singular_value": 0.3866420388221741,
+    "cumulative_energy": 0.9998840171246474
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 85,
+    "singular_value": 0.3826839029788971,
+    "cumulative_energy": 0.9998916772426126
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 86,
+    "singular_value": 0.3728944659233093,
+    "cumulative_energy": 0.9998989504665106
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 87,
+    "singular_value": 0.3677283227443695,
+    "cumulative_energy": 0.9999060235570644
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 88,
+    "singular_value": 0.36302366852760315,
+    "cumulative_energy": 0.9999129168214526
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 89,
+    "singular_value": 0.3586498200893402,
+    "cumulative_energy": 0.9999196449814827
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 90,
+    "singular_value": 0.35578829050064087,
+    "cumulative_energy": 0.9999262662065346
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 91,
+    "singular_value": 0.3520560562610626,
+    "cumulative_energy": 0.9999327492466714
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 92,
+    "singular_value": 0.3491708040237427,
+    "cumulative_energy": 0.9999391264593949
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 93,
+    "singular_value": 0.34543195366859436,
+    "cumulative_energy": 0.9999453678313287
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 94,
+    "singular_value": 0.33892959356307983,
+    "cumulative_energy": 0.9999513764415661
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 95,
+    "singular_value": 0.32610073685646057,
+    "cumulative_energy": 0.9999569387954442
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 96,
+    "singular_value": 0.3218628764152527,
+    "cumulative_energy": 0.9999623575169956
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 97,
+    "singular_value": 0.3056545555591583,
+    "cumulative_energy": 0.9999672442296834
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 98,
+    "singular_value": 0.3006381094455719,
+    "cumulative_energy": 0.9999719718559654
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 99,
+    "singular_value": 0.291439950466156,
+    "cumulative_energy": 0.9999764146197863
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 100,
+    "singular_value": 0.2865638732910156,
+    "cumulative_energy": 0.9999807099636571
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 101,
+    "singular_value": 0.2717956006526947,
+    "cumulative_energy": 0.9999845739884881
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 102,
+    "singular_value": 0.2623021900653839,
+    "cumulative_energy": 0.9999881727982515
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 103,
+    "singular_value": 0.25264328718185425,
+    "cumulative_energy": 0.9999915114459693
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 104,
+    "singular_value": 0.24857144057750702,
+    "cumulative_energy": 0.9999947433430433
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 105,
+    "singular_value": 0.23893941938877106,
+    "cumulative_energy": 0.999997729623924
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 106,
+    "singular_value": 0.20339623093605042,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 107,
+    "singular_value": 5.4880694444221084e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 108,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 109,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 110,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 111,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 112,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 113,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 114,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 115,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 116,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 117,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 118,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 119,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 2,
+    "direction": "think_to_no_think",
+    "component_index": 120,
+    "singular_value": 1.1307067376853126e-14,
+    "cumulative_energy": 0.9999998935422255
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 1,
+    "singular_value": 160.8306427001953,
+    "cumulative_energy": 0.7517870462562343
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 2,
+    "singular_value": 48.16730499267578,
+    "cumulative_energy": 0.8192184106465519
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 3,
+    "singular_value": 39.151268005371094,
+    "cumulative_energy": 0.8637685326363999
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 4,
+    "singular_value": 33.49612045288086,
+    "cumulative_energy": 0.8963781922285258
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 5,
+    "singular_value": 28.576181411743164,
+    "cumulative_energy": 0.9201119018438689
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 6,
+    "singular_value": 25.698610305786133,
+    "cumulative_energy": 0.9393063892253843
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 7,
+    "singular_value": 21.88706398010254,
+    "cumulative_energy": 0.9532293711420498
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 8,
+    "singular_value": 18.309246063232422,
+    "cumulative_energy": 0.9629724933541361
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 9,
+    "singular_value": 15.448318481445312,
+    "cumulative_energy": 0.969908662300993
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 10,
+    "singular_value": 14.821529388427734,
+    "cumulative_energy": 0.9762934031818403
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 11,
+    "singular_value": 14.532169342041016,
+    "cumulative_energy": 0.9824312795076072
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 12,
+    "singular_value": 13.145862579345703,
+    "cumulative_energy": 0.9874539584471016
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 13,
+    "singular_value": 8.26209831237793,
+    "cumulative_energy": 0.9894379414610512
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 14,
+    "singular_value": 7.091557025909424,
+    "cumulative_energy": 0.9908995814874374
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 15,
+    "singular_value": 6.159156799316406,
+    "cumulative_energy": 0.9920021351638221
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 16,
+    "singular_value": 4.7132344245910645,
+    "cumulative_energy": 0.9926477824285481
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 17,
+    "singular_value": 4.350069522857666,
+    "cumulative_energy": 0.9931977659030286
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 18,
+    "singular_value": 3.996539354324341,
+    "cumulative_energy": 0.9936619876000197
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 19,
+    "singular_value": 3.9360499382019043,
+    "cumulative_energy": 0.9941122632151559
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 20,
+    "singular_value": 3.823352575302124,
+    "cumulative_energy": 0.994537123299268
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 21,
+    "singular_value": 3.605907678604126,
+    "cumulative_energy": 0.9949150316086538
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 22,
+    "singular_value": 3.4247055053710938,
+    "cumulative_energy": 0.9952559133280738
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 23,
+    "singular_value": 3.225543975830078,
+    "cumulative_energy": 0.9955583003613822
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 24,
+    "singular_value": 3.1017982959747314,
+    "cumulative_energy": 0.995837930740285
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 25,
+    "singular_value": 3.0511608123779297,
+    "cumulative_energy": 0.996108505605248
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 26,
+    "singular_value": 2.9595839977264404,
+    "cumulative_energy": 0.9963630822523752
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 27,
+    "singular_value": 2.90220046043396,
+    "cumulative_energy": 0.9966078826142718
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 28,
+    "singular_value": 2.740980625152588,
+    "cumulative_energy": 0.9968262406426347
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 29,
+    "singular_value": 2.623725175857544,
+    "cumulative_energy": 0.9970263161536552
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 30,
+    "singular_value": 2.532902717590332,
+    "cumulative_energy": 0.997212779830667
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 31,
+    "singular_value": 2.408445119857788,
+    "cumulative_energy": 0.9973813694107706
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 32,
+    "singular_value": 2.3820719718933105,
+    "cumulative_energy": 0.9975462870042938
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 33,
+    "singular_value": 2.358227014541626,
+    "cumulative_energy": 0.9977079194118581
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 34,
+    "singular_value": 2.1612563133239746,
+    "cumulative_energy": 0.9978436787660436
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 35,
+    "singular_value": 2.1337099075317383,
+    "cumulative_energy": 0.9979759995306128
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 36,
+    "singular_value": 2.052884578704834,
+    "cumulative_energy": 0.9980984854840099
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 37,
+    "singular_value": 2.025991678237915,
+    "cumulative_energy": 0.998217783318863
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 38,
+    "singular_value": 1.9637655019760132,
+    "cumulative_energy": 0.9983298654788985
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 39,
+    "singular_value": 1.9107627868652344,
+    "cumulative_energy": 0.9984359790115369
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 40,
+    "singular_value": 1.8339505195617676,
+    "cumulative_energy": 0.9985337325437642
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 41,
+    "singular_value": 1.7944685220718384,
+    "cumulative_energy": 0.9986273224326985
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 42,
+    "singular_value": 1.6820632219314575,
+    "cumulative_energy": 0.9987095546233347
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 43,
+    "singular_value": 1.6345229148864746,
+    "cumulative_energy": 0.9987872042313733
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 44,
+    "singular_value": 1.5155658721923828,
+    "cumulative_energy": 0.9988539627756653
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 45,
+    "singular_value": 1.473436713218689,
+    "cumulative_energy": 0.9989170614460153
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 46,
+    "singular_value": 1.4508976936340332,
+    "cumulative_energy": 0.9989782444554516
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 47,
+    "singular_value": 1.396154522895813,
+    "cumulative_energy": 0.999034897625625
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 48,
+    "singular_value": 1.3545702695846558,
+    "cumulative_energy": 0.9990882262402994
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 49,
+    "singular_value": 1.3290151357650757,
+    "cumulative_energy": 0.9991395616572353
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 50,
+    "singular_value": 1.3168573379516602,
+    "cumulative_energy": 0.9991899621385416
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 51,
+    "singular_value": 1.2717750072479248,
+    "cumulative_energy": 0.9992369707900056
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 52,
+    "singular_value": 1.2470080852508545,
+    "cumulative_energy": 0.999282166349936
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 53,
+    "singular_value": 1.2049516439437866,
+    "cumulative_energy": 0.9993243647975162
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 54,
+    "singular_value": 1.1802033185958862,
+    "cumulative_energy": 0.9993648476298139
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 55,
+    "singular_value": 1.1304653882980347,
+    "cumulative_energy": 0.9994019901837425
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 56,
+    "singular_value": 1.0416804552078247,
+    "cumulative_energy": 0.999433527610697
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 57,
+    "singular_value": 1.0056366920471191,
+    "cumulative_energy": 0.9994629203106657
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 58,
+    "singular_value": 0.98445063829422,
+    "cumulative_energy": 0.9994910876038143
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 59,
+    "singular_value": 0.951405942440033,
+    "cumulative_energy": 0.999517395671036
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 60,
+    "singular_value": 0.930453360080719,
+    "cumulative_energy": 0.999542557746137
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 61,
+    "singular_value": 0.9186524152755737,
+    "cumulative_energy": 0.9995670856071537
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 62,
+    "singular_value": 0.8812304735183716,
+    "cumulative_energy": 0.9995896558513079
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 63,
+    "singular_value": 0.8724120855331421,
+    "cumulative_energy": 0.9996117766389607
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 64,
+    "singular_value": 0.8235803842544556,
+    "cumulative_energy": 0.9996314903878968
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 65,
+    "singular_value": 0.8195223808288574,
+    "cumulative_energy": 0.9996510103450094
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 66,
+    "singular_value": 0.7826711535453796,
+    "cumulative_energy": 0.9996688142762711
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 67,
+    "singular_value": 0.7689809799194336,
+    "cumulative_energy": 0.9996860008146329
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 68,
+    "singular_value": 0.7605421543121338,
+    "cumulative_energy": 0.9997028122128667
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 69,
+    "singular_value": 0.73890221118927,
+    "cumulative_energy": 0.9997186805403234
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 70,
+    "singular_value": 0.7126039266586304,
+    "cumulative_energy": 0.9997334394283875
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 71,
+    "singular_value": 0.6982901096343994,
+    "cumulative_energy": 0.9997476113593279
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 72,
+    "singular_value": 0.6802591681480408,
+    "cumulative_energy": 0.9997610608559152
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 73,
+    "singular_value": 0.6593402624130249,
+    "cumulative_energy": 0.9997736958901603
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 74,
+    "singular_value": 0.6513680815696716,
+    "cumulative_energy": 0.9997860272275372
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 75,
+    "singular_value": 0.6469002962112427,
+    "cumulative_energy": 0.9997981899814803
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 76,
+    "singular_value": 0.6216771602630615,
+    "cumulative_energy": 0.9998094227560664
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 77,
+    "singular_value": 0.6190096139907837,
+    "cumulative_energy": 0.9998205593406763
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 78,
+    "singular_value": 0.5967857837677002,
+    "cumulative_energy": 0.9998309106237055
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 79,
+    "singular_value": 0.5907156467437744,
+    "cumulative_energy": 0.9998410524033017
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 80,
+    "singular_value": 0.5688258409500122,
+    "cumulative_energy": 0.9998504564734888
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 81,
+    "singular_value": 0.5591349005699158,
+    "cumulative_energy": 0.9998595428441678
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 82,
+    "singular_value": 0.553787887096405,
+    "cumulative_energy": 0.9998684562598107
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 83,
+    "singular_value": 0.5500155687332153,
+    "cumulative_energy": 0.9998772486547415
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 84,
+    "singular_value": 0.5428484082221985,
+    "cumulative_energy": 0.9998858133980696
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 85,
+    "singular_value": 0.534637451171875,
+    "cumulative_energy": 0.9998941210059487
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 86,
+    "singular_value": 0.5244534611701965,
+    "cumulative_energy": 0.9999021151352069
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 87,
+    "singular_value": 0.5129901170730591,
+    "cumulative_energy": 0.9999097636168451
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 88,
+    "singular_value": 0.5087293982505798,
+    "cumulative_energy": 0.9999172855749399
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 89,
+    "singular_value": 0.5020859837532043,
+    "cumulative_energy": 0.9999246123596567
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 90,
+    "singular_value": 0.47173893451690674,
+    "cumulative_energy": 0.9999310802206615
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 91,
+    "singular_value": 0.4676397442817688,
+    "cumulative_energy": 0.999937436164489
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 92,
+    "singular_value": 0.46218225359916687,
+    "cumulative_energy": 0.9999436446228229
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 93,
+    "singular_value": 0.4509657323360443,
+    "cumulative_energy": 0.9999495553964328
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 94,
+    "singular_value": 0.4306148290634155,
+    "cumulative_energy": 0.9999549447315186
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 95,
+    "singular_value": 0.4184384047985077,
+    "cumulative_energy": 0.9999600335893211
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 96,
+    "singular_value": 0.4070223271846771,
+    "cumulative_energy": 0.9999648485606508
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 97,
+    "singular_value": 0.3990299105644226,
+    "cumulative_energy": 0.9999694762919306
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 98,
+    "singular_value": 0.3951782286167145,
+    "cumulative_energy": 0.9999740151151957
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 99,
+    "singular_value": 0.3790473937988281,
+    "cumulative_energy": 0.9999781909590443
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 100,
+    "singular_value": 0.36774784326553345,
+    "cumulative_energy": 0.9999821215470807
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 101,
+    "singular_value": 0.35476112365722656,
+    "cumulative_energy": 0.9999857794257805
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 102,
+    "singular_value": 0.34205305576324463,
+    "cumulative_energy": 0.9999891799366791
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 103,
+    "singular_value": 0.3381219804286957,
+    "cumulative_energy": 0.9999925027355684
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 104,
+    "singular_value": 0.3200538754463196,
+    "cumulative_energy": 0.9999954799041613
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 105,
+    "singular_value": 0.304294228553772,
+    "cumulative_energy": 0.9999981710961634
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 106,
+    "singular_value": 0.24829275906085968,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 107,
+    "singular_value": 7.142315303640748e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 108,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 109,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 110,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 111,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 112,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 113,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 114,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 115,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 116,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 117,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 118,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 119,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 0,
+    "direction": "no_think_to_think",
+    "component_index": 120,
+    "singular_value": 1.4623966236105082e-14,
+    "cumulative_energy": 0.9999999628788424
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 1,
+    "singular_value": 160.80264282226562,
+    "cumulative_energy": 0.7510860622418876
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 2,
+    "singular_value": 47.98501968383789,
+    "cumulative_energy": 0.8179688965298997
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 3,
+    "singular_value": 39.15565490722656,
+    "cumulative_energy": 0.8625029586097587
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 4,
+    "singular_value": 33.53408432006836,
+    "cumulative_energy": 0.8951674747576408
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 5,
+    "singular_value": 28.546398162841797,
+    "cumulative_energy": 0.9188378952467197
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 6,
+    "singular_value": 25.680952072143555,
+    "cumulative_energy": 0.9379948101077455
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 7,
+    "singular_value": 21.909076690673828,
+    "cumulative_energy": 0.9519376574970377
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 8,
+    "singular_value": 18.17203712463379,
+    "cumulative_energy": 0.961529688223519
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 9,
+    "singular_value": 15.320510864257812,
+    "cumulative_energy": 0.9683475755313499
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 10,
+    "singular_value": 14.984114646911621,
+    "cumulative_energy": 0.9748693461229901
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 11,
+    "singular_value": 14.68954849243164,
+    "cumulative_energy": 0.9811372197568244
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 12,
+    "singular_value": 13.297014236450195,
+    "cumulative_energy": 0.9862730612709643
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 13,
+    "singular_value": 8.308196067810059,
+    "cumulative_energy": 0.9882780725261625
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 14,
+    "singular_value": 7.341669082641602,
+    "cumulative_energy": 0.989843716248482
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 15,
+    "singular_value": 6.4832587242126465,
+    "cumulative_energy": 0.9910646441712239
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 16,
+    "singular_value": 6.132903099060059,
+    "cumulative_energy": 0.9921571795908248
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 17,
+    "singular_value": 4.61806583404541,
+    "cumulative_energy": 0.9927766542988989
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 18,
+    "singular_value": 4.426668643951416,
+    "cumulative_energy": 0.9933458444529996
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 19,
+    "singular_value": 3.93821120262146,
+    "cumulative_energy": 0.9937963512333946
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 20,
+    "singular_value": 3.8610947132110596,
+    "cumulative_energy": 0.9942293874756869
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 21,
+    "singular_value": 3.723644256591797,
+    "cumulative_energy": 0.9946321413152738
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 22,
+    "singular_value": 3.665149688720703,
+    "cumulative_energy": 0.9950223408588844
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 23,
+    "singular_value": 3.482053279876709,
+    "cumulative_energy": 0.9953745285309618
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 24,
+    "singular_value": 3.1797335147857666,
+    "cumulative_energy": 0.9956682155755383
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 25,
+    "singular_value": 3.1251487731933594,
+    "cumulative_energy": 0.9959519060321252
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 26,
+    "singular_value": 2.973825454711914,
+    "cumulative_energy": 0.9962087883815083
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 27,
+    "singular_value": 2.8248233795166016,
+    "cumulative_energy": 0.9964405737043188
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 28,
+    "singular_value": 2.7280566692352295,
+    "cumulative_energy": 0.9966567510138051
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 29,
+    "singular_value": 2.6037774085998535,
+    "cumulative_energy": 0.9968536806364597
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 30,
+    "singular_value": 2.5225908756256104,
+    "cumulative_energy": 0.9970385210714667
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 31,
+    "singular_value": 2.411071538925171,
+    "cumulative_energy": 0.9972073797997991
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 32,
+    "singular_value": 2.3906517028808594,
+    "cumulative_energy": 0.9973733904529324
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 33,
+    "singular_value": 2.31132173538208,
+    "cumulative_energy": 0.9975285663119793
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 34,
+    "singular_value": 2.2462658882141113,
+    "cumulative_energy": 0.9976751297581653
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 35,
+    "singular_value": 2.1064300537109375,
+    "cumulative_energy": 0.9978040132843963
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 36,
+    "singular_value": 2.084075689315796,
+    "cumulative_energy": 0.9979301757883969
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 37,
+    "singular_value": 2.011235475540161,
+    "cumulative_energy": 0.9980476734405811
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 38,
+    "singular_value": 1.930793285369873,
+    "cumulative_energy": 0.9981559600849313
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 39,
+    "singular_value": 1.9123989343643188,
+    "cumulative_energy": 0.9982621932995568
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 40,
+    "singular_value": 1.8478354215621948,
+    "cumulative_energy": 0.9983613746242537
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 41,
+    "singular_value": 1.7433134317398071,
+    "cumulative_energy": 0.998449652988377
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 42,
+    "singular_value": 1.6840898990631104,
+    "cumulative_energy": 0.9985320352803146
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 43,
+    "singular_value": 1.6638383865356445,
+    "cumulative_energy": 0.998612448161203
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 44,
+    "singular_value": 1.6244986057281494,
+    "cumulative_energy": 0.9986891034294111
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 45,
+    "singular_value": 1.567864179611206,
+    "cumulative_energy": 0.9987605070456269
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 46,
+    "singular_value": 1.5521931648254395,
+    "cumulative_energy": 0.9988304904193499
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 47,
+    "singular_value": 1.5018151998519897,
+    "cumulative_energy": 0.9988960047502499
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 48,
+    "singular_value": 1.4822834730148315,
+    "cumulative_energy": 0.9989598260826781
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 49,
+    "singular_value": 1.4514074325561523,
+    "cumulative_energy": 0.9990210163050477
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 50,
+    "singular_value": 1.378057837486267,
+    "cumulative_energy": 0.9990761780801102
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 51,
+    "singular_value": 1.3589533567428589,
+    "cumulative_energy": 0.9991298210022348
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 52,
+    "singular_value": 1.3183821439743042,
+    "cumulative_energy": 0.9991803087467735
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 53,
+    "singular_value": 1.2750680446624756,
+    "cumulative_energy": 0.9992275335375449
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 54,
+    "singular_value": 1.2579967975616455,
+    "cumulative_energy": 0.9992735022553512
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 55,
+    "singular_value": 1.21186363697052,
+    "cumulative_energy": 0.9993161612730942
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 56,
+    "singular_value": 1.1645745038986206,
+    "cumulative_energy": 0.9993555559831585
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 57,
+    "singular_value": 1.1230183839797974,
+    "cumulative_energy": 0.9993921893687604
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 58,
+    "singular_value": 1.1095848083496094,
+    "cumulative_energy": 0.9994279515765451
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 59,
+    "singular_value": 1.0750764608383179,
+    "cumulative_energy": 0.9994615239489142
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 60,
+    "singular_value": 1.0231287479400635,
+    "cumulative_energy": 0.9994919302708555
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 61,
+    "singular_value": 1.0036520957946777,
+    "cumulative_energy": 0.9995211899615665
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 62,
+    "singular_value": 0.9555312395095825,
+    "cumulative_energy": 0.9995477111573208
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 63,
+    "singular_value": 0.8991535902023315,
+    "cumulative_energy": 0.999571195104274
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 64,
+    "singular_value": 0.881996750831604,
+    "cumulative_energy": 0.9995937914031318
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 65,
+    "singular_value": 0.8406049609184265,
+    "cumulative_energy": 0.9996143165952397
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 66,
+    "singular_value": 0.8320945501327515,
+    "cumulative_energy": 0.9996344282903921
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 67,
+    "singular_value": 0.816074788570404,
+    "cumulative_energy": 0.9996537730467725
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 68,
+    "singular_value": 0.7871755361557007,
+    "cumulative_energy": 0.9996717719686434
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 69,
+    "singular_value": 0.783389151096344,
+    "cumulative_energy": 0.9996895981542951
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 70,
+    "singular_value": 0.760511040687561,
+    "cumulative_energy": 0.999706398352249
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 71,
+    "singular_value": 0.7436076402664185,
+    "cumulative_energy": 0.99972246003491
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 72,
+    "singular_value": 0.7034608125686646,
+    "cumulative_energy": 0.9997368342169834
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 73,
+    "singular_value": 0.685720682144165,
+    "cumulative_energy": 0.9997504925539861
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 74,
+    "singular_value": 0.6788588762283325,
+    "cumulative_energy": 0.999763878908921
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 75,
+    "singular_value": 0.6680161356925964,
+    "cumulative_energy": 0.9997768410645957
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 76,
+    "singular_value": 0.6593431830406189,
+    "cumulative_energy": 0.9997894688258383
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 77,
+    "singular_value": 0.6446580290794373,
+    "cumulative_energy": 0.9998015403503114
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 78,
+    "singular_value": 0.6310749650001526,
+    "cumulative_energy": 0.9998131085357771
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 79,
+    "singular_value": 0.6156405806541443,
+    "cumulative_energy": 0.9998241177879046
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 80,
+    "singular_value": 0.6115373373031616,
+    "cumulative_energy": 0.9998349807760669
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 81,
+    "singular_value": 0.5888934135437012,
+    "cumulative_energy": 0.9998450541907279
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 82,
+    "singular_value": 0.5799205899238586,
+    "cumulative_energy": 0.9998548229718993
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 83,
+    "singular_value": 0.5749097466468811,
+    "cumulative_energy": 0.9998644236672422
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 84,
+    "singular_value": 0.5649710893630981,
+    "cumulative_energy": 0.9998736952903051
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 85,
+    "singular_value": 0.5480238795280457,
+    "cumulative_energy": 0.9998824190216782
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 86,
+    "singular_value": 0.5366321206092834,
+    "cumulative_energy": 0.999890783842784
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 87,
+    "singular_value": 0.5286614298820496,
+    "cumulative_energy": 0.9998989020209113
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 88,
+    "singular_value": 0.518447995185852,
+    "cumulative_energy": 0.9999067095525903
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 89,
+    "singular_value": 0.5158925652503967,
+    "cumulative_energy": 0.9999144403069413
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 90,
+    "singular_value": 0.4952406585216522,
+    "cumulative_energy": 0.999921564503867
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 91,
+    "singular_value": 0.48366349935531616,
+    "cumulative_energy": 0.9999283595116472
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 92,
+    "singular_value": 0.47614195942878723,
+    "cumulative_energy": 0.9999349448220373
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 93,
+    "singular_value": 0.47295334935188293,
+    "cumulative_energy": 0.999941442227317
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 94,
+    "singular_value": 0.45185384154319763,
+    "cumulative_energy": 0.9999473728363584
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 95,
+    "singular_value": 0.44934943318367004,
+    "cumulative_energy": 0.9999532378863171
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 96,
+    "singular_value": 0.4379161596298218,
+    "cumulative_energy": 0.9999588082722994
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 97,
+    "singular_value": 0.4256121516227722,
+    "cumulative_energy": 0.9999640700362079
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 98,
+    "singular_value": 0.40489113330841064,
+    "cumulative_energy": 0.9999688319315884
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 99,
+    "singular_value": 0.4000783860683441,
+    "cumulative_energy": 0.9999734812952172
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 100,
+    "singular_value": 0.3757927119731903,
+    "cumulative_energy": 0.9999775833367684
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 101,
+    "singular_value": 0.36798256635665894,
+    "cumulative_energy": 0.9999815166436699
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 102,
+    "singular_value": 0.35734128952026367,
+    "cumulative_energy": 0.9999852257540386
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 103,
+    "singular_value": 0.34880366921424866,
+    "cumulative_energy": 0.9999887597449927
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 104,
+    "singular_value": 0.33981508016586304,
+    "cumulative_energy": 0.9999921139425517
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 105,
+    "singular_value": 0.3293248414993286,
+    "cumulative_energy": 0.9999952642455375
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 106,
+    "singular_value": 0.288313090801239,
+    "cumulative_energy": 0.9999976787724338
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 107,
+    "singular_value": 0.2760288119316101,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 108,
+    "singular_value": 7.141071859274178e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 109,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 110,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 111,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 112,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 113,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 114,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 115,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 116,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 117,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 118,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 119,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 1,
+    "direction": "no_think_to_think",
+    "component_index": 120,
+    "singular_value": 1.463812693291728e-14,
+    "cumulative_energy": 0.9999998919290569
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 1,
+    "singular_value": 160.7930908203125,
+    "cumulative_energy": 0.7512863989727878
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 2,
+    "singular_value": 48.11281204223633,
+    "cumulative_energy": 0.8185518811641134
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 3,
+    "singular_value": 39.073604583740234,
+    "cumulative_energy": 0.8629165983720066
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 4,
+    "singular_value": 33.452903747558594,
+    "cumulative_energy": 0.8954356907495962
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 5,
+    "singular_value": 28.533517837524414,
+    "cumulative_energy": 0.9190938737817065
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 6,
+    "singular_value": 25.626441955566406,
+    "cumulative_energy": 0.9381769063773289
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 7,
+    "singular_value": 21.899303436279297,
+    "cumulative_energy": 0.9521126892183012
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 8,
+    "singular_value": 18.125545501708984,
+    "cumulative_energy": 0.9616593817098085
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 9,
+    "singular_value": 15.355226516723633,
+    "cumulative_energy": 0.9685108429135513
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 10,
+    "singular_value": 14.737109184265137,
+    "cumulative_energy": 0.974821802016467
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 11,
+    "singular_value": 14.542472839355469,
+    "cumulative_energy": 0.9809671614964771
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 12,
+    "singular_value": 13.277912139892578,
+    "cumulative_energy": 0.98609023203281
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 13,
+    "singular_value": 8.267090797424316,
+    "cumulative_energy": 0.9880762179260089
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 14,
+    "singular_value": 7.315207481384277,
+    "cumulative_energy": 0.989631195241422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 15,
+    "singular_value": 6.637632846832275,
+    "cumulative_energy": 0.9909114524169655
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 16,
+    "singular_value": 6.046240329742432,
+    "cumulative_energy": 0.9919737386970091
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 17,
+    "singular_value": 4.740091800689697,
+    "cumulative_energy": 0.9926266350666529
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 18,
+    "singular_value": 4.429098606109619,
+    "cumulative_energy": 0.9931966699929334
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 19,
+    "singular_value": 4.027634620666504,
+    "cumulative_energy": 0.9936680496891042
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 20,
+    "singular_value": 3.9204962253570557,
+    "cumulative_energy": 0.9941146847828575
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 21,
+    "singular_value": 3.703190803527832,
+    "cumulative_energy": 0.9945131798397459
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 22,
+    "singular_value": 3.679896831512451,
+    "cumulative_energy": 0.9949066773911394
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 23,
+    "singular_value": 3.5586628913879395,
+    "cumulative_energy": 0.9952746745455577
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 24,
+    "singular_value": 3.2738330364227295,
+    "cumulative_energy": 0.9955861212905696
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 25,
+    "singular_value": 3.2341248989105225,
+    "cumulative_energy": 0.9958900588357461
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 26,
+    "singular_value": 3.039346933364868,
+    "cumulative_energy": 0.9961584890012917
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 27,
+    "singular_value": 2.9223005771636963,
+    "cumulative_energy": 0.9964066425731004
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 28,
+    "singular_value": 2.813222646713257,
+    "cumulative_energy": 0.9966366166988627
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 29,
+    "singular_value": 2.7468106746673584,
+    "cumulative_energy": 0.9968558609556368
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 30,
+    "singular_value": 2.6565401554107666,
+    "cumulative_energy": 0.9970609316188526
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 31,
+    "singular_value": 2.5722856521606445,
+    "cumulative_energy": 0.9972532005666195
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 32,
+    "singular_value": 2.4744722843170166,
+    "cumulative_energy": 0.9974311251444572
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 33,
+    "singular_value": 2.426116943359375,
+    "cumulative_energy": 0.9976021637834689
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 34,
+    "singular_value": 2.359801769256592,
+    "cumulative_energy": 0.9977639799164988
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 35,
+    "singular_value": 2.3229355812072754,
+    "cumulative_energy": 0.9979207795750398
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 36,
+    "singular_value": 2.165415048599243,
+    "cumulative_energy": 0.9980570347738156
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 37,
+    "singular_value": 2.0531930923461914,
+    "cumulative_energy": 0.9981795331565144
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 38,
+    "singular_value": 1.9760870933532715,
+    "cumulative_energy": 0.9982930036420858
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 39,
+    "singular_value": 1.8521467447280884,
+    "cumulative_energy": 0.9983926867450348
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 40,
+    "singular_value": 1.7867088317871094,
+    "cumulative_energy": 0.9984854505021126
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 41,
+    "singular_value": 1.7081754207611084,
+    "cumulative_energy": 0.9985702387601902
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 42,
+    "singular_value": 1.683127760887146,
+    "cumulative_energy": 0.998652558679649
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 43,
+    "singular_value": 1.6094889640808105,
+    "cumulative_energy": 0.9987278329895708
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 44,
+    "singular_value": 1.5628563165664673,
+    "cumulative_energy": 0.9987988085568684
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 45,
+    "singular_value": 1.5183528661727905,
+    "cumulative_energy": 0.9988657995130714
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 46,
+    "singular_value": 1.4588043689727783,
+    "cumulative_energy": 0.998927638856291
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 47,
+    "singular_value": 1.4224534034729004,
+    "cumulative_energy": 0.9989864347290284
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 48,
+    "singular_value": 1.3938390016555786,
+    "cumulative_energy": 0.9990428888939991
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 49,
+    "singular_value": 1.3821159601211548,
+    "cumulative_energy": 0.9990983974255184
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 50,
+    "singular_value": 1.3015373945236206,
+    "cumulative_energy": 0.9991476222387405
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 51,
+    "singular_value": 1.2546228170394897,
+    "cumulative_energy": 0.9991933623410634
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 52,
+    "singular_value": 1.2321075201034546,
+    "cumulative_energy": 0.9992374754814958
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 53,
+    "singular_value": 1.182409405708313,
+    "cumulative_energy": 0.9992781017113739
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 54,
+    "singular_value": 1.1678916215896606,
+    "cumulative_energy": 0.9993177364371982
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 55,
+    "singular_value": 1.1422699689865112,
+    "cumulative_energy": 0.9993556511955584
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 56,
+    "singular_value": 1.1005114316940308,
+    "cumulative_energy": 0.9993908444852281
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 57,
+    "singular_value": 1.069454312324524,
+    "cumulative_energy": 0.9994240794514235
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 58,
+    "singular_value": 1.0429587364196777,
+    "cumulative_energy": 0.9994556880342205
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 59,
+    "singular_value": 1.0372447967529297,
+    "cumulative_energy": 0.9994869512226734
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 60,
+    "singular_value": 0.9934574961662292,
+    "cumulative_energy": 0.9995156305750276
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 61,
+    "singular_value": 0.9395087957382202,
+    "cumulative_energy": 0.9995412796946663
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 62,
+    "singular_value": 0.9229153394699097,
+    "cumulative_energy": 0.9995660307938602
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 63,
+    "singular_value": 0.9037155508995056,
+    "cumulative_energy": 0.9995897627893912
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 64,
+    "singular_value": 0.8824812173843384,
+    "cumulative_energy": 0.9996123926399498
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 65,
+    "singular_value": 0.8311312794685364,
+    "cumulative_energy": 0.9996324655352339
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 66,
+    "singular_value": 0.8119680881500244,
+    "cumulative_energy": 0.999651623469265
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 67,
+    "singular_value": 0.8096147179603577,
+    "cumulative_energy": 0.9996706705112358
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 68,
+    "singular_value": 0.7969198226928711,
+    "cumulative_energy": 0.9996891249158995
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 69,
+    "singular_value": 0.7485741376876831,
+    "cumulative_energy": 0.9997054081397575
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 70,
+    "singular_value": 0.7416877746582031,
+    "cumulative_energy": 0.999721393152739
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 71,
+    "singular_value": 0.7326943278312683,
+    "cumulative_energy": 0.9997369928588948
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 72,
+    "singular_value": 0.7152891159057617,
+    "cumulative_energy": 0.9997518602236658
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 73,
+    "singular_value": 0.681501567363739,
+    "cumulative_energy": 0.9997653562056824
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 74,
+    "singular_value": 0.6645994186401367,
+    "cumulative_energy": 0.9997781910519203
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 75,
+    "singular_value": 0.6570948958396912,
+    "cumulative_energy": 0.9997907376775262
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 76,
+    "singular_value": 0.6512219309806824,
+    "cumulative_energy": 0.9998030610277493
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 77,
+    "singular_value": 0.6162952184677124,
+    "cumulative_energy": 0.9998140979599267
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 78,
+    "singular_value": 0.6033994555473328,
+    "cumulative_energy": 0.9998246778358204
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 79,
+    "singular_value": 0.5919745564460754,
+    "cumulative_energy": 0.9998348608618954
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 80,
+    "singular_value": 0.5855202674865723,
+    "cumulative_energy": 0.9998448230477963
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 81,
+    "singular_value": 0.584494948387146,
+    "cumulative_energy": 0.9998547503734942
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 82,
+    "singular_value": 0.5751151442527771,
+    "cumulative_energy": 0.9998643616347372
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 83,
+    "singular_value": 0.5595495700836182,
+    "cumulative_energy": 0.9998734596757475
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 84,
+    "singular_value": 0.5494446754455566,
+    "cumulative_energy": 0.9998822320812053
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 85,
+    "singular_value": 0.5356528162956238,
+    "cumulative_energy": 0.9998905696139876
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 86,
+    "singular_value": 0.5202537178993225,
+    "cumulative_energy": 0.9998984346573944
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 87,
+    "singular_value": 0.5107728242874146,
+    "cumulative_energy": 0.9999060156543178
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 88,
+    "singular_value": 0.5066592693328857,
+    "cumulative_energy": 0.9999134750345635
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 89,
+    "singular_value": 0.49405771493911743,
+    "cumulative_energy": 0.9999205679721908
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 90,
+    "singular_value": 0.4826153516769409,
+    "cumulative_energy": 0.9999273361697156
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 91,
+    "singular_value": 0.4724448025226593,
+    "cumulative_energy": 0.9999338221094923
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 92,
+    "singular_value": 0.457203209400177,
+    "cumulative_energy": 0.9999398963123751
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 93,
+    "singular_value": 0.44951534271240234,
+    "cumulative_energy": 0.9999457679573353
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 94,
+    "singular_value": 0.44662344455718994,
+    "cumulative_energy": 0.999951564296584
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 95,
+    "singular_value": 0.44183531403541565,
+    "cumulative_energy": 0.9999572370199803
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 96,
+    "singular_value": 0.43798989057540894,
+    "cumulative_energy": 0.9999628114304856
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 97,
+    "singular_value": 0.41385185718536377,
+    "cumulative_energy": 0.9999677883497204
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 98,
+    "singular_value": 0.4023657441139221,
+    "cumulative_energy": 0.9999724928421065
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 99,
+    "singular_value": 0.3786906898021698,
+    "cumulative_energy": 0.9999766600007576
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 100,
+    "singular_value": 0.37375766038894653,
+    "cumulative_energy": 0.9999807192992352
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 101,
+    "singular_value": 0.36350223422050476,
+    "cumulative_energy": 0.9999845588898415
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 102,
+    "singular_value": 0.3533462584018707,
+    "cumulative_energy": 0.9999881869273214
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 103,
+    "singular_value": 0.34143489599227905,
+    "cumulative_energy": 0.9999915744840455
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 104,
+    "singular_value": 0.3336370289325714,
+    "cumulative_energy": 0.9999948090740274
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 105,
+    "singular_value": 0.3207153081893921,
+    "cumulative_energy": 0.9999977979655679
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 106,
+    "singular_value": 0.27197685837745667,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 107,
+    "singular_value": 7.140647665174193e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 108,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 109,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 110,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 111,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 112,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 113,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 114,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 115,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 116,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 117,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 118,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 119,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  },
+  {
+    "fold": 2,
+    "direction": "no_think_to_think",
+    "component_index": 120,
+    "singular_value": 1.463715792722562e-14,
+    "cumulative_energy": 0.9999999474518422
+  }
+]

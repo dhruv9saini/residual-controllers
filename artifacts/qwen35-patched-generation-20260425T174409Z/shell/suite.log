@@ -1,0 +1,13 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 64927.31it/s]
+2026-04-25T17:44:21.753068+00:00 generation prompt 1/12 gsm8k_0
+2026-04-25T17:46:39.882012+00:00 generation prompt 2/12 gsm8k_1
+2026-04-25T17:48:41.367964+00:00 generation prompt 3/12 gsm8k_2
+2026-04-25T17:51:59.523130+00:00 generation prompt 4/12 gsm8k_3
+2026-04-25T17:54:25.696280+00:00 generation prompt 5/12 gsm8k_4
+2026-04-25T17:57:47.317447+00:00 generation prompt 6/12 gsm8k_5
+2026-04-25T18:01:09.487126+00:00 generation prompt 7/12 math500_numeric_2
+2026-04-25T18:04:29.722579+00:00 generation prompt 8/12 math500_numeric_3
+2026-04-25T18:08:02.870114+00:00 generation prompt 9/12 math500_numeric_5
+2026-04-25T18:11:22.552666+00:00 generation prompt 10/12 math500_numeric_6
+2026-04-25T18:14:59.464369+00:00 generation prompt 11/12 math500_numeric_9
+2026-04-25T18:19:37.558304+00:00 generation prompt 12/12 math500_numeric_10

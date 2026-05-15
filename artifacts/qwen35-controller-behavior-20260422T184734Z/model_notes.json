@@ -1,0 +1,43 @@
+[
+  {
+    "model_label": "qwen35_4b",
+    "model": "mlx-community/Qwen3.5-4B-4bit",
+    "num_layers": 32,
+    "block_patch_layers": [
+      0,
+      4,
+      8,
+      12,
+      16,
+      20,
+      24,
+      28,
+      32
+    ],
+    "module_patch_layers": [
+      16,
+      20,
+      24,
+      28,
+      31
+    ]
+  },
+  {
+    "model_label": "qwen35_2b",
+    "model": "mlx-community/Qwen3.5-2B-4bit",
+    "num_layers": 24,
+    "block_patch_layers": [
+      0,
+      4,
+      8,
+      12,
+      16,
+      20,
+      24
+    ],
+    "module_patch_layers": [
+      16,
+      20
+    ]
+  }
+]

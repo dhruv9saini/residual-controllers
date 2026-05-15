@@ -1,0 +1,14 @@
+[
+  {
+    "mode": "no_think",
+    "count": 12,
+    "base_accuracy_rate": 0.0,
+    "adapter_accuracy_rate": 0.08333333333333333
+  },
+  {
+    "mode": "think",
+    "count": 12,
+    "base_accuracy_rate": 0.0,
+    "adapter_accuracy_rate": 0.0
+  }
+]

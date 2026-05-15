@@ -1,0 +1,24 @@
+{
+  "created_utc": "2026-05-07T00:29:12.941655+00:00",
+  "model_id": "mlx-community/Qwen3.5-4B-4bit",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python": "3.12.13 (main, Mar 10 2026, 18:18:07) [Clang 21.1.4 ]",
+  "patch_width": 2,
+  "layer_by_direction": {
+    "think_to_no_think": 15,
+    "no_think_to_think": 19
+  },
+  "alpha_grid": [
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "random_seeds": [
+    17,
+    31,
+    43
+  ],
+  "prompts_per_category": 4
+}

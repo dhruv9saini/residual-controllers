@@ -1,0 +1,541 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 41817.59it/s]
+2026-04-25T17:22:51.946212+00:00 cache 1/180 eq_2_9_21
+2026-04-25T17:22:52.189713+00:00 cache 2/180 eq_3_7_25
+2026-04-25T17:22:52.387793+00:00 cache 3/180 eq_4_3_35
+2026-04-25T17:22:52.585606+00:00 cache 4/180 eq_5_-4_31
+2026-04-25T17:22:52.783361+00:00 cache 5/180 eq_6_-1_23
+2026-04-25T17:22:52.981017+00:00 cache 6/180 eq_7_5_54
+2026-04-25T17:22:53.177838+00:00 cache 7/180 extra_algebra_00
+2026-04-25T17:22:53.375950+00:00 cache 8/180 extra_algebra_01
+2026-04-25T17:22:53.573517+00:00 cache 9/180 extra_algebra_02
+2026-04-25T17:22:53.771072+00:00 cache 10/180 extra_algebra_03
+2026-04-25T17:22:53.968193+00:00 cache 11/180 extra_algebra_04
+2026-04-25T17:22:54.165904+00:00 cache 12/180 extra_algebra_05
+2026-04-25T17:22:54.362802+00:00 cache 13/180 extra_algebra_06
+2026-04-25T17:22:54.560022+00:00 cache 14/180 extra_algebra_07
+2026-04-25T17:22:54.758193+00:00 cache 15/180 extra_algebra_08
+2026-04-25T17:22:54.955948+00:00 cache 16/180 extra_algebra_09
+2026-04-25T17:22:55.153663+00:00 cache 17/180 extra_algebra_10
+2026-04-25T17:22:55.351568+00:00 cache 18/180 extra_algebra_11
+2026-04-25T17:22:55.549001+00:00 cache 19/180 extra_arithmetic_00
+2026-04-25T17:22:55.744823+00:00 cache 20/180 extra_arithmetic_01
+2026-04-25T17:22:55.941226+00:00 cache 21/180 extra_arithmetic_02
+2026-04-25T17:22:56.136928+00:00 cache 22/180 extra_arithmetic_03
+2026-04-25T17:22:56.331992+00:00 cache 23/180 extra_arithmetic_04
+2026-04-25T17:22:56.527867+00:00 cache 24/180 extra_arithmetic_05
+2026-04-25T17:22:56.722794+00:00 cache 25/180 extra_arithmetic_06
+2026-04-25T17:22:56.918085+00:00 cache 26/180 extra_arithmetic_07
+2026-04-25T17:22:57.114221+00:00 cache 27/180 extra_arithmetic_08
+2026-04-25T17:22:57.310525+00:00 cache 28/180 extra_arithmetic_09
+2026-04-25T17:22:57.506353+00:00 cache 29/180 extra_arithmetic_10
+2026-04-25T17:22:57.701944+00:00 cache 30/180 extra_arithmetic_11
+2026-04-25T17:22:57.897997+00:00 cache 31/180 mul_124_125
+2026-04-25T17:22:58.096915+00:00 cache 32/180 mul_126_94
+2026-04-25T17:22:58.295069+00:00 cache 33/180 mul_317_248
+2026-04-25T17:22:58.494085+00:00 cache 34/180 mul_438_57
+2026-04-25T17:22:58.692379+00:00 cache 35/180 mul_808_19
+2026-04-25T17:22:58.890422+00:00 cache 36/180 mul_999_37
+2026-04-25T17:22:59.088695+00:00 cache 37/180 calendar_friday_july_1
+2026-04-25T17:22:59.427841+00:00 cache 38/180 calendar_monday_march_1
+2026-04-25T17:22:59.766749+00:00 cache 39/180 calendar_saturday_august_1
+2026-04-25T17:23:00.105930+00:00 cache 40/180 calendar_thursday_june_1
+2026-04-25T17:23:00.444761+00:00 cache 41/180 calendar_tuesday_april_1
+2026-04-25T17:23:00.784047+00:00 cache 42/180 calendar_wednesday_may_1
+2026-04-25T17:23:01.122880+00:00 cache 43/180 extra_calendar_00
+2026-04-25T17:23:01.461740+00:00 cache 44/180 extra_calendar_01
+2026-04-25T17:23:01.800637+00:00 cache 45/180 extra_calendar_02
+2026-04-25T17:23:02.139356+00:00 cache 46/180 extra_calendar_03
+2026-04-25T17:23:02.478707+00:00 cache 47/180 extra_calendar_04
+2026-04-25T17:23:02.817554+00:00 cache 48/180 extra_calendar_05
+2026-04-25T17:23:03.157083+00:00 cache 49/180 extra_calendar_06
+2026-04-25T17:23:03.496375+00:00 cache 50/180 extra_calendar_07
+2026-04-25T17:23:03.835644+00:00 cache 51/180 extra_calendar_08
+2026-04-25T17:23:04.174634+00:00 cache 52/180 extra_calendar_09
+2026-04-25T17:23:04.514374+00:00 cache 53/180 extra_calendar_10
+2026-04-25T17:23:04.854484+00:00 cache 54/180 extra_calendar_11
+2026-04-25T17:23:05.195271+00:00 cache 55/180 code_bug_1
+2026-04-25T17:23:05.538398+00:00 cache 56/180 code_bug_2
+2026-04-25T17:23:05.737988+00:00 cache 57/180 code_bug_3
+2026-04-25T17:23:05.934465+00:00 cache 58/180 code_bug_4
+2026-04-25T17:23:06.204051+00:00 cache 59/180 code_bug_5
+2026-04-25T17:23:06.403190+00:00 cache 60/180 code_bug_6
+2026-04-25T17:23:06.671192+00:00 cache 61/180 extra_coding_00
+2026-04-25T17:23:06.871874+00:00 cache 62/180 extra_coding_01
+2026-04-25T17:23:07.209575+00:00 cache 63/180 extra_coding_02
+2026-04-25T17:23:07.409050+00:00 cache 64/180 extra_coding_03
+2026-04-25T17:23:07.608222+00:00 cache 65/180 extra_coding_04
+2026-04-25T17:23:07.808134+00:00 cache 66/180 extra_coding_05
+2026-04-25T17:23:08.146225+00:00 cache 67/180 extra_coding_06
+2026-04-25T17:23:08.345988+00:00 cache 68/180 extra_coding_07
+2026-04-25T17:23:08.544625+00:00 cache 69/180 extra_coding_08
+2026-04-25T17:23:08.744594+00:00 cache 70/180 extra_coding_09
+2026-04-25T17:23:09.082952+00:00 cache 71/180 extra_coding_10
+2026-04-25T17:23:09.282341+00:00 cache 72/180 extra_coding_11
+2026-04-25T17:23:09.481894+00:00 cache 73/180 count_balloon_l
+2026-04-25T17:23:09.676311+00:00 cache 74/180 count_bookkeeper_e
+2026-04-25T17:23:09.871417+00:00 cache 75/180 count_committee_m
+2026-04-25T17:23:10.066691+00:00 cache 76/180 count_mississippi_s
+2026-04-25T17:23:10.262303+00:00 cache 77/180 count_programming_g
+2026-04-25T17:23:10.457203+00:00 cache 78/180 count_strawberries_r
+2026-04-25T17:23:10.652038+00:00 cache 79/180 extra_counting_00
+2026-04-25T17:23:10.852468+00:00 cache 80/180 extra_counting_01
+2026-04-25T17:23:11.052849+00:00 cache 81/180 extra_counting_02
+2026-04-25T17:23:11.252297+00:00 cache 82/180 extra_counting_03
+2026-04-25T17:23:11.452495+00:00 cache 83/180 extra_counting_04
+2026-04-25T17:23:11.653063+00:00 cache 84/180 extra_counting_05
+2026-04-25T17:23:11.853893+00:00 cache 85/180 extra_counting_06
+2026-04-25T17:23:12.053168+00:00 cache 86/180 extra_counting_07
+2026-04-25T17:23:12.253240+00:00 cache 87/180 extra_counting_08
+2026-04-25T17:23:12.453354+00:00 cache 88/180 extra_counting_09
+2026-04-25T17:23:12.653629+00:00 cache 89/180 extra_counting_10
+2026-04-25T17:23:12.853569+00:00 cache 90/180 extra_counting_11
+2026-04-25T17:23:13.053287+00:00 cache 91/180 coin_10
+2026-04-25T17:23:13.393835+00:00 cache 92/180 coin_11
+2026-04-25T17:23:13.734360+00:00 cache 93/180 coin_6
+2026-04-25T17:23:14.075133+00:00 cache 94/180 coin_7
+2026-04-25T17:23:14.415928+00:00 cache 95/180 coin_8
+2026-04-25T17:23:14.757005+00:00 cache 96/180 coin_9
+2026-04-25T17:23:15.096747+00:00 cache 97/180 extra_dynamic_programming_00
+2026-04-25T17:23:15.437821+00:00 cache 98/180 extra_dynamic_programming_01
+2026-04-25T17:23:15.777632+00:00 cache 99/180 extra_dynamic_programming_02
+2026-04-25T17:23:16.119133+00:00 cache 100/180 extra_dynamic_programming_03
+2026-04-25T17:23:16.459363+00:00 cache 101/180 extra_dynamic_programming_04
+2026-04-25T17:23:16.800544+00:00 cache 102/180 extra_dynamic_programming_05
+2026-04-25T17:23:17.140950+00:00 cache 103/180 extra_dynamic_programming_06
+2026-04-25T17:23:17.481276+00:00 cache 104/180 extra_dynamic_programming_07
+2026-04-25T17:23:17.822144+00:00 cache 105/180 extra_dynamic_programming_08
+2026-04-25T17:23:18.162721+00:00 cache 106/180 extra_dynamic_programming_09
+2026-04-25T17:23:18.503099+00:00 cache 107/180 extra_dynamic_programming_10
+2026-04-25T17:23:18.844307+00:00 cache 108/180 extra_dynamic_programming_11
+2026-04-25T17:23:19.184037+00:00 cache 109/180 extra_language_00
+2026-04-25T17:23:19.383310+00:00 cache 110/180 extra_language_01
+2026-04-25T17:23:19.580774+00:00 cache 111/180 extra_language_02
+2026-04-25T17:23:19.779376+00:00 cache 112/180 extra_language_03
+2026-04-25T17:23:19.977362+00:00 cache 113/180 extra_language_04
+2026-04-25T17:23:20.178252+00:00 cache 114/180 extra_language_05
+2026-04-25T17:23:20.375954+00:00 cache 115/180 extra_language_06
+2026-04-25T17:23:20.574609+00:00 cache 116/180 extra_language_07
+2026-04-25T17:23:20.771856+00:00 cache 117/180 extra_language_08
+2026-04-25T17:23:20.971875+00:00 cache 118/180 extra_language_09
+2026-04-25T17:23:21.169104+00:00 cache 119/180 extra_language_10
+2026-04-25T17:23:21.367777+00:00 cache 120/180 extra_language_11
+2026-04-25T17:23:21.565344+00:00 cache 121/180 sort_1
+2026-04-25T17:23:21.764033+00:00 cache 122/180 sort_2
+2026-04-25T17:23:21.963585+00:00 cache 123/180 sort_3
+2026-04-25T17:23:22.161194+00:00 cache 124/180 sort_4
+2026-04-25T17:23:22.359559+00:00 cache 125/180 sort_5
+2026-04-25T17:23:22.556905+00:00 cache 126/180 sort_6
+2026-04-25T17:23:22.755979+00:00 cache 127/180 ages_Ava_Ben_Cara_Dan
+2026-04-25T17:23:23.095605+00:00 cache 128/180 ages_Iris_Jules_Kai_Lena
+2026-04-25T17:23:23.435883+00:00 cache 129/180 ages_Mina_Nora_Owen_Pia
+2026-04-25T17:23:23.775427+00:00 cache 130/180 ages_Quin_Ruth_Seth_Tara
+2026-04-25T17:23:24.115833+00:00 cache 131/180 ages_Uma_Vera_Wade_Xena
+2026-04-25T17:23:24.456489+00:00 cache 132/180 ages_Yara_Zane_Arlo_Bree
+2026-04-25T17:23:24.798717+00:00 cache 133/180 extra_logic_ordering_00
+2026-04-25T17:23:25.143947+00:00 cache 134/180 extra_logic_ordering_01
+2026-04-25T17:23:25.489024+00:00 cache 135/180 extra_logic_ordering_02
+2026-04-25T17:23:25.834250+00:00 cache 136/180 extra_logic_ordering_03
+2026-04-25T17:23:26.179818+00:00 cache 137/180 extra_logic_ordering_04
+2026-04-25T17:23:26.525359+00:00 cache 138/180 extra_logic_ordering_05
+2026-04-25T17:23:26.870520+00:00 cache 139/180 extra_logic_ordering_06
+2026-04-25T17:23:27.215982+00:00 cache 140/180 extra_logic_ordering_07
+2026-04-25T17:23:27.561413+00:00 cache 141/180 extra_logic_ordering_08
+2026-04-25T17:23:27.906805+00:00 cache 142/180 extra_logic_ordering_09
+2026-04-25T17:23:28.252582+00:00 cache 143/180 extra_logic_ordering_10
+2026-04-25T17:23:28.602185+00:00 cache 144/180 extra_logic_ordering_11
+2026-04-25T17:23:28.951435+00:00 cache 145/180 extra_planning_00
+2026-04-25T17:23:29.296845+00:00 cache 146/180 extra_planning_01
+2026-04-25T17:23:29.642512+00:00 cache 147/180 extra_planning_02
+2026-04-25T17:23:29.987766+00:00 cache 148/180 extra_planning_03
+2026-04-25T17:23:30.333240+00:00 cache 149/180 extra_planning_04
+2026-04-25T17:23:30.678648+00:00 cache 150/180 extra_planning_05
+2026-04-25T17:23:31.023958+00:00 cache 151/180 extra_planning_06
+2026-04-25T17:23:31.369112+00:00 cache 152/180 extra_planning_07
+2026-04-25T17:23:31.714562+00:00 cache 153/180 extra_planning_08
+2026-04-25T17:23:32.059654+00:00 cache 154/180 extra_planning_09
+2026-04-25T17:23:32.404548+00:00 cache 155/180 extra_planning_10
+2026-04-25T17:23:32.751695+00:00 cache 156/180 extra_planning_11
+2026-04-25T17:23:33.098906+00:00 cache 157/180 trip_bank
+2026-04-25T17:23:33.451138+00:00 cache 158/180 trip_city_hall
+2026-04-25T17:23:33.801962+00:00 cache 159/180 trip_dentist
+2026-04-25T17:23:34.154876+00:00 cache 160/180 trip_doctor
+2026-04-25T17:23:34.505946+00:00 cache 161/180 trip_pharmacy
+2026-04-25T17:23:34.856719+00:00 cache 162/180 trip_tailor
+2026-04-25T17:23:35.206848+00:00 cache 163/180 extra_probability_00
+2026-04-25T17:23:35.407000+00:00 cache 164/180 extra_probability_01
+2026-04-25T17:23:35.607546+00:00 cache 165/180 extra_probability_02
+2026-04-25T17:23:35.807765+00:00 cache 166/180 extra_probability_03
+2026-04-25T17:23:36.008606+00:00 cache 167/180 extra_probability_04
+2026-04-25T17:23:36.208976+00:00 cache 168/180 extra_probability_05
+2026-04-25T17:23:36.409581+00:00 cache 169/180 extra_probability_06
+2026-04-25T17:23:36.610470+00:00 cache 170/180 extra_probability_07
+2026-04-25T17:23:36.811151+00:00 cache 171/180 extra_probability_08
+2026-04-25T17:23:37.011803+00:00 cache 172/180 extra_probability_09
+2026-04-25T17:23:37.212272+00:00 cache 173/180 extra_probability_10
+2026-04-25T17:23:37.412370+00:00 cache 174/180 extra_probability_11
+2026-04-25T17:23:37.612593+00:00 cache 175/180 heads_exact2_3
+2026-04-25T17:23:37.813980+00:00 cache 176/180 heads_exact2_4
+2026-04-25T17:23:38.014702+00:00 cache 177/180 heads_exact2_5
+2026-04-25T17:23:38.215909+00:00 cache 178/180 heads_exact2_6
+2026-04-25T17:23:38.416820+00:00 cache 179/180 heads_exact2_7
+2026-04-25T17:23:38.618006+00:00 cache 180/180 heads_exact2_8
+2026-04-25T17:23:38.978263+00:00 eval fold 0 think_to_no_think eq_2_9_21
+2026-04-25T17:23:41.490327+00:00 eval fold 0 think_to_no_think eq_5_-4_31
+2026-04-25T17:23:44.014842+00:00 eval fold 0 think_to_no_think extra_algebra_00
+2026-04-25T17:23:46.516341+00:00 eval fold 0 think_to_no_think extra_algebra_03
+2026-04-25T17:23:49.015162+00:00 eval fold 0 think_to_no_think extra_algebra_06
+2026-04-25T17:23:51.521960+00:00 eval fold 0 think_to_no_think extra_algebra_09
+2026-04-25T17:23:54.029343+00:00 eval fold 0 think_to_no_think extra_arithmetic_00
+2026-04-25T17:23:56.507700+00:00 eval fold 0 think_to_no_think extra_arithmetic_03
+2026-04-25T17:23:58.970514+00:00 eval fold 0 think_to_no_think extra_arithmetic_06
+2026-04-25T17:24:01.431845+00:00 eval fold 0 think_to_no_think extra_arithmetic_09
+2026-04-25T17:24:03.904042+00:00 eval fold 0 think_to_no_think mul_124_125
+2026-04-25T17:24:06.366006+00:00 eval fold 0 think_to_no_think mul_438_57
+2026-04-25T17:24:08.834808+00:00 eval fold 0 think_to_no_think calendar_friday_july_1
+2026-04-25T17:24:11.620048+00:00 eval fold 0 think_to_no_think calendar_thursday_june_1
+2026-04-25T17:24:14.437912+00:00 eval fold 0 think_to_no_think extra_calendar_00
+2026-04-25T17:24:17.231940+00:00 eval fold 0 think_to_no_think extra_calendar_03
+2026-04-25T17:24:20.017654+00:00 eval fold 0 think_to_no_think extra_calendar_06
+2026-04-25T17:24:22.815249+00:00 eval fold 0 think_to_no_think extra_calendar_09
+2026-04-25T17:24:25.595263+00:00 eval fold 0 think_to_no_think code_bug_1
+2026-04-25T17:24:28.411530+00:00 eval fold 0 think_to_no_think code_bug_4
+2026-04-25T17:24:31.212991+00:00 eval fold 0 think_to_no_think extra_coding_00
+2026-04-25T17:24:33.719994+00:00 eval fold 0 think_to_no_think extra_coding_03
+2026-04-25T17:24:36.198051+00:00 eval fold 0 think_to_no_think extra_coding_06
+2026-04-25T17:24:38.662969+00:00 eval fold 0 think_to_no_think extra_coding_09
+2026-04-25T17:24:41.452603+00:00 eval fold 0 think_to_no_think count_balloon_l
+2026-04-25T17:24:43.917244+00:00 eval fold 0 think_to_no_think count_mississippi_s
+2026-04-25T17:24:46.350775+00:00 eval fold 0 think_to_no_think extra_counting_00
+2026-04-25T17:24:48.805009+00:00 eval fold 0 think_to_no_think extra_counting_03
+2026-04-25T17:24:51.265044+00:00 eval fold 0 think_to_no_think extra_counting_06
+2026-04-25T17:24:53.743257+00:00 eval fold 0 think_to_no_think extra_counting_09
+2026-04-25T17:24:56.207525+00:00 eval fold 0 think_to_no_think coin_10
+2026-04-25T17:24:58.980692+00:00 eval fold 0 think_to_no_think coin_7
+2026-04-25T17:25:01.750273+00:00 eval fold 0 think_to_no_think extra_dynamic_programming_00
+2026-04-25T17:25:04.537613+00:00 eval fold 0 think_to_no_think extra_dynamic_programming_03
+2026-04-25T17:25:07.324574+00:00 eval fold 0 think_to_no_think extra_dynamic_programming_06
+2026-04-25T17:25:10.091203+00:00 eval fold 0 think_to_no_think extra_dynamic_programming_09
+2026-04-25T17:25:12.875628+00:00 eval fold 0 think_to_no_think extra_language_00
+2026-04-25T17:25:15.340346+00:00 eval fold 0 think_to_no_think extra_language_03
+2026-04-25T17:25:17.804259+00:00 eval fold 0 think_to_no_think extra_language_06
+2026-04-25T17:25:20.273280+00:00 eval fold 0 think_to_no_think extra_language_09
+2026-04-25T17:25:22.741558+00:00 eval fold 0 think_to_no_think sort_1
+2026-04-25T17:25:25.208996+00:00 eval fold 0 think_to_no_think sort_4
+2026-04-25T17:25:27.674525+00:00 eval fold 0 think_to_no_think ages_Ava_Ben_Cara_Dan
+2026-04-25T17:25:30.453480+00:00 eval fold 0 think_to_no_think ages_Quin_Ruth_Seth_Tara
+2026-04-25T17:25:33.234223+00:00 eval fold 0 think_to_no_think extra_logic_ordering_00
+2026-04-25T17:25:36.005510+00:00 eval fold 0 think_to_no_think extra_logic_ordering_03
+2026-04-25T17:25:38.795753+00:00 eval fold 0 think_to_no_think extra_logic_ordering_06
+2026-04-25T17:25:41.597458+00:00 eval fold 0 think_to_no_think extra_logic_ordering_09
+2026-04-25T17:25:44.379816+00:00 eval fold 0 think_to_no_think extra_planning_00
+2026-04-25T17:25:47.172360+00:00 eval fold 0 think_to_no_think extra_planning_03
+2026-04-25T17:25:49.955183+00:00 eval fold 0 think_to_no_think extra_planning_06
+2026-04-25T17:25:52.743830+00:00 eval fold 0 think_to_no_think extra_planning_09
+2026-04-25T17:25:55.532312+00:00 eval fold 0 think_to_no_think trip_bank
+2026-04-25T17:25:58.346174+00:00 eval fold 0 think_to_no_think trip_doctor
+2026-04-25T17:26:01.191749+00:00 eval fold 0 think_to_no_think extra_probability_00
+2026-04-25T17:26:03.668196+00:00 eval fold 0 think_to_no_think extra_probability_03
+2026-04-25T17:26:06.146346+00:00 eval fold 0 think_to_no_think extra_probability_06
+2026-04-25T17:26:08.588980+00:00 eval fold 0 think_to_no_think extra_probability_09
+2026-04-25T17:26:11.028684+00:00 eval fold 0 think_to_no_think heads_exact2_3
+2026-04-25T17:26:13.489115+00:00 eval fold 0 think_to_no_think heads_exact2_6
+2026-04-25T17:26:26.091610+00:00 eval fold 1 think_to_no_think eq_3_7_25
+2026-04-25T17:26:28.590412+00:00 eval fold 1 think_to_no_think eq_6_-1_23
+2026-04-25T17:26:31.085124+00:00 eval fold 1 think_to_no_think extra_algebra_01
+2026-04-25T17:26:33.579738+00:00 eval fold 1 think_to_no_think extra_algebra_04
+2026-04-25T17:26:36.058675+00:00 eval fold 1 think_to_no_think extra_algebra_07
+2026-04-25T17:26:38.558718+00:00 eval fold 1 think_to_no_think extra_algebra_10
+2026-04-25T17:26:41.043943+00:00 eval fold 1 think_to_no_think extra_arithmetic_01
+2026-04-25T17:26:43.506317+00:00 eval fold 1 think_to_no_think extra_arithmetic_04
+2026-04-25T17:26:45.975920+00:00 eval fold 1 think_to_no_think extra_arithmetic_07
+2026-04-25T17:26:48.443818+00:00 eval fold 1 think_to_no_think extra_arithmetic_10
+2026-04-25T17:26:50.886043+00:00 eval fold 1 think_to_no_think mul_126_94
+2026-04-25T17:26:53.321741+00:00 eval fold 1 think_to_no_think mul_808_19
+2026-04-25T17:26:55.767987+00:00 eval fold 1 think_to_no_think calendar_monday_march_1
+2026-04-25T17:26:58.518541+00:00 eval fold 1 think_to_no_think calendar_tuesday_april_1
+2026-04-25T17:27:01.275649+00:00 eval fold 1 think_to_no_think extra_calendar_01
+2026-04-25T17:27:04.056189+00:00 eval fold 1 think_to_no_think extra_calendar_04
+2026-04-25T17:27:06.835681+00:00 eval fold 1 think_to_no_think extra_calendar_07
+2026-04-25T17:27:09.619720+00:00 eval fold 1 think_to_no_think extra_calendar_10
+2026-04-25T17:27:12.363266+00:00 eval fold 1 think_to_no_think code_bug_2
+2026-04-25T17:27:14.851297+00:00 eval fold 1 think_to_no_think code_bug_5
+2026-04-25T17:27:17.306350+00:00 eval fold 1 think_to_no_think extra_coding_01
+2026-04-25T17:27:20.082910+00:00 eval fold 1 think_to_no_think extra_coding_04
+2026-04-25T17:27:22.554155+00:00 eval fold 1 think_to_no_think extra_coding_07
+2026-04-25T17:27:25.019703+00:00 eval fold 1 think_to_no_think extra_coding_10
+2026-04-25T17:27:27.444194+00:00 eval fold 1 think_to_no_think count_bookkeeper_e
+2026-04-25T17:27:29.918567+00:00 eval fold 1 think_to_no_think count_programming_g
+2026-04-25T17:27:32.376806+00:00 eval fold 1 think_to_no_think extra_counting_01
+2026-04-25T17:27:34.828037+00:00 eval fold 1 think_to_no_think extra_counting_04
+2026-04-25T17:27:37.301167+00:00 eval fold 1 think_to_no_think extra_counting_07
+2026-04-25T17:27:39.718927+00:00 eval fold 1 think_to_no_think extra_counting_10
+2026-04-25T17:27:42.181645+00:00 eval fold 1 think_to_no_think coin_11
+2026-04-25T17:27:44.935960+00:00 eval fold 1 think_to_no_think coin_8
+2026-04-25T17:27:47.682660+00:00 eval fold 1 think_to_no_think extra_dynamic_programming_01
+2026-04-25T17:27:50.440004+00:00 eval fold 1 think_to_no_think extra_dynamic_programming_04
+2026-04-25T17:27:53.213802+00:00 eval fold 1 think_to_no_think extra_dynamic_programming_07
+2026-04-25T17:27:55.976646+00:00 eval fold 1 think_to_no_think extra_dynamic_programming_10
+2026-04-25T17:27:58.770614+00:00 eval fold 1 think_to_no_think extra_language_01
+2026-04-25T17:28:01.230680+00:00 eval fold 1 think_to_no_think extra_language_04
+2026-04-25T17:28:03.686496+00:00 eval fold 1 think_to_no_think extra_language_07
+2026-04-25T17:28:06.140776+00:00 eval fold 1 think_to_no_think extra_language_10
+2026-04-25T17:28:08.591023+00:00 eval fold 1 think_to_no_think sort_2
+2026-04-25T17:28:11.029429+00:00 eval fold 1 think_to_no_think sort_5
+2026-04-25T17:28:13.482170+00:00 eval fold 1 think_to_no_think ages_Iris_Jules_Kai_Lena
+2026-04-25T17:28:16.262480+00:00 eval fold 1 think_to_no_think ages_Uma_Vera_Wade_Xena
+2026-04-25T17:28:19.016756+00:00 eval fold 1 think_to_no_think extra_logic_ordering_01
+2026-04-25T17:28:21.804870+00:00 eval fold 1 think_to_no_think extra_logic_ordering_04
+2026-04-25T17:28:24.570336+00:00 eval fold 1 think_to_no_think extra_logic_ordering_07
+2026-04-25T17:28:27.369766+00:00 eval fold 1 think_to_no_think extra_logic_ordering_10
+2026-04-25T17:28:30.168053+00:00 eval fold 1 think_to_no_think extra_planning_01
+2026-04-25T17:28:32.974317+00:00 eval fold 1 think_to_no_think extra_planning_04
+2026-04-25T17:28:35.757223+00:00 eval fold 1 think_to_no_think extra_planning_07
+2026-04-25T17:28:38.569197+00:00 eval fold 1 think_to_no_think extra_planning_10
+2026-04-25T17:28:41.355998+00:00 eval fold 1 think_to_no_think trip_city_hall
+2026-04-25T17:28:44.161340+00:00 eval fold 1 think_to_no_think trip_pharmacy
+2026-04-25T17:28:46.999158+00:00 eval fold 1 think_to_no_think extra_probability_01
+2026-04-25T17:28:49.447666+00:00 eval fold 1 think_to_no_think extra_probability_04
+2026-04-25T17:28:51.910342+00:00 eval fold 1 think_to_no_think extra_probability_07
+2026-04-25T17:28:54.362615+00:00 eval fold 1 think_to_no_think extra_probability_10
+2026-04-25T17:28:56.821688+00:00 eval fold 1 think_to_no_think heads_exact2_4
+2026-04-25T17:28:59.292002+00:00 eval fold 1 think_to_no_think heads_exact2_7
+2026-04-25T17:29:01.903219+00:00 eval fold 2 think_to_no_think eq_4_3_35
+2026-04-25T17:29:04.369622+00:00 eval fold 2 think_to_no_think eq_7_5_54
+2026-04-25T17:29:06.814090+00:00 eval fold 2 think_to_no_think extra_algebra_02
+2026-04-25T17:29:09.257854+00:00 eval fold 2 think_to_no_think extra_algebra_05
+2026-04-25T17:29:11.729130+00:00 eval fold 2 think_to_no_think extra_algebra_08
+2026-04-25T17:29:14.181536+00:00 eval fold 2 think_to_no_think extra_algebra_11
+2026-04-25T17:29:16.640188+00:00 eval fold 2 think_to_no_think extra_arithmetic_02
+2026-04-25T17:29:19.065858+00:00 eval fold 2 think_to_no_think extra_arithmetic_05
+2026-04-25T17:29:21.481510+00:00 eval fold 2 think_to_no_think extra_arithmetic_08
+2026-04-25T17:29:23.933948+00:00 eval fold 2 think_to_no_think extra_arithmetic_11
+2026-04-25T17:29:26.344589+00:00 eval fold 2 think_to_no_think mul_317_248
+2026-04-25T17:29:28.772914+00:00 eval fold 2 think_to_no_think mul_999_37
+2026-04-25T17:29:31.211108+00:00 eval fold 2 think_to_no_think calendar_saturday_august_1
+2026-04-25T17:29:33.959151+00:00 eval fold 2 think_to_no_think calendar_wednesday_may_1
+2026-04-25T17:29:36.710152+00:00 eval fold 2 think_to_no_think extra_calendar_02
+2026-04-25T17:29:39.454552+00:00 eval fold 2 think_to_no_think extra_calendar_05
+2026-04-25T17:29:42.239597+00:00 eval fold 2 think_to_no_think extra_calendar_08
+2026-04-25T17:29:44.997100+00:00 eval fold 2 think_to_no_think extra_calendar_11
+2026-04-25T17:29:47.760696+00:00 eval fold 2 think_to_no_think code_bug_3
+2026-04-25T17:29:50.218474+00:00 eval fold 2 think_to_no_think code_bug_6
+2026-04-25T17:29:52.968467+00:00 eval fold 2 think_to_no_think extra_coding_02
+2026-04-25T17:29:55.391645+00:00 eval fold 2 think_to_no_think extra_coding_05
+2026-04-25T17:29:58.141227+00:00 eval fold 2 think_to_no_think extra_coding_08
+2026-04-25T17:30:00.593907+00:00 eval fold 2 think_to_no_think extra_coding_11
+2026-04-25T17:30:03.033736+00:00 eval fold 2 think_to_no_think count_committee_m
+2026-04-25T17:30:05.469954+00:00 eval fold 2 think_to_no_think count_strawberries_r
+2026-04-25T17:30:07.933028+00:00 eval fold 2 think_to_no_think extra_counting_02
+2026-04-25T17:30:10.406834+00:00 eval fold 2 think_to_no_think extra_counting_05
+2026-04-25T17:30:12.866519+00:00 eval fold 2 think_to_no_think extra_counting_08
+2026-04-25T17:30:15.318047+00:00 eval fold 2 think_to_no_think extra_counting_11
+2026-04-25T17:30:17.745531+00:00 eval fold 2 think_to_no_think coin_6
+2026-04-25T17:30:20.521059+00:00 eval fold 2 think_to_no_think coin_9
+2026-04-25T17:30:23.302117+00:00 eval fold 2 think_to_no_think extra_dynamic_programming_02
+2026-04-25T17:30:26.049735+00:00 eval fold 2 think_to_no_think extra_dynamic_programming_05
+2026-04-25T17:30:28.808115+00:00 eval fold 2 think_to_no_think extra_dynamic_programming_08
+2026-04-25T17:30:31.592342+00:00 eval fold 2 think_to_no_think extra_dynamic_programming_11
+2026-04-25T17:30:34.379449+00:00 eval fold 2 think_to_no_think extra_language_02
+2026-04-25T17:30:36.840282+00:00 eval fold 2 think_to_no_think extra_language_05
+2026-04-25T17:30:39.287373+00:00 eval fold 2 think_to_no_think extra_language_08
+2026-04-25T17:30:41.724349+00:00 eval fold 2 think_to_no_think extra_language_11
+2026-04-25T17:30:44.186828+00:00 eval fold 2 think_to_no_think sort_3
+2026-04-25T17:30:46.630229+00:00 eval fold 2 think_to_no_think sort_6
+2026-04-25T17:30:49.110821+00:00 eval fold 2 think_to_no_think ages_Mina_Nora_Owen_Pia
+2026-04-25T17:30:51.886046+00:00 eval fold 2 think_to_no_think ages_Yara_Zane_Arlo_Bree
+2026-04-25T17:30:54.660303+00:00 eval fold 2 think_to_no_think extra_logic_ordering_02
+2026-04-25T17:30:57.453174+00:00 eval fold 2 think_to_no_think extra_logic_ordering_05
+2026-04-25T17:31:00.262202+00:00 eval fold 2 think_to_no_think extra_logic_ordering_08
+2026-04-25T17:31:03.069648+00:00 eval fold 2 think_to_no_think extra_logic_ordering_11
+2026-04-25T17:31:05.877101+00:00 eval fold 2 think_to_no_think extra_planning_02
+2026-04-25T17:31:08.663607+00:00 eval fold 2 think_to_no_think extra_planning_05
+2026-04-25T17:31:11.461100+00:00 eval fold 2 think_to_no_think extra_planning_08
+2026-04-25T17:31:14.253472+00:00 eval fold 2 think_to_no_think extra_planning_11
+2026-04-25T17:31:17.040588+00:00 eval fold 2 think_to_no_think trip_dentist
+2026-04-25T17:31:19.886413+00:00 eval fold 2 think_to_no_think trip_tailor
+2026-04-25T17:31:22.708773+00:00 eval fold 2 think_to_no_think extra_probability_02
+2026-04-25T17:31:25.163450+00:00 eval fold 2 think_to_no_think extra_probability_05
+2026-04-25T17:31:27.634617+00:00 eval fold 2 think_to_no_think extra_probability_08
+2026-04-25T17:31:30.099620+00:00 eval fold 2 think_to_no_think extra_probability_11
+2026-04-25T17:31:32.543695+00:00 eval fold 2 think_to_no_think heads_exact2_5
+2026-04-25T17:31:35.007629+00:00 eval fold 2 think_to_no_think heads_exact2_8
+2026-04-25T17:31:37.629239+00:00 eval fold 0 no_think_to_think eq_2_9_21
+2026-04-25T17:31:39.969756+00:00 eval fold 0 no_think_to_think eq_5_-4_31
+2026-04-25T17:31:42.340002+00:00 eval fold 0 no_think_to_think extra_algebra_00
+2026-04-25T17:31:44.690335+00:00 eval fold 0 no_think_to_think extra_algebra_03
+2026-04-25T17:31:47.025696+00:00 eval fold 0 no_think_to_think extra_algebra_06
+2026-04-25T17:31:49.363868+00:00 eval fold 0 no_think_to_think extra_algebra_09
+2026-04-25T17:31:51.707622+00:00 eval fold 0 no_think_to_think extra_arithmetic_00
+2026-04-25T17:31:54.019707+00:00 eval fold 0 no_think_to_think extra_arithmetic_03
+2026-04-25T17:31:56.335228+00:00 eval fold 0 no_think_to_think extra_arithmetic_06
+2026-04-25T17:31:58.628270+00:00 eval fold 0 no_think_to_think extra_arithmetic_09
+2026-04-25T17:32:00.936660+00:00 eval fold 0 no_think_to_think mul_124_125
+2026-04-25T17:32:03.257332+00:00 eval fold 0 no_think_to_think mul_438_57
+2026-04-25T17:32:05.552518+00:00 eval fold 0 no_think_to_think calendar_friday_july_1
+2026-04-25T17:32:08.092398+00:00 eval fold 0 no_think_to_think calendar_thursday_june_1
+2026-04-25T17:32:10.673959+00:00 eval fold 0 no_think_to_think extra_calendar_00
+2026-04-25T17:32:13.233172+00:00 eval fold 0 no_think_to_think extra_calendar_03
+2026-04-25T17:32:15.787912+00:00 eval fold 0 no_think_to_think extra_calendar_06
+2026-04-25T17:32:18.353017+00:00 eval fold 0 no_think_to_think extra_calendar_09
+2026-04-25T17:32:20.914972+00:00 eval fold 0 no_think_to_think code_bug_1
+2026-04-25T17:32:23.515766+00:00 eval fold 0 no_think_to_think code_bug_4
+2026-04-25T17:32:25.873013+00:00 eval fold 0 no_think_to_think extra_coding_00
+2026-04-25T17:32:28.244731+00:00 eval fold 0 no_think_to_think extra_coding_03
+2026-04-25T17:32:30.589285+00:00 eval fold 0 no_think_to_think extra_coding_06
+2026-04-25T17:32:32.908678+00:00 eval fold 0 no_think_to_think extra_coding_09
+2026-04-25T17:32:35.489738+00:00 eval fold 0 no_think_to_think count_balloon_l
+2026-04-25T17:32:37.845340+00:00 eval fold 0 no_think_to_think count_mississippi_s
+2026-04-25T17:32:40.168819+00:00 eval fold 0 no_think_to_think extra_counting_00
+2026-04-25T17:32:42.516427+00:00 eval fold 0 no_think_to_think extra_counting_03
+2026-04-25T17:32:44.851883+00:00 eval fold 0 no_think_to_think extra_counting_06
+2026-04-25T17:32:47.195625+00:00 eval fold 0 no_think_to_think extra_counting_09
+2026-04-25T17:32:49.546388+00:00 eval fold 0 no_think_to_think coin_10
+2026-04-25T17:32:52.114080+00:00 eval fold 0 no_think_to_think coin_7
+2026-04-25T17:32:54.678600+00:00 eval fold 0 no_think_to_think extra_dynamic_programming_00
+2026-04-25T17:32:57.273161+00:00 eval fold 0 no_think_to_think extra_dynamic_programming_03
+2026-04-25T17:32:59.848398+00:00 eval fold 0 no_think_to_think extra_dynamic_programming_06
+2026-04-25T17:33:02.427441+00:00 eval fold 0 no_think_to_think extra_dynamic_programming_09
+2026-04-25T17:33:04.989254+00:00 eval fold 0 no_think_to_think extra_language_00
+2026-04-25T17:33:07.336113+00:00 eval fold 0 no_think_to_think extra_language_03
+2026-04-25T17:33:09.675759+00:00 eval fold 0 no_think_to_think extra_language_06
+2026-04-25T17:33:12.016072+00:00 eval fold 0 no_think_to_think extra_language_09
+2026-04-25T17:33:14.349901+00:00 eval fold 0 no_think_to_think sort_1
+2026-04-25T17:33:16.679803+00:00 eval fold 0 no_think_to_think sort_4
+2026-04-25T17:33:19.009824+00:00 eval fold 0 no_think_to_think ages_Ava_Ben_Cara_Dan
+2026-04-25T17:33:21.592796+00:00 eval fold 0 no_think_to_think ages_Quin_Ruth_Seth_Tara
+2026-04-25T17:33:24.219372+00:00 eval fold 0 no_think_to_think extra_logic_ordering_00
+2026-04-25T17:33:26.793000+00:00 eval fold 0 no_think_to_think extra_logic_ordering_03
+2026-04-25T17:33:29.367548+00:00 eval fold 0 no_think_to_think extra_logic_ordering_06
+2026-04-25T17:33:31.944649+00:00 eval fold 0 no_think_to_think extra_logic_ordering_09
+2026-04-25T17:33:34.525252+00:00 eval fold 0 no_think_to_think extra_planning_00
+2026-04-25T17:33:37.086508+00:00 eval fold 0 no_think_to_think extra_planning_03
+2026-04-25T17:33:39.658597+00:00 eval fold 0 no_think_to_think extra_planning_06
+2026-04-25T17:33:42.251419+00:00 eval fold 0 no_think_to_think extra_planning_09
+2026-04-25T17:33:44.846414+00:00 eval fold 0 no_think_to_think trip_bank
+2026-04-25T17:33:47.458612+00:00 eval fold 0 no_think_to_think trip_doctor
+2026-04-25T17:33:50.091236+00:00 eval fold 0 no_think_to_think extra_probability_00
+2026-04-25T17:33:52.433577+00:00 eval fold 0 no_think_to_think extra_probability_03
+2026-04-25T17:33:54.771290+00:00 eval fold 0 no_think_to_think extra_probability_06
+2026-04-25T17:33:57.083801+00:00 eval fold 0 no_think_to_think extra_probability_09
+2026-04-25T17:33:59.404090+00:00 eval fold 0 no_think_to_think heads_exact2_3
+2026-04-25T17:34:01.721655+00:00 eval fold 0 no_think_to_think heads_exact2_6
+2026-04-25T17:34:12.110911+00:00 eval fold 1 no_think_to_think eq_3_7_25
+2026-04-25T17:34:14.499744+00:00 eval fold 1 no_think_to_think eq_6_-1_23
+2026-04-25T17:34:16.864162+00:00 eval fold 1 no_think_to_think extra_algebra_01
+2026-04-25T17:34:19.226795+00:00 eval fold 1 no_think_to_think extra_algebra_04
+2026-04-25T17:34:21.586310+00:00 eval fold 1 no_think_to_think extra_algebra_07
+2026-04-25T17:34:23.965682+00:00 eval fold 1 no_think_to_think extra_algebra_10
+2026-04-25T17:34:26.329521+00:00 eval fold 1 no_think_to_think extra_arithmetic_01
+2026-04-25T17:34:28.643101+00:00 eval fold 1 no_think_to_think extra_arithmetic_04
+2026-04-25T17:34:30.955792+00:00 eval fold 1 no_think_to_think extra_arithmetic_07
+2026-04-25T17:34:33.298894+00:00 eval fold 1 no_think_to_think extra_arithmetic_10
+2026-04-25T17:34:35.616809+00:00 eval fold 1 no_think_to_think mul_126_94
+2026-04-25T17:34:37.937553+00:00 eval fold 1 no_think_to_think mul_808_19
+2026-04-25T17:34:40.238283+00:00 eval fold 1 no_think_to_think calendar_monday_march_1
+2026-04-25T17:34:42.808151+00:00 eval fold 1 no_think_to_think calendar_tuesday_april_1
+2026-04-25T17:34:45.346557+00:00 eval fold 1 no_think_to_think extra_calendar_01
+2026-04-25T17:34:47.896120+00:00 eval fold 1 no_think_to_think extra_calendar_04
+2026-04-25T17:34:50.471786+00:00 eval fold 1 no_think_to_think extra_calendar_07
+2026-04-25T17:34:53.070360+00:00 eval fold 1 no_think_to_think extra_calendar_10
+2026-04-25T17:34:55.628346+00:00 eval fold 1 no_think_to_think code_bug_2
+2026-04-25T17:34:58.019651+00:00 eval fold 1 no_think_to_think code_bug_5
+2026-04-25T17:35:00.362865+00:00 eval fold 1 no_think_to_think extra_coding_01
+2026-04-25T17:35:02.940248+00:00 eval fold 1 no_think_to_think extra_coding_04
+2026-04-25T17:35:05.310270+00:00 eval fold 1 no_think_to_think extra_coding_07
+2026-04-25T17:35:07.665039+00:00 eval fold 1 no_think_to_think extra_coding_10
+2026-04-25T17:35:09.979718+00:00 eval fold 1 no_think_to_think count_bookkeeper_e
+2026-04-25T17:35:12.351866+00:00 eval fold 1 no_think_to_think count_programming_g
+2026-04-25T17:35:14.696537+00:00 eval fold 1 no_think_to_think extra_counting_01
+2026-04-25T17:35:17.039177+00:00 eval fold 1 no_think_to_think extra_counting_04
+2026-04-25T17:35:19.363738+00:00 eval fold 1 no_think_to_think extra_counting_07
+2026-04-25T17:35:21.683142+00:00 eval fold 1 no_think_to_think extra_counting_10
+2026-04-25T17:35:24.031781+00:00 eval fold 1 no_think_to_think coin_11
+2026-04-25T17:35:26.621923+00:00 eval fold 1 no_think_to_think coin_8
+2026-04-25T17:35:29.191813+00:00 eval fold 1 no_think_to_think extra_dynamic_programming_01
+2026-04-25T17:35:31.743294+00:00 eval fold 1 no_think_to_think extra_dynamic_programming_04
+2026-04-25T17:35:34.325671+00:00 eval fold 1 no_think_to_think extra_dynamic_programming_07
+2026-04-25T17:35:36.908747+00:00 eval fold 1 no_think_to_think extra_dynamic_programming_10
+2026-04-25T17:35:39.497317+00:00 eval fold 1 no_think_to_think extra_language_01
+2026-04-25T17:35:41.832065+00:00 eval fold 1 no_think_to_think extra_language_04
+2026-04-25T17:35:44.176104+00:00 eval fold 1 no_think_to_think extra_language_07
+2026-04-25T17:35:46.508564+00:00 eval fold 1 no_think_to_think extra_language_10
+2026-04-25T17:35:48.848483+00:00 eval fold 1 no_think_to_think sort_2
+2026-04-25T17:35:51.186696+00:00 eval fold 1 no_think_to_think sort_5
+2026-04-25T17:35:53.533226+00:00 eval fold 1 no_think_to_think ages_Iris_Jules_Kai_Lena
+2026-04-25T17:35:56.116105+00:00 eval fold 1 no_think_to_think ages_Uma_Vera_Wade_Xena
+2026-04-25T17:35:58.674164+00:00 eval fold 1 no_think_to_think extra_logic_ordering_01
+2026-04-25T17:36:01.281539+00:00 eval fold 1 no_think_to_think extra_logic_ordering_04
+2026-04-25T17:36:03.857958+00:00 eval fold 1 no_think_to_think extra_logic_ordering_07
+2026-04-25T17:36:06.458961+00:00 eval fold 1 no_think_to_think extra_logic_ordering_10
+2026-04-25T17:36:09.050736+00:00 eval fold 1 no_think_to_think extra_planning_01
+2026-04-25T17:36:11.660953+00:00 eval fold 1 no_think_to_think extra_planning_04
+2026-04-25T17:36:14.242205+00:00 eval fold 1 no_think_to_think extra_planning_07
+2026-04-25T17:36:16.835367+00:00 eval fold 1 no_think_to_think extra_planning_10
+2026-04-25T17:36:19.423960+00:00 eval fold 1 no_think_to_think trip_city_hall
+2026-04-25T17:36:22.054173+00:00 eval fold 1 no_think_to_think trip_pharmacy
+2026-04-25T17:36:24.667111+00:00 eval fold 1 no_think_to_think extra_probability_01
+2026-04-25T17:36:27.006260+00:00 eval fold 1 no_think_to_think extra_probability_04
+2026-04-25T17:36:29.348702+00:00 eval fold 1 no_think_to_think extra_probability_07
+2026-04-25T17:36:31.682814+00:00 eval fold 1 no_think_to_think extra_probability_10
+2026-04-25T17:36:34.024726+00:00 eval fold 1 no_think_to_think heads_exact2_4
+2026-04-25T17:36:36.347362+00:00 eval fold 1 no_think_to_think heads_exact2_7
+2026-04-25T17:36:38.833469+00:00 eval fold 2 no_think_to_think eq_4_3_35
+2026-04-25T17:36:41.194598+00:00 eval fold 2 no_think_to_think eq_7_5_54
+2026-04-25T17:36:43.523849+00:00 eval fold 2 no_think_to_think extra_algebra_02
+2026-04-25T17:36:45.847538+00:00 eval fold 2 no_think_to_think extra_algebra_05
+2026-04-25T17:36:48.197556+00:00 eval fold 2 no_think_to_think extra_algebra_08
+2026-04-25T17:36:50.520708+00:00 eval fold 2 no_think_to_think extra_algebra_11
+2026-04-25T17:36:52.846985+00:00 eval fold 2 no_think_to_think extra_arithmetic_02
+2026-04-25T17:36:55.144856+00:00 eval fold 2 no_think_to_think extra_arithmetic_05
+2026-04-25T17:36:57.435292+00:00 eval fold 2 no_think_to_think extra_arithmetic_08
+2026-04-25T17:36:59.751156+00:00 eval fold 2 no_think_to_think extra_arithmetic_11
+2026-04-25T17:37:02.037731+00:00 eval fold 2 no_think_to_think mul_317_248
+2026-04-25T17:37:04.360730+00:00 eval fold 2 no_think_to_think mul_999_37
+2026-04-25T17:37:06.677935+00:00 eval fold 2 no_think_to_think calendar_saturday_august_1
+2026-04-25T17:37:09.229023+00:00 eval fold 2 no_think_to_think calendar_wednesday_may_1
+2026-04-25T17:37:11.789407+00:00 eval fold 2 no_think_to_think extra_calendar_02
+2026-04-25T17:37:14.317604+00:00 eval fold 2 no_think_to_think extra_calendar_05
+2026-04-25T17:37:16.883014+00:00 eval fold 2 no_think_to_think extra_calendar_08
+2026-04-25T17:37:19.464484+00:00 eval fold 2 no_think_to_think extra_calendar_11
+2026-04-25T17:37:22.047122+00:00 eval fold 2 no_think_to_think code_bug_3
+2026-04-25T17:37:24.386691+00:00 eval fold 2 no_think_to_think code_bug_6
+2026-04-25T17:37:26.738947+00:00 eval fold 2 no_think_to_think extra_coding_02
+2026-04-25T17:37:29.059349+00:00 eval fold 2 no_think_to_think extra_coding_05
+2026-04-25T17:37:31.641278+00:00 eval fold 2 no_think_to_think extra_coding_08
+2026-04-25T17:37:34.003214+00:00 eval fold 2 no_think_to_think extra_coding_11
+2026-04-25T17:37:36.345580+00:00 eval fold 2 no_think_to_think count_committee_m
+2026-04-25T17:37:38.655219+00:00 eval fold 2 no_think_to_think count_strawberries_r
+2026-04-25T17:37:41.004879+00:00 eval fold 2 no_think_to_think extra_counting_02
+2026-04-25T17:37:43.347928+00:00 eval fold 2 no_think_to_think extra_counting_05
+2026-04-25T17:37:45.687690+00:00 eval fold 2 no_think_to_think extra_counting_08
+2026-04-25T17:37:48.004143+00:00 eval fold 2 no_think_to_think extra_counting_11
+2026-04-25T17:37:50.322107+00:00 eval fold 2 no_think_to_think coin_6
+2026-04-25T17:37:52.910030+00:00 eval fold 2 no_think_to_think coin_9
+2026-04-25T17:37:55.476850+00:00 eval fold 2 no_think_to_think extra_dynamic_programming_02
+2026-04-25T17:37:58.033154+00:00 eval fold 2 no_think_to_think extra_dynamic_programming_05
+2026-04-25T17:38:00.591800+00:00 eval fold 2 no_think_to_think extra_dynamic_programming_08
+2026-04-25T17:38:03.177280+00:00 eval fold 2 no_think_to_think extra_dynamic_programming_11
+2026-04-25T17:38:05.763023+00:00 eval fold 2 no_think_to_think extra_language_02
+2026-04-25T17:38:08.108523+00:00 eval fold 2 no_think_to_think extra_language_05
+2026-04-25T17:38:10.427751+00:00 eval fold 2 no_think_to_think extra_language_08
+2026-04-25T17:38:12.754118+00:00 eval fold 2 no_think_to_think extra_language_11
+2026-04-25T17:38:15.087367+00:00 eval fold 2 no_think_to_think sort_3
+2026-04-25T17:38:17.418074+00:00 eval fold 2 no_think_to_think sort_6
+2026-04-25T17:38:19.784393+00:00 eval fold 2 no_think_to_think ages_Mina_Nora_Owen_Pia
+2026-04-25T17:38:22.369923+00:00 eval fold 2 no_think_to_think ages_Yara_Zane_Arlo_Bree
+2026-04-25T17:38:24.945805+00:00 eval fold 2 no_think_to_think extra_logic_ordering_02
+2026-04-25T17:38:27.521205+00:00 eval fold 2 no_think_to_think extra_logic_ordering_05
+2026-04-25T17:38:30.117487+00:00 eval fold 2 no_think_to_think extra_logic_ordering_08
+2026-04-25T17:38:32.703091+00:00 eval fold 2 no_think_to_think extra_logic_ordering_11
+2026-04-25T17:38:35.299657+00:00 eval fold 2 no_think_to_think extra_planning_02
+2026-04-25T17:38:37.877713+00:00 eval fold 2 no_think_to_think extra_planning_05
+2026-04-25T17:38:40.472829+00:00 eval fold 2 no_think_to_think extra_planning_08
+2026-04-25T17:38:43.061091+00:00 eval fold 2 no_think_to_think extra_planning_11
+2026-04-25T17:38:45.661226+00:00 eval fold 2 no_think_to_think trip_dentist
+2026-04-25T17:38:48.310054+00:00 eval fold 2 no_think_to_think trip_tailor
+2026-04-25T17:38:50.948778+00:00 eval fold 2 no_think_to_think extra_probability_02
+2026-04-25T17:38:53.259593+00:00 eval fold 2 no_think_to_think extra_probability_05
+2026-04-25T17:38:55.577810+00:00 eval fold 2 no_think_to_think extra_probability_08
+2026-04-25T17:38:57.905804+00:00 eval fold 2 no_think_to_think extra_probability_11
+2026-04-25T17:39:00.244146+00:00 eval fold 2 no_think_to_think heads_exact2_5
+2026-04-25T17:39:02.576140+00:00 eval fold 2 no_think_to_think heads_exact2_8

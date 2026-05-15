@@ -1,0 +1,3890 @@
+[
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.14436049532349768,
+    "js_to_donor": 0.688746943180345,
+    "closer_to": "target"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.05653064167090935,
+    "js_to_donor": 0.6698845993228287,
+    "closer_to": "target"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.05370435470076328,
+    "js_to_donor": 0.5626263597044843,
+    "closer_to": "target"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.33506288123607914,
+    "js_to_donor": 0.20619126417645456,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.3657113177050654,
+    "js_to_donor": 0.1361869182895205,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.6538990100100438,
+    "js_to_donor": 0.008409168850132803,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6812587062471542,
+    "js_to_donor": 0.002955368521240026,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.6819369494043083,
+    "js_to_donor": 0.0016121720485441705,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.690836705279747,
+    "js_to_donor": 1.224976663434887e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6910648231612285,
+    "js_to_donor": 7.10922723834844e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6908307761064905,
+    "js_to_donor": 1.046275486859074e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6905478809516005,
+    "js_to_donor": 4.831852746489673e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6906212783961014,
+    "js_to_donor": 3.6439914404169335e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6908824390735813,
+    "js_to_donor": 1.0481845339917325e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6908386898849415,
+    "js_to_donor": 1.324396479251695e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6908012777963382,
+    "js_to_donor": 1.1266208222455564e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6908326382494459,
+    "js_to_donor": 9.835425913950731e-07,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.690836705279747,
+    "js_to_donor": 1.224976663434887e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6939904396840781,
+    "js_to_donor": 0.6920797559322358,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.5500354206451995,
+    "js_to_donor": 0.5794673339426901,
+    "closer_to": "target"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.5960228490806293,
+    "js_to_donor": 0.6263150775428068,
+    "closer_to": "target"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.6093003679524978,
+    "js_to_donor": 0.6082397012102643,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.5338065662965324,
+    "js_to_donor": 0.5178895892345998,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.630886146751169,
+    "js_to_donor": 0.1270760804108121,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6538812675842188,
+    "js_to_donor": 0.12558283646569657,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.6715050491584971,
+    "js_to_donor": 0.12678308536459432,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.692793238934972,
+    "js_to_donor": 1.990548046801495e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6909093242307434,
+    "js_to_donor": 0.03901108377141073,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6924307845863807,
+    "js_to_donor": 0.0009768244631239108,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6920461168154726,
+    "js_to_donor": 0.0005201628412626838,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6923168701575781,
+    "js_to_donor": 0.000793841614406592,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6924728644959222,
+    "js_to_donor": 0.0013251104802928905,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6926954107767356,
+    "js_to_donor": 0.0017556818943158484,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6927166223448492,
+    "js_to_donor": 0.0014104902738645074,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6926746488576352,
+    "js_to_donor": 0.0013665895969014387,
+    "closer_to": "donor"
+  },
+  {
+    "id": "strawberries_r",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.692793238934972,
+    "js_to_donor": 1.990548046801495e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.003064199209714932,
+    "js_to_donor": 0.6777787666682578,
+    "closer_to": "target"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.000274655379540267,
+    "js_to_donor": 0.6915149538017726,
+    "closer_to": "target"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.0382291079437052,
+    "js_to_donor": 0.5410600170611359,
+    "closer_to": "target"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.12702195821941767,
+    "js_to_donor": 0.3346167795393329,
+    "closer_to": "target"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.17153136911388311,
+    "js_to_donor": 0.2830219038610203,
+    "closer_to": "target"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.26246688156792486,
+    "js_to_donor": 0.27990874145854727,
+    "closer_to": "target"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.37301468680203326,
+    "js_to_donor": 0.25905932229518847,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.32078426955733236,
+    "js_to_donor": 0.2551377681469966,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6917983929840603,
+    "js_to_donor": 3.098094317651075e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6913407117674607,
+    "js_to_donor": 0.003975771672353545,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6913069214097189,
+    "js_to_donor": 0.0022847249261799076,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6914726396803319,
+    "js_to_donor": 0.0002589673756368858,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.691641493401596,
+    "js_to_donor": 9.649009230041673e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6916254778395796,
+    "js_to_donor": 0.00027019021679329893,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6916700923676329,
+    "js_to_donor": 0.00010251954564762834,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.691694426360645,
+    "js_to_donor": 3.810628221523945e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6916734018898835,
+    "js_to_donor": 9.640620913735874e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6917983929840603,
+    "js_to_donor": 3.098094317651075e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6946170266195308,
+    "js_to_donor": 0.6933225106817722,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.6270248905420341,
+    "js_to_donor": 0.035375259053312576,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.5926092293604789,
+    "js_to_donor": 0.08422259751502655,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.6099152863740467,
+    "js_to_donor": 0.05378539150223699,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.6015184887385445,
+    "js_to_donor": 0.0626530849227907,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.6037820463836583,
+    "js_to_donor": 0.06630713801228925,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6215939594437314,
+    "js_to_donor": 0.04051730167503277,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.6414882938679486,
+    "js_to_donor": 0.02091189951000226,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6929736978209078,
+    "js_to_donor": 9.237024863577986e-07,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6941566285789849,
+    "js_to_donor": 6.780648858203507e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6935917040817994,
+    "js_to_donor": 1.3093166284993036e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6936451450588899,
+    "js_to_donor": 1.544041372628465e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6937559212097113,
+    "js_to_donor": 2.1944688064764634e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6931346819739688,
+    "js_to_donor": 1.252387035825922e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6931784567734023,
+    "js_to_donor": 9.978650919417438e-07,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.693226439287445,
+    "js_to_donor": 1.5134564474548085e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6932030094620434,
+    "js_to_donor": 1.0491416305814588e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "multiply_317_248",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6929736978209078,
+    "js_to_donor": 9.237024863577986e-07,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.09678734892571296,
+    "js_to_donor": 0.6623454551748069,
+    "closer_to": "target"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.19918194664631209,
+    "js_to_donor": 0.5243789181777524,
+    "closer_to": "target"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.25583667604190163,
+    "js_to_donor": 0.2513629501190374,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.36793932788410283,
+    "js_to_donor": 0.25939410939789465,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.360623720317914,
+    "js_to_donor": 0.23028731711689124,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.45846219584800496,
+    "js_to_donor": 0.11968490037815464,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.5368310548051,
+    "js_to_donor": 0.10211904854690637,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.5412758879714061,
+    "js_to_donor": 0.10643086536584721,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6710599785422409,
+    "js_to_donor": 4.5099573088660454e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.673448555468297,
+    "js_to_donor": 0.10149331831677824,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6670258891923329,
+    "js_to_donor": 0.007226497765273477,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6689053714730864,
+    "js_to_donor": 0.00166880025248876,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.668989506008931,
+    "js_to_donor": 0.0005317981705201553,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.670169709854548,
+    "js_to_donor": 0.00048197874366868955,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.670413226729456,
+    "js_to_donor": 0.00016346187240683877,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6706799724435367,
+    "js_to_donor": 0.0001249387200460292,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6708482520948187,
+    "js_to_donor": 9.717359471420712e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6710599785422409,
+    "js_to_donor": 4.5099573088660454e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6934925045055916,
+    "js_to_donor": 0.6917741221046375,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.1972387250170225,
+    "js_to_donor": 0.3353410861790925,
+    "closer_to": "target"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.21280993944193624,
+    "js_to_donor": 0.3093694717392025,
+    "closer_to": "target"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.23781865825950232,
+    "js_to_donor": 0.2828496735125,
+    "closer_to": "target"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.2726799044839989,
+    "js_to_donor": 0.23676945701954052,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.39479053677324305,
+    "js_to_donor": 0.1508735812855608,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.3713730021567824,
+    "js_to_donor": 0.1243705490272137,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.4542537744542129,
+    "js_to_donor": 0.07244940228760602,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6722677362362236,
+    "js_to_donor": 0.00018356074471552702,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6649776310147693,
+    "js_to_donor": 0.03639121963221638,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6731398690099006,
+    "js_to_donor": 0.004671716534812867,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6745092212646544,
+    "js_to_donor": 0.016773554490671673,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6765636672588268,
+    "js_to_donor": 0.012844499866868142,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6779171149836813,
+    "js_to_donor": 0.017915510182508757,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6735813991642392,
+    "js_to_donor": 0.0026786266886140915,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6725572850204926,
+    "js_to_donor": 0.0009285197318228321,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6718175085801736,
+    "js_to_donor": 0.00016428309960179555,
+    "closer_to": "donor"
+  },
+  {
+    "id": "logic_siblings",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6722677362362236,
+    "js_to_donor": 0.00018356074471552702,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.009679013738141739,
+    "js_to_donor": 0.3740003132262022,
+    "closer_to": "target"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.017985220802226174,
+    "js_to_donor": 0.296017916301047,
+    "closer_to": "target"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.10212326177230796,
+    "js_to_donor": 0.18584118523071347,
+    "closer_to": "target"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.07278311772545194,
+    "js_to_donor": 0.27753452988974603,
+    "closer_to": "target"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.08000323846108898,
+    "js_to_donor": 0.23783041851833564,
+    "closer_to": "target"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.12297012419670553,
+    "js_to_donor": 0.13488809074292035,
+    "closer_to": "target"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.17952868427715044,
+    "js_to_donor": 0.08309530285032542,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.18162343138375434,
+    "js_to_donor": 0.08767608977069646,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.3625078126251099,
+    "js_to_donor": 2.6624914318086487e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.29024265411680855,
+    "js_to_donor": 0.010197029433594792,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.3346017098632761,
+    "js_to_donor": 0.005840960696280135,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.35918796942775455,
+    "js_to_donor": 0.0002677868973247863,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.37106742961718053,
+    "js_to_donor": 0.00023162707355556229,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.3870648780154291,
+    "js_to_donor": 0.0009365478542379777,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.37324259264133475,
+    "js_to_donor": 0.0011043794678736829,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.3666720547657796,
+    "js_to_donor": 0.0004508540647031258,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.3620399715598043,
+    "js_to_donor": 0.00076826291004531,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.3625078126251099,
+    "js_to_donor": 2.6624914318086487e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6928626382938081,
+    "js_to_donor": 0.6923728667604945,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.13066357834774786,
+    "js_to_donor": 0.19450484717058994,
+    "closer_to": "target"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.13367263353552108,
+    "js_to_donor": 0.17693213596700294,
+    "closer_to": "target"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.1338490208775097,
+    "js_to_donor": 0.17727475269514653,
+    "closer_to": "target"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.14253410762802513,
+    "js_to_donor": 0.15283068724818416,
+    "closer_to": "target"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.2057691930909032,
+    "js_to_donor": 0.0743801378208394,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.23042275441907373,
+    "js_to_donor": 0.047017006867443346,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.23108182215682072,
+    "js_to_donor": 0.03947151912997447,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.3663436491572064,
+    "js_to_donor": 5.185807251730217e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.3913751781568636,
+    "js_to_donor": 0.0016656525412593465,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.36910510155293896,
+    "js_to_donor": 0.0008964381077883901,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.37820893420616064,
+    "js_to_donor": 0.001838699708970026,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.38524421392048414,
+    "js_to_donor": 0.0021875566432394866,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.3821788010627105,
+    "js_to_donor": 0.001432360047231473,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.3923824735422493,
+    "js_to_donor": 0.0018306719687315092,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.38697652303997526,
+    "js_to_donor": 0.0014580499456896896,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.3853171869518757,
+    "js_to_donor": 0.001278948198081558,
+    "closer_to": "donor"
+  },
+  {
+    "id": "river_crossing",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.3663436491572064,
+    "js_to_donor": 5.185807251730217e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.0029154429417427743,
+    "js_to_donor": 0.688112508697093,
+    "closer_to": "target"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.015072882973892358,
+    "js_to_donor": 0.652277104100591,
+    "closer_to": "target"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.06158850071734352,
+    "js_to_donor": 0.5145999226755842,
+    "closer_to": "target"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.3637465595911451,
+    "js_to_donor": 0.29216146744187527,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.3905849418885979,
+    "js_to_donor": 0.2286081863074083,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.5231346389079692,
+    "js_to_donor": 0.12432323282042695,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6565948629540672,
+    "js_to_donor": 0.14243800632245082,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.6447643105155576,
+    "js_to_donor": 0.13017779084572506,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6927613962127683,
+    "js_to_donor": 0.0001014804425244775,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6913264977346105,
+    "js_to_donor": 0.015478720391361642,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.692090682149985,
+    "js_to_donor": 0.0009036568267666205,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6922581294159795,
+    "js_to_donor": 0.003917371395768348,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6923021462690426,
+    "js_to_donor": 0.0026976029747522784,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6922539698226193,
+    "js_to_donor": 0.00030277276019944396,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.692357502009634,
+    "js_to_donor": 0.0006566757982492696,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6925097420587536,
+    "js_to_donor": 0.00043914851399631187,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6925384482204797,
+    "js_to_donor": 0.0003444509378562377,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6927613962127683,
+    "js_to_donor": 0.0001014804425244775,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6944300020777441,
+    "js_to_donor": 0.6936668925404383,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.5786983131497692,
+    "js_to_donor": 0.05411163884352845,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.49016138610023796,
+    "js_to_donor": 0.09203708478827621,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.5189562567454338,
+    "js_to_donor": 0.0730232321731399,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.581621410107507,
+    "js_to_donor": 0.03782512572521171,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.5829843796361913,
+    "js_to_donor": 0.029396491189580636,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6371510110481604,
+    "js_to_donor": 0.011523063714586414,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.6775429863898856,
+    "js_to_donor": 0.0028859185163264637,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6935349127993424,
+    "js_to_donor": 3.961984628449004e-07,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6936746553991398,
+    "js_to_donor": 9.345017793376833e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6933502407769098,
+    "js_to_donor": 0.00020917462180648663,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6934103756581091,
+    "js_to_donor": 0.00017956059799066062,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6933903276866822,
+    "js_to_donor": 0.00010777724433506865,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6934318152433794,
+    "js_to_donor": 0.00011221748836442118,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6935947080990328,
+    "js_to_donor": 3.7967798546720798e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6936230824933313,
+    "js_to_donor": 1.8821092958964773e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6935061865558512,
+    "js_to_donor": 7.280130986503353e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "coin_change",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6935349127993424,
+    "js_to_donor": 3.961984628449004e-07,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.01258720939530408,
+    "js_to_donor": 0.2679550533011643,
+    "closer_to": "target"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.09541302974068397,
+    "js_to_donor": 0.22706978423779506,
+    "closer_to": "target"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.11548678367658216,
+    "js_to_donor": 0.18035799890236826,
+    "closer_to": "target"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.14909787765250077,
+    "js_to_donor": 0.10240772928044599,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.12496616683426137,
+    "js_to_donor": 0.16090426418890924,
+    "closer_to": "target"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.12912294245092593,
+    "js_to_donor": 0.15229791026259953,
+    "closer_to": "target"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.13456993289411084,
+    "js_to_donor": 0.1339204094317096,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.12418122190734801,
+    "js_to_donor": 0.156893632827027,
+    "closer_to": "target"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.2880291880588346,
+    "js_to_donor": 8.422965970841041e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.2393849851248308,
+    "js_to_donor": 0.011235206120598862,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.2381263981746209,
+    "js_to_donor": 0.010297883099518948,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.25875512393671635,
+    "js_to_donor": 0.002863212417393628,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.2784323786059125,
+    "js_to_donor": 0.0025694352646736434,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.3004887651508894,
+    "js_to_donor": 0.0033305584345420317,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.29817932677144,
+    "js_to_donor": 0.0011737418114673324,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.28024466604503717,
+    "js_to_donor": 0.0006761473544551443,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.2800380861121373,
+    "js_to_donor": 0.0008926731435404594,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.2880291880588346,
+    "js_to_donor": 8.422965970841041e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6919864655595793,
+    "js_to_donor": 0.6915568001548045,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.1520646612998653,
+    "js_to_donor": 0.10370804066046198,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.249541227788165,
+    "js_to_donor": 0.0938542359298635,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.21699006791505823,
+    "js_to_donor": 0.07241141221684151,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.22464865881685375,
+    "js_to_donor": 0.06075850946742588,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.22435525104383108,
+    "js_to_donor": 0.06314088540976558,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.23777184206172763,
+    "js_to_donor": 0.04500343291094884,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.26231762844629947,
+    "js_to_donor": 0.044648530717255774,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.28767833004106425,
+    "js_to_donor": 8.379513067200534e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.34574977118151645,
+    "js_to_donor": 0.017306886974752096,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.32590419787830904,
+    "js_to_donor": 0.0071216384083473095,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.3098783366755544,
+    "js_to_donor": 0.0015622911184320052,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.29942307474822605,
+    "js_to_donor": 0.0011230565384657012,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.29886746127476393,
+    "js_to_donor": 0.0015010027374051734,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.2801230859770811,
+    "js_to_donor": 0.0012190941879650615,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.2819253423223057,
+    "js_to_donor": 0.002928297657840986,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.28369355594348145,
+    "js_to_donor": 0.0029253331832319296,
+    "closer_to": "donor"
+  },
+  {
+    "id": "python_bug",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.28767833004106425,
+    "js_to_donor": 8.379513067200534e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.04952450419408123,
+    "js_to_donor": 0.4838966037144611,
+    "closer_to": "target"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.38993597966477844,
+    "js_to_donor": 0.1408535057818789,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.06830246344904799,
+    "js_to_donor": 0.339761209192152,
+    "closer_to": "target"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.4475234208147148,
+    "js_to_donor": 0.023322266677796917,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.4467011432389055,
+    "js_to_donor": 0.019825415353229132,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.44166960766956775,
+    "js_to_donor": 0.017668610499160856,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.46737399878159347,
+    "js_to_donor": 0.010912672137443014,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.4968878291881894,
+    "js_to_donor": 0.008392441614097704,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.5100373014809716,
+    "js_to_donor": 1.8658848053362462e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.5017595688576135,
+    "js_to_donor": 0.001167716920053429,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.5032977975532297,
+    "js_to_donor": 0.00033823156760979384,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.5093656250623402,
+    "js_to_donor": 0.00023271954444769406,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.5090783452371723,
+    "js_to_donor": 2.1841215405855028e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.5099003766989652,
+    "js_to_donor": 8.747284799313646e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.5095630679942753,
+    "js_to_donor": 0.0001288958978796854,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.5097668092455544,
+    "js_to_donor": 5.879735009797562e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.509788239096421,
+    "js_to_donor": 5.940952197586996e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.5100373014809716,
+    "js_to_donor": 1.8658848053362462e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6934980387929777,
+    "js_to_donor": 0.6933472352728045,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.07282934124816283,
+    "js_to_donor": 0.32779423313843276,
+    "closer_to": "target"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.04733630805993348,
+    "js_to_donor": 0.3692523546779811,
+    "closer_to": "target"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.06390240999063919,
+    "js_to_donor": 0.33931624887403755,
+    "closer_to": "target"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.10436367344551527,
+    "js_to_donor": 0.2772732048179174,
+    "closer_to": "target"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.15516949433404198,
+    "js_to_donor": 0.21264304143788204,
+    "closer_to": "target"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.11967315888050623,
+    "js_to_donor": 0.2291960134730743,
+    "closer_to": "target"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.16399416148328788,
+    "js_to_donor": 0.18151545681428294,
+    "closer_to": "target"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.5094744875404188,
+    "js_to_donor": 2.8959216959970502e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.5781242138713256,
+    "js_to_donor": 0.008524329405750996,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.488497412062588,
+    "js_to_donor": 0.0029017398114248687,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.47891991589756877,
+    "js_to_donor": 0.0026254119417912307,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.48662144989306133,
+    "js_to_donor": 0.0019184921421927731,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.5258566973665826,
+    "js_to_donor": 0.0022380641057179367,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.49202051554234183,
+    "js_to_donor": 0.0006354438298535805,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.5051757996304973,
+    "js_to_donor": 0.00022546569637353652,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.5135295623545701,
+    "js_to_donor": 4.801490969149328e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "truth_liars",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.5094744875404188,
+    "js_to_donor": 2.8959216959970502e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.05593773830352715,
+    "js_to_donor": 0.6221741194526136,
+    "closer_to": "target"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.0023191894351735414,
+    "js_to_donor": 0.6693201666760495,
+    "closer_to": "target"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.09553815851420283,
+    "js_to_donor": 0.41436136733584145,
+    "closer_to": "target"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.4344329191920384,
+    "js_to_donor": 0.15099852294087582,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.4788214512174128,
+    "js_to_donor": 0.0827219778694744,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.5853508579062547,
+    "js_to_donor": 0.04058104485025053,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6389304074228348,
+    "js_to_donor": 0.04110135975239455,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.6294944060836535,
+    "js_to_donor": 0.035485844161947916,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6812750397792264,
+    "js_to_donor": 1.9278672255193963e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6813355576062705,
+    "js_to_donor": 0.008375528037879856,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6813065355038277,
+    "js_to_donor": 0.0013307401860390435,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6812596328184037,
+    "js_to_donor": 0.0007007939270998626,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6812328156765866,
+    "js_to_donor": 0.00013444528854385913,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.681250590898514,
+    "js_to_donor": 0.00024275330156925217,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6811994677716853,
+    "js_to_donor": 0.0020657715912700374,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6812304460580587,
+    "js_to_donor": 0.0009376055634170758,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6812533813658839,
+    "js_to_donor": 0.00018340481171451464,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6812750397792264,
+    "js_to_donor": 1.9278672255193963e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6926378982311421,
+    "js_to_donor": 0.6920854769268859,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.1010488631973899,
+    "js_to_donor": 0.49009601103476863,
+    "closer_to": "target"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.06488978125217669,
+    "js_to_donor": 0.5800510309291359,
+    "closer_to": "target"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.0755061721389533,
+    "js_to_donor": 0.5439408597019861,
+    "closer_to": "target"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.132958268326788,
+    "js_to_donor": 0.39121129609307714,
+    "closer_to": "target"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.24182690634000853,
+    "js_to_donor": 0.21145395015296617,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.2515786368975012,
+    "js_to_donor": 0.19799044721580628,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.4045126720901717,
+    "js_to_donor": 0.0841458238307354,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6817974286917674,
+    "js_to_donor": 1.4067607940554871e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6632537014299867,
+    "js_to_donor": 0.0021594247039272156,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6567537257453016,
+    "js_to_donor": 0.003045356125097603,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6614973055911126,
+    "js_to_donor": 0.0015937647715926029,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6678185666273431,
+    "js_to_donor": 0.000982190687971503,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6740449585684865,
+    "js_to_donor": 0.0003519270763452858,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6817535515023132,
+    "js_to_donor": 5.967559853722686e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.682263388152052,
+    "js_to_donor": 1.0001797585743586e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6821713377923384,
+    "js_to_donor": 5.493780457286007e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "calendar",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6817974286917674,
+    "js_to_donor": 1.4067607940554871e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.05382301701648505,
+    "js_to_donor": 0.5791631476738544,
+    "closer_to": "target"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.4691956780481521,
+    "js_to_donor": 0.17099038628057095,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.6699954477057004,
+    "js_to_donor": 0.04428907292855365,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.6675665680643545,
+    "js_to_donor": 0.07735392901611923,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.6811673298607803,
+    "js_to_donor": 0.03490270770154089,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.6825357376716499,
+    "js_to_donor": 0.021864163871159453,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6824954205509488,
+    "js_to_donor": 0.03161613989291149,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.6820246051068696,
+    "js_to_donor": 0.02509923950771305,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6840975244780646,
+    "js_to_donor": 4.5060276436568385e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6839275283059347,
+    "js_to_donor": 0.0027442132837585394,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6841122444164067,
+    "js_to_donor": 0.00014741668477261007,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6841045490287432,
+    "js_to_donor": 7.734880054389732e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6840764099155667,
+    "js_to_donor": 9.830329131980768e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6841138561829374,
+    "js_to_donor": 0.00013082502561451647,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6841318297612342,
+    "js_to_donor": 0.00046515631122264216,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6841088670207036,
+    "js_to_donor": 0.0001031005774633797,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6840948547919081,
+    "js_to_donor": 9.561106395175882e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6840975244780646,
+    "js_to_donor": 4.5060276436568385e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6921308742443163,
+    "js_to_donor": 0.6929973386692476,
+    "closer_to": "target"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.20007825479661825,
+    "js_to_donor": 0.30191068997974274,
+    "closer_to": "target"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.20501161222817285,
+    "js_to_donor": 0.28319718504748004,
+    "closer_to": "target"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.28819418699702265,
+    "js_to_donor": 0.19803318936106803,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.3994235546200533,
+    "js_to_donor": 0.13047078158216052,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.2393666195914415,
+    "js_to_donor": 0.23913962241935594,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.32606821810204734,
+    "js_to_donor": 0.1684712527628121,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.49231244366422344,
+    "js_to_donor": 0.08688885041844624,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6834141103386245,
+    "js_to_donor": 0.00019816725949676516,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6899366397218842,
+    "js_to_donor": 0.004762493495926695,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6853788516185091,
+    "js_to_donor": 0.000257746986552717,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6850058670337971,
+    "js_to_donor": 0.0006979681415292636,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6851864160949834,
+    "js_to_donor": 0.00019695808422054558,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6846674143414959,
+    "js_to_donor": 0.0001616705364985179,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6814729981388608,
+    "js_to_donor": 0.0001000699379703841,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6829593218815173,
+    "js_to_donor": 7.888603943834193e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6832132241613197,
+    "js_to_donor": 3.729458149231186e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "probability",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6834141103386245,
+    "js_to_donor": 0.00019816725949676516,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.040702018950443224,
+    "js_to_donor": 0.6880803568221481,
+    "closer_to": "target"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.03916777645399204,
+    "js_to_donor": 0.6779106992392842,
+    "closer_to": "target"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.053543508649215976,
+    "js_to_donor": 0.5158205261747117,
+    "closer_to": "target"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.23908288227243027,
+    "js_to_donor": 0.5069456436588002,
+    "closer_to": "target"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.23130978907596814,
+    "js_to_donor": 0.2940217284252995,
+    "closer_to": "target"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.3988276993246479,
+    "js_to_donor": 0.09515097551681637,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.4908175991193517,
+    "js_to_donor": 0.048573842676431805,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.464669767305237,
+    "js_to_donor": 0.05748778664061278,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6866191661142058,
+    "js_to_donor": 1.41382457921732e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.69092469655609,
+    "js_to_donor": 0.0002584818517943431,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6870646185534643,
+    "js_to_donor": 4.8976352249018094e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6870875476189598,
+    "js_to_donor": 3.368969739618848e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6872473386795434,
+    "js_to_donor": 2.0394176280723385e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6861385198990559,
+    "js_to_donor": 1.238472364471126e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6866163420113387,
+    "js_to_donor": 3.3556237791392603e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6850049739321051,
+    "js_to_donor": 2.7116874450099776e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6848498397056113,
+    "js_to_donor": 3.0658584400295114e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6866191661142058,
+    "js_to_donor": 1.41382457921732e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6938572610677483,
+    "js_to_donor": 0.6925801373296432,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.686266420814668,
+    "js_to_donor": 0.04485107592961593,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.6855289226440904,
+    "js_to_donor": 0.054709649464797054,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.6859335953188028,
+    "js_to_donor": 0.049233525467383646,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.6852706692133673,
+    "js_to_donor": 0.05099079127689067,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.6863186313088738,
+    "js_to_donor": 0.006985572936375254,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6871545263348735,
+    "js_to_donor": 0.004097067299681463,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.6875211669375725,
+    "js_to_donor": 0.006062699178828417,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6881429772538022,
+    "js_to_donor": 7.913875990152086e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6884021281667319,
+    "js_to_donor": 0.05848630976094099,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6887883669440219,
+    "js_to_donor": 0.1679831650558701,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6886603302014125,
+    "js_to_donor": 0.1292084232748789,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6887250176441192,
+    "js_to_donor": 0.14619786317644323,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6887081688693109,
+    "js_to_donor": 0.1436400113923707,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6882181429087124,
+    "js_to_donor": 0.008878654940903008,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6881994963001582,
+    "js_to_donor": 0.007159285113383838,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6881908605523368,
+    "js_to_donor": 0.006950012103463844,
+    "closer_to": "donor"
+  },
+  {
+    "id": "sorting_words",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6881429772538022,
+    "js_to_donor": 7.913875990152086e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.011796713808304134,
+    "js_to_donor": 0.6656007255538332,
+    "closer_to": "target"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.0003697385056063437,
+    "js_to_donor": 0.6876567996846917,
+    "closer_to": "target"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.08481318201595497,
+    "js_to_donor": 0.5950265636665741,
+    "closer_to": "target"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.07222398987439833,
+    "js_to_donor": 0.5900869089895113,
+    "closer_to": "target"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.15540320900307142,
+    "js_to_donor": 0.4497243052544324,
+    "closer_to": "target"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.22899885713551016,
+    "js_to_donor": 0.3305037849289416,
+    "closer_to": "target"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.5240897482674396,
+    "js_to_donor": 0.2646840551761644,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.4781943988173629,
+    "js_to_donor": 0.1674008935650596,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6894765110309873,
+    "js_to_donor": 6.796227000460198e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6896153212515503,
+    "js_to_donor": 0.0036945137503077456,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.689418131001508,
+    "js_to_donor": 0.0001547232317674855,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6894959846007176,
+    "js_to_donor": 8.095702451278746e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6894745274831287,
+    "js_to_donor": 5.1327441602213014e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6894411824786,
+    "js_to_donor": 0.00029814683829235144,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6892633728904962,
+    "js_to_donor": 8.38733264864918e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6893253311827318,
+    "js_to_donor": 6.76641931457039e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6892032763219065,
+    "js_to_donor": 3.3032923850905775e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6894765110309873,
+    "js_to_donor": 6.796227000460198e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.6926402958843496,
+    "js_to_donor": 0.693913696988411,
+    "closer_to": "target"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.6548507227692074,
+    "js_to_donor": 0.022041839489238994,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.6423381627621065,
+    "js_to_donor": 0.05407069002035207,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.6584397882399602,
+    "js_to_donor": 0.018328732890470264,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.6594469340136486,
+    "js_to_donor": 0.01665806928804451,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.6452532440195085,
+    "js_to_donor": 0.04981240446006867,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6552840382575229,
+    "js_to_donor": 0.024821267958733267,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.66322362915966,
+    "js_to_donor": 0.013328434679220283,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6881609516164705,
+    "js_to_donor": 9.22497999030999e-07,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6906089493131401,
+    "js_to_donor": 0.00018312124576813995,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6846426452199774,
+    "js_to_donor": 0.0003214838222565859,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6812113620736545,
+    "js_to_donor": 0.001117596558063151,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6836699480959284,
+    "js_to_donor": 0.0004993984350175284,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6843490595360224,
+    "js_to_donor": 0.0003698889455069157,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6869026864490542,
+    "js_to_donor": 4.923616300071213e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6871802998268477,
+    "js_to_donor": 3.176576553771753e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6866245833715936,
+    "js_to_donor": 7.00741385076094e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "equation",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6881609516164705,
+    "js_to_donor": 9.22497999030999e-07,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.002173032267269904,
+    "js_to_donor": 0.6897296827613674,
+    "closer_to": "target"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.06899149806685073,
+    "js_to_donor": 0.5044455834089858,
+    "closer_to": "target"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.24539891246098905,
+    "js_to_donor": 0.2885490896874655,
+    "closer_to": "target"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.495881177676243,
+    "js_to_donor": 0.0887430075569467,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.5701185642551421,
+    "js_to_donor": 0.09946590826428939,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.6426075488204007,
+    "js_to_donor": 0.10661575788090386,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6675936261077162,
+    "js_to_donor": 0.021127833632812967,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.6653145811240646,
+    "js_to_donor": 0.030637721481710463,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.6904878152409628,
+    "js_to_donor": 0.00022386651819726047,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6904817938318992,
+    "js_to_donor": 0.011895999253884513,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6908078961659732,
+    "js_to_donor": 0.0014289978689207452,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6906121183529412,
+    "js_to_donor": 0.0001516478823955159,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6905128914040117,
+    "js_to_donor": 0.0005532904756370443,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6906486780683257,
+    "js_to_donor": 0.0026340736009095433,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6905368597526628,
+    "js_to_donor": 0.0011661757633161661,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6902954359764598,
+    "js_to_donor": 0.0006817761536989356,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6903317980776054,
+    "js_to_donor": 0.00033903997751262934,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "think_to_no_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.6904878152409628,
+    "js_to_donor": 0.00022386651819726047,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 0,
+    "js_to_target": 0.693315922958856,
+    "js_to_donor": 0.6936262058405549,
+    "closer_to": "target"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 4,
+    "js_to_target": 0.3423395980648089,
+    "js_to_donor": 0.1972634758072411,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 8,
+    "js_to_target": 0.23204707422921828,
+    "js_to_donor": 0.31354536043555803,
+    "closer_to": "target"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 12,
+    "js_to_target": 0.30085714849041023,
+    "js_to_donor": 0.22740020985716214,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 16,
+    "js_to_target": 0.3970690569214105,
+    "js_to_donor": 0.14050090895392447,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 20,
+    "js_to_target": 0.5536949651087926,
+    "js_to_donor": 0.0424636619494146,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 24,
+    "js_to_target": 0.6207719567605308,
+    "js_to_donor": 0.02029906589801153,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 28,
+    "js_to_target": 0.6530539669953943,
+    "js_to_donor": 0.011170755889224785,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 1,
+    "layer_boundary": 32,
+    "js_to_target": 0.690128226960505,
+    "js_to_donor": 2.2665577731432194e-06,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 0,
+    "js_to_target": 0.6898865880501953,
+    "js_to_donor": 0.00019173918779094562,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 4,
+    "js_to_target": 0.6899844762250169,
+    "js_to_donor": 0.00013355685605608925,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 8,
+    "js_to_target": 0.6899489267937807,
+    "js_to_donor": 9.225863331187436e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 12,
+    "js_to_target": 0.6899073747135169,
+    "js_to_donor": 5.6210492624669524e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 16,
+    "js_to_target": 0.6897802712284141,
+    "js_to_donor": 0.00010684109887341801,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 20,
+    "js_to_target": 0.6905555912212217,
+    "js_to_donor": 0.0004431271718143355,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 24,
+    "js_to_target": 0.6904543492029183,
+    "js_to_donor": 0.00026836327299149587,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 28,
+    "js_to_target": 0.6902885439231129,
+    "js_to_donor": 6.84272566603242e-05,
+    "closer_to": "donor"
+  },
+  {
+    "id": "travel_plan",
+    "direction": "no_think_to_think",
+    "patch_width": 4,
+    "layer_boundary": 32,
+    "js_to_target": 0.690128226960505,
+    "js_to_donor": 2.2665577731432194e-06,
+    "closer_to": "donor"
+  }
+]

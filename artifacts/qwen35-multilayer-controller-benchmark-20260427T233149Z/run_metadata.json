@@ -1,0 +1,44 @@
+{
+  "started_at_utc": "2026-04-27T23:31:50.138445+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "model": "mlx-community/Qwen3.5-4B-4bit",
+  "patch_width": 2,
+  "layer_grid": [
+    15,
+    19,
+    24,
+    28
+  ],
+  "alpha_grid": [
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "selection_prefix_limit": 96,
+  "controllers": [
+    {
+      "label": "reasoning_controller",
+      "donor_mode": "think",
+      "target_mode": "no",
+      "target_baseline": "canonical_no",
+      "active_patch_steps": 1,
+      "description": "push a no-think prompt toward public reasoning behavior"
+    },
+    {
+      "label": "direct_answer_controller",
+      "donor_mode": "no",
+      "target_mode": "think",
+      "target_baseline": "canonical_think",
+      "active_patch_steps": 8,
+      "description": "push a think prompt toward direct-answer behavior"
+    }
+  ],
+  "train_prefix_steps": 16,
+  "patch_steps": 64,
+  "max_generation_tokens": 1024,
+  "method": "multi-layer generated-prefix activation controller selected on held-out-free prefix behavior"
+}

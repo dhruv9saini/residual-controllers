@@ -1,0 +1,2 @@
+~/.local/bin/uv sync
+~/.local/bin/uv run python scripts/run_qwen35_multiturn_weight_edit_suite.py --output-dir outputs/qwen35-multiturn-weight-edit-20260422T164047Z

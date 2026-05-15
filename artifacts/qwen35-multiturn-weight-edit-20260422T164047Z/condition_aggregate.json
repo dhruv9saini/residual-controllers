@@ -1,0 +1,38 @@
+[
+  {
+    "condition": "multiturn_clean_1",
+    "count": 24,
+    "mean_next_token_js": 0.6890888094342875,
+    "mean_final_hidden_cosine_distance": 0.6522331890108166
+  },
+  {
+    "condition": "multiturn_empty_history_1",
+    "count": 24,
+    "mean_next_token_js": 0.657220849160688,
+    "mean_final_hidden_cosine_distance": 0.6085619882865009
+  },
+  {
+    "condition": "multiturn_empty_history_3",
+    "count": 24,
+    "mean_next_token_js": 0.6109791490188546,
+    "mean_final_hidden_cosine_distance": 0.6168869322765146
+  },
+  {
+    "condition": "multiturn_reasoning_history_1",
+    "count": 24,
+    "mean_next_token_js": 0.5152251124624719,
+    "mean_final_hidden_cosine_distance": 0.48767213865250264
+  },
+  {
+    "condition": "multiturn_reasoning_history_3",
+    "count": 24,
+    "mean_next_token_js": 0.42912146007574586,
+    "mean_final_hidden_cosine_distance": 0.3230686200006002
+  },
+  {
+    "condition": "single_turn",
+    "count": 24,
+    "mean_next_token_js": 0.6841350184772037,
+    "mean_final_hidden_cosine_distance": 0.6303170882315292
+  }
+]

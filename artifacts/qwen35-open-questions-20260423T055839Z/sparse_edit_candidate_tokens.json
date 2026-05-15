@@ -1,0 +1,146 @@
+[
+  {
+    "side": "positive",
+    "token_id": 90700,
+    "token_text": "Thinking",
+    "mean_gap": 0.6108396964603647
+  },
+  {
+    "side": "positive",
+    "token_id": 8160,
+    "token_text": "Here",
+    "mean_gap": 0.3581357548634211
+  },
+  {
+    "side": "positive",
+    "token_id": 760,
+    "token_text": "The",
+    "mean_gap": 0.021039714415868126
+  },
+  {
+    "side": "positive",
+    "token_id": 31248,
+    "token_text": "Okay",
+    "mean_gap": 0.0038604107685387135
+  },
+  {
+    "side": "positive",
+    "token_id": 1421,
+    "token_text": "User",
+    "mean_gap": 0.0017966525770276576
+  },
+  {
+    "side": "positive",
+    "token_id": 40,
+    "token_text": "I",
+    "mean_gap": 0.0013293866068124771
+  },
+  {
+    "side": "positive",
+    "token_id": 1919,
+    "token_text": "This",
+    "mean_gap": 0.0011037669610232115
+  },
+  {
+    "side": "positive",
+    "token_id": 1596,
+    "token_text": "We",
+    "mean_gap": 0.00034967243360976375
+  },
+  {
+    "side": "positive",
+    "token_id": 37405,
+    "token_text": "Think",
+    "mean_gap": 0.00015364714151170725
+  },
+  {
+    "side": "positive",
+    "token_id": 17,
+    "token_text": "2",
+    "mean_gap": 0.00011037662625312805
+  },
+  {
+    "side": "positive",
+    "token_id": 16,
+    "token_text": "1",
+    "mean_gap": 7.079743469754855e-05
+  },
+  {
+    "side": "positive",
+    "token_id": 81266,
+    "token_text": "Thought",
+    "mean_gap": 5.764761741981298e-05
+  },
+  {
+    "side": "negative",
+    "token_id": 1206,
+    "token_text": "To",
+    "mean_gap": -0.8222397975623608
+  },
+  {
+    "side": "negative",
+    "token_id": 9764,
+    "token_text": "Let",
+    "mean_gap": -0.10940292291343212
+  },
+  {
+    "side": "negative",
+    "token_id": 27775,
+    "token_text": "Based",
+    "mean_gap": -0.04979923336456219
+  },
+  {
+    "side": "negative",
+    "token_id": 13962,
+    "token_text": "###",
+    "mean_gap": -0.014359450108410481
+  },
+  {
+    "side": "negative",
+    "token_id": 3733,
+    "token_text": "There",
+    "mean_gap": -0.0013940281545122464
+  },
+  {
+    "side": "negative",
+    "token_id": 623,
+    "token_text": "In",
+    "mean_gap": -1.9498790303866073e-05
+  },
+  {
+    "side": "negative",
+    "token_id": 2592,
+    "token_text": "If",
+    "mean_gap": -1.0428096478184063e-05
+  },
+  {
+    "side": "negative",
+    "token_id": 1946,
+    "token_text": " To",
+    "mean_gap": -7.816161944636708e-06
+  },
+  {
+    "side": "negative",
+    "token_id": 951,
+    "token_text": "to",
+    "mean_gap": -3.911468259805891e-06
+  },
+  {
+    "side": "negative",
+    "token_id": 19592,
+    "token_text": " Based",
+    "mean_gap": -3.298508014874339e-06
+  },
+  {
+    "side": "negative",
+    "token_id": 6558,
+    "token_text": " Let",
+    "mean_gap": -2.058760666538243e-06
+  },
+  {
+    "side": "negative",
+    "token_id": 332,
+    "token_text": "**",
+    "mean_gap": -1.7589967076977095e-06
+  }
+]

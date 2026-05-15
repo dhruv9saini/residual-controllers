@@ -1,0 +1,46 @@
+{
+  "main": [
+    {
+      "id": "count_strawberries_r",
+      "category": "counting",
+      "prompt": "How many r letters are in the word strawberries?"
+    },
+    {
+      "id": "mul_317_248",
+      "category": "arithmetic",
+      "prompt": "Compute 317 multiplied by 248 and give the exact result."
+    },
+    {
+      "id": "eq_3_7_25",
+      "category": "algebra",
+      "prompt": "Solve for x: 3x + 7 = 25."
+    },
+    {
+      "id": "ages_Ava_Ben_Cara_Dan",
+      "category": "logic_ordering",
+      "prompt": "Ava is older than Ben. Ben is older than Cara. Cara is older than Dan. Who is the second youngest?"
+    }
+  ],
+  "alt": [
+    {
+      "id": "calendar_monday_march_1",
+      "category": "calendar",
+      "prompt": "If January 1 is a Monday in a non-leap year, what day of the week is March 1?"
+    },
+    {
+      "id": "calendar_tuesday_april_1",
+      "category": "calendar",
+      "prompt": "If January 1 is a Tuesday in a non-leap year, what day of the week is April 1?"
+    },
+    {
+      "id": "sort_1",
+      "category": "language",
+      "prompt": "Sort these words alphabetically: banana, apple, apricot, blueberry."
+    },
+    {
+      "id": "sort_2",
+      "category": "language",
+      "prompt": "Sort these words alphabetically: zebra, ant, koala, yak."
+    }
+  ]
+}

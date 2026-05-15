@@ -1,0 +1,33 @@
+{
+  "audit": "mean_direction",
+  "donor_win_rate_when_patched_top1_differs_from_donor_top1": 1.0,
+  "donor_win_when_patched_top1_differs_from_donor_top1": 70,
+  "n": 360,
+  "patched_top1_differs_from_donor_top1": 70,
+  "patched_top1_equals_donor_top1": 290,
+  "patched_top1_equals_donor_top1_rate": 0.8055555555555556,
+  "patched_top1_in_small_canonical_opener_set": 352,
+  "patched_top1_in_small_canonical_opener_set_rate": 0.9777777777777777,
+  "top_patched_tokens": [
+    [
+      "To",
+      151
+    ],
+    [
+      "Thinking",
+      93
+    ],
+    [
+      "Here",
+      66
+    ],
+    [
+      "The",
+      42
+    ],
+    [
+      "Based",
+      8
+    ]
+  ]
+}

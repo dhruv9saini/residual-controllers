@@ -1,0 +1,122 @@
+[
+  {
+    "token_id": 90700,
+    "token_text": "Thinking",
+    "mean_gap": 0.5847745964295255
+  },
+  {
+    "token_id": 8160,
+    "token_text": "Here",
+    "mean_gap": 0.3235512351209106
+  },
+  {
+    "token_id": 760,
+    "token_text": "The",
+    "mean_gap": 0.013052398966145452
+  },
+  {
+    "token_id": 31248,
+    "token_text": "Okay",
+    "mean_gap": 0.0021494770228706827
+  },
+  {
+    "token_id": 1421,
+    "token_text": "User",
+    "mean_gap": 0.0019878514986039235
+  },
+  {
+    "token_id": 40,
+    "token_text": "I",
+    "mean_gap": 0.0010430986181368758
+  },
+  {
+    "token_id": 1919,
+    "token_text": "This",
+    "mean_gap": 0.0008481095523751994
+  },
+  {
+    "token_id": 1596,
+    "token_text": "We",
+    "mean_gap": 0.0004135377296664159
+  },
+  {
+    "token_id": 37405,
+    "token_text": "Think",
+    "mean_gap": 0.00014963098522165135
+  },
+  {
+    "token_id": 17,
+    "token_text": "2",
+    "mean_gap": 9.142382680437691e-05
+  },
+  {
+    "token_id": 16,
+    "token_text": "1",
+    "mean_gap": 8.58651418435947e-05
+  },
+  {
+    "token_id": 81266,
+    "token_text": "Thought",
+    "mean_gap": 7.523882422886783e-05
+  },
+  {
+    "token_id": 1206,
+    "token_text": "To",
+    "mean_gap": -0.8222765024873387
+  },
+  {
+    "token_id": 9764,
+    "token_text": "Let",
+    "mean_gap": -0.07877015184164532
+  },
+  {
+    "token_id": 27775,
+    "token_text": "Based",
+    "mean_gap": -0.02030628071951897
+  },
+  {
+    "token_id": 13962,
+    "token_text": "###",
+    "mean_gap": -0.0034698728079036343
+  },
+  {
+    "token_id": 3733,
+    "token_text": "There",
+    "mean_gap": -0.002741174410177395
+  },
+  {
+    "token_id": 623,
+    "token_text": "In",
+    "mean_gap": -0.0008583994751800287
+  },
+  {
+    "token_id": 2033,
+    "token_text": "Al",
+    "mean_gap": -5.728152497576675e-05
+  },
+  {
+    "token_id": 21765,
+    "token_text": "Looking",
+    "mean_gap": -5.16391304403652e-05
+  },
+  {
+    "token_id": 951,
+    "token_text": "to",
+    "mean_gap": -1.193137276018584e-05
+  },
+  {
+    "token_id": 332,
+    "token_text": "**",
+    "mean_gap": -1.115795545534085e-05
+  },
+  {
+    "token_id": 248068,
+    "token_text": "<think>",
+    "mean_gap": -1.0602217823135198e-05
+  },
+  {
+    "token_id": 12189,
+    "token_text": "Since",
+    "mean_gap": -1.012161736421875e-05
+  }
+]

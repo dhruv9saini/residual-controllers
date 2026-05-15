@@ -1,0 +1,32 @@
+{
+  "started_at_utc": "2026-04-23T16:22:46.475149+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python3",
+  "trace_token_steps": [
+    0,
+    8,
+    32,
+    64
+  ],
+  "trace_generation_tokens": 128,
+  "manual_continuation_tokens": 96,
+  "bootstrap_iters": 4000,
+  "model_families": [
+    {
+      "label": "liquid_12b",
+      "display_name": "LiquidAI LFM2.5 1.2B",
+      "instruct_model": "LiquidAI/LFM2.5-1.2B-Instruct-MLX-4bit",
+      "think_model": "LiquidAI/LFM2.5-1.2B-Thinking-MLX-4bit",
+      "run_template_ablation": false
+    },
+    {
+      "label": "olmo3_7b",
+      "display_name": "OLMo 3 7B",
+      "instruct_model": "mlx-community/Olmo-3-7B-Instruct-4bit",
+      "think_model": "mlx-community/Olmo-3-7B-Think-4bit",
+      "run_template_ablation": true
+    }
+  ],
+  "prompt_count": 12
+}

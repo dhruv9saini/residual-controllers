@@ -1,0 +1,279 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 22982.49it/s]
+2026-04-27T15:28:35.158547+00:00 prompt-cache 1/180 eq_2_9_21
+2026-04-27T15:28:35.410044+00:00 prompt-cache 2/180 eq_3_7_25
+2026-04-27T15:28:35.624107+00:00 prompt-cache 3/180 eq_4_3_35
+2026-04-27T15:28:35.838071+00:00 prompt-cache 4/180 eq_5_-4_31
+2026-04-27T15:28:36.051412+00:00 prompt-cache 5/180 eq_6_-1_23
+2026-04-27T15:28:36.264619+00:00 prompt-cache 6/180 eq_7_5_54
+2026-04-27T15:28:36.477702+00:00 prompt-cache 7/180 extra_algebra_00
+2026-04-27T15:28:36.691285+00:00 prompt-cache 8/180 extra_algebra_01
+2026-04-27T15:28:36.904983+00:00 prompt-cache 9/180 extra_algebra_02
+2026-04-27T15:28:37.118120+00:00 prompt-cache 10/180 extra_algebra_03
+2026-04-27T15:28:37.331597+00:00 prompt-cache 11/180 extra_algebra_04
+2026-04-27T15:28:37.544818+00:00 prompt-cache 12/180 extra_algebra_05
+2026-04-27T15:28:37.757818+00:00 prompt-cache 13/180 extra_algebra_06
+2026-04-27T15:28:37.971047+00:00 prompt-cache 14/180 extra_algebra_07
+2026-04-27T15:28:38.184427+00:00 prompt-cache 15/180 extra_algebra_08
+2026-04-27T15:28:38.397285+00:00 prompt-cache 16/180 extra_algebra_09
+2026-04-27T15:28:38.610960+00:00 prompt-cache 17/180 extra_algebra_10
+2026-04-27T15:28:38.824034+00:00 prompt-cache 18/180 extra_algebra_11
+2026-04-27T15:28:39.037375+00:00 prompt-cache 19/180 extra_arithmetic_00
+2026-04-27T15:28:39.248047+00:00 prompt-cache 20/180 extra_arithmetic_01
+2026-04-27T15:28:39.458530+00:00 prompt-cache 21/180 extra_arithmetic_02
+2026-04-27T15:28:39.668594+00:00 prompt-cache 22/180 extra_arithmetic_03
+2026-04-27T15:28:39.878920+00:00 prompt-cache 23/180 extra_arithmetic_04
+2026-04-27T15:28:40.089356+00:00 prompt-cache 24/180 extra_arithmetic_05
+2026-04-27T15:28:40.299821+00:00 prompt-cache 25/180 extra_arithmetic_06
+2026-04-27T15:28:40.510712+00:00 prompt-cache 26/180 extra_arithmetic_07
+2026-04-27T15:28:40.721738+00:00 prompt-cache 27/180 extra_arithmetic_08
+2026-04-27T15:28:40.932995+00:00 prompt-cache 28/180 extra_arithmetic_09
+2026-04-27T15:28:41.144668+00:00 prompt-cache 29/180 extra_arithmetic_10
+2026-04-27T15:28:41.356132+00:00 prompt-cache 30/180 extra_arithmetic_11
+2026-04-27T15:28:41.567640+00:00 prompt-cache 31/180 mul_124_125
+2026-04-27T15:28:41.781306+00:00 prompt-cache 32/180 mul_126_94
+2026-04-27T15:28:41.994615+00:00 prompt-cache 33/180 mul_317_248
+2026-04-27T15:28:42.209177+00:00 prompt-cache 34/180 mul_438_57
+2026-04-27T15:28:42.422843+00:00 prompt-cache 35/180 mul_808_19
+2026-04-27T15:28:42.635597+00:00 prompt-cache 36/180 mul_999_37
+2026-04-27T15:28:42.848865+00:00 prompt-cache 37/180 calendar_friday_july_1
+2026-04-27T15:28:43.202180+00:00 prompt-cache 38/180 calendar_monday_march_1
+2026-04-27T15:28:43.555809+00:00 prompt-cache 39/180 calendar_saturday_august_1
+2026-04-27T15:28:43.909397+00:00 prompt-cache 40/180 calendar_thursday_june_1
+2026-04-27T15:28:44.263959+00:00 prompt-cache 41/180 calendar_tuesday_april_1
+2026-04-27T15:28:44.617519+00:00 prompt-cache 42/180 calendar_wednesday_may_1
+2026-04-27T15:28:44.971421+00:00 prompt-cache 43/180 extra_calendar_00
+2026-04-27T15:28:45.325863+00:00 prompt-cache 44/180 extra_calendar_01
+2026-04-27T15:28:45.680216+00:00 prompt-cache 45/180 extra_calendar_02
+2026-04-27T15:28:46.034343+00:00 prompt-cache 46/180 extra_calendar_03
+2026-04-27T15:28:46.386588+00:00 prompt-cache 47/180 extra_calendar_04
+2026-04-27T15:28:46.740867+00:00 prompt-cache 48/180 extra_calendar_05
+2026-04-27T15:28:47.096120+00:00 prompt-cache 49/180 extra_calendar_06
+2026-04-27T15:28:47.451811+00:00 prompt-cache 50/180 extra_calendar_07
+2026-04-27T15:28:47.805552+00:00 prompt-cache 51/180 extra_calendar_08
+2026-04-27T15:28:48.160549+00:00 prompt-cache 52/180 extra_calendar_09
+2026-04-27T15:28:48.515947+00:00 prompt-cache 53/180 extra_calendar_10
+2026-04-27T15:28:48.871688+00:00 prompt-cache 54/180 extra_calendar_11
+2026-04-27T15:28:49.224092+00:00 prompt-cache 55/180 code_bug_1
+2026-04-27T15:28:49.582377+00:00 prompt-cache 56/180 code_bug_2
+2026-04-27T15:28:49.797666+00:00 prompt-cache 57/180 code_bug_3
+2026-04-27T15:28:50.009657+00:00 prompt-cache 58/180 code_bug_4
+2026-04-27T15:28:50.294337+00:00 prompt-cache 59/180 code_bug_5
+2026-04-27T15:28:50.509087+00:00 prompt-cache 60/180 code_bug_6
+2026-04-27T15:28:50.792655+00:00 prompt-cache 61/180 extra_coding_00
+2026-04-27T15:28:51.007658+00:00 prompt-cache 62/180 extra_coding_01
+2026-04-27T15:28:51.361433+00:00 prompt-cache 63/180 extra_coding_02
+2026-04-27T15:28:51.576825+00:00 prompt-cache 64/180 extra_coding_03
+2026-04-27T15:28:51.790787+00:00 prompt-cache 65/180 extra_coding_04
+2026-04-27T15:28:52.006083+00:00 prompt-cache 66/180 extra_coding_05
+2026-04-27T15:28:52.360403+00:00 prompt-cache 67/180 extra_coding_06
+2026-04-27T15:28:52.575838+00:00 prompt-cache 68/180 extra_coding_07
+2026-04-27T15:28:52.789954+00:00 prompt-cache 69/180 extra_coding_08
+2026-04-27T15:28:53.005137+00:00 prompt-cache 70/180 extra_coding_09
+2026-04-27T15:28:53.358481+00:00 prompt-cache 71/180 extra_coding_10
+2026-04-27T15:28:53.573628+00:00 prompt-cache 72/180 extra_coding_11
+2026-04-27T15:28:53.787873+00:00 prompt-cache 73/180 count_balloon_l
+2026-04-27T15:28:53.997129+00:00 prompt-cache 74/180 count_bookkeeper_e
+2026-04-27T15:28:54.207419+00:00 prompt-cache 75/180 count_committee_m
+2026-04-27T15:28:54.416140+00:00 prompt-cache 76/180 count_mississippi_s
+2026-04-27T15:28:54.626630+00:00 prompt-cache 77/180 count_programming_g
+2026-04-27T15:28:54.836427+00:00 prompt-cache 78/180 count_strawberries_r
+2026-04-27T15:28:55.045918+00:00 prompt-cache 79/180 extra_counting_00
+2026-04-27T15:28:55.260453+00:00 prompt-cache 80/180 extra_counting_01
+2026-04-27T15:28:55.475722+00:00 prompt-cache 81/180 extra_counting_02
+2026-04-27T15:28:55.690348+00:00 prompt-cache 82/180 extra_counting_03
+2026-04-27T15:28:55.901608+00:00 prompt-cache 83/180 extra_counting_04
+2026-04-27T15:28:56.116617+00:00 prompt-cache 84/180 extra_counting_05
+2026-04-27T15:28:56.331438+00:00 prompt-cache 85/180 extra_counting_06
+2026-04-27T15:28:56.545931+00:00 prompt-cache 86/180 extra_counting_07
+2026-04-27T15:28:56.760947+00:00 prompt-cache 87/180 extra_counting_08
+2026-04-27T15:28:56.975917+00:00 prompt-cache 88/180 extra_counting_09
+2026-04-27T15:28:57.190847+00:00 prompt-cache 89/180 extra_counting_10
+2026-04-27T15:28:57.404942+00:00 prompt-cache 90/180 extra_counting_11
+2026-04-27T15:28:57.620116+00:00 prompt-cache 91/180 coin_10
+2026-04-27T15:28:57.974964+00:00 prompt-cache 92/180 coin_11
+2026-04-27T15:28:58.330534+00:00 prompt-cache 93/180 coin_6
+2026-04-27T15:28:58.683262+00:00 prompt-cache 94/180 coin_7
+2026-04-27T15:28:59.038667+00:00 prompt-cache 95/180 coin_8
+2026-04-27T15:28:59.393520+00:00 prompt-cache 96/180 coin_9
+2026-04-27T15:28:59.748789+00:00 prompt-cache 97/180 extra_dynamic_programming_00
+2026-04-27T15:29:00.105087+00:00 prompt-cache 98/180 extra_dynamic_programming_01
+2026-04-27T15:29:00.461231+00:00 prompt-cache 99/180 extra_dynamic_programming_02
+2026-04-27T15:29:00.817474+00:00 prompt-cache 100/180 extra_dynamic_programming_03
+2026-04-27T15:29:01.173587+00:00 prompt-cache 101/180 extra_dynamic_programming_04
+2026-04-27T15:29:01.526185+00:00 prompt-cache 102/180 extra_dynamic_programming_05
+2026-04-27T15:29:01.881131+00:00 prompt-cache 103/180 extra_dynamic_programming_06
+2026-04-27T15:29:02.236557+00:00 prompt-cache 104/180 extra_dynamic_programming_07
+2026-04-27T15:29:02.592092+00:00 prompt-cache 105/180 extra_dynamic_programming_08
+2026-04-27T15:29:02.947599+00:00 prompt-cache 106/180 extra_dynamic_programming_09
+2026-04-27T15:29:03.303115+00:00 prompt-cache 107/180 extra_dynamic_programming_10
+2026-04-27T15:29:03.658733+00:00 prompt-cache 108/180 extra_dynamic_programming_11
+2026-04-27T15:29:04.014230+00:00 prompt-cache 109/180 extra_language_00
+2026-04-27T15:29:04.229035+00:00 prompt-cache 110/180 extra_language_01
+2026-04-27T15:29:04.441258+00:00 prompt-cache 111/180 extra_language_02
+2026-04-27T15:29:04.654259+00:00 prompt-cache 112/180 extra_language_03
+2026-04-27T15:29:04.866230+00:00 prompt-cache 113/180 extra_language_04
+2026-04-27T15:29:05.080963+00:00 prompt-cache 114/180 extra_language_05
+2026-04-27T15:29:05.293274+00:00 prompt-cache 115/180 extra_language_06
+2026-04-27T15:29:05.506662+00:00 prompt-cache 116/180 extra_language_07
+2026-04-27T15:29:05.718927+00:00 prompt-cache 117/180 extra_language_08
+2026-04-27T15:29:05.933549+00:00 prompt-cache 118/180 extra_language_09
+2026-04-27T15:29:06.144704+00:00 prompt-cache 119/180 extra_language_10
+2026-04-27T15:29:06.357801+00:00 prompt-cache 120/180 extra_language_11
+2026-04-27T15:29:06.569830+00:00 prompt-cache 121/180 sort_1
+2026-04-27T15:29:06.784189+00:00 prompt-cache 122/180 sort_2
+2026-04-27T15:29:06.998609+00:00 prompt-cache 123/180 sort_3
+2026-04-27T15:29:07.211137+00:00 prompt-cache 124/180 sort_4
+2026-04-27T15:29:07.424913+00:00 prompt-cache 125/180 sort_5
+2026-04-27T15:29:07.637378+00:00 prompt-cache 126/180 sort_6
+2026-04-27T15:29:07.851489+00:00 prompt-cache 127/180 ages_Ava_Ben_Cara_Dan
+2026-04-27T15:29:08.206575+00:00 prompt-cache 128/180 ages_Iris_Jules_Kai_Lena
+2026-04-27T15:29:08.561631+00:00 prompt-cache 129/180 ages_Mina_Nora_Owen_Pia
+2026-04-27T15:29:08.916718+00:00 prompt-cache 130/180 ages_Quin_Ruth_Seth_Tara
+2026-04-27T15:29:09.271594+00:00 prompt-cache 131/180 ages_Uma_Vera_Wade_Xena
+2026-04-27T15:29:09.626001+00:00 prompt-cache 132/180 ages_Yara_Zane_Arlo_Bree
+2026-04-27T15:29:09.983491+00:00 prompt-cache 133/180 extra_logic_ordering_00
+2026-04-27T15:29:10.343282+00:00 prompt-cache 134/180 extra_logic_ordering_01
+2026-04-27T15:29:10.702519+00:00 prompt-cache 135/180 extra_logic_ordering_02
+2026-04-27T15:29:11.062755+00:00 prompt-cache 136/180 extra_logic_ordering_03
+2026-04-27T15:29:11.423008+00:00 prompt-cache 137/180 extra_logic_ordering_04
+2026-04-27T15:29:11.783283+00:00 prompt-cache 138/180 extra_logic_ordering_05
+2026-04-27T15:29:12.143544+00:00 prompt-cache 139/180 extra_logic_ordering_06
+2026-04-27T15:29:12.504149+00:00 prompt-cache 140/180 extra_logic_ordering_07
+2026-04-27T15:29:12.864073+00:00 prompt-cache 141/180 extra_logic_ordering_08
+2026-04-27T15:29:13.224301+00:00 prompt-cache 142/180 extra_logic_ordering_09
+2026-04-27T15:29:13.584083+00:00 prompt-cache 143/180 extra_logic_ordering_10
+2026-04-27T15:29:13.947366+00:00 prompt-cache 144/180 extra_logic_ordering_11
+2026-04-27T15:29:14.311827+00:00 prompt-cache 145/180 extra_planning_00
+2026-04-27T15:29:14.672157+00:00 prompt-cache 146/180 extra_planning_01
+2026-04-27T15:29:15.032314+00:00 prompt-cache 147/180 extra_planning_02
+2026-04-27T15:29:15.392485+00:00 prompt-cache 148/180 extra_planning_03
+2026-04-27T15:29:15.751659+00:00 prompt-cache 149/180 extra_planning_04
+2026-04-27T15:29:16.112107+00:00 prompt-cache 150/180 extra_planning_05
+2026-04-27T15:29:16.472340+00:00 prompt-cache 151/180 extra_planning_06
+2026-04-27T15:29:16.829165+00:00 prompt-cache 152/180 extra_planning_07
+2026-04-27T15:29:17.188867+00:00 prompt-cache 153/180 extra_planning_08
+2026-04-27T15:29:17.548751+00:00 prompt-cache 154/180 extra_planning_09
+2026-04-27T15:29:17.908711+00:00 prompt-cache 155/180 extra_planning_10
+2026-04-27T15:29:18.270170+00:00 prompt-cache 156/180 extra_planning_11
+2026-04-27T15:29:18.631896+00:00 prompt-cache 157/180 trip_bank
+2026-04-27T15:29:18.998464+00:00 prompt-cache 158/180 trip_city_hall
+2026-04-27T15:29:19.364065+00:00 prompt-cache 159/180 trip_dentist
+2026-04-27T15:29:19.731924+00:00 prompt-cache 160/180 trip_doctor
+2026-04-27T15:29:20.097561+00:00 prompt-cache 161/180 trip_pharmacy
+2026-04-27T15:29:20.463694+00:00 prompt-cache 162/180 trip_tailor
+2026-04-27T15:29:20.828907+00:00 prompt-cache 163/180 extra_probability_00
+2026-04-27T15:29:21.044061+00:00 prompt-cache 164/180 extra_probability_01
+2026-04-27T15:29:21.259607+00:00 prompt-cache 165/180 extra_probability_02
+2026-04-27T15:29:21.474866+00:00 prompt-cache 166/180 extra_probability_03
+2026-04-27T15:29:21.689901+00:00 prompt-cache 167/180 extra_probability_04
+2026-04-27T15:29:21.904675+00:00 prompt-cache 168/180 extra_probability_05
+2026-04-27T15:29:22.119848+00:00 prompt-cache 169/180 extra_probability_06
+2026-04-27T15:29:22.335502+00:00 prompt-cache 170/180 extra_probability_07
+2026-04-27T15:29:22.550409+00:00 prompt-cache 171/180 extra_probability_08
+2026-04-27T15:29:22.765643+00:00 prompt-cache 172/180 extra_probability_09
+2026-04-27T15:29:22.980672+00:00 prompt-cache 173/180 extra_probability_10
+2026-04-27T15:29:23.195957+00:00 prompt-cache 174/180 extra_probability_11
+2026-04-27T15:29:23.411330+00:00 prompt-cache 175/180 heads_exact2_3
+2026-04-27T15:29:23.626719+00:00 prompt-cache 176/180 heads_exact2_4
+2026-04-27T15:29:23.842349+00:00 prompt-cache 177/180 heads_exact2_5
+2026-04-27T15:29:24.058250+00:00 prompt-cache 178/180 heads_exact2_6
+2026-04-27T15:29:24.273673+00:00 prompt-cache 179/180 heads_exact2_7
+2026-04-27T15:29:24.489004+00:00 prompt-cache 180/180 heads_exact2_8
+2026-04-27T15:29:24.705341+00:00 select prompt-controller fold 0 think_to_no_think
+2026-04-27T15:30:59.211101+00:00 select prompt-controller fold 0 no_think_to_think
+2026-04-27T15:32:18.009026+00:00 select prompt-controller fold 1 think_to_no_think
+2026-04-27T15:33:53.213773+00:00 select prompt-controller fold 1 no_think_to_think
+2026-04-27T15:35:12.648165+00:00 select prompt-controller fold 2 think_to_no_think
+2026-04-27T15:36:48.441413+00:00 select prompt-controller fold 2 no_think_to_think
+2026-04-27T15:38:16.165826+00:00 gen-prefix train think_to_no_think layer 15 prompt 1/40 eq_2_9_21
+2026-04-27T15:38:23.501227+00:00 gen-prefix train think_to_no_think layer 15 prompt 2/40 eq_3_7_25
+2026-04-27T15:38:30.817464+00:00 gen-prefix train think_to_no_think layer 15 prompt 3/40 eq_4_3_35
+2026-04-27T15:38:38.142549+00:00 gen-prefix train think_to_no_think layer 15 prompt 4/40 eq_5_-4_31
+2026-04-27T15:38:45.481640+00:00 gen-prefix train think_to_no_think layer 15 prompt 5/40 eq_6_-1_23
+2026-04-27T15:38:52.819932+00:00 gen-prefix train think_to_no_think layer 15 prompt 6/40 eq_7_5_54
+2026-04-27T15:39:00.146352+00:00 gen-prefix train think_to_no_think layer 15 prompt 7/40 extra_algebra_00
+2026-04-27T15:39:07.486645+00:00 gen-prefix train think_to_no_think layer 15 prompt 8/40 extra_algebra_01
+2026-04-27T15:39:14.828268+00:00 gen-prefix train think_to_no_think layer 15 prompt 9/40 extra_algebra_02
+2026-04-27T15:39:22.170794+00:00 gen-prefix train think_to_no_think layer 15 prompt 10/40 extra_algebra_03
+2026-04-27T15:39:29.500264+00:00 gen-prefix train think_to_no_think layer 15 prompt 11/40 extra_algebra_04
+2026-04-27T15:39:36.836131+00:00 gen-prefix train think_to_no_think layer 15 prompt 12/40 extra_algebra_05
+2026-04-27T15:39:44.165932+00:00 gen-prefix train think_to_no_think layer 15 prompt 13/40 extra_algebra_06
+2026-04-27T15:39:51.497704+00:00 gen-prefix train think_to_no_think layer 15 prompt 14/40 extra_algebra_07
+2026-04-27T15:39:58.828716+00:00 gen-prefix train think_to_no_think layer 15 prompt 15/40 extra_algebra_08
+2026-04-27T15:40:06.156068+00:00 gen-prefix train think_to_no_think layer 15 prompt 16/40 extra_algebra_09
+2026-04-27T15:40:13.480487+00:00 gen-prefix train think_to_no_think layer 15 prompt 17/40 extra_algebra_10
+2026-04-27T15:40:20.805282+00:00 gen-prefix train think_to_no_think layer 15 prompt 18/40 extra_algebra_11
+2026-04-27T15:40:28.118588+00:00 gen-prefix train think_to_no_think layer 15 prompt 19/40 extra_arithmetic_00
+2026-04-27T15:40:34.552273+00:00 gen-prefix train think_to_no_think layer 15 prompt 20/40 extra_arithmetic_01
+2026-04-27T15:40:40.994590+00:00 gen-prefix train think_to_no_think layer 15 prompt 21/40 extra_arithmetic_02
+2026-04-27T15:40:47.431476+00:00 gen-prefix train think_to_no_think layer 15 prompt 22/40 extra_arithmetic_03
+2026-04-27T15:40:53.869733+00:00 gen-prefix train think_to_no_think layer 15 prompt 23/40 extra_arithmetic_04
+2026-04-27T15:41:00.305729+00:00 gen-prefix train think_to_no_think layer 15 prompt 24/40 extra_arithmetic_05
+2026-04-27T15:41:06.739378+00:00 gen-prefix train think_to_no_think layer 15 prompt 25/40 extra_arithmetic_06
+2026-04-27T15:41:13.171819+00:00 gen-prefix train think_to_no_think layer 15 prompt 26/40 extra_arithmetic_07
+2026-04-27T15:41:19.829862+00:00 gen-prefix train think_to_no_think layer 15 prompt 27/40 extra_arithmetic_08
+2026-04-27T15:41:26.480090+00:00 gen-prefix train think_to_no_think layer 15 prompt 28/40 extra_arithmetic_09
+2026-04-27T15:41:33.135645+00:00 gen-prefix train think_to_no_think layer 15 prompt 29/40 extra_arithmetic_10
+2026-04-27T15:41:39.787722+00:00 gen-prefix train think_to_no_think layer 15 prompt 30/40 extra_arithmetic_11
+2026-04-27T15:41:46.445529+00:00 gen-prefix train think_to_no_think layer 15 prompt 31/40 mul_124_125
+2026-04-27T15:41:53.973214+00:00 gen-prefix train think_to_no_think layer 15 prompt 32/40 mul_126_94
+2026-04-27T15:42:01.286354+00:00 gen-prefix train think_to_no_think layer 15 prompt 33/40 mul_317_248
+2026-04-27T15:42:08.829046+00:00 gen-prefix train think_to_no_think layer 15 prompt 34/40 mul_438_57
+2026-04-27T15:42:16.149720+00:00 gen-prefix train think_to_no_think layer 15 prompt 35/40 mul_808_19
+2026-04-27T15:42:23.463935+00:00 gen-prefix train think_to_no_think layer 15 prompt 36/40 mul_999_37
+2026-04-27T15:42:30.789739+00:00 gen-prefix train think_to_no_think layer 15 prompt 37/40 calendar_friday_july_1
+2026-04-27T15:42:39.419731+00:00 gen-prefix train think_to_no_think layer 15 prompt 38/40 calendar_monday_march_1
+2026-04-27T15:42:48.058210+00:00 gen-prefix train think_to_no_think layer 15 prompt 39/40 calendar_saturday_august_1
+2026-04-27T15:42:56.689093+00:00 gen-prefix train think_to_no_think layer 15 prompt 40/40 calendar_thursday_june_1
+2026-04-27T15:47:15.253587+00:00 gen-prefix train no_think_to_think layer 19 prompt 1/40 eq_2_9_21
+2026-04-27T15:47:22.472635+00:00 gen-prefix train no_think_to_think layer 19 prompt 2/40 eq_3_7_25
+2026-04-27T15:47:29.639722+00:00 gen-prefix train no_think_to_think layer 19 prompt 3/40 eq_4_3_35
+2026-04-27T15:47:36.807319+00:00 gen-prefix train no_think_to_think layer 19 prompt 4/40 eq_5_-4_31
+2026-04-27T15:47:43.977415+00:00 gen-prefix train no_think_to_think layer 19 prompt 5/40 eq_6_-1_23
+2026-04-27T15:47:51.152560+00:00 gen-prefix train no_think_to_think layer 19 prompt 6/40 eq_7_5_54
+2026-04-27T15:47:58.328777+00:00 gen-prefix train no_think_to_think layer 19 prompt 7/40 extra_algebra_00
+2026-04-27T15:48:05.505576+00:00 gen-prefix train no_think_to_think layer 19 prompt 8/40 extra_algebra_01
+2026-04-27T15:48:12.685893+00:00 gen-prefix train no_think_to_think layer 19 prompt 9/40 extra_algebra_02
+2026-04-27T15:48:19.867860+00:00 gen-prefix train no_think_to_think layer 19 prompt 10/40 extra_algebra_03
+2026-04-27T15:48:27.045373+00:00 gen-prefix train no_think_to_think layer 19 prompt 11/40 extra_algebra_04
+2026-04-27T15:48:34.224346+00:00 gen-prefix train no_think_to_think layer 19 prompt 12/40 extra_algebra_05
+2026-04-27T15:48:41.407300+00:00 gen-prefix train no_think_to_think layer 19 prompt 13/40 extra_algebra_06
+2026-04-27T15:48:48.589979+00:00 gen-prefix train no_think_to_think layer 19 prompt 14/40 extra_algebra_07
+2026-04-27T15:48:55.771444+00:00 gen-prefix train no_think_to_think layer 19 prompt 15/40 extra_algebra_08
+2026-04-27T15:49:02.960550+00:00 gen-prefix train no_think_to_think layer 19 prompt 16/40 extra_algebra_09
+2026-04-27T15:49:10.151844+00:00 gen-prefix train no_think_to_think layer 19 prompt 17/40 extra_algebra_10
+2026-04-27T15:49:17.337184+00:00 gen-prefix train no_think_to_think layer 19 prompt 18/40 extra_algebra_11
+2026-04-27T15:49:24.518875+00:00 gen-prefix train no_think_to_think layer 19 prompt 19/40 extra_arithmetic_00
+2026-04-27T15:49:30.816649+00:00 gen-prefix train no_think_to_think layer 19 prompt 20/40 extra_arithmetic_01
+2026-04-27T15:49:37.107856+00:00 gen-prefix train no_think_to_think layer 19 prompt 21/40 extra_arithmetic_02
+2026-04-27T15:49:43.412009+00:00 gen-prefix train no_think_to_think layer 19 prompt 22/40 extra_arithmetic_03
+2026-04-27T15:49:49.716207+00:00 gen-prefix train no_think_to_think layer 19 prompt 23/40 extra_arithmetic_04
+2026-04-27T15:49:56.019323+00:00 gen-prefix train no_think_to_think layer 19 prompt 24/40 extra_arithmetic_05
+2026-04-27T15:50:02.324993+00:00 gen-prefix train no_think_to_think layer 19 prompt 25/40 extra_arithmetic_06
+2026-04-27T15:50:08.626478+00:00 gen-prefix train no_think_to_think layer 19 prompt 26/40 extra_arithmetic_07
+2026-04-27T15:50:15.150036+00:00 gen-prefix train no_think_to_think layer 19 prompt 27/40 extra_arithmetic_08
+2026-04-27T15:50:21.676699+00:00 gen-prefix train no_think_to_think layer 19 prompt 28/40 extra_arithmetic_09
+2026-04-27T15:50:28.202894+00:00 gen-prefix train no_think_to_think layer 19 prompt 29/40 extra_arithmetic_10
+2026-04-27T15:50:34.728157+00:00 gen-prefix train no_think_to_think layer 19 prompt 30/40 extra_arithmetic_11
+2026-04-27T15:50:41.254074+00:00 gen-prefix train no_think_to_think layer 19 prompt 31/40 mul_124_125
+2026-04-27T15:50:48.671111+00:00 gen-prefix train no_think_to_think layer 19 prompt 32/40 mul_126_94
+2026-04-27T15:50:55.870434+00:00 gen-prefix train no_think_to_think layer 19 prompt 33/40 mul_317_248
+2026-04-27T15:51:03.286800+00:00 gen-prefix train no_think_to_think layer 19 prompt 34/40 mul_438_57
+2026-04-27T15:51:10.473060+00:00 gen-prefix train no_think_to_think layer 19 prompt 35/40 mul_808_19
+2026-04-27T15:51:17.676448+00:00 gen-prefix train no_think_to_think layer 19 prompt 36/40 mul_999_37
+2026-04-27T15:51:24.868610+00:00 gen-prefix train no_think_to_think layer 19 prompt 37/40 calendar_friday_july_1
+2026-04-27T15:51:33.509530+00:00 gen-prefix train no_think_to_think layer 19 prompt 38/40 calendar_monday_march_1
+2026-04-27T15:51:42.150827+00:00 gen-prefix train no_think_to_think layer 19 prompt 39/40 calendar_saturday_august_1
+2026-04-27T15:51:50.792049+00:00 gen-prefix train no_think_to_think layer 19 prompt 40/40 calendar_thursday_june_1
+2026-04-27T15:55:09.870053+00:00 fixed-controller generation 1/12 gsm8k_0
+2026-04-27T15:56:52.674837+00:00 fixed-controller generation 2/12 gsm8k_1
+2026-04-27T15:58:26.327391+00:00 fixed-controller generation 3/12 gsm8k_2
+2026-04-27T16:00:18.765083+00:00 fixed-controller generation 4/12 gsm8k_3
+2026-04-27T16:01:55.190625+00:00 fixed-controller generation 5/12 gsm8k_4
+2026-04-27T16:04:12.276394+00:00 fixed-controller generation 6/12 gsm8k_5
+2026-04-27T16:06:14.732930+00:00 fixed-controller generation 7/12 math500_numeric_2
+2026-04-27T16:08:09.438910+00:00 fixed-controller generation 8/12 math500_numeric_3
+2026-04-27T16:09:58.041319+00:00 fixed-controller generation 9/12 math500_numeric_5
+2026-04-27T16:11:51.979867+00:00 fixed-controller generation 10/12 math500_numeric_6
+2026-04-27T16:13:42.381544+00:00 fixed-controller generation 11/12 math500_numeric_9
+2026-04-27T16:16:21.940375+00:00 fixed-controller generation 12/12 math500_numeric_10

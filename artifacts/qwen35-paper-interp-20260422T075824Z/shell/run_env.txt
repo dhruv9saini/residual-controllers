@@ -1,0 +1,6 @@
+run_id=qwen35-paper-interp-20260422T075824Z
+started_at_utc=2026-04-22T07:58:24Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+model=mlx-community/Qwen3.5-4B-4bit
+completed_at_utc=2026-04-22T09:23:25Z

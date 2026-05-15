@@ -1,0 +1,65 @@
+{
+  "started_at_utc": "2026-04-28T14:47:30.302739+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "patch_width": 2,
+  "alpha_grid": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "active_step_grid": [
+    1,
+    2,
+    4
+  ],
+  "logit_candidate_limit": 8,
+  "models": [
+    {
+      "label": "qwen35_4b",
+      "kind": "qwen",
+      "model": "mlx-community/Qwen3.5-4B-4bit",
+      "target_mode": "think",
+      "donor_mode": "no",
+      "layer_grid": [
+        8,
+        12,
+        15,
+        19,
+        24,
+        28
+      ]
+    }
+  ],
+  "args": {
+    "output_dir": "outputs/universal-controller-qwen-aime60-direct-20260428T144728Z",
+    "hf_repo_id": "",
+    "hf_repo_type": "dataset",
+    "models": "qwen35_4b",
+    "train_gsm8k_limit": 0,
+    "train_math500_limit": 0,
+    "eval_gsm8k_limit": 50,
+    "eval_math500_limit": 50,
+    "eval_suite": "aime2526",
+    "aime_limit": 60,
+    "aime_final_answer_instruction": true,
+    "skip_canonical_think": false,
+    "skip_canonical_target": true,
+    "skip_canonical_donor": false,
+    "selection_prompts": 16,
+    "selection_max_tokens": 768,
+    "eval_max_tokens": 4096,
+    "controller_mode": "direct_donor",
+    "use_preset_controllers": false,
+    "preset_layer": -1,
+    "preset_alpha": -1.0,
+    "preset_active_steps": -1,
+    "forced_prefix_text": "",
+    "donor_mode": "no",
+    "target_mode": "think",
+    "skip_hf_upload": true
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "started_at_utc": "2026-04-28T10:10:47.075088+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "patch_width": 2,
+  "alpha_grid": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "active_step_grid": [
+    1,
+    2,
+    4
+  ],
+  "logit_candidate_limit": 8,
+  "models": [
+    {
+      "label": "phi4_mini",
+      "kind": "phi",
+      "think_model": "mlx-community/Phi-4-mini-reasoning-4bit",
+      "instruct_model": "mlx-community/Phi-4-mini-instruct-4bit",
+      "target_mode": "instruct",
+      "donor_mode": "think",
+      "layer_grid": [
+        8,
+        12,
+        16,
+        20,
+        24,
+        28,
+        32
+      ]
+    }
+  ],
+  "args": {
+    "output_dir": "outputs/universal-controller-phi-careful-large-20260428T101045Z",
+    "hf_repo_id": "",
+    "hf_repo_type": "dataset",
+    "models": "phi4_mini",
+    "train_gsm8k_limit": 12,
+    "train_math500_limit": 12,
+    "eval_gsm8k_limit": 50,
+    "eval_math500_limit": 50,
+    "selection_prompts": 16,
+    "selection_max_tokens": 768,
+    "eval_max_tokens": 1024,
+    "use_preset_controllers": true,
+    "preset_layer": 28,
+    "preset_alpha": 0.25,
+    "preset_active_steps": 0,
+    "forced_prefix_text": "Carefully solve it and give the final answer. ",
+    "donor_mode": "",
+    "target_mode": "",
+    "skip_hf_upload": false
+  }
+}

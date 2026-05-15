@@ -1,0 +1,58 @@
+[
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "method": "random_covariance_matched",
+    "random_count": 16,
+    "effective_rate_p50": 0.0,
+    "effective_rate_p95": 0.0,
+    "effective_rate_p99": 0.0,
+    "effective_rate_max": 0.0,
+    "mean_margin_p50": -0.007868578657507896,
+    "mean_margin_p95": -0.00667199760209769,
+    "mean_margin_p99": -0.006563512026332319,
+    "mean_margin_max": -0.006536390632390976
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "method": "random_norm_matched",
+    "random_count": 16,
+    "effective_rate_p50": 0.0,
+    "effective_rate_p95": 0.0,
+    "effective_rate_p99": 0.0,
+    "effective_rate_max": 0.0,
+    "mean_margin_p50": -0.0074745959136635065,
+    "mean_margin_p95": -0.00701115420088172,
+    "mean_margin_p99": -0.006988686230033636,
+    "mean_margin_max": -0.006983069237321615
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "method": "random_covariance_matched",
+    "random_count": 16,
+    "effective_rate_p50": 0.0,
+    "effective_rate_p95": 0.0,
+    "effective_rate_p99": 0.0,
+    "effective_rate_max": 0.0,
+    "mean_margin_p50": 0.006221615010872483,
+    "mean_margin_p95": 0.007131916703656316,
+    "mean_margin_p99": 0.007358956197276711,
+    "mean_margin_max": 0.00741571607068181
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "method": "random_norm_matched",
+    "random_count": 16,
+    "effective_rate_p50": 0.0,
+    "effective_rate_p95": 0.0,
+    "effective_rate_p99": 0.0,
+    "effective_rate_max": 0.0,
+    "mean_margin_p50": 0.006056122947484255,
+    "mean_margin_p95": 0.006691365502774715,
+    "mean_margin_p99": 0.006695104949176312,
+    "mean_margin_max": 0.0066960398107767105
+  }
+]

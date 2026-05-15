@@ -1,0 +1,8 @@
+run_id=qwen35-neurips-hardening-20260425T172250Z
+started_at_utc=2026-04-25T17:22:50Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+model=mlx-community/Qwen3.5-4B-4bit
+extra_per_category=12
+folds=3
+completed_at_utc=2026-04-25T17:40:14Z

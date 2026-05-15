@@ -1,0 +1,2 @@
+cd /Users/d/Documents/reasoning-switch-research
+.venv/bin/python scripts/run_nemotron_localization_suite.py --output-dir artifacts/nemotron-localization-20260507T000000Z --prompt-limit 24 --skip-hf-upload

@@ -1,0 +1,50 @@
+[
+  {
+    "prompt_set": "main",
+    "id": "count_strawberries_r",
+    "js_instruct_to_think": 0.6936823675572665,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "main",
+    "id": "mul_317_248",
+    "js_instruct_to_think": 0.6941936034492151,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "main",
+    "id": "eq_3_7_25",
+    "js_instruct_to_think": 0.6921763258062356,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "main",
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "js_instruct_to_think": 0.6926265717304427,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_monday_march_1",
+    "js_instruct_to_think": 0.692425811221971,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "calendar_tuesday_april_1",
+    "js_instruct_to_think": 0.6929100107124004,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_1",
+    "js_instruct_to_think": 0.69360949717353,
+    "top1_match": 0
+  },
+  {
+    "prompt_set": "alt",
+    "id": "sort_2",
+    "js_instruct_to_think": 0.6937128543094773,
+    "top1_match": 0
+  }
+]

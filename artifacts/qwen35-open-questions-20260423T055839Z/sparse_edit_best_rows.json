@@ -1,0 +1,79 @@
+[
+  {
+    "family": "one_row",
+    "row_count": 1,
+    "alpha": 0.25,
+    "train_think_closer_rate": 1.0,
+    "train_mean_js_to_think": 0.19936255859497806
+  },
+  {
+    "family": "two_row",
+    "row_count": 2,
+    "alpha": 0.25,
+    "train_think_closer_rate": 1.0,
+    "train_mean_js_to_think": 0.19936260051446852
+  },
+  {
+    "family": "rank1",
+    "row_count": 0,
+    "alpha": 2.0,
+    "train_think_closer_rate": 0.0,
+    "train_mean_js_to_think": 0.661281526622293
+  },
+  {
+    "family": "positive_rows",
+    "row_count": 1,
+    "alpha": 0.25,
+    "train_think_closer_rate": 1.0,
+    "train_mean_js_to_think": 0.19936255859497806
+  },
+  {
+    "family": "signed_rows",
+    "row_count": 2,
+    "alpha": 0.25,
+    "train_think_closer_rate": 1.0,
+    "train_mean_js_to_think": 0.19936260051446852
+  },
+  {
+    "family": "positive_rows",
+    "row_count": 2,
+    "alpha": 0.25,
+    "train_think_closer_rate": 1.0,
+    "train_mean_js_to_think": 0.3020492680165858
+  },
+  {
+    "family": "signed_rows",
+    "row_count": 4,
+    "alpha": 0.125,
+    "train_think_closer_rate": 1.0,
+    "train_mean_js_to_think": 0.30204476429932003
+  },
+  {
+    "family": "positive_rows",
+    "row_count": 4,
+    "alpha": 0.25,
+    "train_think_closer_rate": 1.0,
+    "train_mean_js_to_think": 0.3831041560993465
+  },
+  {
+    "family": "signed_rows",
+    "row_count": 8,
+    "alpha": 0.125,
+    "train_think_closer_rate": 1.0,
+    "train_mean_js_to_think": 0.38310412562709634
+  },
+  {
+    "family": "positive_rows",
+    "row_count": 8,
+    "alpha": 0.125,
+    "train_think_closer_rate": 1.0,
+    "train_mean_js_to_think": 0.4305828984833781
+  },
+  {
+    "family": "signed_rows",
+    "row_count": 16,
+    "alpha": 0.125,
+    "train_think_closer_rate": 1.0,
+    "train_mean_js_to_think": 0.4305879975521896
+  }
+]

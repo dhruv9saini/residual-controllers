@@ -1,0 +1,50 @@
+[
+  {
+    "id": "strawberries_r",
+    "js_divergence_next_token": 0.691950641035957
+  },
+  {
+    "id": "multiply_317_248",
+    "js_divergence_next_token": 0.6914708384471923
+  },
+  {
+    "id": "logic_siblings",
+    "js_divergence_next_token": 0.672176462744768
+  },
+  {
+    "id": "river_crossing",
+    "js_divergence_next_token": 0.36418487922589915
+  },
+  {
+    "id": "coin_change",
+    "js_divergence_next_token": 0.6922226506110029
+  },
+  {
+    "id": "python_bug",
+    "js_divergence_next_token": 0.2890265370402967
+  },
+  {
+    "id": "truth_liars",
+    "js_divergence_next_token": 0.5102281904821803
+  },
+  {
+    "id": "calendar",
+    "js_divergence_next_token": 0.6822527693189304
+  },
+  {
+    "id": "probability",
+    "js_divergence_next_token": 0.6844437736056619
+  },
+  {
+    "id": "sorting_words",
+    "js_divergence_next_token": 0.687102494367574
+  },
+  {
+    "id": "equation",
+    "js_divergence_next_token": 0.6885889880001177
+  },
+  {
+    "id": "travel_plan",
+    "js_divergence_next_token": 0.6900309716500281
+  }
+]

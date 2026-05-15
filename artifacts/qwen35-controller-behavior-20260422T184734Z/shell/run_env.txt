@@ -1,0 +1,6 @@
+run_id=qwen35-controller-behavior-20260422T184734Z
+started_at_utc=2026-04-22T18:47:34Z
+hostname=Taras-Mac-mini.local
+pwd=/Users/d/Documents/reasoning-switch-research
+models=mlx-community/Qwen3.5-4B-4bit,mlx-community/Qwen3.5-2B-4bit
+completed_at_utc=2026-04-22T19:13:42Z

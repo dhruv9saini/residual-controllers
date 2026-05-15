@@ -1,0 +1,26 @@
+2026-05-05T04:16:00Z on Taras-Mac-mini.local
+cwd: /Users/d/Documents/reasoning-switch-research
+
+.venv/bin/python scripts/run_closed_loop_shared_controller_eval.py \
+  --adapter-dir outputs/shared-latent-step-direct-erasure-20260430T040633Z \
+  --output-dir outputs/closed-loop-shared-direct-erasure-reduced-20260505T041600Z \
+  --models qwen35_4b,olmo3_7b,phi4_mini,liquid_12b \
+  --directions direct_erasure \
+  --eval-gsm8k-limit 3 \
+  --eval-math500-limit 3 \
+  --aime-limit 6 \
+  --max-steps 8 \
+  --skip-hf-upload
+
+2026-05-05T04:26Z on local Linux workstation
+cwd: /home/d/coding/reasoning-switch-research
+
+rsync -az --delete \
+  d@Taras-Mac-mini.local:/Users/d/Documents/reasoning-switch-research/outputs/closed-loop-shared-direct-erasure-reduced-20260505T041600Z/ \
+  artifacts/closed-loop-shared-direct-erasure-reduced-20260505T041600Z/
+
+uv run python - <<'PY'
+from huggingface_hub import HfApi
+# Uploaded artifacts/closed-loop-shared-direct-erasure-reduced-20260505T041600Z
+# to oof-baroomf/reasoning-switch-research-artifacts.
+PY

@@ -1,0 +1,632 @@
+Fetching 10 files:   0%|          | 0/10 [00:00<?, ?it/s]Fetching 10 files: 100%|██████████| 10/10 [00:00<00:00, 25115.59it/s]
+Processing Files (0 / 0)      : |          |  0.00B /  0.00B            
+New Data Upload               : |          |  0.00B /  0.00B            [A
+
+  ...4047Z/prompt_results.json:   0%|          | 1.76MB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json:   0%|          | 1.76MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   0%|          | 1.76MB / 3.91GB, 2.21MB/s  
+New Data Upload               :   3%|▎         | 1.76MB / 67.1MB, 2.21MB/s  [A
+
+  ...4047Z/prompt_results.json:   0%|          | 5.29MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   0%|          | 5.29MB / 3.91GB, 5.30MB/s  
+New Data Upload               :   4%|▍         | 5.29MB /  134MB, 5.30MB/s  [A
+
+  ...4047Z/prompt_results.json:   0%|          | 15.9MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   0%|          | 15.9MB / 3.91GB, 13.3MB/s  
+New Data Upload               :  12%|█▏        | 15.9MB /  134MB, 13.3MB/s  [A
+
+  ...4047Z/prompt_results.json:   1%|          | 31.7MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   1%|          | 31.7MB / 3.91GB, 22.7MB/s  
+New Data Upload               :  24%|██▎       | 31.7MB /  134MB, 22.7MB/s  [A
+
+  ...4047Z/prompt_results.json:   1%|          | 45.8MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   1%|          | 45.8MB / 3.91GB, 28.6MB/s  
+New Data Upload               :  34%|███▍      | 45.8MB /  134MB, 28.6MB/s  [A
+
+  ...4047Z/prompt_results.json:   2%|▏         | 67.0MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   2%|▏         | 67.0MB / 3.91GB, 37.2MB/s  
+New Data Upload               :  50%|████▉     | 67.0MB /  134MB, 37.2MB/s  [A
+
+  ...4047Z/prompt_results.json:   2%|▏         | 67.0MB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json:   2%|▏         | 67.0MB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json:   2%|▏         | 78.6MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   2%|▏         | 78.6MB / 3.91GB, 32.8MB/s  
+New Data Upload               :  59%|█████▊    | 78.6MB /  134MB, 32.8MB/s  [A
+
+  ...4047Z/prompt_results.json:   3%|▎         |  100MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   3%|▎         |  100MB / 3.91GB, 38.5MB/s  
+New Data Upload               :  75%|███████▍  |  100MB /  134MB, 38.5MB/s  [A
+
+  ...4047Z/prompt_results.json:   3%|▎         |  123MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   3%|▎         |  123MB / 3.91GB, 44.0MB/s  
+New Data Upload               :  61%|██████    |  123MB /  201MB, 44.0MB/s  [A
+
+  ...4047Z/prompt_results.json:   3%|▎         |  135MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   3%|▎         |  135MB / 3.91GB, 44.9MB/s  
+New Data Upload               :  67%|██████▋   |  135MB /  201MB, 44.9MB/s  [A
+
+  ...4047Z/prompt_results.json:   4%|▎         |  138MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   4%|▎         |  138MB / 3.91GB, 43.2MB/s  
+New Data Upload               :  51%|█████▏    |  138MB /  268MB, 43.2MB/s  [A
+
+  ...4047Z/prompt_results.json:   4%|▍         |  150MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   4%|▍         |  150MB / 3.91GB, 44.0MB/s  
+New Data Upload               :  56%|█████▌    |  150MB /  268MB, 44.0MB/s  [A
+
+  ...4047Z/prompt_results.json:   4%|▍         |  169MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   4%|▍         |  169MB / 3.91GB, 46.9MB/s  
+New Data Upload               :  50%|█████     |  169MB /  335MB, 46.9MB/s  [A
+
+  ...4047Z/prompt_results.json:   5%|▌         |  198MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   5%|▌         |  198MB / 3.91GB, 52.0MB/s  
+New Data Upload               :  49%|████▉     |  198MB /  402MB, 52.0MB/s  [A
+
+  ...4047Z/prompt_results.json:   6%|▌         |  228MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   6%|▌         |  228MB / 3.91GB, 57.0MB/s  
+New Data Upload               :  48%|████▊     |  228MB /  469MB, 57.0MB/s  [A
+
+  ...4047Z/prompt_results.json:   7%|▋         |  254MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   7%|▋         |  254MB / 3.91GB, 60.6MB/s  
+New Data Upload               :  47%|████▋     |  254MB /  536MB, 60.6MB/s  [A
+
+  ...4047Z/prompt_results.json:   7%|▋         |  266MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   7%|▋         |  266MB / 3.91GB, 60.5MB/s  
+New Data Upload               :  50%|████▉     |  266MB /  536MB, 60.5MB/s  [A
+
+  ...4047Z/prompt_results.json:   7%|▋         |  288MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   7%|▋         |  288MB / 3.91GB, 62.7MB/s  
+New Data Upload               :  48%|████▊     |  288MB /  604MB, 62.7MB/s  [A
+
+  ...4047Z/prompt_results.json:   8%|▊         |  307MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   8%|▊         |  307MB / 3.91GB, 64.0MB/s  
+New Data Upload               :  51%|█████     |  307MB /  604MB, 64.0MB/s  [A
+
+  ...4047Z/prompt_results.json:   8%|▊         |  323MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   8%|▊         |  323MB / 3.91GB, 64.6MB/s  
+New Data Upload               :  53%|█████▎    |  323MB /  604MB, 64.6MB/s  [A
+
+  ...4047Z/prompt_results.json:   9%|▉         |  362MB / 3.91GB            [A[AProcessing Files (0 / 1)      :   9%|▉         |  362MB / 3.91GB, 69.6MB/s  
+New Data Upload               :  60%|█████▉    |  362MB /  604MB, 69.6MB/s  [A
+
+  ...4047Z/prompt_results.json:  10%|▉         |  381MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  10%|▉         |  381MB / 3.91GB, 70.6MB/s  
+New Data Upload               :  63%|██████▎   |  381MB /  604MB, 70.6MB/s  [A
+
+  ...4047Z/prompt_results.json:  10%|▉         |  381MB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json:  10%|█         |  408MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  10%|█         |  408MB / 3.91GB, 70.4MB/s  
+New Data Upload               :  61%|██████    |  408MB /  671MB, 70.4MB/s  [A
+
+  ...4047Z/prompt_results.json:  11%|█         |  432MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  11%|█         |  432MB / 3.91GB, 72.1MB/s  
+New Data Upload               :  59%|█████▊    |  432MB /  738MB, 72.1MB/s  [A
+
+  ...4047Z/prompt_results.json:  12%|█▏        |  451MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  12%|█▏        |  451MB / 3.91GB, 72.8MB/s  
+New Data Upload               :  56%|█████▌    |  451MB /  805MB, 72.8MB/s  [A
+
+  ...4047Z/prompt_results.json:  12%|█▏        |  466MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  12%|█▏        |  466MB / 3.91GB, 72.9MB/s  
+New Data Upload               :  58%|█████▊    |  466MB /  805MB, 72.9MB/s  [A
+
+  ...4047Z/prompt_results.json:  12%|█▏        |  481MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  12%|█▏        |  481MB / 3.91GB, 72.9MB/s  
+New Data Upload               :  60%|█████▉    |  481MB /  805MB, 72.9MB/s  [A
+
+  ...4047Z/prompt_results.json:  13%|█▎        |  502MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  13%|█▎        |  502MB / 3.91GB, 73.8MB/s  
+New Data Upload               :  62%|██████▏   |  502MB /  805MB, 73.8MB/s  [A
+
+  ...4047Z/prompt_results.json:  14%|█▍        |  540MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  14%|█▍        |  540MB / 3.91GB, 77.2MB/s  
+New Data Upload               :  62%|██████▏   |  540MB /  872MB, 77.2MB/s  [A
+
+  ...4047Z/prompt_results.json:  14%|█▍        |  566MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  14%|█▍        |  566MB / 3.91GB, 78.6MB/s  
+New Data Upload               :  65%|██████▍   |  566MB /  872MB, 78.6MB/s  [A
+
+  ...4047Z/prompt_results.json:  15%|█▍        |  573MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  15%|█▍        |  573MB / 3.91GB, 77.4MB/s  
+New Data Upload               :  57%|█████▋    |  573MB / 1.01GB, 77.4MB/s  [A
+
+  ...4047Z/prompt_results.json:  15%|█▌        |  595MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  15%|█▌        |  595MB / 3.91GB, 78.3MB/s  
+New Data Upload               :  59%|█████▉    |  595MB / 1.01GB, 78.3MB/s  [A
+
+  ...4047Z/prompt_results.json:  16%|█▌        |  629MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  16%|█▌        |  629MB / 3.91GB, 80.6MB/s  
+New Data Upload               :  59%|█████▊    |  629MB / 1.07GB, 80.6MB/s  [A
+
+  ...4047Z/prompt_results.json:  17%|█▋        |  651MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  17%|█▋        |  651MB / 3.91GB, 81.4MB/s  
+New Data Upload               :  61%|██████    |  651MB / 1.07GB, 81.4MB/s  [A
+
+  ...4047Z/prompt_results.json:  17%|█▋        |  666MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  17%|█▋        |  666MB / 3.91GB, 81.2MB/s  
+New Data Upload               :  58%|█████▊    |  666MB / 1.14GB, 81.2MB/s  [A
+
+  ...4047Z/prompt_results.json:  18%|█▊        |  696MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  18%|█▊        |  696MB / 3.91GB, 82.8MB/s  
+New Data Upload               :  61%|██████    |  696MB / 1.14GB, 82.8MB/s  [A
+
+  ...4047Z/prompt_results.json:  19%|█▊        |  728MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  19%|█▊        |  728MB / 3.91GB, 84.7MB/s  
+New Data Upload               :  60%|██████    |  728MB / 1.21GB, 84.7MB/s  [A
+
+  ...4047Z/prompt_results.json:  19%|█▉        |  745MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  19%|█▉        |  745MB / 3.91GB, 84.7MB/s  
+New Data Upload               :  62%|██████▏   |  745MB / 1.21GB, 84.7MB/s  [A
+
+  ...4047Z/prompt_results.json:  20%|██        |  782MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  20%|██        |  782MB / 3.91GB, 86.9MB/s  
+New Data Upload               :  61%|██████▏   |  782MB / 1.27GB, 86.9MB/s  [A
+
+  ...4047Z/prompt_results.json:  20%|██        |  801MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  20%|██        |  801MB / 3.91GB, 87.1MB/s  
+New Data Upload               :  63%|██████▎   |  801MB / 1.27GB, 87.1MB/s  [A
+
+  ...4047Z/prompt_results.json:  21%|██▏       |  831MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  21%|██▏       |  831MB / 3.91GB, 88.4MB/s  
+New Data Upload               :  62%|██████▏   |  831MB / 1.34GB, 88.4MB/s  [A
+
+  ...4047Z/prompt_results.json:  22%|██▏       |  860MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  22%|██▏       |  860MB / 3.91GB, 89.6MB/s  
+New Data Upload               :  64%|██████▍   |  860MB / 1.34GB, 89.6MB/s  [A
+
+  ...4047Z/prompt_results.json:  22%|██▏       |  861MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  22%|██▏       |  861MB / 3.91GB, 87.9MB/s  
+New Data Upload               :  64%|██████▍   |  861MB / 1.34GB, 87.9MB/s  [A
+
+  ...4047Z/prompt_results.json:  22%|██▏       |  871MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  22%|██▏       |  871MB / 3.91GB, 87.1MB/s  
+New Data Upload               :  62%|██████▏   |  871MB / 1.41GB, 87.1MB/s  [A
+
+  ...4047Z/prompt_results.json:  23%|██▎       |  883MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  23%|██▎       |  883MB / 3.91GB, 86.6MB/s  
+New Data Upload               :  60%|█████▉    |  883MB / 1.48GB, 86.6MB/s  [A
+
+  ...4047Z/prompt_results.json:  23%|██▎       |  910MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  23%|██▎       |  910MB / 3.91GB, 89.2MB/s  
+New Data Upload               :  62%|██████▏   |  910MB / 1.48GB, 89.2MB/s  [A
+
+  ...4047Z/prompt_results.json:  23%|██▎       |  915MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  23%|██▎       |  915MB / 3.91GB, 89.7MB/s  
+New Data Upload               :  59%|█████▉    |  915MB / 1.54GB, 89.7MB/s  [A
+
+  ...4047Z/prompt_results.json:  24%|██▍       |  929MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  24%|██▍       |  929MB / 3.91GB, 91.1MB/s  
+New Data Upload               :  60%|██████    |  929MB / 1.54GB, 91.1MB/s  [A
+
+  ...4047Z/prompt_results.json:  24%|██▍       |  942MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  24%|██▍       |  942MB / 3.91GB, 92.2MB/s  
+New Data Upload               :  61%|██████    |  942MB / 1.54GB, 92.2MB/s  [A
+
+  ...4047Z/prompt_results.json:  24%|██▍       |  954MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  24%|██▍       |  954MB / 3.91GB, 93.0MB/s  
+New Data Upload               :  59%|█████▉    |  954MB / 1.61GB, 93.0MB/s  [A
+
+  ...4047Z/prompt_results.json:  25%|██▌       |  979MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  25%|██▌       |  979MB / 3.91GB, 94.4MB/s  
+New Data Upload               :  61%|██████    |  979MB / 1.61GB, 94.4MB/s  [A
+
+  ...4047Z/prompt_results.json:  26%|██▌       |  997MB / 3.91GB            [A[AProcessing Files (0 / 1)      :  26%|██▌       |  997MB / 3.91GB, 94.6MB/s  
+New Data Upload               :  59%|█████▉    |  997MB / 1.68GB, 94.6MB/s  [A
+
+  ...4047Z/prompt_results.json:  26%|██▌       | 1.02GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  26%|██▌       | 1.02GB / 3.91GB, 95.1MB/s  
+New Data Upload               :  61%|██████    | 1.02GB / 1.68GB, 95.1MB/s  [A
+
+  ...4047Z/prompt_results.json:  26%|██▋       | 1.03GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  26%|██▋       | 1.03GB / 3.91GB, 94.1MB/s  
+New Data Upload               :  59%|█████▉    | 1.03GB / 1.74GB, 94.1MB/s  [A
+
+  ...4047Z/prompt_results.json:  27%|██▋       | 1.04GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  27%|██▋       | 1.04GB / 3.91GB, 95.4MB/s  
+New Data Upload               :  57%|█████▋    | 1.04GB / 1.81GB, 95.4MB/s  [A
+
+  ...4047Z/prompt_results.json:  27%|██▋       | 1.07GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  27%|██▋       | 1.07GB / 3.91GB, 98.6MB/s  
+New Data Upload               :  59%|█████▉    | 1.07GB / 1.81GB, 98.6MB/s  [A
+
+  ...4047Z/prompt_results.json:  28%|██▊       | 1.10GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  28%|██▊       | 1.10GB / 3.91GB,  100MB/s  
+New Data Upload               :  59%|█████▊    | 1.10GB / 1.88GB,  100MB/s  [A
+
+  ...4047Z/prompt_results.json:  28%|██▊       | 1.11GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  28%|██▊       | 1.11GB / 3.91GB, 99.2MB/s  
+New Data Upload               :  57%|█████▋    | 1.11GB / 1.94GB, 99.2MB/s  [A
+
+  ...4047Z/prompt_results.json:  29%|██▉       | 1.13GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  29%|██▉       | 1.13GB / 3.91GB, 98.4MB/s  
+New Data Upload               :  58%|█████▊    | 1.13GB / 1.94GB, 98.4MB/s  [A
+
+  ...4047Z/prompt_results.json:  29%|██▉       | 1.14GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  29%|██▉       | 1.14GB / 3.91GB, 98.1MB/s  
+New Data Upload               :  56%|█████▋    | 1.14GB / 2.01GB, 98.1MB/s  [A
+
+  ...4047Z/prompt_results.json:  30%|██▉       | 1.17GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  30%|██▉       | 1.17GB / 3.91GB,  101MB/s  
+New Data Upload               :  58%|█████▊    | 1.17GB / 2.01GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  30%|███       | 1.19GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  30%|███       | 1.19GB / 3.91GB,  102MB/s  
+New Data Upload               :  59%|█████▉    | 1.19GB / 2.01GB,  102MB/s  [A
+
+  ...4047Z/prompt_results.json:  31%|███       | 1.22GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  31%|███       | 1.22GB / 3.91GB,  103MB/s  
+New Data Upload               :  61%|██████    | 1.22GB / 2.01GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  31%|███▏      | 1.23GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  31%|███▏      | 1.23GB / 3.91GB,  101MB/s  
+New Data Upload               :  59%|█████▉    | 1.23GB / 2.08GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  32%|███▏      | 1.25GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  32%|███▏      | 1.25GB / 3.91GB,  100MB/s  
+New Data Upload               :  60%|██████    | 1.25GB / 2.08GB,  100MB/s  [A
+
+  ...4047Z/prompt_results.json:  33%|███▎      | 1.27GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  33%|███▎      | 1.27GB / 3.91GB, 99.8MB/s  
+New Data Upload               :  61%|██████    | 1.27GB / 2.08GB, 99.8MB/s  [A
+
+  ...4047Z/prompt_results.json:  33%|███▎      | 1.30GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  33%|███▎      | 1.30GB / 3.91GB,  101MB/s  
+New Data Upload               :  62%|██████▏   | 1.30GB / 2.08GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  34%|███▍      | 1.33GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  34%|███▍      | 1.33GB / 3.91GB,  102MB/s  
+New Data Upload               :  62%|██████▏   | 1.33GB / 2.15GB,  102MB/s  [A
+
+  ...4047Z/prompt_results.json:  34%|███▍      | 1.34GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  34%|███▍      | 1.34GB / 3.91GB,  101MB/s  
+New Data Upload               :  63%|██████▎   | 1.34GB / 2.15GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  35%|███▍      | 1.35GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  35%|███▍      | 1.35GB / 3.91GB,  101MB/s  
+New Data Upload               :  61%|██████    | 1.35GB / 2.21GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  35%|███▌      | 1.38GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  35%|███▌      | 1.38GB / 3.91GB, 99.8MB/s  
+New Data Upload               :  61%|██████    | 1.38GB / 2.28GB, 99.8MB/s  [A
+
+  ...4047Z/prompt_results.json:  36%|███▌      | 1.41GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  36%|███▌      | 1.41GB / 3.91GB,  101MB/s  
+New Data Upload               :  62%|██████▏   | 1.41GB / 2.28GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  37%|███▋      | 1.43GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  37%|███▋      | 1.43GB / 3.91GB,  103MB/s  
+New Data Upload               :  61%|██████    | 1.43GB / 2.35GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  37%|███▋      | 1.44GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  37%|███▋      | 1.44GB / 3.91GB,  101MB/s  
+New Data Upload               :  60%|█████▉    | 1.44GB / 2.41GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  37%|███▋      | 1.46GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  37%|███▋      | 1.46GB / 3.91GB,  101MB/s  
+New Data Upload               :  59%|█████▉    | 1.46GB / 2.48GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  38%|███▊      | 1.49GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  38%|███▊      | 1.49GB / 3.91GB,  102MB/s  
+New Data Upload               :  58%|█████▊    | 1.49GB / 2.55GB,  102MB/s  [A
+
+  ...4047Z/prompt_results.json:  39%|███▉      | 1.53GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  39%|███▉      | 1.53GB / 3.91GB,  104MB/s  
+New Data Upload               :  58%|█████▊    | 1.53GB / 2.62GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  39%|███▉      | 1.54GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  39%|███▉      | 1.54GB / 3.91GB,  103MB/s  
+New Data Upload               :  59%|█████▉    | 1.54GB / 2.62GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  40%|███▉      | 1.55GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  40%|███▉      | 1.55GB / 3.91GB,  103MB/s  
+New Data Upload               :  58%|█████▊    | 1.55GB / 2.68GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  40%|████      | 1.58GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  40%|████      | 1.58GB / 3.91GB,  102MB/s  
+New Data Upload               :  58%|█████▊    | 1.58GB / 2.75GB,  102MB/s  [A
+
+  ...4047Z/prompt_results.json:  41%|████▏     | 1.62GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  41%|████▏     | 1.62GB / 3.91GB,  103MB/s  
+New Data Upload               :  58%|█████▊    | 1.62GB / 2.82GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  42%|████▏     | 1.64GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  42%|████▏     | 1.64GB / 3.91GB,  105MB/s  
+New Data Upload               :  57%|█████▋    | 1.64GB / 2.88GB,  105MB/s  [A
+
+  ...4047Z/prompt_results.json:  43%|████▎     | 1.66GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  43%|████▎     | 1.66GB / 3.91GB,  105MB/s  
+New Data Upload               :  58%|█████▊    | 1.66GB / 2.88GB,  105MB/s  [A
+
+  ...4047Z/prompt_results.json:  43%|████▎     | 1.67GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  43%|████▎     | 1.67GB / 3.91GB,  102MB/s  
+New Data Upload               :  57%|█████▋    | 1.67GB / 2.95GB,  102MB/s  [A
+
+  ...4047Z/prompt_results.json:  44%|████▎     | 1.70GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  44%|████▎     | 1.70GB / 3.91GB,  103MB/s  
+New Data Upload               :  58%|█████▊    | 1.70GB / 2.95GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  44%|████▍     | 1.73GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  44%|████▍     | 1.73GB / 3.91GB,  104MB/s  
+New Data Upload               :  56%|█████▌    | 1.73GB / 3.08GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  45%|████▍     | 1.75GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  45%|████▍     | 1.75GB / 3.91GB,  103MB/s  
+New Data Upload               :  57%|█████▋    | 1.75GB / 3.08GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  46%|████▌     | 1.78GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  46%|████▌     | 1.78GB / 3.91GB,  103MB/s  
+New Data Upload               :  57%|█████▋    | 1.78GB / 3.15GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  47%|████▋     | 1.82GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  47%|████▋     | 1.82GB / 3.91GB,  105MB/s  
+New Data Upload               :  58%|█████▊    | 1.82GB / 3.15GB,  105MB/s  [A
+
+  ...4047Z/prompt_results.json:  47%|████▋     | 1.82GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  47%|████▋     | 1.82GB / 3.91GB,  102MB/s  
+New Data Upload               :  58%|█████▊    | 1.82GB / 3.15GB,  102MB/s  [A
+
+  ...4047Z/prompt_results.json:  47%|████▋     | 1.83GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  47%|████▋     | 1.83GB / 3.91GB,  101MB/s  
+New Data Upload               :  57%|█████▋    | 1.83GB / 3.22GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  47%|████▋     | 1.85GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  47%|████▋     | 1.85GB / 3.91GB,  100MB/s  
+New Data Upload               :  58%|█████▊    | 1.85GB / 3.22GB,  100MB/s  [A
+
+  ...4047Z/prompt_results.json:  48%|████▊     | 1.87GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  48%|████▊     | 1.87GB / 3.91GB, 99.1MB/s  
+New Data Upload               :  57%|█████▋    | 1.87GB / 3.29GB, 99.1MB/s  [A
+
+  ...4047Z/prompt_results.json:  48%|████▊     | 1.89GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  48%|████▊     | 1.89GB / 3.91GB,  101MB/s  
+New Data Upload               :  56%|█████▋    | 1.89GB / 3.35GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  49%|████▊     | 1.90GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  49%|████▊     | 1.90GB / 3.91GB,  101MB/s  
+New Data Upload               :  57%|█████▋    | 1.90GB / 3.35GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  49%|████▉     | 1.93GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  49%|████▉     | 1.93GB / 3.91GB,  103MB/s  
+New Data Upload               :  58%|█████▊    | 1.93GB / 3.35GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  50%|█████     | 1.96GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  50%|█████     | 1.96GB / 3.91GB,  103MB/s  
+New Data Upload               :  58%|█████▊    | 1.96GB / 3.35GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  51%|█████     | 1.97GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  51%|█████     | 1.97GB / 3.91GB,  104MB/s  
+New Data Upload               :  59%|█████▉    | 1.97GB / 3.35GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  51%|█████     | 1.99GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  51%|█████     | 1.99GB / 3.91GB,  104MB/s  
+New Data Upload               :  58%|█████▊    | 1.99GB / 3.42GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  51%|█████▏    | 2.01GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  51%|█████▏    | 2.01GB / 3.91GB,  104MB/s  
+New Data Upload               :  56%|█████▋    | 2.01GB / 3.55GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  52%|█████▏    | 2.02GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  52%|█████▏    | 2.02GB / 3.91GB,  105MB/s  
+New Data Upload               :  56%|█████▌    | 2.02GB / 3.62GB,  105MB/s  [A
+
+  ...4047Z/prompt_results.json:  52%|█████▏    | 2.04GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  52%|█████▏    | 2.04GB / 3.91GB,  104MB/s  
+New Data Upload               :  56%|█████▋    | 2.04GB / 3.62GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  53%|█████▎    | 2.06GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  53%|█████▎    | 2.06GB / 3.91GB,  104MB/s  
+New Data Upload               :  57%|█████▋    | 2.06GB / 3.62GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  53%|█████▎    | 2.08GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  53%|█████▎    | 2.08GB / 3.91GB,  105MB/s  
+New Data Upload               :  56%|█████▋    | 2.08GB / 3.69GB,  105MB/s  [A
+
+  ...4047Z/prompt_results.json:  54%|█████▎    | 2.09GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  54%|█████▎    | 2.09GB / 3.91GB,  104MB/s  
+New Data Upload               :  57%|█████▋    | 2.09GB / 3.69GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  54%|█████▍    | 2.13GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  54%|█████▍    | 2.13GB / 3.91GB,  106MB/s  
+New Data Upload               :  57%|█████▋    | 2.13GB / 3.76GB,  106MB/s  [A
+
+  ...4047Z/prompt_results.json:  55%|█████▌    | 2.15GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  55%|█████▌    | 2.15GB / 3.91GB,  106MB/s  
+New Data Upload               :  57%|█████▋    | 2.15GB / 3.76GB,  106MB/s  [A
+
+  ...4047Z/prompt_results.json:  55%|█████▌    | 2.16GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  55%|█████▌    | 2.16GB / 3.91GB,  104MB/s  
+New Data Upload               :  56%|█████▌    | 2.16GB / 3.89GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  56%|█████▋    | 2.20GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  56%|█████▋    | 2.20GB / 3.91GB,  107MB/s  
+New Data Upload               :  56%|█████▋    | 2.20GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  57%|█████▋    | 2.22GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  57%|█████▋    | 2.22GB / 3.91GB,  107MB/s  
+New Data Upload               :  57%|█████▋    | 2.22GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  58%|█████▊    | 2.25GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  58%|█████▊    | 2.25GB / 3.91GB,  110MB/s  
+New Data Upload               :  58%|█████▊    | 2.25GB / 3.91GB,  110MB/s  [A
+
+  ...4047Z/prompt_results.json:  58%|█████▊    | 2.28GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  58%|█████▊    | 2.28GB / 3.91GB,  109MB/s  
+New Data Upload               :  58%|█████▊    | 2.28GB / 3.91GB,  109MB/s  [A
+
+  ...4047Z/prompt_results.json:  58%|█████▊    | 2.28GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  58%|█████▊    | 2.28GB / 3.91GB,  107MB/s  
+New Data Upload               :  58%|█████▊    | 2.28GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  59%|█████▉    | 2.31GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  59%|█████▉    | 2.31GB / 3.91GB,  107MB/s  
+New Data Upload               :  59%|█████▉    | 2.31GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  60%|█████▉    | 2.34GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  60%|█████▉    | 2.34GB / 3.91GB,  109MB/s  
+New Data Upload               :  60%|█████▉    | 2.34GB / 3.91GB,  109MB/s  [A
+
+  ...4047Z/prompt_results.json:  60%|██████    | 2.36GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  60%|██████    | 2.36GB / 3.91GB,  108MB/s  
+New Data Upload               :  60%|██████    | 2.36GB / 3.91GB,  108MB/s  [A
+
+  ...4047Z/prompt_results.json:  61%|██████    | 2.39GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  61%|██████    | 2.39GB / 3.91GB,  109MB/s  
+New Data Upload               :  61%|██████    | 2.39GB / 3.91GB,  109MB/s  [A
+
+  ...4047Z/prompt_results.json:  61%|██████    | 2.39GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  61%|██████    | 2.39GB / 3.91GB,  108MB/s  
+New Data Upload               :  61%|██████    | 2.39GB / 3.91GB,  108MB/s  [A
+
+  ...4047Z/prompt_results.json:  62%|██████▏   | 2.43GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  62%|██████▏   | 2.43GB / 3.91GB,  108MB/s  
+New Data Upload               :  62%|██████▏   | 2.43GB / 3.91GB,  108MB/s  [A
+
+  ...4047Z/prompt_results.json:  63%|██████▎   | 2.45GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  63%|██████▎   | 2.45GB / 3.91GB,  108MB/s  
+New Data Upload               :  63%|██████▎   | 2.45GB / 3.91GB,  108MB/s  [A
+
+  ...4047Z/prompt_results.json:  63%|██████▎   | 2.47GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  63%|██████▎   | 2.47GB / 3.91GB,  110MB/s  
+New Data Upload               :  63%|██████▎   | 2.47GB / 3.91GB,  110MB/s  [A
+
+  ...4047Z/prompt_results.json:  64%|██████▎   | 2.49GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  64%|██████▎   | 2.49GB / 3.91GB,  109MB/s  
+New Data Upload               :  64%|██████▎   | 2.49GB / 3.91GB,  109MB/s  [A
+
+  ...4047Z/prompt_results.json:  64%|██████▍   | 2.50GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  64%|██████▍   | 2.50GB / 3.91GB,  107MB/s  
+New Data Upload               :  64%|██████▍   | 2.50GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  64%|██████▍   | 2.52GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  64%|██████▍   | 2.52GB / 3.91GB,  107MB/s  
+New Data Upload               :  64%|██████▍   | 2.52GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  65%|██████▍   | 2.54GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  65%|██████▍   | 2.54GB / 3.91GB,  107MB/s  
+New Data Upload               :  65%|██████▍   | 2.54GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  66%|██████▌   | 2.56GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  66%|██████▌   | 2.56GB / 3.91GB,  108MB/s  
+New Data Upload               :  66%|██████▌   | 2.56GB / 3.91GB,  108MB/s  [A
+
+  ...4047Z/prompt_results.json:  66%|██████▌   | 2.58GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  66%|██████▌   | 2.58GB / 3.91GB,  106MB/s  
+New Data Upload               :  66%|██████▌   | 2.58GB / 3.91GB,  106MB/s  [A
+
+  ...4047Z/prompt_results.json:  66%|██████▋   | 2.59GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  66%|██████▋   | 2.59GB / 3.91GB,  105MB/s  
+New Data Upload               :  66%|██████▋   | 2.59GB / 3.91GB,  105MB/s  [A
+
+  ...4047Z/prompt_results.json:  67%|██████▋   | 2.61GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  67%|██████▋   | 2.61GB / 3.91GB,  106MB/s  
+New Data Upload               :  67%|██████▋   | 2.61GB / 3.91GB,  106MB/s  [A
+
+  ...4047Z/prompt_results.json:  68%|██████▊   | 2.64GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  68%|██████▊   | 2.64GB / 3.91GB,  107MB/s  
+New Data Upload               :  68%|██████▊   | 2.64GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  68%|██████▊   | 2.66GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  68%|██████▊   | 2.66GB / 3.91GB,  106MB/s  
+New Data Upload               :  68%|██████▊   | 2.66GB / 3.91GB,  106MB/s  [A
+
+  ...4047Z/prompt_results.json:  69%|██████▊   | 2.68GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  69%|██████▊   | 2.68GB / 3.91GB,  104MB/s  
+New Data Upload               :  69%|██████▊   | 2.68GB / 3.91GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  69%|██████▉   | 2.70GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  69%|██████▉   | 2.70GB / 3.91GB,  104MB/s  
+New Data Upload               :  69%|██████▉   | 2.70GB / 3.91GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  70%|██████▉   | 2.73GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  70%|██████▉   | 2.73GB / 3.91GB,  104MB/s  
+New Data Upload               :  70%|██████▉   | 2.73GB / 3.91GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  70%|███████   | 2.75GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  70%|███████   | 2.75GB / 3.91GB,  106MB/s  
+New Data Upload               :  70%|███████   | 2.75GB / 3.91GB,  106MB/s  [A
+
+  ...4047Z/prompt_results.json:  71%|███████   | 2.77GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  71%|███████   | 2.77GB / 3.91GB,  105MB/s  
+New Data Upload               :  71%|███████   | 2.77GB / 3.91GB,  105MB/s  [A
+
+  ...4047Z/prompt_results.json:  72%|███████▏  | 2.80GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  72%|███████▏  | 2.80GB / 3.91GB,  105MB/s  
+New Data Upload               :  72%|███████▏  | 2.80GB / 3.91GB,  105MB/s  [A
+
+  ...4047Z/prompt_results.json:  72%|███████▏  | 2.82GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  72%|███████▏  | 2.82GB / 3.91GB,  105MB/s  
+New Data Upload               :  72%|███████▏  | 2.82GB / 3.91GB,  105MB/s  [A
+
+  ...4047Z/prompt_results.json:  73%|███████▎  | 2.84GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  73%|███████▎  | 2.84GB / 3.91GB,  104MB/s  
+New Data Upload               :  73%|███████▎  | 2.84GB / 3.91GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  74%|███████▎  | 2.87GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  74%|███████▎  | 2.87GB / 3.91GB,  103MB/s  
+New Data Upload               :  74%|███████▎  | 2.87GB / 3.91GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  74%|███████▍  | 2.89GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  74%|███████▍  | 2.89GB / 3.91GB,  105MB/s  
+New Data Upload               :  74%|███████▍  | 2.89GB / 3.91GB,  105MB/s  [A
+
+  ...4047Z/prompt_results.json:  75%|███████▍  | 2.91GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  75%|███████▍  | 2.91GB / 3.91GB,  106MB/s  
+New Data Upload               :  75%|███████▍  | 2.91GB / 3.91GB,  106MB/s  [A
+
+  ...4047Z/prompt_results.json:  75%|███████▌  | 2.94GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  75%|███████▌  | 2.94GB / 3.91GB,  107MB/s  
+New Data Upload               :  75%|███████▌  | 2.94GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  76%|███████▌  | 2.96GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  76%|███████▌  | 2.96GB / 3.91GB,  107MB/s  
+New Data Upload               :  76%|███████▌  | 2.96GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  76%|███████▋  | 2.98GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  76%|███████▋  | 2.98GB / 3.91GB,  107MB/s  
+New Data Upload               :  76%|███████▋  | 2.98GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  77%|███████▋  | 3.01GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  77%|███████▋  | 3.01GB / 3.91GB,  108MB/s  
+New Data Upload               :  77%|███████▋  | 3.01GB / 3.91GB,  108MB/s  [A
+
+  ...4047Z/prompt_results.json:  78%|███████▊  | 3.03GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  78%|███████▊  | 3.03GB / 3.91GB,  107MB/s  
+New Data Upload               :  78%|███████▊  | 3.03GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  78%|███████▊  | 3.06GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  78%|███████▊  | 3.06GB / 3.91GB,  108MB/s  
+New Data Upload               :  78%|███████▊  | 3.06GB / 3.91GB,  108MB/s  [A
+
+  ...4047Z/prompt_results.json:  79%|███████▉  | 3.08GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  79%|███████▉  | 3.08GB / 3.91GB,  109MB/s  
+New Data Upload               :  79%|███████▉  | 3.08GB / 3.91GB,  109MB/s  [A
+
+  ...4047Z/prompt_results.json:  80%|███████▉  | 3.11GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  80%|███████▉  | 3.11GB / 3.91GB,  110MB/s  
+New Data Upload               :  80%|███████▉  | 3.11GB / 3.91GB,  110MB/s  [A
+
+  ...4047Z/prompt_results.json:  80%|████████  | 3.13GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  80%|████████  | 3.13GB / 3.91GB,  111MB/s  
+New Data Upload               :  80%|████████  | 3.13GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  81%|████████  | 3.15GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  81%|████████  | 3.15GB / 3.91GB,  111MB/s  
+New Data Upload               :  81%|████████  | 3.15GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  81%|████████  | 3.17GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  81%|████████  | 3.17GB / 3.91GB,  111MB/s  
+New Data Upload               :  81%|████████  | 3.17GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  82%|████████▏ | 3.19GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  82%|████████▏ | 3.19GB / 3.91GB,  111MB/s  
+New Data Upload               :  82%|████████▏ | 3.19GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  83%|████████▎ | 3.23GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  83%|████████▎ | 3.23GB / 3.91GB,  112MB/s  
+New Data Upload               :  83%|████████▎ | 3.23GB / 3.91GB,  112MB/s  [A
+
+  ...4047Z/prompt_results.json:  83%|████████▎ | 3.24GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  83%|████████▎ | 3.24GB / 3.91GB,  112MB/s  
+New Data Upload               :  83%|████████▎ | 3.24GB / 3.91GB,  112MB/s  [A
+
+  ...4047Z/prompt_results.json:  83%|████████▎ | 3.26GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  83%|████████▎ | 3.26GB / 3.91GB,  111MB/s  
+New Data Upload               :  83%|████████▎ | 3.26GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  84%|████████▍ | 3.29GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  84%|████████▍ | 3.29GB / 3.91GB,  112MB/s  
+New Data Upload               :  84%|████████▍ | 3.29GB / 3.91GB,  112MB/s  [A
+
+  ...4047Z/prompt_results.json:  85%|████████▍ | 3.32GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  85%|████████▍ | 3.32GB / 3.91GB,  114MB/s  
+New Data Upload               :  85%|████████▍ | 3.32GB / 3.91GB,  114MB/s  [A
+
+  ...4047Z/prompt_results.json:  85%|████████▌ | 3.34GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  85%|████████▌ | 3.34GB / 3.91GB,  112MB/s  
+New Data Upload               :  85%|████████▌ | 3.34GB / 3.91GB,  112MB/s  [A
+
+  ...4047Z/prompt_results.json:  86%|████████▌ | 3.36GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  86%|████████▌ | 3.36GB / 3.91GB,  112MB/s  
+New Data Upload               :  86%|████████▌ | 3.36GB / 3.91GB,  112MB/s  [A
+
+  ...4047Z/prompt_results.json:  87%|████████▋ | 3.38GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  87%|████████▋ | 3.38GB / 3.91GB,  111MB/s  
+New Data Upload               :  87%|████████▋ | 3.38GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  87%|████████▋ | 3.41GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  87%|████████▋ | 3.41GB / 3.91GB,  110MB/s  
+New Data Upload               :  87%|████████▋ | 3.41GB / 3.91GB,  110MB/s  [A
+
+  ...4047Z/prompt_results.json:  88%|████████▊ | 3.43GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  88%|████████▊ | 3.43GB / 3.91GB,  112MB/s  
+New Data Upload               :  88%|████████▊ | 3.43GB / 3.91GB,  112MB/s  [A
+
+  ...4047Z/prompt_results.json:  88%|████████▊ | 3.45GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  88%|████████▊ | 3.45GB / 3.91GB,  111MB/s  
+New Data Upload               :  88%|████████▊ | 3.45GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  89%|████████▉ | 3.47GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  89%|████████▉ | 3.47GB / 3.91GB,  111MB/s  
+New Data Upload               :  89%|████████▉ | 3.47GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  89%|████████▉ | 3.49GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  89%|████████▉ | 3.49GB / 3.91GB,  111MB/s  
+New Data Upload               :  89%|████████▉ | 3.49GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  90%|████████▉ | 3.52GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  90%|████████▉ | 3.52GB / 3.91GB,  111MB/s  
+New Data Upload               :  90%|████████▉ | 3.52GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  91%|█████████ | 3.54GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  91%|█████████ | 3.54GB / 3.91GB,  112MB/s  
+New Data Upload               :  91%|█████████ | 3.54GB / 3.91GB,  112MB/s  [A
+
+  ...4047Z/prompt_results.json:  91%|█████████ | 3.55GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  91%|█████████ | 3.55GB / 3.91GB,  110MB/s  
+New Data Upload               :  91%|█████████ | 3.55GB / 3.91GB,  110MB/s  [A
+
+  ...4047Z/prompt_results.json:  91%|█████████▏| 3.57GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  91%|█████████▏| 3.57GB / 3.91GB,  111MB/s  
+New Data Upload               :  91%|█████████▏| 3.57GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  92%|█████████▏| 3.60GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  92%|█████████▏| 3.60GB / 3.91GB,  110MB/s  
+New Data Upload               :  92%|█████████▏| 3.60GB / 3.91GB,  110MB/s  [A
+
+  ...4047Z/prompt_results.json:  92%|█████████▏| 3.61GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  92%|█████████▏| 3.61GB / 3.91GB,  110MB/s  
+New Data Upload               :  92%|█████████▏| 3.61GB / 3.91GB,  110MB/s  [A
+
+  ...4047Z/prompt_results.json:  93%|█████████▎| 3.63GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  93%|█████████▎| 3.63GB / 3.91GB,  111MB/s  
+New Data Upload               :  93%|█████████▎| 3.63GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  94%|█████████▎| 3.66GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  94%|█████████▎| 3.66GB / 3.91GB,  112MB/s  
+New Data Upload               :  94%|█████████▎| 3.66GB / 3.91GB,  112MB/s  [A
+
+  ...4047Z/prompt_results.json:  94%|█████████▍| 3.67GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  94%|█████████▍| 3.67GB / 3.91GB,  111MB/s  
+New Data Upload               :  94%|█████████▍| 3.67GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  94%|█████████▍| 3.69GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  94%|█████████▍| 3.69GB / 3.91GB,  111MB/s  
+New Data Upload               :  94%|█████████▍| 3.69GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  95%|█████████▍| 3.71GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  95%|█████████▍| 3.71GB / 3.91GB,  111MB/s  
+New Data Upload               :  95%|█████████▍| 3.71GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  95%|█████████▌| 3.73GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  95%|█████████▌| 3.73GB / 3.91GB,  111MB/s  
+New Data Upload               :  95%|█████████▌| 3.73GB / 3.91GB,  111MB/s  [A
+
+  ...4047Z/prompt_results.json:  96%|█████████▌| 3.73GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  96%|█████████▌| 3.73GB / 3.91GB,  110MB/s  
+New Data Upload               :  96%|█████████▌| 3.73GB / 3.91GB,  110MB/s  [A
+
+  ...4047Z/prompt_results.json:  96%|█████████▌| 3.76GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  96%|█████████▌| 3.76GB / 3.91GB,  110MB/s  
+New Data Upload               :  96%|█████████▌| 3.76GB / 3.91GB,  110MB/s  [A
+
+  ...4047Z/prompt_results.json:  97%|█████████▋| 3.78GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  97%|█████████▋| 3.78GB / 3.91GB,  109MB/s  
+New Data Upload               :  97%|█████████▋| 3.78GB / 3.91GB,  109MB/s  [A
+
+  ...4047Z/prompt_results.json:  97%|█████████▋| 3.79GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  97%|█████████▋| 3.79GB / 3.91GB,  109MB/s  
+New Data Upload               :  97%|█████████▋| 3.79GB / 3.91GB,  109MB/s  [A
+
+  ...4047Z/prompt_results.json:  97%|█████████▋| 3.81GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  97%|█████████▋| 3.81GB / 3.91GB,  108MB/s  
+New Data Upload               :  97%|█████████▋| 3.81GB / 3.91GB,  108MB/s  [A
+
+  ...4047Z/prompt_results.json:  98%|█████████▊| 3.82GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  98%|█████████▊| 3.82GB / 3.91GB,  107MB/s  
+New Data Upload               :  98%|█████████▊| 3.82GB / 3.91GB,  107MB/s  [A
+
+  ...4047Z/prompt_results.json:  98%|█████████▊| 3.83GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  98%|█████████▊| 3.83GB / 3.91GB,  106MB/s  
+New Data Upload               :  98%|█████████▊| 3.83GB / 3.91GB,  106MB/s  [A
+
+  ...4047Z/prompt_results.json:  98%|█████████▊| 3.85GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  98%|█████████▊| 3.85GB / 3.91GB,  106MB/s  
+New Data Upload               :  98%|█████████▊| 3.85GB / 3.91GB,  106MB/s  [A
+
+  ...4047Z/prompt_results.json:  99%|█████████▊| 3.86GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  99%|█████████▊| 3.86GB / 3.91GB,  104MB/s  
+New Data Upload               :  99%|█████████▊| 3.86GB / 3.91GB,  104MB/s  [A
+
+  ...4047Z/prompt_results.json:  99%|█████████▉| 3.87GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  99%|█████████▉| 3.87GB / 3.91GB,  103MB/s  
+New Data Upload               :  99%|█████████▉| 3.87GB / 3.91GB,  103MB/s  [A
+
+  ...4047Z/prompt_results.json:  99%|█████████▉| 3.87GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  99%|█████████▉| 3.87GB / 3.91GB,  101MB/s  
+New Data Upload               :  99%|█████████▉| 3.87GB / 3.91GB,  101MB/s  [A
+
+  ...4047Z/prompt_results.json:  99%|█████████▉| 3.88GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  99%|█████████▉| 3.88GB / 3.91GB, 98.9MB/s  
+New Data Upload               :  99%|█████████▉| 3.88GB / 3.91GB, 98.9MB/s  [A
+
+  ...4047Z/prompt_results.json:  99%|█████████▉| 3.89GB / 3.91GB            [A[AProcessing Files (0 / 1)      :  99%|█████████▉| 3.89GB / 3.91GB, 97.5MB/s  
+New Data Upload               :  99%|█████████▉| 3.89GB / 3.91GB, 97.5MB/s  [A
+
+  ...4047Z/prompt_results.json: 100%|█████████▉| 3.89GB / 3.91GB            [A[AProcessing Files (0 / 1)      : 100%|█████████▉| 3.89GB / 3.91GB, 95.6MB/s  
+New Data Upload               : 100%|█████████▉| 3.89GB / 3.91GB, 95.6MB/s  [A
+
+  ...4047Z/prompt_results.json: 100%|█████████▉| 3.90GB / 3.91GB            [A[AProcessing Files (0 / 1)      : 100%|█████████▉| 3.90GB / 3.91GB, 93.3MB/s  
+New Data Upload               : 100%|█████████▉| 3.90GB / 3.91GB, 93.3MB/s  [A
+
+  ...4047Z/prompt_results.json: 100%|█████████▉| 3.90GB / 3.91GB            [A[AProcessing Files (0 / 1)      : 100%|█████████▉| 3.90GB / 3.91GB, 91.8MB/s  
+New Data Upload               : 100%|█████████▉| 3.90GB / 3.91GB, 91.8MB/s  [A
+
+  ...4047Z/prompt_results.json: 100%|█████████▉| 3.90GB / 3.91GB            [A[AProcessing Files (0 / 1)      : 100%|█████████▉| 3.90GB / 3.91GB, 89.8MB/s  
+New Data Upload               : 100%|█████████▉| 3.90GB / 3.91GB, 89.8MB/s  [A
+
+  ...4047Z/prompt_results.json: 100%|█████████▉| 3.90GB / 3.91GB            [A[AProcessing Files (0 / 1)      : 100%|█████████▉| 3.90GB / 3.91GB, 87.5MB/s  
+New Data Upload               : 100%|█████████▉| 3.90GB / 3.91GB, 87.5MB/s  [A
+
+  ...4047Z/prompt_results.json: 100%|█████████▉| 3.90GB / 3.91GB            [A[AProcessing Files (0 / 1)      : 100%|█████████▉| 3.90GB / 3.91GB, 85.7MB/s  
+New Data Upload               : 100%|█████████▉| 3.90GB / 3.91GB, 85.7MB/s  [A
+
+  ...4047Z/prompt_results.json: 100%|█████████▉| 3.91GB / 3.91GB            [A[AProcessing Files (0 / 1)      : 100%|█████████▉| 3.91GB / 3.91GB, 82.8MB/s  
+New Data Upload               : 100%|█████████▉| 3.91GB / 3.91GB, 82.8MB/s  [A
+
+  ...4047Z/prompt_results.json: 100%|█████████▉| 3.91GB / 3.91GB            [A[AProcessing Files (0 / 1)      : 100%|█████████▉| 3.91GB / 3.91GB, 80.7MB/s  
+New Data Upload               : 100%|█████████▉| 3.91GB / 3.91GB, 80.7MB/s  [A
+
+  ...4047Z/prompt_results.json: 100%|█████████▉| 3.91GB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json: 100%|██████████| 3.91GB / 3.91GB            [A[AProcessing Files (1 / 1)      : 100%|██████████| 3.91GB / 3.91GB, 76.0MB/s  
+New Data Upload               : 100%|██████████| 3.91GB / 3.91GB, 76.0MB/s  [A
+
+  ...4047Z/prompt_results.json: 100%|██████████| 3.91GB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json: 100%|██████████| 3.91GB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json: 100%|██████████| 3.91GB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json: 100%|██████████| 3.91GB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json: 100%|██████████| 3.91GB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json: 100%|██████████| 3.91GB / 3.91GB            [A[A
+
+  ...4047Z/prompt_results.json: 100%|██████████| 3.91GB / 3.91GB            [A[AProcessing Files (1 / 1)      : 100%|██████████| 3.91GB / 3.91GB, 61.9MB/s  
+New Data Upload               : 100%|██████████| 3.91GB / 3.91GB, 61.9MB/s  
+  ...4047Z/prompt_results.json: 100%|██████████| 3.91GB / 3.91GB            

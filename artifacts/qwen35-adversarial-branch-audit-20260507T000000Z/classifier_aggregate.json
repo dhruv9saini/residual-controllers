@@ -1,0 +1,128 @@
+[
+  {
+    "variant": "concise_one_sentence",
+    "mode": "no",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 1.0,
+    "mean_top1_correct": 0.4,
+    "mean_residual_score": -0.23470908999443055
+  },
+  {
+    "variant": "concise_one_sentence",
+    "mode": "think",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 0.0,
+    "mean_top1_correct": 1.0,
+    "mean_residual_score": 0.4382542252540588
+  },
+  {
+    "variant": "plain",
+    "mode": "no",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 0.0,
+    "mean_top1_correct": 0.9,
+    "mean_residual_score": -0.49793155789375304
+  },
+  {
+    "variant": "plain",
+    "mode": "think",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 0.0,
+    "mean_top1_correct": 0.9,
+    "mean_residual_score": 0.4999654233455658
+  },
+  {
+    "variant": "user_fake_closed",
+    "mode": "no",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 1.0,
+    "mean_top1_correct": 0.7,
+    "mean_residual_score": -0.38387598693370817
+  },
+  {
+    "variant": "user_fake_closed",
+    "mode": "think",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 0.0,
+    "mean_top1_correct": 1.0,
+    "mean_residual_score": 0.41260367929935454
+  },
+  {
+    "variant": "user_fake_think_tags",
+    "mode": "no",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 0.0,
+    "mean_top1_correct": 0.9,
+    "mean_residual_score": -0.35448079705238345
+  },
+  {
+    "variant": "user_fake_think_tags",
+    "mode": "think",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 1.0,
+    "mean_top1_correct": 0.9,
+    "mean_residual_score": 0.3150634586811066
+  },
+  {
+    "variant": "user_says_direct",
+    "mode": "no",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 1.0,
+    "mean_top1_correct": 0.1,
+    "mean_residual_score": -0.1407204307615757
+  },
+  {
+    "variant": "user_says_direct",
+    "mode": "think",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 0.0,
+    "mean_top1_correct": 1.0,
+    "mean_residual_score": 0.45328428149223327
+  },
+  {
+    "variant": "user_says_think",
+    "mode": "no",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 0.0,
+    "mean_top1_correct": 0.0,
+    "mean_residual_score": -0.3511130154132843
+  },
+  {
+    "variant": "user_says_think",
+    "mode": "think",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 1.0,
+    "mean_top1_correct": 1.0,
+    "mean_residual_score": 0.4510185956954956
+  },
+  {
+    "variant": "verbose_step_by_step",
+    "mode": "no",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 0.0,
+    "mean_top1_correct": 0.9,
+    "mean_residual_score": -0.45637181401252747
+  },
+  {
+    "variant": "verbose_step_by_step",
+    "mode": "think",
+    "count": 10,
+    "mean_residual_correct": 1.0,
+    "mean_visible_correct": 1.0,
+    "mean_top1_correct": 1.0,
+    "mean_residual_score": 0.48647837042808534
+  }
+]

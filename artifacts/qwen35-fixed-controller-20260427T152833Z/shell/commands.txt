@@ -1,0 +1,1 @@
+./.venv/bin/python scripts/run_qwen35_fixed_controller_suite.py --output-dir outputs/qwen35-fixed-controller-20260427T152833Z

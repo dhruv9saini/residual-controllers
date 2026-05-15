@@ -1,0 +1,11 @@
+{
+  "completed_at_utc": "2026-04-22T05:08:00Z",
+  "mean_cosine_distance": 0.6205746978521347,
+  "mean_js_divergence": 0.6119732660444673,
+  "final_token_probe_accuracy": 1.0,
+  "hf_upload": {
+    "repo_id": "oof-baroomf/reasoning-switch-research-artifacts",
+    "repo_type": "dataset",
+    "commit_url": "https://huggingface.co/datasets/oof-baroomf/reasoning-switch-research-artifacts/commit/d5cbd6fd92062eb4f459e17cf8d17121ebb65f38"
+  }
+}

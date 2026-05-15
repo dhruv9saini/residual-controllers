@@ -1,0 +1,25 @@
+{
+  "think_template": {
+    "base_text": "<|im_start|>system\nYou are OLMo, a helpful function-calling AI assistant built by Ai2. Your date cutoff is November 2024, and your model weights are available at https://huggingface.co/allenai. You do not currently have access to any functions. <functions></functions><|im_end|>\n<|im_start|>user\nHow many r letters are in the word strawberries?<|im_end|>\n",
+    "generation_prompt_text": "<|im_start|>system\nYou are OLMo, a helpful function-calling AI assistant built by Ai2. Your date cutoff is November 2024, and your model weights are available at https://huggingface.co/allenai. You do not currently have access to any functions. <functions></functions><|im_end|>\n<|im_start|>user\nHow many r letters are in the word strawberries?<|im_end|>\n<|im_start|>assistant\n<think>",
+    "generation_suffix_text": "<|im_start|>assistant\n<think>",
+    "generation_suffix_token_ids": [
+      100264,
+      78191,
+      198,
+      14023,
+      771,
+      29
+    ]
+  },
+  "instruct_template": {
+    "base_text": "<|im_start|>system\nYou are a helpful function-calling AI assistant. You do not currently have access to any functions. <functions></functions><|im_end|>\n<|im_start|>user\nHow many r letters are in the word strawberries?<|im_end|>\n",
+    "generation_prompt_text": "<|im_start|>system\nYou are a helpful function-calling AI assistant. You do not currently have access to any functions. <functions></functions><|im_end|>\n<|im_start|>user\nHow many r letters are in the word strawberries?<|im_end|>\n<|im_start|>assistant\n",
+    "generation_suffix_text": "<|im_start|>assistant\n",
+    "generation_suffix_token_ids": [
+      100264,
+      78191,
+      198
+    ]
+  }
+}

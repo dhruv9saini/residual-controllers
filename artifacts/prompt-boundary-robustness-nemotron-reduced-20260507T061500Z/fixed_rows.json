@@ -1,0 +1,3950 @@
+[
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "general_01",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 2.61829104183919e-06,
+    "js_to_target": 0.6918141012775052,
+    "donor_margin": 0.6918114829864633,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 8.550592525691236e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 3.29510941102229e-12
+      },
+      {
+        "token_id": 26355,
+        "token_text": "rin",
+        "prob": 3.2836764991134304e-13
+      },
+      {
+        "token_id": 62792,
+        "token_text": " readiness",
+        "prob": 2.7810962083610336e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "general_02",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 1.145720853749423e-08,
+    "js_to_target": 0.692900900930145,
+    "donor_margin": 0.6929008894729365,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Below",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.351033868113305e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.3332121864828572e-12
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 1.0093688444746604e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 7.331093197782135e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "general_03",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 2.5071159871645507e-06,
+    "js_to_target": 0.69317234683978,
+    "donor_margin": 0.6931698397237929,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.7650846062533532e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.0175270999043806e-12
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 1.4537802656578586e-13
+      },
+      {
+        "token_id": 3516,
+        "token_text": "lem",
+        "prob": 9.194678167716991e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "general_04",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 5.467383560886398e-07,
+    "js_to_target": 0.6937498681727083,
+    "donor_margin": 0.6937493214343523,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.0960173700845797e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.0545773239042933e-12
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 1.0235758231670958e-13
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 9.301759395282522e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "general_05",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 7.62572245149051e-08,
+    "js_to_target": 0.693938724218787,
+    "donor_margin": 0.6939386479615625,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Dec",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 2.4566117369506646e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.976836229433676e-12
+      },
+      {
+        "token_id": 35170,
+        "token_text": "JK",
+        "prob": 9.851996063577062e-14
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 9.785584614754178e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "general_06",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 1.7265586249605641e-06,
+    "js_to_target": 0.6932964022201571,
+    "donor_margin": 0.6932946756615321,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Below",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.382586753417847e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 8.223083672320719e-13
+      },
+      {
+        "token_id": 62792,
+        "token_text": " readiness",
+        "prob": 1.231644452225067e-13
+      },
+      {
+        "token_id": 48121,
+        "token_text": "inth",
+        "prob": 9.363797443592142e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "coding_01",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 5.825651720684337e-07,
+    "js_to_target": 0.6934921276074283,
+    "donor_margin": 0.6934915450422562,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Certainly",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.5652056433872472e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.2539119048637914e-12
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 8.695649045655299e-14
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 6.684037953110997e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "coding_02",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 2.1523665912247272e-07,
+    "js_to_target": 0.6919625321896945,
+    "donor_margin": 0.6919623169530353,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.0985191705933928e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 8.253689615447812e-13
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 1.1129313616520253e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 7.23065812953394e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "coding_03",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.0020761190793119723,
+    "js_to_target": 0.6932699254026742,
+    "donor_margin": 0.6911938063233622,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "To",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.326503573124583e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.4919142310443334e-12
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 1.0378345725132673e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 8.557831364126162e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "coding_04",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 1.1303233720259004e-07,
+    "js_to_target": 0.6934793645870134,
+    "donor_margin": 0.6934792515546763,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Below",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.552924451698635e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.2227517175861236e-12
+      },
+      {
+        "token_id": 48121,
+        "token_text": "inth",
+        "prob": 1.1916583984774437e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.1544592864141945e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "coding_05",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 9.5363757972034e-07,
+    "js_to_target": 0.6922329026344827,
+    "donor_margin": 0.692231948996903,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Below",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.7622502809382388e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.2702938744293957e-12
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.0265762849168136e-13
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 9.508256541054111e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "coding_06",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 1.6474660699185855e-08,
+    "js_to_target": 0.6927078591048528,
+    "donor_margin": 0.692707842630192,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.0215601151455922e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 8.39925839383332e-13
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 9.697954651789395e-14
+      },
+      {
+        "token_id": 16777,
+        "token_text": " Defense",
+        "prob": 5.468662903160976e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "factual_01",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 1.729567595224283e-07,
+    "js_to_target": 0.6932979511093361,
+    "donor_margin": 0.6932977781525766,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Ch",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 7.493078423362332e-13
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 4.752814895120361e-13
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 6.496481141666371e-14
+      },
+      {
+        "token_id": 48121,
+        "token_text": "inth",
+        "prob": 4.147525625350888e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "factual_02",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 1.174731531128612e-07,
+    "js_to_target": 0.693221283714111,
+    "donor_margin": 0.6932211662409579,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "E",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.4038570653185367e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 4.2450458838209915e-13
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 2.810525521080437e-13
+      },
+      {
+        "token_id": 48121,
+        "token_text": "inth",
+        "prob": 3.952512552278173e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "factual_03",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 4.703337909860204e-08,
+    "js_to_target": 0.6936638329907865,
+    "donor_margin": 0.6936637859574074,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Weather",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.4030146402305155e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.1928925729154383e-12
+      },
+      {
+        "token_id": 62792,
+        "token_text": " readiness",
+        "prob": 1.9730216267201117e-13
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 1.6301758933631033e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "factual_04",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 7.60133092179406e-09,
+    "js_to_target": 0.6924580396032493,
+    "donor_margin": 0.6924580320019184,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 2.806801015567406e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.3184638927507542e-12
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 8.157692322216872e-14
+      },
+      {
+        "token_id": 16777,
+        "token_text": " Defense",
+        "prob": 7.528598241785672e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "factual_05",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 6.559561543800628e-08,
+    "js_to_target": 0.6924280568065133,
+    "donor_margin": 0.6924279912108979,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "While",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 8.683505303697103e-13
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 7.271390520952048e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 6.508155288558609e-14
+      },
+      {
+        "token_id": 16777,
+        "token_text": " Defense",
+        "prob": 6.360789174021664e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "factual_06",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 2.7991949574438224e-07,
+    "js_to_target": 0.692172327886903,
+    "donor_margin": 0.6921720479674073,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Salt",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.7760865477986498e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.4200861623778205e-12
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 3.4215219633232374e-13
+      },
+      {
+        "token_id": 27,
+        "token_text": "<",
+        "prob": 1.4783058674763816e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "multiturn_01",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 5.997749857124503e-07,
+    "js_to_target": 0.6930392472941409,
+    "donor_margin": 0.6930386475191552,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.004577497576431e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 6.744942603574555e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 8.379881939182474e-14
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 7.524120486813307e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "multiturn_02",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 5.912779401018859e-06,
+    "js_to_target": 0.6924045637971017,
+    "donor_margin": 0.6923986510177007,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.1111799374667894e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.822653356367554e-12
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.9803546281137174e-13
+      },
+      {
+        "token_id": 3516,
+        "token_text": "lem",
+        "prob": 1.3785329757050324e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "multiturn_03",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 1.4615393622511571e-07,
+    "js_to_target": 0.6920334011253084,
+    "donor_margin": 0.6920332549713722,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Based",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.2380324630051343e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 6.788007113865679e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.1214506835102375e-13
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 6.514749270646394e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "multiturn_04",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 8.256982870992016e-07,
+    "js_to_target": 0.6932817783648211,
+    "donor_margin": 0.693280952666534,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Here",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.01735492859939e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 3.7237251585171827e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.524963965868209e-13
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 9.876487513027152e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "multiturn_05",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 6.031802353199215e-08,
+    "js_to_target": 0.6928994147758785,
+    "donor_margin": 0.6928993544578549,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "**",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.667839802897697e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.0098427085866724e-12
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.6897437225479872e-13
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 1.4855706996583923e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "multiturn_06",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 6.974622244438898e-07,
+    "js_to_target": 0.6932403561471789,
+    "donor_margin": 0.6932396586849545,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.6203091346016505e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.5673379477956773e-12
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 3.216391183339523e-13
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 1.7325984397187355e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "nonenglish_01",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 3.5623222323563787e-07,
+    "js_to_target": 0.6950041309742663,
+    "donor_margin": 0.695003774742043,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "\u00a1",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.0923206783530759e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 7.067352345707656e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 3.8085108526077216e-14
+      },
+      {
+        "token_id": 3516,
+        "token_text": "lem",
+        "prob": 2.919196731131918e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "nonenglish_02",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 6.521274576543073e-06,
+    "js_to_target": 0.6941514926123411,
+    "donor_margin": 0.6941449713377645,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Vo",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 5.873238635885347e-13
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 4.1670646425649716e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 6.415261524046409e-14
+      },
+      {
+        "token_id": 6870,
+        "token_text": "oi",
+        "prob": 3.9149019177278296e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "nonenglish_03",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 6.882045107513132e-08,
+    "js_to_target": 0.694630917060149,
+    "donor_margin": 0.6946308482396979,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Auf",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 5.9989344221300644e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 7.498965099057842e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.3635104059283448e-13
+      },
+      {
+        "token_id": 48121,
+        "token_text": "inth",
+        "prob": 1.0710322331710515e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "nonenglish_04",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 6.369071511423595e-06,
+    "js_to_target": 0.6951675419442046,
+    "donor_margin": 0.6951611728726932,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Below",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.2446759118170392e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 5.303102249866465e-13
+      },
+      {
+        "token_id": 3516,
+        "token_text": "lem",
+        "prob": 1.3254039521719968e-13
+      },
+      {
+        "token_id": 35170,
+        "token_text": "JK",
+        "prob": 5.95271716034157e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "nonenglish_05",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 2.3633516993549592e-06,
+    "js_to_target": 0.6943832648513164,
+    "donor_margin": 0.6943809014996171,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Aqu",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.7714948431779565e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.1401089490895022e-12
+      },
+      {
+        "token_id": 6870,
+        "token_text": "oi",
+        "prob": 1.9271429341650298e-13
+      },
+      {
+        "token_id": 73093,
+        "token_text": " provoke",
+        "prob": 1.9027226354825094e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "nonenglish_06",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 1.0127074974362272e-08,
+    "js_to_target": 0.6935634542833118,
+    "donor_margin": 0.6935634441562368,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Cl",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 9.1272779265128e-13
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 4.210069250686066e-13
+      },
+      {
+        "token_id": 5648,
+        "token_text": "Gener",
+        "prob": 5.0592566431823666e-14
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 4.257168958175274e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_0",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 2.9812110459132313e-07,
+    "js_to_target": 0.6932016587065399,
+    "donor_margin": 0.6932013605854354,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "According",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.625760719965342e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.5052955626773667e-12
+      },
+      {
+        "token_id": 73093,
+        "token_text": " provoke",
+        "prob": 2.069367084373691e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.9616968639779575e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_1",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 4.1872458468199206e-07,
+    "js_to_target": 0.6936972190680715,
+    "donor_margin": 0.6936968003434868,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "There",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.4790506059486619e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.0831316312603922e-12
+      },
+      {
+        "token_id": 13602,
+        "token_text": "ugs",
+        "prob": 1.136820333507392e-13
+      },
+      {
+        "token_id": 3516,
+        "token_text": "lem",
+        "prob": 9.958302764215624e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_2",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 2.9907751749758038e-05,
+    "js_to_target": 0.6923264426585387,
+    "donor_margin": 0.692296534906789,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.2900667907138628e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 2.2593504758056104e-12
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 2.809121479267068e-13
+      },
+      {
+        "token_id": 62792,
+        "token_text": " readiness",
+        "prob": 2.140948957831887e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_3",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 1.4602251202470558e-07,
+    "js_to_target": 0.6947143020833959,
+    "donor_margin": 0.6947141560608839,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "In",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.4526716418314378e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.299452516076438e-12
+      },
+      {
+        "token_id": 16777,
+        "token_text": " Defense",
+        "prob": 1.8632366699869451e-13
+      },
+      {
+        "token_id": 62792,
+        "token_text": " readiness",
+        "prob": 8.846088195724883e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_4",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 3.7993556770869633e-07,
+    "js_to_target": 0.6931759003966853,
+    "donor_margin": 0.6931755204611176,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 4.179108448187918e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 9.697120493742939e-13
+      },
+      {
+        "token_id": 62792,
+        "token_text": " readiness",
+        "prob": 3.4671582011674973e-13
+      },
+      {
+        "token_id": 35170,
+        "token_text": "JK",
+        "prob": 1.3064030380486452e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_5",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 1.6234196391769513e-05,
+    "js_to_target": 0.6928688562688741,
+    "donor_margin": 0.6928526220724823,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 4.080021476920992e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 2.1710799390922686e-12
+      },
+      {
+        "token_id": 62792,
+        "token_text": " readiness",
+        "prob": 1.7272328586923763e-13
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.5522781356743648e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_6",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 2.224311250288121e-07,
+    "js_to_target": 0.694093741819436,
+    "donor_margin": 0.6940935193883109,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.5087663106719273e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 1.228237672158683e-12
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 1.9607842367992678e-13
+      },
+      {
+        "token_id": 3516,
+        "token_text": "lem",
+        "prob": 1.447485929945494e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_7",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 4.852590479564286e-07,
+    "js_to_target": 0.6932357753106557,
+    "donor_margin": 0.6932352900516078,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 3.864035827416679e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.7693649280101087e-12
+      },
+      {
+        "token_id": 62792,
+        "token_text": " readiness",
+        "prob": 2.372828496188806e-13
+      },
+      {
+        "token_id": 16777,
+        "token_text": " Defense",
+        "prob": 1.8505740017639438e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_8",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 2.7966542715322857e-06,
+    "js_to_target": 0.6933633060745732,
+    "donor_margin": 0.6933605094203017,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Qu",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 3.2607954964652963e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 2.210171498942537e-12
+      },
+      {
+        "token_id": 16777,
+        "token_text": " Defense",
+        "prob": 2.51956496031408e-13
+      },
+      {
+        "token_id": 91385,
+        "token_text": " catalogs",
+        "prob": 2.484390460282676e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_9",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.0002176794999208722,
+    "js_to_target": 0.6921892610948809,
+    "donor_margin": 0.69197158159496,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.7507271634086283e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.2779549554003955e-12
+      },
+      {
+        "token_id": 3516,
+        "token_text": "lem",
+        "prob": 2.7010427857028507e-13
+      },
+      {
+        "token_id": 62792,
+        "token_text": " readiness",
+        "prob": 2.4044644313797603e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_10",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.00023805835948746617,
+    "js_to_target": 0.6930153211211052,
+    "donor_margin": 0.6927772627616178,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "Since",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 1.7490608570855382e-12
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 8.391511227209825e-13
+      },
+      {
+        "token_id": 62792,
+        "token_text": " readiness",
+        "prob": 9.658902367162825e-14
+      },
+      {
+        "token_id": 91385,
+        "token_text": " catalogs",
+        "prob": 9.632199145280865e-14
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "off_to_think",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_11",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 4.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 6.53051463687824e-05,
+    "js_to_target": 0.6953572994936543,
+    "donor_margin": 0.6952919943472855,
+    "patched_top1_text": "<th",
+    "donor_top1_text": "<th",
+    "target_top1_text": "The",
+    "top_tokens": [
+      {
+        "token_id": 14023,
+        "token_text": "<th",
+        "prob": 1.0
+      },
+      {
+        "token_id": 366,
+        "token_text": " <",
+        "prob": 2.1289276765090737e-12
+      },
+      {
+        "token_id": 116274,
+        "token_text": "\u55ef",
+        "prob": 2.0536547722799225e-12
+      },
+      {
+        "token_id": 17339,
+        "token_text": " okay",
+        "prob": 2.3693864253417074e-13
+      },
+      {
+        "token_id": 33413,
+        "token_text": "Okay",
+        "prob": 1.5147884574288895e-13
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "general_01",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.5994668635627587,
+    "js_to_target": 0.6931478346152602,
+    "donor_margin": 0.0936809710525015,
+    "patched_top1_text": "Here",
+    "donor_top1_text": "Here",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 8586,
+        "token_text": "Here",
+        "prob": 0.04233725741505623
+      },
+      {
+        "token_id": 24105,
+        "token_text": "Organ",
+        "prob": 0.012920769862830639
+      },
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.012470835819840431
+      },
+      {
+        "token_id": 31718,
+        "token_text": " bounding",
+        "prob": 0.0118570476770401
+      },
+      {
+        "token_id": 5810,
+        "token_text": " Here",
+        "prob": 0.010509250685572624
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "general_02",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.43826309581199074,
+    "js_to_target": 0.6931472803239521,
+    "donor_margin": 0.2548841845119614,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Below",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.3975687325000763
+      },
+      {
+        "token_id": 24105,
+        "token_text": "Organ",
+        "prob": 0.09486629068851471
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.038020286709070206
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.03164362162351608
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.019236017018556595
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "general_03",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.5571929383098808,
+    "js_to_target": 0.6931342869326941,
+    "donor_margin": 0.13594134862281326,
+    "patched_top1_text": "To",
+    "donor_top1_text": "**",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.09119222313165665
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.07484374940395355
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.013387735933065414
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.012880642898380756
+      },
+      {
+        "token_id": 11183,
+        "token_text": "PEC",
+        "prob": 0.01226533018052578
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "general_04",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6746139326518995,
+    "js_to_target": 0.6931475211883127,
+    "donor_margin": 0.01853358853641318,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Here",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.025868119671940804
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.024496441707015038
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.02114199846982956
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.01640205830335617
+      },
+      {
+        "token_id": 35744,
+        "token_text": " laying",
+        "prob": 0.01436291728168726
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "general_05",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6676326431244466,
+    "js_to_target": 0.6931468317753368,
+    "donor_margin": 0.02551418865089017,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Dec",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.2463332563638687
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.10495604574680328
+      },
+      {
+        "token_id": 24105,
+        "token_text": "Organ",
+        "prob": 0.08370889723300934
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.0193413645029068
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.01630927436053753
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "general_06",
+    "benchmark": "general_instruction",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6813001206174044,
+    "js_to_target": 0.6931457740573501,
+    "donor_margin": 0.011845653439945703,
+    "patched_top1_text": "It",
+    "donor_top1_text": "Below",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.011707368306815624
+      },
+      {
+        "token_id": 35744,
+        "token_text": " laying",
+        "prob": 0.010902147740125656
+      },
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.010000386275351048
+      },
+      {
+        "token_id": 50755,
+        "token_text": "Excellent",
+        "prob": 0.009248862974345684
+      },
+      {
+        "token_id": 62917,
+        "token_text": " rotary",
+        "prob": 0.0072565809823572636
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "coding_01",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.637457403765751,
+    "js_to_target": 0.6931393306584523,
+    "donor_margin": 0.05568192689270135,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Certainly",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.7612418532371521
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.026665272191166878
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.02167629450559616
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.006892953533679247
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.0033822618424892426
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "coding_02",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6169883341098682,
+    "js_to_target": 0.6931463555453982,
+    "donor_margin": 0.07615802143552997,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Here",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.23395217955112457
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.04822460189461708
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.042017702013254166
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.025731833651661873
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.017325377091765404
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "coding_03",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.44276368486923234,
+    "js_to_target": 0.6788971346270383,
+    "donor_margin": 0.23613344975780592,
+    "patched_top1_text": "To",
+    "donor_top1_text": "To",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.19854818284511566
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.027569036930799484
+      },
+      {
+        "token_id": 4730,
+        "token_text": "attle",
+        "prob": 0.007500914856791496
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.007385596167296171
+      },
+      {
+        "token_id": 35272,
+        "token_text": " Someone",
+        "prob": 0.006306683644652367
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "coding_04",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6810898051486505,
+    "js_to_target": 0.6931470828011443,
+    "donor_margin": 0.01205727765249387,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Below",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.40542760491371155
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.19458048045635223
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.032673586159944534
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.013094169087707996
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.01235999260097742
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "coding_05",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6876730508500867,
+    "js_to_target": 0.693146063531155,
+    "donor_margin": 0.005473012681068368,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Below",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.17766818404197693
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.10235829651355743
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.019883086904883385
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.015347471460700035
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.014807512052357197
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "coding_06",
+    "benchmark": "coding",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6079731197304437,
+    "js_to_target": 0.6931470748524894,
+    "donor_margin": 0.08517395512204573,
+    "patched_top1_text": "To",
+    "donor_top1_text": "**",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.3343622386455536
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.08141127228736877
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.03608034923672676
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.019062135368585587
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.014242827892303467
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "factual_01",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6922487791851639,
+    "js_to_target": 0.6931474100985378,
+    "donor_margin": 0.0008986309133738324,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Ch",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.7213789820671082
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.11607567220926285
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.060659341514110565
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.011218932457268238
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.009815443307161331
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "factual_02",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6903476918591733,
+    "js_to_target": 0.6931473103806882,
+    "donor_margin": 0.0027996185215148905,
+    "patched_top1_text": "A",
+    "donor_top1_text": "E",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.5765676498413086
+      },
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.291061133146286
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.015272709541022778
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.011204246431589127
+      },
+      {
+        "token_id": 362,
+        "token_text": " A",
+        "prob": 0.003842531470581889
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "factual_03",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6850125302621193,
+    "js_to_target": 0.6931472400976736,
+    "donor_margin": 0.00813470983555431,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Weather",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.5351279973983765
+      },
+      {
+        "token_id": 24105,
+        "token_text": "Organ",
+        "prob": 0.03832501918077469
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.032205142080783844
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.02678808942437172
+      },
+      {
+        "token_id": 791,
+        "token_text": "The",
+        "prob": 0.011501619592308998
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "factual_04",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6623843598089947,
+    "js_to_target": 0.6931473599518263,
+    "donor_margin": 0.03076300014283162,
+    "patched_top1_text": "To",
+    "donor_top1_text": "The",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.8041613698005676
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.028944967314600945
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.012742203660309315
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.00856175646185875
+      },
+      {
+        "token_id": 791,
+        "token_text": "The",
+        "prob": 0.0073469094932079315
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "factual_05",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6815255404626296,
+    "js_to_target": 0.6931464094757327,
+    "donor_margin": 0.011620869013103108,
+    "patched_top1_text": "To",
+    "donor_top1_text": "While",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.32704898715019226
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.08956015855073929
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.051124151796102524
+      },
+      {
+        "token_id": 24105,
+        "token_text": "Organ",
+        "prob": 0.023154836148023605
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.020276600494980812
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "factual_06",
+    "benchmark": "factual_qa",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6907865989948105,
+    "js_to_target": 0.6931473831400474,
+    "donor_margin": 0.0023607841452368827,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Salt",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.632749080657959
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.12564165890216827
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.12497756630182266
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.005699841305613518
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.005209272261708975
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "multiturn_01",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6703292102628986,
+    "js_to_target": 0.6931466846784394,
+    "donor_margin": 0.022817474415540828,
+    "patched_top1_text": "**",
+    "donor_top1_text": "Here",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.018030738458037376
+      },
+      {
+        "token_id": 50048,
+        "token_text": " beginner",
+        "prob": 0.017939405515789986
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.01496933400630951
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.01336525660008192
+      },
+      {
+        "token_id": 11439,
+        "token_text": "According",
+        "prob": 0.01138176117092371
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "multiturn_02",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.679021945882788,
+    "js_to_target": 0.693152118009166,
+    "donor_margin": 0.014130172126378016,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Here",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.041844822466373444
+      },
+      {
+        "token_id": 1022,
+        "token_text": " off",
+        "prob": 0.016401786357164383
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.011288641020655632
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.010923373512923717
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.008949513547122478
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "multiturn_03",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6563249833349134,
+    "js_to_target": 0.6931470995665485,
+    "donor_margin": 0.036822116231635116,
+    "patched_top1_text": "It",
+    "donor_top1_text": "Based",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.028984006494283676
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.026631610468029976
+      },
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.020972520112991333
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.01592223532497883
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.01442909799516201
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "multiturn_04",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6882107860886335,
+    "js_to_target": 0.6931432436436342,
+    "donor_margin": 0.004932457555000713,
+    "patched_top1_text": "It",
+    "donor_top1_text": "Here",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.056608669459819794
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.029508676379919052
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.02190536819398403
+      },
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.017978698015213013
+      },
+      {
+        "token_id": 50755,
+        "token_text": "Excellent",
+        "prob": 0.01597965508699417
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "multiturn_05",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6599123609127422,
+    "js_to_target": 0.6931469986980844,
+    "donor_margin": 0.03323463778534219,
+    "patched_top1_text": "To",
+    "donor_top1_text": "**",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.04095877334475517
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.0370689332485199
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.026521626859903336
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.025532465428113937
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.01612147130072117
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "multiturn_06",
+    "benchmark": "multi_turn_chat",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6863811171098905,
+    "js_to_target": 0.6931455589172643,
+    "donor_margin": 0.006764441807373789,
+    "patched_top1_text": "To",
+    "donor_top1_text": "The",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.16427630186080933
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.10871241986751556
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.048513416200876236
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.03429378941655159
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.02233119122684002
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "nonenglish_01",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6745962798365246,
+    "js_to_target": 0.6931471421601905,
+    "donor_margin": 0.018550862323665873,
+    "patched_top1_text": " lets",
+    "donor_top1_text": "\u00a1",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.015068525448441505
+      },
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.01152265165001154
+      },
+      {
+        "token_id": 50755,
+        "token_text": "Excellent",
+        "prob": 0.009380239993333817
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.0093260258436203
+      },
+      {
+        "token_id": 4200,
+        "token_text": " virtual",
+        "prob": 0.009237234480679035
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "nonenglish_02",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6746779502257674,
+    "js_to_target": 0.6931420873965974,
+    "donor_margin": 0.018464137170830064,
+    "patched_top1_text": " offset",
+    "donor_top1_text": "Vo",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 4445,
+        "token_text": " offset",
+        "prob": 0.03956928849220276
+      },
+      {
+        "token_id": 1095,
+        "token_text": " let",
+        "prob": 0.024700764566659927
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.02029706910252571
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.014453615993261337
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.013564636930823326
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "nonenglish_03",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6111194940058875,
+    "js_to_target": 0.6931467588986091,
+    "donor_margin": 0.08202726489272161,
+    "patched_top1_text": " offset",
+    "donor_top1_text": "Auf",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 4445,
+        "token_text": " offset",
+        "prob": 0.1230357214808464
+      },
+      {
+        "token_id": 10237,
+        "token_text": " mort",
+        "prob": 0.01661119982600212
+      },
+      {
+        "token_id": 33717,
+        "token_text": "Das",
+        "prob": 0.008447356522083282
+      },
+      {
+        "token_id": 76249,
+        "token_text": " Edwin",
+        "prob": 0.007766313385218382
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.00645820377394557
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "nonenglish_04",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.643976105794899,
+    "js_to_target": 0.6931455841449146,
+    "donor_margin": 0.049169478350015616,
+    "patched_top1_text": "A",
+    "donor_top1_text": "Below",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.009917241521179676
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.008589297533035278
+      },
+      {
+        "token_id": 334,
+        "token_text": "**",
+        "prob": 0.006701209116727114
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.0066706291399896145
+      },
+      {
+        "token_id": 11183,
+        "token_text": "PEC",
+        "prob": 0.006325190421193838
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "nonenglish_05",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6384066022094034,
+    "js_to_target": 0.6931464396339981,
+    "donor_margin": 0.05473983742459476,
+    "patched_top1_text": "A",
+    "donor_top1_text": "Aqu",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.019592968747019768
+      },
+      {
+        "token_id": 17675,
+        "token_text": "onde",
+        "prob": 0.01636529341340065
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.013614795170724392
+      },
+      {
+        "token_id": 4445,
+        "token_text": " offset",
+        "prob": 0.010996467433869839
+      },
+      {
+        "token_id": 20656,
+        "token_text": "Excel",
+        "prob": 0.007147639989852905
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "nonenglish_06",
+    "benchmark": "non_english",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6691047919706832,
+    "js_to_target": 0.6931471804947376,
+    "donor_margin": 0.02404238852405438,
+    "patched_top1_text": "To",
+    "donor_top1_text": "Cl",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.02965780720114708
+      },
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.010395968332886696
+      },
+      {
+        "token_id": 1503,
+        "token_text": "ased",
+        "prob": 0.007227758411318064
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.00523274764418602
+      },
+      {
+        "token_id": 15579,
+        "token_text": "cheduler",
+        "prob": 0.004860986489802599
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_0",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 1,
+    "js_to_donor": 0.4382191427668223,
+    "js_to_target": 0.6931470527480343,
+    "donor_margin": 0.25492790998121206,
+    "patched_top1_text": "To",
+    "donor_top1_text": "According",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.4012013375759125
+      },
+      {
+        "token_id": 1022,
+        "token_text": " off",
+        "prob": 0.01639123633503914
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.015920480713248253
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.011534665711224079
+      },
+      {
+        "token_id": 4206,
+        "token_text": " Off",
+        "prob": 0.01125522144138813
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_1",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6758288479355488,
+    "js_to_target": 0.6931460875847953,
+    "donor_margin": 0.017317239649246585,
+    "patched_top1_text": "To",
+    "donor_top1_text": "There",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.18373151123523712
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.05414688587188721
+      },
+      {
+        "token_id": 4445,
+        "token_text": " offset",
+        "prob": 0.04133819416165352
+      },
+      {
+        "token_id": 1022,
+        "token_text": " off",
+        "prob": 0.03497486561536789
+      },
+      {
+        "token_id": 4944,
+        "token_text": "Dis",
+        "prob": 0.03132161870598793
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_2",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6405895009119916,
+    "js_to_target": 0.6931745229619617,
+    "donor_margin": 0.052585022049970065,
+    "patched_top1_text": "To",
+    "donor_top1_text": "The",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.23060709238052368
+      },
+      {
+        "token_id": 1022,
+        "token_text": " off",
+        "prob": 0.19839215278625488
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.19507715106010437
+      },
+      {
+        "token_id": 1885,
+        "token_text": "off",
+        "prob": 0.02386471815407276
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.017450425773859024
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_3",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6825517088811474,
+    "js_to_target": 0.6931462757663228,
+    "donor_margin": 0.01059456688517546,
+    "patched_top1_text": "To",
+    "donor_top1_text": "In",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.16400502622127533
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.06455609947443008
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.05045434087514877
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.04679745063185692
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.04251226782798767
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_4",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6913951262221973,
+    "js_to_target": 0.6931476049905461,
+    "donor_margin": 0.0017524787683487197,
+    "patched_top1_text": "To",
+    "donor_top1_text": "The",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.8885579109191895
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.05755014717578888
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.018650740385055542
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.0077471486292779446
+      },
+      {
+        "token_id": 1022,
+        "token_text": " off",
+        "prob": 0.002828325377777219
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_5",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6855668929173022,
+    "js_to_target": 0.6931545954527112,
+    "donor_margin": 0.007587702535408969,
+    "patched_top1_text": " off",
+    "donor_top1_text": "The",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1022,
+        "token_text": " off",
+        "prob": 0.21779006719589233
+      },
+      {
+        "token_id": 4206,
+        "token_text": " Off",
+        "prob": 0.11581268906593323
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.11408700793981552
+      },
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.09026652574539185
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.032187577337026596
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_6",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6793344489352937,
+    "js_to_target": 0.693147287832274,
+    "donor_margin": 0.013812838896980262,
+    "patched_top1_text": "To",
+    "donor_top1_text": "The",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.7574288249015808
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.06761224567890167
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.021751638501882553
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.020951569080352783
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.011949840001761913
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_7",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6670620747663338,
+    "js_to_target": 0.6931474515803213,
+    "donor_margin": 0.026085376813987482,
+    "patched_top1_text": "It",
+    "donor_top1_text": "The",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 2181,
+        "token_text": "It",
+        "prob": 0.12345412373542786
+      },
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.09635728597640991
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.06900887936353683
+      },
+      {
+        "token_id": 1022,
+        "token_text": " off",
+        "prob": 0.03521591052412987
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.035055506974458694
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_8",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6566848867841928,
+    "js_to_target": 0.6931494274472001,
+    "donor_margin": 0.036464540663007305,
+    "patched_top1_text": "Dis",
+    "donor_top1_text": "Qu",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 4944,
+        "token_text": "Dis",
+        "prob": 0.04573109745979309
+      },
+      {
+        "token_id": 1022,
+        "token_text": " off",
+        "prob": 0.04163331538438797
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.036047060042619705
+      },
+      {
+        "token_id": 1095,
+        "token_text": " let",
+        "prob": 0.018347883597016335
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.01666994020342827
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_9",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6866014466873276,
+    "js_to_target": 0.6933618730969531,
+    "donor_margin": 0.006760426409625486,
+    "patched_top1_text": "To",
+    "donor_top1_text": "The",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.1414218544960022
+      },
+      {
+        "token_id": 2057,
+        "token_text": " To",
+        "prob": 0.06326816231012344
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.04843504726886749
+      },
+      {
+        "token_id": 6914,
+        "token_text": " Let",
+        "prob": 0.022697197273373604
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.021363891661167145
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_10",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6918991979557957,
+    "js_to_target": 0.6921960381356979,
+    "donor_margin": 0.00029684017990216915,
+    "patched_top1_text": "A",
+    "donor_top1_text": "Since",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.05888061970472336
+      },
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.028434980660676956
+      },
+      {
+        "token_id": 2127,
+        "token_text": "An",
+        "prob": 0.025680340826511383
+      },
+      {
+        "token_id": 35744,
+        "token_text": " laying",
+        "prob": 0.01742696948349476
+      },
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.017295442521572113
+      }
+    ]
+  },
+  {
+    "model_label": "nemotron_nano_4b",
+    "direction": "think_to_off",
+    "split": "heldout_eval",
+    "id": "gpqa_diamond_11",
+    "benchmark": "gpqa_diamond",
+    "method": "fixed_mean",
+    "layer": 28,
+    "alpha": 2.0,
+    "seed": -1,
+    "vector_norm": 36.74243927001953,
+    "donor_win": 1,
+    "effective_control": 0,
+    "js_to_donor": 0.6246246297594871,
+    "js_to_target": 0.6932061621535258,
+    "donor_margin": 0.06858153239403875,
+    "patched_top1_text": " lets",
+    "donor_top1_text": "The",
+    "target_top1_text": "<th",
+    "top_tokens": [
+      {
+        "token_id": 15714,
+        "token_text": " lets",
+        "prob": 0.07623209804296494
+      },
+      {
+        "token_id": 32,
+        "token_text": "A",
+        "prob": 0.06722193956375122
+      },
+      {
+        "token_id": 1271,
+        "token_text": "To",
+        "prob": 0.03094550035893917
+      },
+      {
+        "token_id": 1022,
+        "token_text": " off",
+        "prob": 0.025922251865267754
+      },
+      {
+        "token_id": 10267,
+        "token_text": "Let",
+        "prob": 0.01486677024513483
+      }
+    ]
+  }
+]

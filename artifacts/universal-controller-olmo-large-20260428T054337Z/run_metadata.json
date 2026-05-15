@@ -1,0 +1,57 @@
+{
+  "started_at_utc": "2026-04-28T05:43:39.138214+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "patch_width": 2,
+  "alpha_grid": [
+    0.25,
+    0.5,
+    1.0,
+    2.0,
+    4.0
+  ],
+  "active_step_grid": [
+    1,
+    2,
+    4
+  ],
+  "logit_candidate_limit": 8,
+  "models": [
+    {
+      "label": "olmo3_7b",
+      "kind": "olmo",
+      "think_model": "mlx-community/Olmo-3-7B-Think-4bit",
+      "instruct_model": "mlx-community/Olmo-3-7B-Instruct-4bit",
+      "target_mode": "instruct",
+      "donor_mode": "think",
+      "layer_grid": [
+        4,
+        8,
+        12,
+        16,
+        20,
+        24,
+        28
+      ]
+    }
+  ],
+  "args": {
+    "output_dir": "outputs/universal-controller-olmo-large-20260428T054337Z",
+    "hf_repo_id": "",
+    "hf_repo_type": "dataset",
+    "models": "olmo3_7b",
+    "train_gsm8k_limit": 12,
+    "train_math500_limit": 12,
+    "eval_gsm8k_limit": 50,
+    "eval_math500_limit": 50,
+    "selection_prompts": 16,
+    "selection_max_tokens": 768,
+    "eval_max_tokens": 1024,
+    "use_preset_controllers": true,
+    "preset_layer": 8,
+    "preset_alpha": 1.0,
+    "preset_active_steps": 1,
+    "skip_hf_upload": false
+  }
+}

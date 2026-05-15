@@ -1,0 +1,37 @@
+[
+  {
+    "alpha": 0.5,
+    "train_count": 30,
+    "train_donor_win": 0.03333333333333333,
+    "train_mean_margin": -0.4916056789962763,
+    "train_mean_js_to_donor": 0.5628068943231468
+  },
+  {
+    "alpha": 1.0,
+    "train_count": 30,
+    "train_donor_win": 0.9666666666666667,
+    "train_mean_margin": 0.573673465333219,
+    "train_mean_js_to_donor": 0.03590151589367304
+  },
+  {
+    "alpha": 2.0,
+    "train_count": 30,
+    "train_donor_win": 0.9333333333333333,
+    "train_mean_margin": 0.3767893162622814,
+    "train_mean_js_to_donor": 0.24147378564159883
+  },
+  {
+    "alpha": 4.0,
+    "train_count": 30,
+    "train_donor_win": 0.9,
+    "train_mean_margin": 0.001918069282094729,
+    "train_mean_js_to_donor": 0.6908033681752875
+  },
+  {
+    "alpha": 8.0,
+    "train_count": 30,
+    "train_donor_win": 0.6,
+    "train_mean_margin": 0.0006939444757917745,
+    "train_mean_js_to_donor": 0.6924584363085363
+  }
+]

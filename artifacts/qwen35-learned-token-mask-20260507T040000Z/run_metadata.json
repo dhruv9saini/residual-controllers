@@ -1,0 +1,23 @@
+{
+  "started_at": "2026-05-07T03:36:41.032011+00:00",
+  "model_id": "mlx-community/Qwen3.5-4B-4bit",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "patch_layer": 15,
+  "patch_width": 2,
+  "alpha_grid": [
+    0.5,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "mask_ks": [
+    0,
+    10,
+    25,
+    50,
+    100,
+    250
+  ],
+  "note": "Cleaned artifact containing learned branch-token masking only."
+}

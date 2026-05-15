@@ -1,0 +1,1 @@
+./.venv/bin/python scripts/run_phi_causal_patch_suite.py --think-model LiquidAI/LFM2.5-1.2B-Thinking-MLX-4bit --instruct-model LiquidAI/LFM2.5-1.2B-Instruct-MLX-4bit --full-suite --output-dir outputs/liquid-causal-patch-20260426T044355Z

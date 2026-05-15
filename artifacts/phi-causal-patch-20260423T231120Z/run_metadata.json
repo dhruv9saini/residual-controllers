@@ -1,0 +1,46 @@
+{
+  "started_at_utc": "2026-04-23T23:11:21.746713+00:00",
+  "cwd": "/Users/d/Documents/reasoning-switch-research",
+  "platform": "macOS-15.5-arm64-arm-64bit",
+  "python_executable": "/Users/d/Documents/reasoning-switch-research/.venv/bin/python",
+  "patch_layers": [
+    0,
+    4,
+    8,
+    12,
+    16,
+    20,
+    24,
+    28,
+    32
+  ],
+  "patch_blocks": [
+    {
+      "label": "tail_w2",
+      "width": 2,
+      "mode": "tail"
+    },
+    {
+      "label": "tail_w4",
+      "width": 4,
+      "mode": "tail"
+    },
+    {
+      "label": "nontail_w2",
+      "width": 2,
+      "mode": "nontail"
+    },
+    {
+      "label": "nontail_w4",
+      "width": 4,
+      "mode": "nontail"
+    },
+    {
+      "label": "prefix_w4",
+      "width": 4,
+      "mode": "prefix"
+    }
+  ],
+  "think_model": "mlx-community/Phi-4-mini-reasoning-4bit",
+  "instruct_model": "mlx-community/Phi-4-mini-instruct-4bit"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "count_strawberries_r",
+    "category": "counting",
+    "js_instruct_to_think": 0.6934698597718971,
+    "top1_match": 0,
+    "think_entropy": 0.891587491782833,
+    "instruct_entropy": 0.7409514931176245,
+    "think_top1": "Okay",
+    "instruct_top1": "Let"
+  },
+  {
+    "id": "count_committee_m",
+    "category": "counting",
+    "js_instruct_to_think": 0.6928885565848026,
+    "top1_match": 0,
+    "think_entropy": 0.38410641607922325,
+    "instruct_entropy": 0.40029472590657367,
+    "think_top1": " Okay",
+    "instruct_top1": "The"
+  },
+  {
+    "id": "mul_317_248",
+    "category": "arithmetic",
+    "js_instruct_to_think": 0.6930220556575385,
+    "top1_match": 0,
+    "think_entropy": 0.561831734142483,
+    "instruct_entropy": 0.6634201630705401,
+    "think_top1": " Okay",
+    "instruct_top1": "Let"
+  },
+  {
+    "id": "mul_126_94",
+    "category": "arithmetic",
+    "js_instruct_to_think": 0.692854484298357,
+    "top1_match": 0,
+    "think_entropy": 0.4807176412666953,
+    "instruct_entropy": 0.998863074272235,
+    "think_top1": " Okay",
+    "instruct_top1": "Let"
+  },
+  {
+    "id": "eq_3_7_25",
+    "category": "algebra",
+    "js_instruct_to_think": 0.6936269186574529,
+    "top1_match": 0,
+    "think_entropy": 0.1882748234900714,
+    "instruct_entropy": 0.9325449376456996,
+    "think_top1": " Okay",
+    "instruct_top1": "Let"
+  },
+  {
+    "id": "eq_5_-4_31",
+    "category": "algebra",
+    "js_instruct_to_think": 0.6922127169445466,
+    "top1_match": 0,
+    "think_entropy": 0.2077932735543394,
+    "instruct_entropy": 0.34519170230034224,
+    "think_top1": " Okay",
+    "instruct_top1": "Let"
+  },
+  {
+    "id": "ages_Ava_Ben_Cara_Dan",
+    "category": "logic_ordering",
+    "js_instruct_to_think": 0.6946169708471237,
+    "top1_match": 0,
+    "think_entropy": 0.33933529428842557,
+    "instruct_entropy": 0.01745818184989759,
+    "think_top1": " Okay",
+    "instruct_top1": "Let"
+  },
+  {
+    "id": "ages_Iris_Jules_Kai_Lena",
+    "category": "logic_ordering",
+    "js_instruct_to_think": 0.6921937359376165,
+    "top1_match": 0,
+    "think_entropy": 0.39578289397682764,
+    "instruct_entropy": 0.008259067986296395,
+    "think_top1": " Okay",
+    "instruct_top1": "Let"
+  },
+  {
+    "id": "coin_6",
+    "category": "dynamic_programming",
+    "js_instruct_to_think": 0.6904118773870558,
+    "top1_match": 0,
+    "think_entropy": 0.39556174433660296,
+    "instruct_entropy": 0.14730040921230633,
+    "think_top1": " Okay",
+    "instruct_top1": "Let"
+  },
+  {
+    "id": "coin_7",
+    "category": "dynamic_programming",
+    "js_instruct_to_think": 0.6924249387474981,
+    "top1_match": 0,
+    "think_entropy": 0.42054252997093405,
+    "instruct_entropy": 0.15489050405017915,
+    "think_top1": " Okay",
+    "instruct_top1": "Let"
+  },
+  {
+    "id": "heads_exact2_3",
+    "category": "probability",
+    "js_instruct_to_think": 0.693873538237188,
+    "top1_match": 0,
+    "think_entropy": 0.22630459933952066,
+    "instruct_entropy": 0.6200290727923611,
+    "think_top1": " Okay",
+    "instruct_top1": "Let"
+  },
+  {
+    "id": "heads_exact2_4",
+    "category": "probability",
+    "js_instruct_to_think": 0.6931010293495856,
+    "top1_match": 0,
+    "think_entropy": 0.2704615865550596,
+    "instruct_entropy": 0.9835951657997543,
+    "think_top1": " Okay",
+    "instruct_top1": "Let"
+  }
+]

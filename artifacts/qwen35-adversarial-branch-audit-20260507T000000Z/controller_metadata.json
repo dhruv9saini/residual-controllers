@@ -1,0 +1,19 @@
+{
+  "vectors": [
+    {
+      "direction": "no_think_to_think",
+      "layer": 19,
+      "alpha": 2.0,
+      "norm": 15.091221809387207
+    },
+    {
+      "direction": "think_to_no_think",
+      "layer": 15,
+      "alpha": 1.0,
+      "norm": 11.4205322265625
+    }
+  ],
+  "classifier_layer": 19,
+  "think_centroid_norm": 12.407012939453125,
+  "no_centroid_norm": 15.59177303314209
+}
